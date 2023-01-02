@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-example-xml-file-to-csv-file/>
-
 # Spring 批处理示例–XML 文件到 CSV 文件
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-example-xml-file-to-csv-file/>
 
 在本教程中，我们将向您展示如何配置一个 Spring 批处理作业来将 XML 文件(`JAXB2`库)读入一个`csv`文件，并在使用`ItemProcessor`写入之前过滤掉记录。
 

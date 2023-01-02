@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/how-to-pass-parameters-to-jsf-2-0-template-file/>
-
 # 如何向 JSF 2.0 模板文件传递参数？
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/how-to-pass-parameters-to-jsf-2-0-template-file/>
 
 在 JSF 2.0 web 应用程序中，您可以使用" **ui:param** " facelets 标记将参数传递给包含文件或模板文件。
 

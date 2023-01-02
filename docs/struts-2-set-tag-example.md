@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-set-tag-example/>
-
 # Struts 2 设置标签示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-set-tag-example/>
 
 Download It – [Struts2-Set-Tag-Example.zip](http://web.archive.org/web/20190304030901/http://www.mkyong.com/wp-content/uploads/2010/07/Struts2-Set-Tag-Example.zip)
 

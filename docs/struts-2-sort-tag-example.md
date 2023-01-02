@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-sort-tag-example/>
-
 # Struts 2 排序标签示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-sort-tag-example/>
 
 Download It – [Struts2-Sort-Tag-Example.zip](http://web.archive.org/web/20190205032530/http://www.mkyong.com/wp-content/uploads/2010/07/Struts2-Sort-Tag-Example.zip)
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring/spring-jdbctemplate-querying-examples/>
-
 # Spring JdbcTemplate 查询示例
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring/spring-jdbctemplate-querying-examples/>
 
 这里有几个例子来展示如何使用 JdbcTemplate `query()`方法从数据库中查询或提取数据。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-relativelayout-example/>
-
 # Android RelativeLayout 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-relativelayout-example/>
 
 在 Android 中， [RelativeLayout](http://web.archive.org/web/20190309055103/http://developer.android.com/reference/android/widget/RelativeLayout.html) 允许你根据附近(相对或兄弟)组件的位置来定位你的组件。这是最灵活的布局，允许你将你的组件放置在任何你想显示的地方(如果你知道如何“相对”它)。
 

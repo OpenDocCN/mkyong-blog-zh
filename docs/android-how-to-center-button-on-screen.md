@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-how-to-center-button-on-screen/>
-
 # Android——如何将按钮置于屏幕中央
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-how-to-center-button-on-screen/>
 
 一个小的 Android 提示，告诉你如何在屏幕上居中按钮。将按钮包裹在`RelativeLayout`中，并将以下属性设置为“*真*”。
 

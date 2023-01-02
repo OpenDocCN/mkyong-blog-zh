@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/java-lang-classnotfoundexception-javassist-util-proxy-methodfilter/>
-
 # Java . lang . classnotfoundexception:javassist . util . proxy . method filter
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/java-lang-classnotfoundexception-javassist-util-proxy-methodfilter/>
 
 ## 问题
 

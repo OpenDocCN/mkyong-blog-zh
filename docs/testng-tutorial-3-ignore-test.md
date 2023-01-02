@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-tutorial-3-ignore-test/>
-
 # TestNG–如何忽略一个测试方法
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-tutorial-3-ignore-test/>
 
 在本教程中，我们将向您展示如何用`@Test(enabled = false)`忽略一个测试方法。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-logicmatch-logicnotmatch-example/>
-
 # struts-<match><notmatch>示例</notmatch></match>
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-logicmatch-logicnotmatch-example/>
 
 Download this example – [Struts-Logic-Match-NotMatch-Example.zip](http://web.archive.org/web/20190209024038/http://www.mkyong.com/wp-content/uploads/2010/04/Struts-Logic-Match-NotMatch-Example.zip)
 

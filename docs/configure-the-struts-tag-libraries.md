@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/configure-the-struts-tag-libraries/>
-
 # 配置 Struts 标记库
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/configure-the-struts-tag-libraries/>
 
 在 Struts 框架中，您总是需要配置 Struts 标记库，以便在视图页面(JSP)中访问它。有两种方法可以配置它。
 

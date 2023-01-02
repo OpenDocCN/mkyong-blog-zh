@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/warning-jsf1063-warning-setting-non-serializable-attribute-value-into-httpsession/>
-
 # 警告:JSF1063:警告！将不可序列化的属性值设置到 HttpSession 中
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/warning-jsf1063-warning-setting-non-serializable-attribute-value-into-httpsession/>
 
 ## 问题
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-callablestatement-stored-procedure-out-parameter-example/>
-
 # JDBC 可调用语句–存储过程输出参数示例
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-callablestatement-stored-procedure-out-parameter-example/>
 
 一个 JDBC `CallableStatement`例子来调用一个接受输入和输出参数的存储过程。
 

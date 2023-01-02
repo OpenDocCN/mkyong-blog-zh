@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-dispatchaction-example/>
-
 # Struts DispatchAction 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-dispatchaction-example/>
 
 DispatchAction 类(**org . Apache . struts . Actions . dispatch action**)提供了一种将所有相关函数分组到单个 action 类中的方法。这是一种有用机制，可以避免为每个函数创建单独的 action 类。
 

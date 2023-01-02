@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/java8/java-8-convert-map-to-list/>
-
 # Java 8–将地图转换为列表
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/java8/java-8-convert-map-to-list/>
 
 将一个`Map`转换成一个`List`的几个 Java 例子
 

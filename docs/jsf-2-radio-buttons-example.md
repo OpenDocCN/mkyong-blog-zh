@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-radio-buttons-example/>
-
 # JSF 2 单选按钮示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-radio-buttons-example/>
 
 在 JSF 中，“ **h:selectOneRadio** 标签用于呈现一组“ **radio** 类型的 HTML 输入元素，并使用 HTML table 和 label 标签对其进行格式化。
 

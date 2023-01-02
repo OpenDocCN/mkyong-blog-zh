@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-statement-example-update-a-record/>
-
 # JDBC 报表示例-更新记录
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-statement-example-update-a-record/>
 
 下面的例子展示了如何通过 JDBC 语句更新表中的记录。要发出更新语句，调用`Statement.executeUpdate()`方法，如下所示:
 

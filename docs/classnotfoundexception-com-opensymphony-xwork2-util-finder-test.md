@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/classnotfoundexception-com-opensymphony-xwork2-util-finder-test/>
-
 # notfounindexception:com . opensymphony . xwork 2 . util . finder . test
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/classnotfoundexception-com-opensymphony-xwork2-util-finder-test/>
 
 ## 问题
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-how-to-disable-the-spring-logo-banner/>
-
 # Spring Boot——如何禁用 Spring 徽标横幅
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-how-to-disable-the-spring-logo-banner/>
 
 以下是禁用 Spring 徽标横幅的几种方法:
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/how-to-add-hibernate-xml-mapping-file-hbm-xml-programmatically/>
-
 # 如何以编程方式添加 Hibernate XML 映射文件(hbm.xml)
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/how-to-add-hibernate-xml-mapping-file-hbm-xml-programmatically/>
 
 Hibernate XML 映射文件包含 Java 类和数据库表之间的映射关系。这总是被命名为“xx.hbm.xml”，并在 Hibernate 配置文件“hibernate.cfg.xml”中声明。
 

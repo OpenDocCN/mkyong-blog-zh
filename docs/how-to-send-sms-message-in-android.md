@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/how-to-send-sms-message-in-android/>
-
 # 如何在安卓系统中发送短信
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/how-to-send-sms-message-in-android/>
 
 在 Android 中，你可以使用`SmsManager` API 或者设备的`Built-in SMS`应用来发送短信。在本教程中，我们将向您展示两个发送短信的基本示例:
 

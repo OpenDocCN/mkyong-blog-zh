@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-analogclock-and-digitalclock-example/>
-
 # Android 模拟时钟和数字时钟示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-analogclock-and-digitalclock-example/>
 
 在安卓系统中， [AnalogClock](http://web.archive.org/web/20190214223612/http://developer.android.com/reference/android/widget/AnalogClock.html) 是一个双手时钟，一个用于小时指示器，另一个用于分钟指示器。[数字时钟](http://web.archive.org/web/20190214223612/http://developer.android.com/reference/android/widget/DigitalClock.html)看起来就像你手上的普通数字手表，以数字格式显示小时、分钟和秒。
 

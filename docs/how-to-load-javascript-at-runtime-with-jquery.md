@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/how-to-load-javascript-at-runtime-with-jquery/>
-
 # 如何用 jQuery 在运行时加载 JavaScript
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/how-to-load-javascript-at-runtime-with-jquery/>
 
 为了提高网站性能并减少总的文件大小返回，您可以考虑加载 JavaSript(。js)文件。在 jQuery 中，可以使用 **$。getScript** 函数在运行时或按需加载 JavaScript 文件。
 

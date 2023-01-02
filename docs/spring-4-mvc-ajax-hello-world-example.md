@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-4-mvc-ajax-hello-world-example/>
-
 # Spring 4 MVC Ajax Hello World 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-4-mvc-ajax-hello-world-example/>
 
 在本教程中，我们将向您展示如何创建一个 Spring MVC web 项目并通过 Ajax 提交表单。
 

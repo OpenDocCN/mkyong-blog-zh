@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-fetching-strategies-examples/>
-
 # hibernate–获取策略示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-fetching-strategies-examples/>
 
 Hibernate 几乎没有抓取策略来优化 Hibernate 生成的 select 语句，因此它可以尽可能地高效。获取策略在映射关系中声明，以定义 Hibernate 如何获取其相关的集合和实体。
 

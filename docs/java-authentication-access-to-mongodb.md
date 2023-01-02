@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/java-authentication-access-to-mongodb/>
-
 # Java MongoDB:认证示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/java-authentication-access-to-mongodb/>
 
 默认情况下，MongoDB 运行在可信环境中(不需要使用用户名和密码进行身份验证)。在本教程中，我们将向您展示如何在安全模式下启动 MongoDB/启用身份验证，并连接 Java MongoDB 驱动程序。
 

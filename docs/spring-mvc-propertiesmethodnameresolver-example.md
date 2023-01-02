@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-propertiesmethodnameresolver-example/>
-
 # spring MVC properties methodnameresolver 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-propertiesmethodnameresolver-example/>
 
 **properties methodnameresolver**，一个灵活的 **MultiActionController** 方法名解析器，用来**明确定义 URL 和方法名之间的映射**。请参见以下示例:
 

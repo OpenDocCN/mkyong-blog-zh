@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/spring-security-hibernate-xml-example/>
-
 # Spring Security + Hibernate XML 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/spring-security-hibernate-xml-example/>
 
 ![spring-hibernate-logo](img/21d604527c63ba332db506cc85eda7ff.png)
 

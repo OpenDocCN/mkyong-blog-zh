@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-hibernate-integration-example/>
-
 # Struts + Hibernate 集成示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-hibernate-integration-example/>
 
 一个教程，展示了如何在用 Apache Struts 1.x 开发的 web 应用程序中集成 Hibernate。
 

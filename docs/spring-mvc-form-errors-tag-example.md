@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-form-errors-tag-example/>
-
 # Spring MVC 表单错误标签示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-form-errors-tag-example/>
 
 在 Spring MVC 中，字段错误消息由与控制器相关联的验证器生成，您可以使用 **< form:errors / >** 标签在默认的 HTML“**span**”标签中呈现这些字段错误消息。举个例子，
 

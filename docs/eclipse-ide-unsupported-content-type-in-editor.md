@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/eclipse/eclipse-ide-unsupported-content-type-in-editor/>
-
 # Eclipse IDE:编辑器中不支持的内容类型
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/eclipse/eclipse-ide-unsupported-content-type-in-editor/>
 
 ## 问题
 

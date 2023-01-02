@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-aop-error-cannot-proxy-target-class-because-cglib2-is-not-available/>
-
 # Spring AOP 错误:无法代理目标类，因为 CGLIB2 不可用
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-aop-error-cannot-proxy-target-class-because-cglib2-is-not-available/>
 
 在 Spring AOP 中，您必须将 **cglib** 库包含到您的构建路径中，以避免“**无法代理目标类，因为 CGLIB2 不可用**”错误消息。
 

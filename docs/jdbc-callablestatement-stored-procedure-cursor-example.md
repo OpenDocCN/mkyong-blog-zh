@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-callablestatement-stored-procedure-cursor-example/>
-
 # JDBC 可调用语句–存储过程游标示例
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-callablestatement-stored-procedure-cursor-example/>
 
 对于 Oracle 存储过程返回的游标参数，您可以
 

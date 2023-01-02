@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-spring-data-mongodb-example/>
-
 # Spring Boot + Spring 数据 MongoDB 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-spring-data-mongodb-example/>
 
 在本文中，我们将向您展示如何使用 Gradle 构建工具创建一个 Spring Boot + Spring 数据 MongoDB 应用程序。
 

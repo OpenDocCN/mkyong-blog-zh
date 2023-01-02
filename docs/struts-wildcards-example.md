@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-wildcards-example/>
-
 # struts–通配符示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-wildcards-example/>
 
 Download this example – [Struts-Wildcards-Example.zip](http://web.archive.org/web/20190826213259/http://www.mkyong.com/wp-content/uploads/2010/04/Struts-Wildcards-Example.zip)
 

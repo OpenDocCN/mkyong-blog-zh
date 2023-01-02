@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/cant-find-bundle-for-base-name-xxx-locale-en_us/>
-
 # 找不到基本名称 xxx，区域设置 en_US 的包
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/cant-find-bundle-for-base-name-xxx-locale-en_us/>
 
 ## 问题
 

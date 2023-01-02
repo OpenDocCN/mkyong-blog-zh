@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-di-via-constructor/>
-
 # 通过构造函数弹出 DI
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-di-via-constructor/>
 
 使用 Spring 通过构造函数依赖注入 bean。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/connect-to-oracle-db-via-jdbc-driver-java/>
-
 # 通过 JDBC 驱动程序连接到 Oracle 数据库
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/connect-to-oracle-db-via-jdbc-driver-java/>
 
 下面的示例向您展示了如何通过 JDBC 驱动程序连接到 Oracle 数据库。
 

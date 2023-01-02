@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-error-exception-in-thread-main-java-lang-noclassdeffounderror-antlrantlrexception/>
-
 # 休眠错误–线程“main”Java . lang . noclassdeffounderror 中的异常:antlr/antl Exception
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-error-exception-in-thread-main-java-lang-noclassdeffounderror-antlrantlrexception/>
 
 这是由于缺少 antlr 库造成的。这通常发生在你调用 Hibernate 的查询语句的时候。
 

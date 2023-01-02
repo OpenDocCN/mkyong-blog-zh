@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/java-mongodb-update-document/>
-
 # Java MongoDB:更新文档
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/java-mongodb-update-document/>
 
 在本教程中，我们将向您展示如何使用 Java MongoDB API `collection.update()`来更新文档。
 

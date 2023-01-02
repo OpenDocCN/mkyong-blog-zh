@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-filter-example/>
-
 # jQuery filter()示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-filter-example/>
 
 jQuery filter 函数是一个有用的特性，通过使用匹配的选择器或函数的测试，可以从一组匹配的元素中提取元素。
 

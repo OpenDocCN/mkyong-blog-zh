@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-children-example/>
-
 # jQuery children()示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-children-example/>
 
 在 jQuery 中， **children()** 用于查找匹配元素的子元素，只是**向下移动了一层**。
 

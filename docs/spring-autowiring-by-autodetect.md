@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-autowiring-by-autodetect/>
-
 # 通过自动检测进行弹簧自动布线
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-autowiring-by-autodetect/>
 
 在 Spring 中，“ **Autowiring by AutoDetect** ”表示如果默认构造函数(带任何数据类型的参数)，则选择“ [autowire by constructor](http://web.archive.org/web/20190308062331/http://www.mkyong.com/spring/spring-autowiring-by-constructor/) ”，否则使用“ [autowire by type](http://web.archive.org/web/20190308062331/http://www.mkyong.com/spring/spring-autowiring-by-type/) ”。
 

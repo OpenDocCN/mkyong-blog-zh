@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/how-to-turn-onoff-camera-ledflashlight-in-android/>
-
 # 如何在 Android 中打开/关闭相机 LED /闪光灯
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/how-to-turn-onoff-camera-ledflashlight-in-android/>
 
 在本教程中，我们将向您展示如何在 Android 中打开/关闭手机摄像头 led 或手电筒。查看代码片段:
 

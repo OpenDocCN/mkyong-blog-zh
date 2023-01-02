@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-checkbox-example/>
-
 # Android 复选框示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-checkbox-example/>
 
 在 Android 中，可以使用“ [android.widget.CheckBox](http://web.archive.org/web/20190306165505/http://developer.android.com/reference/android/widget/CheckBox.html) ”类来渲染一个复选框。
 

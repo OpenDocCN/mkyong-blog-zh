@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/javax-swing-tree-treenode-is-a-restricted-class/>
-
 # javax.swing.tree.TreeNode 是一个受限类
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/javax-swing-tree-treenode-is-a-restricted-class/>
 
 ## 问题
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-data-filter-example-xml-and-annotation/>
-
 # Hibernate 数据过滤器示例–XML 和注释
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-data-filter-example-xml-and-annotation/>
 
 Hibernate 数据过滤器是一种创新的方式来过滤从数据库中检索的数据，以一种更可重用的方式和“可见性”规则。数据过滤器有一个唯一的名称，全局访问并接受过滤器规则的参数化值，您可以在 Hibernate 会话中启用和禁用它。
 

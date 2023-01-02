@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-namespace-configuration-example-and-explanation/>
-
 # Struts 2 名称空间配置示例和说明
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-namespace-configuration-example-and-explanation/>
 
 Struts 2 名称空间是一个新概念，通过给每个模块一个名称空间来处理多个模块。此外，它可以用来避免位于不同模块的相同动作名之间的冲突。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-define-custom-required-style-annotation/>
-
 # 在 Spring 中定义自定义@Required-style 注释
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-define-custom-required-style-annotation/>
 
 [@Required 注释](http://web.archive.org/web/20190210020246/http://www.mkyong.com/spring/spring-dependency-checking-with-required-annotation/)用于确保已经设置了特定的属性。如果您正在将现有项目迁移到 Spring framework，或者出于某种原因拥有自己的@Required-style 注释，Spring 允许您定义自定义的@Required-style 注释，这相当于@Required 注释。
 

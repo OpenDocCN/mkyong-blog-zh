@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-unable-to-insert-if-column-named-is-keyword-such-as-desc/>
-
 # hibernate–如果列名为关键字，如 DESC，则无法插入
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-unable-to-insert-if-column-named-is-keyword-such-as-desc/>
 
 ## 问题
 

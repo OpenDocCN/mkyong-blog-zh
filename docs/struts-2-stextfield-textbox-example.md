@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-stextfield-textbox-example/>
-
 # Struts 2 <textfield>文本框示例</textfield>
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-stextfield-textbox-example/>
 
 Download It – [Struts2-textbox-Example.zip](http://web.archive.org/web/20190304031753/http://www.mkyong.com/wp-content/uploads/2010/06/Struts2-textbox-Example.zip)
 

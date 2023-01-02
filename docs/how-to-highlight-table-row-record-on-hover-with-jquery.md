@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/how-to-highlight-table-row-record-on-hover-with-jquery/>
-
 # 如何用 jQuery 突出显示悬停时的表格行记录
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/how-to-highlight-table-row-record-on-hover-with-jquery/>
 
 jQuery 附带了一个 **hover()** 鼠标事件，允许将两个事件处理程序附加到匹配的元素，当鼠标进入和离开匹配的元素时执行。
 

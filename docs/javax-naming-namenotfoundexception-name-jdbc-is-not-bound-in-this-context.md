@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/javax-naming-namenotfoundexception-name-jdbc-is-not-bound-in-this-context/>
-
 # javax . naming . namenotfoundexception:名称 jdbc 未在此上下文中绑定
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/javax-naming-namenotfoundexception-name-jdbc-is-not-bound-in-this-context/>
 
 ## 问题
 

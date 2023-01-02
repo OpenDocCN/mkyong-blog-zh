@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-mapping-interceptors-to-action/>
-
 # Struts 2 将拦截器映射到动作
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-mapping-interceptors-to-action/>
 
 Struts 2 开发者用来声明动作属于一个扩展了" **struts-default** "的包，其中包含了默认的拦截器集合。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-hibernate-integration-with-full-hibernate-plugin/>
-
 # Struts 2 + Hibernate 与“完全 Hibernate 插件”的集成
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-hibernate-integration-with-full-hibernate-plugin/>
 
 在最后一个 [Struts 2 + Hibernate 集成](http://web.archive.org/web/20190220143412/http://www.mkyong.com/struts2/struts-2-hibernate-integration-example/)的例子中，它使用 servlet 上下文监听器来处理 Hibernate 会话，并且很好地将 Struts 2 与 Hibernate 框架集成在一起。
 

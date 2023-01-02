@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/how-to-update-row-in-jsf-datatable/>
-
 # 如何更新 JSF 数据表中的行
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/how-to-update-row-in-jsf-datatable/>
 
 这个例子增强了前面的 [JSF 2 数据表例子](http://web.archive.org/web/20190210095239/http://www.mkyong.com/jsf2/jsf-2-datatable-example/)，通过添加一个**更新**函数来更新数据表中的行。
 

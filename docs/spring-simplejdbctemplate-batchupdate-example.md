@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-simplejdbctemplate-batchupdate-example/>
-
 # spring simple JDBC template batch update()示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-simplejdbctemplate-batchupdate-example/>
 
 在本教程中，我们将向您展示如何在 SimpleJdbcTemplate 类中使用`batchUpdate()`。
 

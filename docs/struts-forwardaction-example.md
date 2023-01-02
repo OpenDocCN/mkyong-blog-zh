@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-forwardaction-example/>
-
 # Struts ForwardAction 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-forwardaction-example/>
 
 Download this Struts ForwardAction example – [Struts-ForwardAction-Example.zip](http://web.archive.org/web/20190309053058/http://www.mkyong.com/wp-content/uploads/2010/04/Struts-ForwardAction-Example.zip)
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/google-app-engine-spring-3-mvc-rest-example/>
-
 # Google App Engine + Spring 3 MVC REST 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/google-app-engine-spring-3-mvc-rest-example/>
 
 在本教程中，我们将向您展示如何在 Google App Engine(**)环境中开发和部署一个 **Spring 3.0 MVC REST** web 应用程序。**
 

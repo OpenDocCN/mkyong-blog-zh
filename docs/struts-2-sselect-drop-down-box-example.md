@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-sselect-drop-down-box-example/>
-
 # Struts 2 <select>下拉框示例</select>
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-sselect-drop-down-box-example/>
 
 Download It – [Struts2-Select-DropDown-Box-Example.zip](http://web.archive.org/web/20190304031851/http://www.mkyong.com/wp-content/uploads/2010/06/Struts2-Select-DropDown-Box-Example.zip)
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-loosely-coupled-example/>
-
 # 弹簧松耦合示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-loosely-coupled-example/>
 
 面向对象的概念是一个很好的设计，可以把你的系统分成一组可重用的对象。然而，当系统变得越来越大时，尤其是在 Java 项目中，巨大的对象依赖总是紧密耦合的，导致对象很难管理或修改。在这种情况下，您可以使用 Spring framework 作为一个中心模块，轻松有效地管理所有的对象依赖关系。
 

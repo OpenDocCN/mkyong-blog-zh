@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-postconstruct-and-predestroy-example/>
-
 # Spring @PostConstruct 和@PreDestroy 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-postconstruct-and-predestroy-example/>
 
 在 Spring 中，可以实现 [InitializingBean 和 DisposableBean](http://web.archive.org/web/20190309050208/http://www.mkyong.com/spring/spring-initializingbean-and-disposablebean-example/) 接口，也可以在 Bean 配置文件中指定 [init-method 和 destroy-method](http://web.archive.org/web/20190309050208/http://www.mkyong.com/spring/spring-init-method-and-destroy-method-example/) 用于初始化和销毁回调函数。在本文中，我们将向您展示如何使用注释 **@PostConstruct** 和 **@PreDestroy** 来做同样的事情。
 

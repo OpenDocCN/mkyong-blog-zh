@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-preparestatement-example-create-a-table/>
-
 # JDBC 准备报表示例-创建表格
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-preparestatement-example-create-a-table/>
 
 这里有一个例子来告诉你如何通过 JDBC PrepareStatement 在数据库中创建一个表。要发出 create 语句，调用`PrepareStatement.executeUpdate()`方法，如下所示:
 

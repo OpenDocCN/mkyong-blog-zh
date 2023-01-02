@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-profiles-example/>
-
 # Spring Boot 配置文件示例
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-profiles-example/>
 
 在本文中，我们将向您展示如何在 Spring Boot 使用`@Profile`以及如何测试它。
 

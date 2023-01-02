@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-bean-reference-example/>
-
 # Spring bean 参考示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-bean-reference-example/>
 
 在 Spring 中，bean 可以通过在相同或不同的 bean 配置文件中指定 bean 引用来“访问”彼此。
 

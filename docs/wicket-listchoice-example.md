@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-listchoice-example/>
-
 # Wicket ListChoice 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-listchoice-example/>
 
 在 Wicket 中，可以使用`ListChoice`创建一个**单选可滚动列表框**。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-tutorial-2-expected-exception-test/>
-
 # TestNG–预期异常测试
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-tutorial-2-expected-exception-test/>
 
 在本教程中，我们将向您展示如何使用 TestNG `expectedExceptions`来测试代码中预期的异常抛出。
 

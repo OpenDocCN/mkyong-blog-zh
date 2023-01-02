@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/where-to-download-samsung-galaxy-s2-usb-driver/>
-
 # 三星 Galaxy S2 USB 驱动哪里下载？
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/where-to-download-samsung-galaxy-s2-usb-driver/>
 
 在像*三星 Galaxy S2* 这样的真实设备上进行 Android 开发，需要安装**三星 OEM 驱动或者 USB 驱动**。这份 [Android OEM 驱动文档](http://web.archive.org/web/20190220131458/http://developer.android.com/sdk/oem-usb.html)会指引你去哪里下载它……但是这个指引并不容易遵循。
 

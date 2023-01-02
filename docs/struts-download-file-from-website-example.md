@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-download-file-from-website-example/>
-
 # struts–从网站下载文件示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-download-file-from-website-example/>
 
 要让用户从您的 Struts web 项目下载文件，您必须通知" **HttpServletResponse** "返回一个应用程序文件，而不是普通的 HTML 页面。
 

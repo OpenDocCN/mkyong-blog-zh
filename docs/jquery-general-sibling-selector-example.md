@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-general-sibling-selector-example/>
-
 # jQuery–一般同级选择器示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-general-sibling-selector-example/>
 
 **jQuery 通用同级选择器(X ~ Y)** 用于选择与“X”元素的同级“Y”匹配的所有元素。
 

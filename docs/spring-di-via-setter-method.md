@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-di-via-setter-method/>
-
 # 通过 setter 方法的 Spring DI
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-di-via-setter-method/>
 
 一个简单的 Spring 示例，向您展示了如何通过 setter 方法(最常用的 DI 方法)依赖注入 bean。
 

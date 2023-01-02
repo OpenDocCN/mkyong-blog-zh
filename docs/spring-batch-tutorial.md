@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/tutorials/spring-batch-tutorial/>
-
 # 春季批量教程
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/tutorials/spring-batch-tutorial/>
 
 ![spring batch model](img/9d655e8b19445479c31d38edf7700671.png)
 

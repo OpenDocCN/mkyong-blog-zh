@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/how-to-install-spring-ide-in-eclipse/>
-
 # 如何在 Eclipse 中安装 Spring IDE
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/how-to-install-spring-ide-in-eclipse/>
 
 Spring IDE 是一个非常有用的图形用户界面工具，增加了对 Spring 框架的支持。在本教程中，我们将向您展示在 Eclipse 中安装 Spring IDE 的两种方法。
 

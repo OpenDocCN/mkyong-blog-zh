@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-actionerror-actionmessage-example/>
-
 # struts 2 action error & action message 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-actionerror-actionmessage-example/>
 
 Download It – [Struts2-ActionError-ActionMessage-Example.zip](http://web.archive.org/web/20190214231635/http://www.mkyong.com/wp-content/uploads/2010/06/Struts2-ActionError-ActionMessage-Example.zip)
 

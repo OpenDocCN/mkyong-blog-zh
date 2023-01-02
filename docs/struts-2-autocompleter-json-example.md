@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-autocompleter-json-example/>
-
 # Struts 2 自动完成器+ JSON 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-autocompleter-json-example/>
 
 Download It – [Struts2-AutoCompleter-JSON-Example.zip](http://web.archive.org/web/20190310101818/http://www.mkyong.com/wp-content/uploads/2010/07/Struts2-AutoCompleter-JSON-Example.zip)
 

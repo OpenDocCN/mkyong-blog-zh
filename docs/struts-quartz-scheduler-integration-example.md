@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-quartz-scheduler-integration-example/>
-
 # Struts 1 + Quartz 2 调度器集成示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-quartz-scheduler-integration-example/>
 
 在本教程中，我们将向您展示如何使用 Apache Struts 1.x 创建一个简单的 web 应用程序项目，并与 Quartz scheduler 框架集成。在项目启动期间，它将启动 Quartz 引擎并触发定义的调度程序任务。
 

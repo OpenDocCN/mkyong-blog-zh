@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-form-selectors-example/>
-
 # jQuery 表单选择器示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-form-selectors-example/>
 
 jQuery 附带了许多表单选择器，可以更容易、更有效地访问表单元素。下面是一个简单的 jQuery 表单选择器参考。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/spring-security-http-basic-authentication-example/>
-
 # Spring Security HTTP 基本认证示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/spring-security-http-basic-authentication-example/>
 
 配置 HTTP 基本身份验证后，web 浏览器将显示用户身份验证的登录对话框。本教程向您展示了如何在 Spring Security 中配置 HTTP 基本身份验证。
 

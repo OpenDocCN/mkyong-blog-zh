@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-param-example/>
-
 # JSF 2 参数示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-param-example/>
 
 在 JSF 中，“ **f:param** ”标签允许你传递一个参数给一个组件，但是它的行为是不同的，取决于它附加的组件的类型。举个例子，
 

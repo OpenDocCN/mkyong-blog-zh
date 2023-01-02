@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-a-job-instance-already-exists-and-is-complete-for-parameters/>
-
 # Spring Batch:作业实例已经存在，并且对于参数={}是完整的
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-a-job-instance-already-exists-and-is-complete-for-parameters/>
 
 使用 Spring Batch 2.2.0.RELEASE，并使用 Spring Scheduler 启动作业。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-the-connection-to-adb-is-down-and-a-severe-error-has-occurred/>
-
 # Android:与 adb 的连接中断，出现严重错误。
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-the-connection-to-adb-is-down-and-a-severe-error-has-occurred/>
 
 ## 问题
 

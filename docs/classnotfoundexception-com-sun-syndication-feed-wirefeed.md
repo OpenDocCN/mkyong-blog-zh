@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/classnotfoundexception-com-sun-syndication-feed-wirefeed/>
-
 # ClassNotFoundException:com . sun . syndication . feed . wire feed
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/classnotfoundexception-com-sun-syndication-feed-wirefeed/>
 
 ## 问题
 

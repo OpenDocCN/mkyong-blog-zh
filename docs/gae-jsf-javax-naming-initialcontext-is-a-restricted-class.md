@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/gae-jsf-javax-naming-initialcontext-is-a-restricted-class/>
-
 # GAE+JSF:javax . naming . initial context 是一个受限类
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/gae-jsf-javax-naming-initialcontext-is-a-restricted-class/>
 
 ## 问题
 

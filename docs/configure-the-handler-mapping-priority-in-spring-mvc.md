@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/configure-the-handler-mapping-priority-in-spring-mvc/>
-
 # 在 Spring MVC 中配置处理程序映射优先级
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/configure-the-handler-mapping-priority-in-spring-mvc/>
 
 通常，在 Spring MVC 开发中，您可能会混合使用多个处理程序映射策略。
 

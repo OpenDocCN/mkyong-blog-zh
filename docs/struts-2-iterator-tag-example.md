@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-iterator-tag-example/>
-
 # Struts 2 迭代器标签示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-iterator-tag-example/>
 
 Download It – [Struts2-Iterator-tag-Example.zip](http://web.archive.org/web/20190304032825/http://www.mkyong.com/wp-content/uploads/2010/07/Struts2-Iterator-tag-Example.zip)
 

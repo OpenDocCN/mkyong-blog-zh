@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-empty-selector-example/>
-
 # jQuery–空选择器示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-empty-selector-example/>
 
 在 jQuery 中，“ **empty** ”选择器用于选择所有没有子元素的元素(包括其中的任何文本)。
 

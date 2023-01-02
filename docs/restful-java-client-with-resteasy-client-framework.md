@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/webservices/jax-rs/restful-java-client-with-resteasy-client-framework/>
-
 # 带有 RESTEasy 客户端框架的 RESTful Java 客户端
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/webservices/jax-rs/restful-java-client-with-resteasy-client-framework/>
 
 本教程向您展示了如何使用 RESTEasy 客户端框架创建一个 RESTful Java 客户端，来执行在上一个教程中创建的“ **GET** ”和“**POST**”REST 服务请求。
 

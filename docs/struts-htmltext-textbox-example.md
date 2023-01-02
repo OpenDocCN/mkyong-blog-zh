@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-htmltext-textbox-example/>
-
 # Struts <text>文本框示例</text>
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-htmltext-textbox-example/>
 
 Download this Struts text box example – [Struts-TextBox-Example.zip](http://web.archive.org/web/20190224160217/http://www.mkyong.com/wp-content/uploads/2010/04/Struts-TextBox-Example.zip)
 

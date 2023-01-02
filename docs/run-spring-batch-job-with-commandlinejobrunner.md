@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/run-spring-batch-job-with-commandlinejobrunner/>
-
 # 使用 CommandLineJobRunner 运行春季批处理作业
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/run-spring-batch-job-with-commandlinejobrunner/>
 
 向您展示如何使用`CommandLineJobRunner`运行 Spring 批处理作业的快速指南。
 

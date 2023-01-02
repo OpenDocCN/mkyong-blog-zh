@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/gae-how-to-output-log-messages-to-a-file/>
-
 # GAE:如何将日志信息输出到文件中
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/gae-how-to-output-log-messages-to-a-file/>
 
 默认情况下，所有日志记录消息都将输出到日志控制台。要更改日志设置，找到这个文件—*{ Google App Engine SDK directory } \ Google \ App Engine \ tools \`dev_appserver_main.py`*。
 

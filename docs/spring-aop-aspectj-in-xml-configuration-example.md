@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/spring-aop-aspectj-in-xml-configuration-example/>
-
 # XML 配置示例中的 Spring AOP + AspectJ
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/spring-aop-aspectj-in-xml-configuration-example/>
 
 在本教程中，我们将向您展示如何将最后的 [Spring AOP + AspectJ 注释](http://web.archive.org/web/20190224164145/http://www.mkyong.com/spring3/spring-aop-aspectj-annotation-example/)转换成基于 XML 的配置。
 

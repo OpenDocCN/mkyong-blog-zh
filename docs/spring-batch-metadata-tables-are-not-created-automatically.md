@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-metadata-tables-are-not-created-automatically/>
-
 # Spring 批量元数据表不是自动创建的？
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-metadata-tables-are-not-created-automatically/>
 
 如果使用`MapJobRepositoryFactoryBean`(内存中的元数据)创建了`jobRepository`，则 Spring 批处理作业正在成功运行。
 

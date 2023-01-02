@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/ant/ant-how-to-print-classpath-from-path-id/>
-
 # ant——如何从路径 id 打印类路径
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/ant/ant-how-to-print-classpath-from-path-id/>
 
 在 Ant 中，可以使用`pathconvert`任务从 path 中打印出类路径:
 

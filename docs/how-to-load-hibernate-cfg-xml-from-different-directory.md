@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/how-to-load-hibernate-cfg-xml-from-different-directory/>
-
 # 如何从不同的目录加载 hibernate.cfg.xml
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/how-to-load-hibernate-cfg-xml-from-different-directory/>
 
 Hibernate XML 配置文件"`hibernate.cfg.xml`"总是放在项目类路径的根目录下，在任何包之外。如果将此配置文件放在不同的目录中，可能会遇到以下错误:
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/java-mongodb-save-image-example/>
-
 # Java MongoDB:保存图像示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/java-mongodb-save-image-example/>
 
 在本教程中，我们向您展示如何通过 **GridFS API** 将图像文件**保存到 MongoDB 中。GridFS APIs 也能够服务于其他二进制文件，比如视频和音乐文件。**
 

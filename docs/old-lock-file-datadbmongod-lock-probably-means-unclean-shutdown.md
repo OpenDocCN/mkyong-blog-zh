@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/old-lock-file-datadbmongod-lock-probably-means-unclean-shutdown/>
-
 # 旧锁文件:\data\db\mongod.lock，可能意味着不干净的关机
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/old-lock-file-datadbmongod-lock-probably-means-unclean-shutdown/>
 
 当启动 mongoDB 服务器时，它遇到以下错误，mongoDB 服务器无法启动。
 

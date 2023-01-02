@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/cannot-find-message-resources-under-key-org-apache-struts-action-message/>
-
 # 在 org . Apache . struts . action . message 项下找不到消息资源
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/cannot-find-message-resources-under-key-org-apache-struts-action-message/>
 
 ## 问题
 

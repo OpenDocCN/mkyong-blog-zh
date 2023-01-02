@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-auto-proxy-creator-example/>
-
 # Spring 自动代理创建器示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-auto-proxy-creator-example/>
 
 在去年春天的 AOP 示例中——[advice](http://web.archive.org/web/20190225101459/http://www.mkyong.com/spring/spring-aop-examples-advice/)、 [pointcut 和 advisor](http://web.archive.org/web/20190225101459/http://www.mkyong.com/spring/spring-aop-example-pointcut-advisor/) ，您必须为每个需要 AOP 支持的 bean 手工创建一个代理 bean (ProxyFactoryBean)。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-dynaactionform-example/>
-
 # Struts DynaActionForm 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-dynaactionform-example/>
 
 Struts **DynaActionForm** 类是一个有趣的特性，它允许您以动态和声明的方式创建表单 bean。它使您能够在 Struts 配置文件中创建一个“虚拟”表单 bean，而不是创建一个真正的 Java 表单 bean 类。它可以避免您创建许多简单但繁琐的表单 bean 类。
 

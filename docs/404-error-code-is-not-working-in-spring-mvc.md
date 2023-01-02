@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/404-error-code-is-not-working-in-spring-mvc/>
-
 # 404 错误代码在 Spring MVC 中不起作用
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/404-error-code-is-not-working-in-spring-mvc/>
 
 ## 问题
 

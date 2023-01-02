@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/how-to-pass-parameters-in-method-expression-jsf-2-0/>
-
 # 如何在方法表达式中传递参数–JSF 2.0
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/how-to-pass-parameters-in-method-expression-jsf-2-0/>
 
 从 JSF 2.0 开始，允许在类似" **#{bean.method(param)}** "的方法表达式中传递参数值，但是这个特性会在 Tomcat 服务器上引发" **EL 解析错误**"。举个例子，
 

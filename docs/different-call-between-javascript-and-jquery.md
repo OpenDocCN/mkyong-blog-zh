@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/different-call-between-javascript-and-jquery/>
-
 # JavaScript 和 JQuery 中函数调用的不同
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/different-call-between-javascript-and-jquery/>
 
 这是一个简单的例子，演示了如何在 JavaScript 和 jQuery 中调用一个函数来创建页面加载后的动态内容。
 

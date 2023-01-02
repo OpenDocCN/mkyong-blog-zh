@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-error-initial-sessionfactory-creation-failed-java-lang-noclassdeffounderror-orgdom4jdocumentexception/>
-
 # 休眠错误-初始会话工厂创建失败。Java . lang . noclassdeffounderror:org/dom4j/document exception
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-error-initial-sessionfactory-creation-failed-java-lang-noclassdeffounderror-orgdom4jdocumentexception/>
 
 一个常见的 Hibernate 错误，这是由于缺少依赖库 dom4j 造成的。
 

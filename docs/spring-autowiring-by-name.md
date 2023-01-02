@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-autowiring-by-name/>
-
 # 弹簧按名称自动布线
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-autowiring-by-name/>
 
 在 Spring 中，“**按名称**自动连接”意味着，如果一个 bean 的名称与其他 bean 属性的名称相同，就自动连接它。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/how-do-detect-browser-javascript-or-ajax-disabled-in-wicket/>
-
 # 在 Wicket 中检测浏览器是否支持 javascript 或 ajax？
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/how-do-detect-browser-javascript-or-ajax-disabled-in-wicket/>
 
 Wicket 内置了许多 ajax 后备组件，如果 Ajax 不可用或 Javascript 被禁用，这些组件就会降级为普通请求。一些很好的例子是 AjaxFallbackButton，AjaxFallbackLink 等。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-fileupload-validator-is-not-execute/>
-
 # Wicket 文件上传验证器没有执行？
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-fileupload-validator-is-not-execute/>
 
 ## 问题
 

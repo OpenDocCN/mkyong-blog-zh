@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/create-custom-validator-in-wicket/>
-
 # 在 Wicket 中创建自定义验证器
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/create-custom-validator-in-wicket/>
 
 在本教程中，您将创建一个自定义密码验证器，并将其附加到密码字段。
 

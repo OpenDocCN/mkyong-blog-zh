@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-native-sql-queries-examples/>
-
 # Hibernate 本地 SQL 查询示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-native-sql-queries-examples/>
 
 在 Hibernate 中，HQL 或标准查询应该能够让你执行几乎任何你想要的 SQL 查询。然而，许多开发人员抱怨 Hibernate 生成的 SQL 语句太慢，更喜欢生成自己的 SQL (native SQL)语句。
 

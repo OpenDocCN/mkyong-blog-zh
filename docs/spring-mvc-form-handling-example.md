@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-form-handling-example/>
-
 # Spring MVC 表单处理示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-form-handling-example/>
 
 ![spring-mvc-form-handling-demo](img/a67762df31785350afe2948e0821f4bb.png)
 

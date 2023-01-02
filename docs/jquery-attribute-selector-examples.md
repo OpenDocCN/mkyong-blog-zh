@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-attribute-selector-examples/>
-
 # jQuery–属性选择器示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-attribute-selector-examples/>
 
 在 jQuery 中，属性选择器包含在方括号[]中。以下是支持的属性选择器:
 

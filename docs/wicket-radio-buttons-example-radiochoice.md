@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-radio-buttons-example-radiochoice/>
-
 # Wicket 单选按钮示例–单选按钮
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-radio-buttons-example-radiochoice/>
 
 Wicket 示例创建一组单选按钮，并默认选中单个单选按钮。
 

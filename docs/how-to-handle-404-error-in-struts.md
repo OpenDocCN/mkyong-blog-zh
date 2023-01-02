@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/how-to-handle-404-error-in-struts/>
-
 # 如何处理 Struts 中的 404 错误
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/how-to-handle-404-error-in-struts/>
 
 “ **HTTP Status 404** ”错误代码表示系统找不到您请求的页面或资源。实际上，您应该显示自定义的 404 错误页面。但是，它是在 **web.xml** 中处理的，而不是在 Struts 框架中。举个例子，
 

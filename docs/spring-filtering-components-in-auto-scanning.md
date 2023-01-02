@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-filtering-components-in-auto-scanning/>
-
 # 自动扫描中的弹簧过滤器组件
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-filtering-components-in-auto-scanning/>
 
 在本 [Spring 自动组件扫描教程](http://web.archive.org/web/20190816013001/http://www.mkyong.com/spring/spring-auto-scanning-components/)中，您将了解如何让 Spring 自动扫描您的组件。在这篇文章中，我们向您展示了如何在自动扫描过程中进行组件过滤。
 

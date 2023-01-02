@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-and-quartz-scheduler-example/>
-
 # Spring Batch + Quartz 调度器示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-and-quartz-scheduler-example/>
 
 在本教程中，我们将向您展示如何使用 Quartz 调度程序框架来调度每 10 秒运行一次 Spring 批处理作业。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/how-to-dynamic-add-attribute-to-a-html-tag-in-wicket/>
-
 # 在 Wicket 中向 HTML 标签动态添加属性
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/how-to-dynamic-add-attribute-to-a-html-tag-in-wicket/>
 
 在 Wicket 中，您可以轻松地访问或操作 HTML 标记。比方说，您有一个 HTML 文本框组件，由一个 div 标记包装，如果文本框验证失败，div 标记应该以错误颜色突出显示。
 

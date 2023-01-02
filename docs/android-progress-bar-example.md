@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-progress-bar-example/>
-
 # Android 进度条示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-progress-bar-example/>
 
 在 Android 中，进度条可以告诉用户任务需要更长的时间来完成。
 

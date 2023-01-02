@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/how-to-skip-validation-in-jsf/>
-
 # 如何在 JSF 跳过验证
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/how-to-skip-validation-in-jsf/>
 
 ## 问题
 

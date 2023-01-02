@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-and-json-example/>
-
 # Struts 2 和 JSON 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-and-json-example/>
 
 在 Struts 2 示例中，您将学习如何通过“`struts2-json-plugin.jar`”库将对象转换成 JSON 格式。
 

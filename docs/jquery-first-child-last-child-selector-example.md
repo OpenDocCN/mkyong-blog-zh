@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-first-child-last-child-selector-example/>
-
 # jQuery–第一个孩子和最后一个孩子选择器示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-first-child-last-child-selector-example/>
 
 **:first-child** 用于选择作为其父元素的第一个子元素的所有元素，这是:n-child(1)的简写。
 

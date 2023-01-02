@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-tutorial-4-time-test/>
-
 # TestNG–超时测试
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-tutorial-4-time-test/>
 
 在本教程中，我们将向您展示如何在 TestNG 中执行`timeout`测试。“超时”意味着如果一个单元测试花费的时间超过了指定的毫秒数，TestNG 将会中止它，并将其作为失败处理。
 

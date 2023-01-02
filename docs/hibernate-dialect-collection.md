@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-dialect-collection/>
-
 # Hibernate SQL 方言集合
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-dialect-collection/>
 
 Hibernate SQL 方言告诉您的 Hibernate 应用程序应该使用哪种 SQL 语言与您的数据库进行对话。
 

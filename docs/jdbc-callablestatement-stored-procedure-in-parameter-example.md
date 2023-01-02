@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-callablestatement-stored-procedure-in-parameter-example/>
-
 # JDBC 可调用语句–参数示例中的存储过程
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-callablestatement-stored-procedure-in-parameter-example/>
 
 代码片段向您展示了如何通过 JDBC `CallableStatement`调用 Oracle 存储过程，以及如何从 Java 向存储过程传递参数。
 

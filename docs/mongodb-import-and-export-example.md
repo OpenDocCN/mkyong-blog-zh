@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/mongodb-import-and-export-example/>
-
 # MongoDB 导入和导出示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/mongodb-import-and-export-example/>
 
 在本教程中，我们将向您展示如何使用命令:`mongoexport`和`mongoimport`备份和恢复 MongoDB。
 

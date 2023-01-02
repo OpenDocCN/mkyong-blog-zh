@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-password-example/>
-
 # Spring MVC 密码示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-password-example/>
 
 在 Spring MVC 中，可以使用 **< form:password / >** 标签来呈现一个 HTML 密码字段。举个例子，
 

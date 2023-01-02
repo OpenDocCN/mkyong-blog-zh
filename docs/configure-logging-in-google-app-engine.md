@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/configure-logging-in-google-app-engine/>
-
 # 在 Google App Engine 中配置日志记录
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/configure-logging-in-google-app-engine/>
 
 Google App Engine for Java 正在使用 [java.util.logging.Logger](http://web.archive.org/web/20190303001942/http://docs.oracle.com/javase/6/docs/api/java/util/logging/Logger.html) 来执行日志记录。在本教程中，我们将向您展示如何在 GAE 环境中进行日志记录。
 

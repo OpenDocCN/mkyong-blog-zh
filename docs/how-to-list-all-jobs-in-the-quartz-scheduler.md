@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/java/how-to-list-all-jobs-in-the-quartz-scheduler/>
-
 # 如何在 Quartz 调度程序中列出所有作业
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/java/how-to-list-all-jobs-in-the-quartz-scheduler/>
 
 下面是两个代码片段，向您展示如何列出所有 Quartz 作业。Quartz 2 APIs 变化很大，所以语法和 Quartz 1.x 不一样。
 

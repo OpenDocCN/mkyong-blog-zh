@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/spring-security-encoded-password-does-not-look-like-bcrypt/>
-
 # Spring Security:编码的密码看起来不像 BCrypt
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/spring-security-encoded-password-does-not-look-like-bcrypt/>
 
 在 Spring Security 中，使用 *bcrypt* 密码散列的数据库认证。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-deploy-war-file-to-tomcat/>
-
 # Spring Boot-将 WAR 文件部署到 Tomcat
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-deploy-war-file-to-tomcat/>
 
 在本文中，我们将向您展示如何将 Spring Boot 战争文件部署到 Tomcat servlet 容器中。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-compoundpropertymodel-example/>
-
 # Wicket CompoundPropertyModel 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-compoundpropertymodel-example/>
 
 在 Wicket 中， **CompoundPropertyModel** 类似于 [PropertyModel](http://web.archive.org/web/20190114230013/http://www.mkyong.com/wicket/wicket-propertymodel-example/) ，是将表单组件绑定到对象属性最常用的模型。
 

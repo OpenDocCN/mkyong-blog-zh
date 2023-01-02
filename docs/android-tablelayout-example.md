@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-tablelayout-example/>
-
 # Android 表格布局示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-tablelayout-example/>
 
 在 Android 中， [TableLayout](http://web.archive.org/web/20190224164510/http://developer.android.com/reference/android/widget/TableLayout.html) 让你按行和列排列组件，就像 HTML 中的标准表格布局，`<tr>`和`<td>`。
 

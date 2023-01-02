@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-groups-example/>
-
 # TestNG–分组测试
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-groups-example/>
 
 在本教程中，我们将向您展示如何在 TestNG 中进行分组测试。
 

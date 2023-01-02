@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-linearlayout-example/>
-
 # Android 线性布局示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-linearlayout-example/>
 
 在 Android 中， [LinearLayout](http://web.archive.org/web/20190223082342/http://developer.android.com/reference/android/widget/LinearLayout.html) 是一种常见的布局，通过`orientation`属性将“组件”按垂直或水平顺序排列。此外，最高的`weight`组件将填充`LinearLayout`中的剩余空间。
 

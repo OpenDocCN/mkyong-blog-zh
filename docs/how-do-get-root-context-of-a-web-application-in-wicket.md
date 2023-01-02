@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/how-do-get-root-context-of-a-web-application-in-wicket/>
-
 # 如何在 Wicket 中获取 web 应用程序的根上下文
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/how-do-get-root-context-of-a-web-application-in-wicket/>
 
 在 Wicket 中，您可以使用下面的方法来获取项目的"**根上下文**。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/classnotfoundexception-com-thoughtworks-xstream-io-hierarchicalstreamreader/>
-
 # ClassNotFoundException:com . thoughtworks . xstream . io . hierarchical streamreader
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/classnotfoundexception-com-thoughtworks-xstream-io-hierarchicalstreamreader/>
 
 ## 问题
 

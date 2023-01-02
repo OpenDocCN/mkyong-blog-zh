@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-init-method-and-destroy-method-example/>
-
 # Spring init 方法和 destroy 方法示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-init-method-and-destroy-method-example/>
 
 在 Spring 中，可以使用 **init-method** 和 **destroy-method** 作为 bean 配置文件中的属性，让 bean 在初始化和销毁时执行某些操作。替代[初始化 Bean 和可处置 Bean 接口](http://web.archive.org/web/20190310101557/http://www.mkyong.com/spring/spring-initializingbean-and-disposablebean-example/)。
 

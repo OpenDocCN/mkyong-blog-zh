@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring3/spring-value-default-value/>
-
 # Spring @Value 默认值
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring3/spring-value-default-value/>
 
 在本教程中，我们将向您展示如何为`@Value`设置默认值
 

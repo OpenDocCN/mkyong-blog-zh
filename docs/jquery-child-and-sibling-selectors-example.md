@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-child-and-sibling-selectors-example/>
-
 # jQuery–子代和同级选择器示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-child-and-sibling-selectors-example/>
 
 jQuery 子代和兄弟选择器可以分为四种选择器，后代选择器(A B)、子代选择器(A > B)、相邻兄弟选择器(A + B)和一般兄弟选择器(A ~ B)。让我们通过一个例子来理解两者之间的不同。
 

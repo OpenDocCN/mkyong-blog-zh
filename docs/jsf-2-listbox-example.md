@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-listbox-example/>
-
 # JSF 2 列表框示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-listbox-example/>
 
 在 JSF，**<h:selectone listbox/>**标签用于呈现单个选择列表框——HTML 选择元素，具有“**大小**属性。
 

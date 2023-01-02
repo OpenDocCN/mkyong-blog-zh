@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/working-with-struts-2-actions/>
-
 # 使用 Struts 2 操作
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/working-with-struts-2-actions/>
 
 在 Struts 2 中，您将花费大部分时间处理动作。action 类包含业务逻辑、检索资源包、保存数据、验证和选择应该发送回用户的查看结果页面。这是 Struts 2 的核心，所以您必须理解动作的基本概念。
 

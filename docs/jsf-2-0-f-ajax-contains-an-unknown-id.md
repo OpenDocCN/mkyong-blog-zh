@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-0-f-ajax-contains-an-unknown-id/>
-
 # JSF 2.0 : <ajax>包含一个未知的 id</ajax>
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-0-f-ajax-contains-an-unknown-id/>
 
 ## 问题
 

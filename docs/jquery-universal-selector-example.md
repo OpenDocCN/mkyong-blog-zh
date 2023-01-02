@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-universal-selector-example/>
-
 # jQuery–通用*选择器示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-universal-selector-example/>
 
 **通用*** 选择器用于选择所有元素，一切。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-file-upload-example/>
-
 # Spring MVC 文件上传示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-file-upload-example/>
 
 Spring 使用`MultipartResolver`接口来处理 web 应用中的文件上传，有两种实现方式:
 

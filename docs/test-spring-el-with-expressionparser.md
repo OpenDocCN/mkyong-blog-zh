@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/test-spring-el-with-expressionparser/>
-
 # 用 ExpressionParser 测试弹簧 el
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/test-spring-el-with-expressionparser/>
 
 Spring expression language (SpEL)支持许多功能，您可以使用这个特殊的“ **ExpressionParser** ”接口来测试那些表达式特性。
 

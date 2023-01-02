@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/junit-4-tutorial-3-ignore-test/>
-
 # JUnit–忽略测试
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/junit-4-tutorial-3-ignore-test/>
 
 在 JUnit 中，要忽略一个测试，只需在`@Test`方法之前或之后添加一个`@Ignore`注释。
 

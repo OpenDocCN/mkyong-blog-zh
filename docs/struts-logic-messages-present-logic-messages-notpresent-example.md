@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-logic-messages-present-logic-messages-notpresent-example/>
-
 # struts-<messagespresent><messagesnotpresent>示例</messagesnotpresent></messagespresent>
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-logic-messages-present-logic-messages-notpresent-example/>
 
 Download this example – [Struts-Logic-MessagePresent-NotPresent-Example.zip](http://web.archive.org/web/20190209023138/http://www.mkyong.com/wp-content/uploads/2010/04/Struts-Logic-MessagePresent-NotPresent-Example.zip)
 

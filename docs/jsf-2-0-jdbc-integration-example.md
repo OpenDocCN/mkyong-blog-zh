@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-0-jdbc-integration-example/>
-
 # JSF 2.0 + JDBC 集成示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-0-jdbc-integration-example/>
 
 这里有一个指南，向您展示如何通过 JDBC 集成 JSF 2.0 与数据库。在这个例子中，我们使用 MySQL 数据库和 Tomcat web 容器。
 

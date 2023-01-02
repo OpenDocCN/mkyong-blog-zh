@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-export-data-to-excel-file-via-abstractexcelview/>
-
 # 通过 AbstractExcelView 弹出 MVC 和 Excel 文件
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-export-data-to-excel-file-via-abstractexcelview/>
 
 Spring MVC 自带 **AbstractExcelView** 类，通过 **Apache POI** 库将数据导出到 Excel 文件。在本教程中，将展示如何在 Spring MVC 应用程序中使用 **AbstractExcelView** 类将数据导出到 Excel 文件以供下载。
 

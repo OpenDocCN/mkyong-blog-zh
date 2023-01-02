@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/spring-3-javaconfig-example/>
-
 # Spring 3 JavaConfig 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/spring-3-javaconfig-example/>
 
 由于 Spring 3， **JavaConfig** 特性包含在核心 Spring 模块中，它允许开发人员将 bean 定义和 Spring 配置从 XML 文件移到 Java 类中。
 

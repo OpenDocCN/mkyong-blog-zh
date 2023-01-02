@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/spring-el-bean-reference-example/>
-
 # Spring EL bean 参考示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/spring-el-bean-reference-example/>
 
 在 Spring EL 中，您可以引用一个 bean，并使用'**点(.)**符号。比如“ **bean.property_name** ”。
 

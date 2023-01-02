@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/mockito-when-requires-an-argument-which-has-to-be-a-method-call-on-a-mock/>
-
 # mock ITO–when()需要一个必须是“模拟上的方法调用”的参数
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/mockito-when-requires-an-argument-which-has-to-be-a-method-call-on-a-mock/>
 
 运行下面的 Spring Boot + JUnit 5 + Mockito 集成测试。
 

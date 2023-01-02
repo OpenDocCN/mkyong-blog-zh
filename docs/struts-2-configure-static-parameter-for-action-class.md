@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-configure-static-parameter-for-action-class/>
-
 # struts 2–为操作类配置静态参数
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-configure-static-parameter-for-action-class/>
 
 Download It – [Struts-Action-Static-ParamExample.zip](http://web.archive.org/web/20190601041554/http://www.mkyong.com/wp-content/uploads/2010/06/Struts-Action-Static-ParamExample.zip)
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-test-unable-to-autowired-mockmvc/>
-
 # Spring Boot 测试无法自动连线 MockMvc
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-test-unable-to-autowired-mockmvc/>
 
 Spring Boot 积分测试，但无法`@Autowired MockMvc`
 

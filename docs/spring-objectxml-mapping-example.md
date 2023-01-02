@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/spring-objectxml-mapping-example/>
-
 # Spring 对象/XML 映射示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/spring-objectxml-mapping-example/>
 
 Spring 的对象/XML 映射将对象转换成 XML，反之亦然。这个过程也称为
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-simplejdbctemplate-querying-examples/>
-
 # Spring SimpleJdbcTemplate 查询示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-simplejdbctemplate-querying-examples/>
 
 这里有几个例子来展示如何使用 SimpleJdbcTemplate `query()`方法从数据库中查询或提取数据。在 JdbcTemplate `query()`中，您需要手动将返回的结果转换为所需的对象类型，并传递一个对象数组作为参数。在 SimpleJdbcTemplate 中，它更加用户友好和简单。
 

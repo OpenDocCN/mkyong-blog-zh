@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-multiple-checkboxes-example-checkboxmultiplechoice/>
-
 # Wicket 多复选框示例–checkbox multiple choice
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-multiple-checkboxes-example-checkboxmultiplechoice/>
 
 Wicket 示例创建多个选择复选框的**，并自动选中复选框。**
 

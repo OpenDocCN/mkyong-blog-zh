@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-jdk-timer-scheduler-example/>
-
 # Spring + JDK 定时器调度器示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-jdk-timer-scheduler-example/>
 
 **Note**
 Learn the [JDK Timer scheduler example without Spring](http://web.archive.org/web/20190214222721/http://www.mkyong.com/java/jdk-timer-scheduler-example/) and compare the different with this example.

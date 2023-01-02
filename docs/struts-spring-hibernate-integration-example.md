@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-spring-hibernate-integration-example/>
-
 # Struts + Spring + Hibernate 集成示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-spring-hibernate-integration-example/>
 
 Download this Struts 1.x + Spring + Hibernate example – [Struts-Spring-Hibernate-Example.zip](http://web.archive.org/web/20190215000825/http://www.mkyong.com/wp-content/uploads/2010/04/Struts-Spring-Hibernate-Example.zip)
 

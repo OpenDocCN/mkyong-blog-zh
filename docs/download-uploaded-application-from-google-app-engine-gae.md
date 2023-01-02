@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/download-uploaded-application-from-google-app-engine-gae/>
-
 # 从谷歌应用引擎(GAE)下载上传的应用程序
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/download-uploaded-application-from-google-app-engine-gae/>
 
 您可以使用命令“ **appcfg download_app** ”从 GAE 下载上传的应用程序，请参见下面的签名:
 

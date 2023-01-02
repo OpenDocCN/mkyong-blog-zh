@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/junit-4-tutorial-5-suite-test/>
-
 # JUnit–套件测试，运行多个测试用例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/junit-4-tutorial-5-suite-test/>
 
 在 JUnit 中，您可以使用`@RunWith`和`@Suite`注释运行多个测试用例。参考下面的例子:
 

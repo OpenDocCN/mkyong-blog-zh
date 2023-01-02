@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-next-example/>
-
 # jQuery next()示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-next-example/>
 
 next()函数用于获取匹配元素集中紧随其后的兄弟元素。只有下面的同级元素被选择，它的子元素将被忽略。
 

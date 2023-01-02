@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/struts2/struts-2-spring-3-quartz-1-8-scheduler-example/>
-
 # Struts 2 + Spring 3 + Quartz 1.8 调度器示例
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/struts2/struts-2-spring-3-quartz-1-8-scheduler-example/>
 
 在本教程中，我们将向您展示如何集成**Struts 2+Spring 3+Quartz 1 . 8 . 6**。
 

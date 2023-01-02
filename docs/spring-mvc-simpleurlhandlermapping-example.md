@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-simpleurlhandlermapping-example/>
-
 # spring MVC SimpleUrlHandlerMapping 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-simpleurlhandlermapping-example/>
 
 在 Spring MVC 应用中， **SimpleUrlHandlerMapping** 是最灵活的处理程序映射类，它允许开发者显式地指定 URL 模式和处理程序的映射。
 

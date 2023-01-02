@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-action-tag-example/>
-
 # Struts 2 操作标记示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-action-tag-example/>
 
 Download It – [Struts2-Action-Tag-Example.zip](http://web.archive.org/web/20190304031539/http://www.mkyong.com/wp-content/uploads/2010/07/Struts2-Action-Tag-Example.zip)
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/java8/java-8-hijrahdate-how-to-calculate-the-ramadan-date/>
-
 # Java 8–HijrahDate，如何计算斋月日期
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/java8/java-8-hijrahdate-how-to-calculate-the-ramadan-date/>
 
 [斋月](http://web.archive.org/web/20190225092841/https://en.wikipedia.org/wiki/Ramadan_(calendar_month))是伊斯兰历的第九个月，整月。
 

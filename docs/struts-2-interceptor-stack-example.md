@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-interceptor-stack-example/>
-
 # Struts 2 拦截器堆栈示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-interceptor-stack-example/>
 
 通常，同一组拦截器可以应用于不同的动作类，例如，
 

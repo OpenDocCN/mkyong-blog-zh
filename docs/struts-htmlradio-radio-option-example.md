@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-htmlradio-radio-option-example/>
-
 # Struts <radio>单选选项示例</radio>
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-htmlradio-radio-option-example/>
 
 Download this Struts radio option example – [Struts-Radio-Example.zip](http://web.archive.org/web/20190224162133/http://www.mkyong.com/wp-content/uploads/2010/04/Struts-Radio-Example.zip)
 

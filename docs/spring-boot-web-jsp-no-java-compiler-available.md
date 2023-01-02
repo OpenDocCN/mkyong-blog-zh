@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-web-jsp-no-java-compiler-available/>
-
 # Spring Boot web JSP–没有可用的 Java 编译器
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-web-jsp-no-java-compiler-available/>
 
 内嵌 Tomcat 和 JSP 的 Spring boot web 应用程序。运行并访问 JSP 页面，但是遇到以下错误
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-contains-selector-example/>
-
 # jQuery–包含选择器示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-contains-selector-example/>
 
 **jQuery contains(text)选择器**用于选择包含指定文本的所有元素。
 

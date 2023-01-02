@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-slideup-slidedown-and-slidetoggle-example/>
-
 # jQuery slideUp()、slideDown()和 slideToggle()示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-slideup-slidedown-and-slidetoggle-example/>
 
 jQuery 提供了三种简便的方法来轻松创建滑动效果。
 

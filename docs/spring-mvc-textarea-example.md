@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-textarea-example/>
-
 # Spring MVC textarea 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-textarea-example/>
 
 在 Spring MVC 中，使用 **< form:textarea / >** 渲染一个 HTML textarea 字段。举个例子，
 

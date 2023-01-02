@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/download-export-google-app-engine-logs-java-app/>
-
 # 下载/导出 Google 应用程序引擎日志、Java 应用程序
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/download-export-google-app-engine-logs-java-app/>
 
 在 GAE，Java App，你可以使用命令" **appcfg request_logs** "从 GAE 下载或导出日志到你的电脑，见下面签名:
 

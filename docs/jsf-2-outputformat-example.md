@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-outputformat-example/>
-
 # JSF 2 输出格式示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-outputformat-example/>
 
 在 JSF web 应用中，“ **h:outputFormat** ”标签与“ **h:outputText** ”标签类似，但是具有额外的功能来呈现参数化的消息。举个例子，
 

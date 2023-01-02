@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/constructor-injection-type-ambiguities-in-spring/>
-
 # Spring 中的构造函数注入类型不明确
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/constructor-injection-type-ambiguities-in-spring/>
 
 在 Spring 框架中，当你的类包含多个参数个数相同的构造函数时，总是会导致**构造函数注入参数类型歧义**的问题。
 

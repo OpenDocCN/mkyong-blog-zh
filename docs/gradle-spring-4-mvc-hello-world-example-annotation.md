@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/gradle-spring-4-mvc-hello-world-example-annotation/>
-
 # gradle–Spring 4 MVC Hello World 示例–注释
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/gradle-spring-4-mvc-hello-world-example-annotation/>
 
 ![gradle-spring-logo](img/dcc1278b6e3402abbe8ca90e88a71b0f.png)
 

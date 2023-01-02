@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-file-upload-example-ajax-and-rest/>
-
 # Spring Boot 文件上传示例–Ajax 和 REST
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-file-upload-example-ajax-and-rest/>
 
 这篇文章展示了如何使用 Ajax 请求在 Spring Boot web 应用程序(REST 结构)中上传文件。
 

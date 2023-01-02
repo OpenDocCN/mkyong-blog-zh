@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-the-type-annotationconfiguration-is-deprecated/>
-
 # hibernate–不推荐使用类型注释配置
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-the-type-annotationconfiguration-is-deprecated/>
 
 ## 问题
 

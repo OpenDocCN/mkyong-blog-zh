@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/how-to-display-all-beans-loaded-by-spring-boot/>
-
 # 如何显示 Spring Boot 加载的所有 beans
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/how-to-display-all-beans-loaded-by-spring-boot/>
 
 在 Spring Boot，您可以使用`appContext.getBeanDefinitionNames()`来获取 Spring 容器装载的所有 beans。
 

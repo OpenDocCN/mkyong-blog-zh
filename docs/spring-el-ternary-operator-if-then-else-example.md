@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/spring-el-ternary-operator-if-then-else-example/>
-
 # Spring EL 三元运算符(if-then-else)示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/spring-el-ternary-operator-if-then-else-example/>
 
 Spring EL 支持**三元运算符**，执行 **if then else** 条件检查。举个例子，
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-statement-example-select-list-of-the-records/>
-
 # JDBC 语句示例–选择记录列表
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-statement-example-select-list-of-the-records/>
 
 下面的例子展示了如何通过 JDBC 语句从表中选择全部记录，并通过 ResultSet 对象显示所有记录。要发出选择查询，调用`Statement.executeQuery`方法，如下所示:
 

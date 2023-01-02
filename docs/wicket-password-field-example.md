@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-password-field-example/>
-
 # Wicket 密码字段示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-password-field-example/>
 
 Wicket 教程向您展示了如何创建两个密码字段——“**密码**和“**确认密码**”，附加一个**强密码验证器**，并将密码值传递到下一页。
 

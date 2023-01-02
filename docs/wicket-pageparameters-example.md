@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-pageparameters-example/>
-
 # Wicket 页面参数示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-pageparameters-example/>
 
 在 Wicket 中，可以使用“ [PageParameters](http://web.archive.org/web/20190303050719/http://wicket.apache.org/apidocs/1.4/org/apache/wicket/PageParameters.html) ”类来存储参数值并将其传递给另一个页面。
 

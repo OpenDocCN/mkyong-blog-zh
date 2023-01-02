@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-resource-loader-with-getresource-example/>
-
 # 带有 getResource()示例的 Spring 资源加载器
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-resource-loader-with-getresource-example/>
 
 Spring 的资源加载器提供了一个非常通用的 **getResource()** 方法来从文件系统、类路径或 URL 获取资源，比如(文本文件、媒体文件、图像文件……)。您可以从应用程序上下文中获取 **getResource()** 方法。
 

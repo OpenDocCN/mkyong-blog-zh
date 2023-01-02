@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/nosuchbeandefinitionexception-no-qualifying-bean-of-type-joblaunchertestutils/>
-
 # NoSuchBeanDefinitionException:没有 JobLauncherTestUtils 类型的合格 bean
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/nosuchbeandefinitionexception-no-qualifying-bean-of-type-joblaunchertestutils/>
 
 遵循[官方 Spring 批量单元测试指南](http://web.archive.org/web/20190223065023/http://static.springsource.org/spring-batch/reference/html/testing.html)创建一个标准的单元测试用例。
 

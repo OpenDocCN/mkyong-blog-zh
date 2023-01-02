@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/mongodb-authentication-example/>
-
 # MongoDB 身份验证示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/mongodb-authentication-example/>
 
 本指南向您展示了如何在 MongoDB 中启用身份验证。默认情况下，身份验证是禁用的。要配置它，您必须首先向“admin”数据库添加一个用户。
 

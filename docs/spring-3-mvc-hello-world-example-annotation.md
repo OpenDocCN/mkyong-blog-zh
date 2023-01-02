@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/spring-3-mvc-hello-world-example-annotation/>
-
 # Spring 3 MVC hello world 示例–注释
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/spring-3-mvc-hello-world-example-annotation/>
 
 在本教程中，我们将采用之前的 [Maven + Spring MVC XML 示例](http://web.archive.org/web/20190311142504/http://www.mkyong.com/spring3/spring-3-mvc-hello-world-example/)，重写它以支持`@JavaConfig`配置，不再需要 XML 文件，并将其部署到 Servlet 3.0+容器中，如 Tomcat 7 或 Jetty 9。
 

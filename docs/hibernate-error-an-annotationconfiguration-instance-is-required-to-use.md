@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-error-an-annotationconfiguration-instance-is-required-to-use/>
-
 # 休眠错误–需要使用 AnnotationConfiguration 实例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-error-an-annotationconfiguration-instance-is-required-to-use/>
 
 Hibernate 注释需要“AnnotationConfiguration”而不是普通的“Configuration()”来构建会话工厂。
 

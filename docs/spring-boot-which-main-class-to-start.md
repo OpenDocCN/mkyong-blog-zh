@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-which-main-class-to-start/>
-
 # Spring Boot——从哪门主课开始
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-which-main-class-to-start/>
 
 如果 Spring Boot 项目包含多个主类，Spring Boot 将无法启动或打包进行部署。
 

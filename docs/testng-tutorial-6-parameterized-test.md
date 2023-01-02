@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-tutorial-6-parameterized-test/>
-
 # TestNG–参数测试(XML 和@DataProvider)
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-tutorial-6-parameterized-test/>
 
 在本教程中，我们将向您展示如何通过 XML `@Parameters`或`@DataProvider`将参数传递给`@Test`方法。
 

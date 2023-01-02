@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-not-selector-example/>
-
 # jQuery–非选择器示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-not-selector-example/>
 
 在 jQuery 中，使用“**而不是**来选择所有与选择器不匹配的元素。
 

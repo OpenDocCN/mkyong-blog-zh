@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-auto-wiring-beans-in-xml/>
-
 # Spring 自动布线 Beans
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-auto-wiring-beans-in-xml/>
 
 在 Spring framework 中，您可以使用自动连接特性自动连接 beans。要启用它，只需在< bean >中定义“**自动连线**属性。
 

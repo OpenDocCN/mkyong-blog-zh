@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/java/example-to-run-multiple-jobs-in-quartz/>
-
 # 在 Quartz 中运行多个作业的示例
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/java/example-to-run-multiple-jobs-in-quartz/>
 
 在这个例子中，我们展示了如何通过 Quartz APIs、Quartz XML 和 Spring 声明多个 Quartz 作业。在 Quartz 调度框架中，每个作业都将被附加到一个唯一的触发器上，并由调度程序运行。
 

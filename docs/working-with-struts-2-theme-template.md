@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/working-with-struts-2-theme-template/>
-
 # 使用 Struts 2 主题和模板
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/working-with-struts-2-theme-template/>
 
 Download It – [Struts2-Theme-Example.zip](http://web.archive.org/web/20190304032055/http://www.mkyong.com/wp-content/uploads/2010/06/Struts2-Theme-Example.zip)
 

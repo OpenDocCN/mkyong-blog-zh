@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/spring-data-mongodb-auto-sequence-id-example/>
-
 # Spring 数据 MongoDB–自动序列 ID 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/spring-data-mongodb-auto-sequence-id-example/>
 
 在本教程中，我们将向您展示如何在 MongoDB + Spring 数据环境中生成一个自动递增的序列 id。
 

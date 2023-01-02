@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/gradle-and-junit-example/>
-
 # Gradle 和 JUnit 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/gradle-and-junit-example/>
 
 在 Gradle 中，您可以像这样声明 JUnit 依赖关系:
 

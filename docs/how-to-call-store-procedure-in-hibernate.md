@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/how-to-call-store-procedure-in-hibernate/>
-
 # 如何在 Hibernate 中调用存储过程
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/how-to-call-store-procedure-in-hibernate/>
 
 在本教程中，您将学习如何在 Hibernate 中调用存储过程。
 

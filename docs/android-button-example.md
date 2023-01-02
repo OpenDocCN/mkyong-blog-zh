@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-button-example/>
-
 # Android 按钮示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-button-example/>
 
 在 Android 中，只需使用“ [android.widget.Button](http://web.archive.org/web/20190301142942/http://developer.android.com/reference/android/widget/Button.html) ”类显示一个普通按钮即可。
 

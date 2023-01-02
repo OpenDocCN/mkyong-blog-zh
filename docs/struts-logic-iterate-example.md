@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-logic-iterate-example/>
-
 # Struts <iterate>示例</iterate>
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-logic-iterate-example/>
 
 在 Struts 中，可以使用 **<逻辑:iterate >** 标签迭代集合。这里有两个例子:
 

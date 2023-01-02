@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-error-initial-sessionfactory-creation-failed-java-lang-noclassdeffounderror-orghibernateannotationscommonreflectionreflectionmanager/>
-
 # Hibernate 错误-初始会话工厂创建失败。Java . lang . noclassdeffounderror:org/hibernate/annotations/common/reflection/reflection manager
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-error-initial-sessionfactory-creation-failed-java-lang-noclassdeffounderror-orghibernateannotationscommonreflectionreflectionmanager/>
 
 这是由于缺少 Hibernate commons 注释库造成的。
 

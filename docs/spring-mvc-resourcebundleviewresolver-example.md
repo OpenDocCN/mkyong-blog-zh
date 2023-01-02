@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-resourcebundleviewresolver-example/>
-
 # spring MVC ResourceBundleViewResolver 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-resourcebundleviewresolver-example/>
 
 在 Spring MVC 中，**ResourceBundleViewResolver**用于解析“基于视图 beans 中名为”的视图。属性”文件。
 

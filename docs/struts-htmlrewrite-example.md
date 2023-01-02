@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-htmlrewrite-example/>
-
 # Struts <rewrite>示例</rewrite>
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-htmlrewrite-example/>
 
 Struts **< html:rewrite >**
 

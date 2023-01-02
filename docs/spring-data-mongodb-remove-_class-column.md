@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/spring-data-mongodb-remove-_class-column/>
-
 # Spring 数据 MongoDB remove _class 列
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/spring-data-mongodb-remove-_class-column/>
 
 默认情况下，SpringData 的`MappingMongoConverter`为 MongoDB 中保存的每个对象添加一个额外的“ **_class** ”列。举个例子，
 

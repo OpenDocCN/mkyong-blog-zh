@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-multiple-configuration-files-example/>
-
 # struts–多个配置文件示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-multiple-configuration-files-example/>
 
 许多开发人员喜欢将所有与 Struts 相关的东西(动作、表单)放在一个 Struts 配置文件中。这对于最初的开发来说很快，但是对于将来的维护来说却很糟糕，而且可能那些开发人员并没有意识到 Struts 允许多个配置文件的特性。
 

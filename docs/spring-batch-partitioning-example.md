@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-partitioning-example/>
-
 # Spring 批量分区示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-partitioning-example/>
 
 ![spring batch partitioning](img/18a143323d49fceebceb568195170231.png)
 

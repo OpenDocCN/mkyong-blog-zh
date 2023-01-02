@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-bind-and-unbind-example/>
-
 # jQuery bind()和 unbind()示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-bind-and-unbind-example/>
 
 jQuery **bind()** 函数用于将事件处理程序附加到元素上，而 **unbind()** 用于将现有的事件处理程序从元素上分离。
 

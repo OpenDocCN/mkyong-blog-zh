@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/spring-data-mongodb-delete-document/>
-
 # Spring Data MongoDB:删除文档
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/spring-data-mongodb-delete-document/>
 
 在 MongoDB 的 Spring data 中，可以使用`remove()`和`findAndRemove()`从 MongoDB 中删除文档。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-override-the-interceptor-parameters/>
-
 # Struts 2 覆盖了拦截器参数
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-override-the-interceptor-parameters/>
 
 在 Struts 2 中，您可以通过通用的 **< param >** 标记来设置或覆盖拦截器参数。参见下面的例子
 

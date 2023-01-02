@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/remember-that-ordinal-parameters-are-1-based-hibernatetemplate/>
-
 # 记住序数参数是从 1 开始的！–休眠模板
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/remember-that-ordinal-parameters-are-1-based-hibernatetemplate/>
 
 ## 问题
 

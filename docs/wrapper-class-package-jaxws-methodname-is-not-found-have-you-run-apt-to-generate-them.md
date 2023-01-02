@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/webservices/jax-ws/wrapper-class-package-jaxws-methodname-is-not-found-have-you-run-apt-to-generate-them/>
-
 # 找不到包装类 package.jaxws.methodName。你有没有倾向于生成它们？
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/webservices/jax-ws/wrapper-class-package-jaxws-methodname-is-not-found-have-you-run-apt-to-generate-them/>
 
 ## 问题
 

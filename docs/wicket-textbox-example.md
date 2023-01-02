@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-textbox-example/>
-
 # Wicket 文本框示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-textbox-example/>
 
 Wicket 教程向你展示了如何创建一个文本框，验证它，并将文本框的值传递到下一页。
 

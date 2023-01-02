@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/junit-4-tutorial-2-expected-exception-test/>
-
 # JUnit–预期异常测试
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/junit-4-tutorial-2-expected-exception-test/>
 
 在 JUnit 中，有 3 种方法可以测试预期的异常:
 

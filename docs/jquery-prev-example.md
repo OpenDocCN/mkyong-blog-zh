@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-prev-example/>
-
 # jQuery prev()示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-prev-example/>
 
 prev()函数用于获取匹配元素集中的前一个兄弟元素。只有前一个同级的元素被选择，它的子元素将被忽略。
 

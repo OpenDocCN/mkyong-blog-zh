@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-generator-tag-example/>
-
 # Struts 2 生成器标记示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-generator-tag-example/>
 
 Download It – [Struts2-Generator-Tag-Example.zip](http://web.archive.org/web/20190222105638/http://www.mkyong.com/wp-content/uploads/2010/07/Struts2-Generator-Tag-Example.zip)
 

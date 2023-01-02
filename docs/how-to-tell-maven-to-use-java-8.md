@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/maven/how-to-tell-maven-to-use-java-8/>
-
 # 如何告诉 Maven 使用 Java 8
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/maven/how-to-tell-maven-to-use-java-8/>
 
 在`pom.xml`中，定义了这个`maven.compiler.source`属性来告诉 Maven 使用 Java 8 来编译项目。
 

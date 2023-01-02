@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/there-is-no-action-mapped-for-namespace-and-action-name-youractionname/>
-
 # 没有为命名空间/和操作名“yourActionName”映射的操作
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/there-is-no-action-mapped-for-namespace-and-action-name-youractionname/>
 
 ## 问题
 

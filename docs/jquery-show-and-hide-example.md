@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-show-and-hide-example/>
-
 # jQuery show()和 hide()示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-show-and-hide-example/>
 
 jQuery show()和 hide()是最常用的效果。
 

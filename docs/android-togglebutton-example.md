@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-togglebutton-example/>
-
 # Android ToggleButton 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-togglebutton-example/>
 
 在 Android 中，“[Android . widget . toggle button](http://web.archive.org/web/20190306165030/http://developer.android.com/reference/android/widget/ToggleButton.html)是一个特殊的类，用于呈现只有两种状态的按钮，例如“开”和“关”。它是单选按钮打开或关闭功能的最佳选择。
 

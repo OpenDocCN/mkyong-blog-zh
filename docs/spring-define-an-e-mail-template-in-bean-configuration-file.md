@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-define-an-e-mail-template-in-bean-configuration-file/>
-
 # spring——在 bean 配置文件中定义电子邮件模板
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-define-an-e-mail-template-in-bean-configuration-file/>
 
 在上一个 [Spring 的电子邮件教程](http://web.archive.org/web/20190210101654/http://www.mkyong.com/spring/spring-sending-e-mail-via-gmail-smtp-server-with-mailsender/)中，你在方法体中硬编码了所有的电子邮件属性和消息内容，这是不实际的，应该避免。您应该考虑在 Spring 的 bean 配置文件中定义电子邮件消息模板。
 

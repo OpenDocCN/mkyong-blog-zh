@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/how-to-detect-copy-paste-and-cut-behavior-with-jquery/>
-
 # 如何用 jQuery 检测复制、粘贴和剪切行为
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/how-to-detect-copy-paste-and-cut-behavior-with-jquery/>
 
 要检测复制、粘贴和剪切行为，只需要绑定相应的事件类型。
 

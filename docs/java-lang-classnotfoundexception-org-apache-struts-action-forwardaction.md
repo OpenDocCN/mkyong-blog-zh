@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/java-lang-classnotfoundexception-org-apache-struts-action-forwardaction/>
-
 # Java . lang . classnotfoundexception:org . Apache . struts . action . forward action
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/java-lang-classnotfoundexception-org-apache-struts-action-forwardaction/>
 
 ## 问题
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/webservices/jax-rs/restful-java-client-with-jersey-client/>
-
 # 带有 Jersey 客户端的 RESTful Java 客户端
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/webservices/jax-rs/restful-java-client-with-jersey-client/>
 
 本教程向您展示了如何使用 **Jersey 客户端 API**来创建一个 RESTful Java 客户端，以执行在这个“ [Jersey + Json](http://web.archive.org/web/20190309050309/http://www.mkyong.com/webservices/jax-rs/json-example-with-jersey-jackson/) ”示例中创建的“ **GET** ”和“**POST**”REST 服务请求。
 

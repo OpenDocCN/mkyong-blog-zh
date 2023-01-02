@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/java-lang-illegalargumentexception-javax-faces-context-exceptionhandlerfactory/>
-
 # Java . lang . illegalargumentexception:javax . faces . context . exception handlerfactory
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/java-lang-illegalargumentexception-javax-faces-context-exceptionhandlerfactory/>
 
 ## 问题
 

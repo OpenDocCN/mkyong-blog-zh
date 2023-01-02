@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-statement-example-batch-update/>
-
 # JDBC 报表示例-批量更新
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-statement-example-batch-update/>
 
 这里有一个例子告诉你如何通过 JDBC `Statement`在批处理中插入几条记录。
 

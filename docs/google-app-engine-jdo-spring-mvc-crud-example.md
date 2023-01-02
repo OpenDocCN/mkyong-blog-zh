@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/google-app-engine-jdo-spring-mvc-crud-example/>
-
 # 谷歌应用引擎+ JDO + Spring MVC，CRUD 例子
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/google-app-engine-jdo-spring-mvc-crud-example/>
 
 **Note**
 This tutorial is more on practice guide, please refer to this [official Using JDO in datastore](http://web.archive.org/web/20190214234538/https://developers.google.com/appengine/docs/java/datastore/jdo/) for detail explanation.

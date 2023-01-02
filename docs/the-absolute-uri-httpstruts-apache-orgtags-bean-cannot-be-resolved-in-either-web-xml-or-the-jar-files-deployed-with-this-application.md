@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/the-absolute-uri-httpstruts-apache-orgtags-bean-cannot-be-resolved-in-either-web-xml-or-the-jar-files-deployed-with-this-application/>
-
 # 绝对 uri:http://struts.apache.org/tags-bean 无法在 web.xml 或与此应用程序一起部署的 jar 文件中解析。
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/the-absolute-uri-httpstruts-apache-orgtags-bean-cannot-be-resolved-in-either-web-xml-or-the-jar-files-deployed-with-this-application/>
 
 ## 问题
 

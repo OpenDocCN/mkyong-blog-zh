@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-parametermethodnameresolver-example/>
-
 # Spring MVC 参数 MethodNameResolver 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-parametermethodnameresolver-example/>
 
 **parametermethodname resolver**，MultiActionController 方法名解析器通过请求参数名将 URL 映射到方法名**，参数名可通过“ **paramName** 属性定制。请参见以下示例:**
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-preparestatement-example-delete-a-record/>
-
 # JDBC 编制报表示例-删除记录
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-preparestatement-example-delete-a-record/>
 
 这里有一个例子，向您展示如何通过 JDBC PreparedStatement 从表中删除记录。要发出 delete 语句，调用`PreparedStatement.executeUpdate()`方法，如下所示:
 

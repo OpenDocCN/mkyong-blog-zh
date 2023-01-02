@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-resource-bundle-example/>
-
 # struts 2–资源包示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-resource-bundle-example/>
 
 要使用资源包从属性文件中检索消息，您必须理解 Struts 2 资源包的搜索顺序:
 

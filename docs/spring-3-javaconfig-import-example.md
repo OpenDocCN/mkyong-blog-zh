@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/spring-3-javaconfig-import-example/>
-
 # Spring 3 JavaConfig @Import 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/spring-3-javaconfig-import-example/>
 
 通常，您会将一个大的 Spring XML bean 文件分割成多个小文件，按模块或类别分组，以使事情更易于维护和模块化。举个例子，
 

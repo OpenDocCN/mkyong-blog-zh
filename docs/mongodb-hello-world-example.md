@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/mongodb-hello-world-example/>
-
 # MongoDB hello world 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/mongodb-hello-world-example/>
 
 ![mongodb hello world](img/b6bc11eefd853229032c92a9f8304936.png "mongodb-nosql")
 

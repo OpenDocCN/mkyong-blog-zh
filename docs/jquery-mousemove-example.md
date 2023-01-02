@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-mousemove-example/>
-
 # jQuery mousemove()示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-mousemove-example/>
 
 当鼠标在匹配的元素中移动时，触发 **mousemove()** 事件，当鼠标在匹配的元素周围移动每一个像素时，保持触发该事件。
 

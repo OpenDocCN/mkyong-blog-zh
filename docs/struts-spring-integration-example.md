@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-spring-integration-example/>
-
 # Struts + Spring 集成示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-spring-integration-example/>
 
 下面的教程展示了如何在用 Apache Struts 1.x 开发的 web 应用程序中访问 Spring Ioc 容器中声明的 beans。
 

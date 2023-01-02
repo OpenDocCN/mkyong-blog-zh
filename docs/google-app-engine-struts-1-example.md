@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/google-app-engine-struts-1-example/>
-
 # Google 应用引擎+ Struts 1 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/google-app-engine-struts-1-example/>
 
 经典 Struts 1 框架万岁，在本教程中，我们将向您展示如何在 **Google App Engine** (GAE)环境下开发一个 **Struts 1.x** web 应用。
 

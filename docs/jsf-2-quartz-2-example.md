@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jsf2/jsf-2-quartz-2-example/>
-
 # JSF 2 +石英 2 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jsf2/jsf-2-quartz-2-example/>
 
 在本教程中，我们将向您展示如何通过 Quartz 库中的`QuartzInitializerListener`监听器类在 JSF web 应用程序中运行 Quartz 作业。这个解决方案不仅适用于 JSF 2，这个概念也适用于几乎所有的标准 Java web 应用程序。
 

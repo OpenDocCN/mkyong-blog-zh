@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/junit-how-to-test-a-map/>
-
 # JUnit——如何测试地图
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/junit-how-to-test-a-map/>
 
 忘掉 JUnit `assertEquals()`，为了测试一个`Map`，使用了来自`hamcrest-library.jar`的更有表现力的`IsMapContaining`类
 

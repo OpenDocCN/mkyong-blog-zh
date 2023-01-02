@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/mongodb-couldnt-open-datadbyourdb-ns-errno13-permission-denied/>
-
 # MongoDB:无法打开/data/db/yourdb.ns 错误号:13 权限被拒绝
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/mongodb-couldnt-open-datadbyourdb-ns-errno13-permission-denied/>
 
 启动 MongoDB 服务器，它在一个数据库上显示错误“权限被拒绝”,并自动关闭服务器。
 

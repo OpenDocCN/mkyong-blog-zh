@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/struts-2-on-gae-error-result-null-not-found/>
-
 # GAE 上的 struts 2–错误:未找到结果“null”
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/struts-2-on-gae-error-result-null-not-found/>
 
 ## 问题
 

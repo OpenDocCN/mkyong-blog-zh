@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/where-is-jsf-2-taglib-javadoc/>
-
 # JSF 2 taglib JavaDoc 在哪里？
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/where-is-jsf-2-taglib-javadoc/>
 
 ## 问题
 

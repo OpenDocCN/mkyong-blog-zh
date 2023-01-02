@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/how-to-trigger-other-elements-event-handler-with-jquery/>
-
 # 如何用 jQuery 触发其他元素事件处理程序
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/how-to-trigger-other-elements-event-handler-with-jquery/>
 
 jQuery 附带了一个 **trigger()** 函数来执行附加到元素的事件处理程序。举个例子，
 

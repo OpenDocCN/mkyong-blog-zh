@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-parameterizableviewcontroller-example/>
-
 # spring MVC ParameterizableViewController 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-parameterizableviewcontroller-example/>
 
 一般来说，要在 Spring MVC 应用中返回一个视图或页面，需要创建一个类，该类扩展了 **AbstractController** ，并返回一个 **ModelAndView()** 对象。
 

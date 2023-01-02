@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-listeners-example/>
-
 # Spring 批处理侦听器示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-listeners-example/>
 
 ![spring-batch-listeners](img/3ff20dbe399c37d2bcb7e40f4cb1c4b7.png)
 

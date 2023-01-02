@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/mashable-floating-effect-example-with-jquery/>
-
 # 使用 jQuery 的 Mashable 浮动效果示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/mashable-floating-effect-example-with-jquery/>
 
 Mashable 最出名的是社交媒体资源网站，当用户滚动页面时，它创造了一个令人敬畏的浮动效果。这里有一个简单的想法，用 jQuery 克隆这种浮动效果。
 

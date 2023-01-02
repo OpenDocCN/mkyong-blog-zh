@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/spring-el-hello-world-example/>
-
 # Spring EL hello world 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/spring-el-hello-world-example/>
 
 Spring EL 类似于 OGNL 和 JSF EL，在 bean 创建期间被评估或执行。此外，所有 Spring 表达式都可以通过 XML 或注释获得。
 

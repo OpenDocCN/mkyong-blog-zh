@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/how-do-change-the-html-file-location-wicket/>
-
 # 如何在 Wicket 中改变 html 文件的位置
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/how-do-change-the-html-file-location-wicket/>
 
 Wicket 要求 html 和 java 文件位于同一个包目录中。这里我们向你展示如何把 java 和 html 文件放到不同的目录中。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-could-not-find-c3p0connectionprovider/>
-
 # 休眠–找不到 C3P0ConnectionProvider
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-could-not-find-c3p0connectionprovider/>
 
 ## 问题
 

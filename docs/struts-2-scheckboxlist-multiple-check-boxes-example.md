@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-scheckboxlist-multiple-check-boxes-example/>
-
 # Struts 2 <checkboxlist>多个复选框示例</checkboxlist>
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-scheckboxlist-multiple-check-boxes-example/>
 
 Download It – [Struts2-multiple-checkboxes-example.zip](http://web.archive.org/web/20190309091555/http://www.mkyong.com/wp-content/uploads/2010/06/Struts2-default-value-multiple-checkboxes-example.zip)
 

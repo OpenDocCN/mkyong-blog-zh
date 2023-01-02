@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-selenium-load-testing-example/>
-
 # TestNG+Selenium–负载测试示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-selenium-load-testing-example/>
 
 ![testng-selenium-load-test](img/9c994d7cc9ebc98204428242eebde94d.png)
 

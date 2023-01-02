@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-multiresourceitemreader-example/>
-
 # spring Batch multi source item reader 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-multiresourceitemreader-example/>
 
 在本教程中，我们将向您展示如何从多个资源(多个 csv 文件)读取项目，并将项目写入单个 csv 文件。
 

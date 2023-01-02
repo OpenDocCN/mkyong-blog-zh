@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-download-file-example/>
-
 # Struts 2 下载文件示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-download-file-example/>
 
 Download it – [Struts2-Download-File-Example.zip](http://web.archive.org/web/20190304031742/http://www.mkyong.com/wp-content/uploads/2010/06/Struts2-Download-File-Example.zip)
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-attribute-example/>
-
 # JSF 2 属性示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-attribute-example/>
 
 在 JSF 中，“ **f:attribute** ”标签允许您将属性值传递给组件，或者通过动作监听器将参数传递给组件。举个例子，
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-include-multiple-struts-configuration-files/>
-
 # Struts 2–包含多个 Struts 配置文件
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-include-multiple-struts-configuration-files/>
 
 Struts 2 带有“ **include file** ”特性，将多个 Struts 配置文件包含到一个单元中。
 

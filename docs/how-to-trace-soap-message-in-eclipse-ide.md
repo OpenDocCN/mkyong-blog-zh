@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/webservices/jax-ws/how-to-trace-soap-message-in-eclipse-ide/>
-
 # 如何在 Eclipse IDE 中跟踪 SOAP 消息
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/webservices/jax-ws/how-to-trace-soap-message-in-eclipse-ide/>
 
 在 SOAP web 服务中，每个 HTTP 请求或响应都封装了一个 SOAP 信封，使用 Eclipse IDE 内置的" **TCP/IP monitor** "工具可以很容易地跟踪这些消息。这个想法是在客户端和服务器之间托管另一个服务器，以执行端口转发功能来拦截 HTTP 流量。
 

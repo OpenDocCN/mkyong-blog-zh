@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-0-spring-hibernate-integration-example/>
-
 # JSF 2.0 + Spring + Hibernate 集成示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-0-spring-hibernate-integration-example/>
 
 这里有一篇长文告诉你如何将 **JSF 2.0** 、**春天**和**冬眠**整合在一起。在文章的最后，您将创建一个页面，显示数据库中现有客户的列表和一个“添加客户”功能，允许用户添加一个新客户到数据库中。
 

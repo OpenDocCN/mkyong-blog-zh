@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/java-mongodb-get-collection-from-database/>
-
 # Java MongoDB:从数据库获取集合
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/java-mongodb-get-collection-from-database/>
 
 在 Java 中，可以使用**db . get collection(" your collection name ")**来获得一个要使用的集合。
 

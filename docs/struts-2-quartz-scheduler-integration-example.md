@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-quartz-scheduler-integration-example/>
-
 # Struts 2 + Quartz 2 调度器集成示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-quartz-scheduler-integration-example/>
 
 **Updated 2012-07-24**
 Article is updated to use latest Struts 2 and Quartz 2, and tested on Tomcat 6 and 7.

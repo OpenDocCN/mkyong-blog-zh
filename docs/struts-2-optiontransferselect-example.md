@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-optiontransferselect-example/>
-
 # Struts 2 选项转移选择示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-optiontransferselect-example/>
 
 Download It – [Struts2-OptionTransferSelect-Example.zip](http://web.archive.org/web/20190304032237/http://www.mkyong.com/wp-content/uploads/2010/06/Struts2-OptionTransferSelect-Example.zip)
 

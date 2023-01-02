@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-jdbc-oracle-database-commons-dbcp2-example/>
-
 # Spring Boot JDBC + Oracle 数据库+ Commons DBCP2 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-jdbc-oracle-database-commons-dbcp2-example/>
 
 在本文中，我们将向您展示如何创建一个 Spring Boot JDBC 应用程序+ Oracle 数据库+ Commons DBCP2 连接池。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-debugging-on-real-device/>
-
 # Android 在真实设备上的调试
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-debugging-on-real-device/>
 
 本教程将向你展示如何在一个真正的 Android 设备(手机)上调试 Android 应用程序。
 

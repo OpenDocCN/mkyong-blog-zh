@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-hello-world-example/>
-
 # TestNG Hello World 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-hello-world-example/>
 
 一个经典的例子，向你展示如何开始使用 TestNG 单元测试框架。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jsf2/how-to-trigger-a-quartz-job-manually-jsf-2-example/>
-
 # 如何手动触发 Quartz 作业(JSF 2 示例)
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jsf2/how-to-trigger-a-quartz-job-manually-jsf-2-example/>
 
 在 Quartz 中，您可以通过以下模式手动触发作业:
 

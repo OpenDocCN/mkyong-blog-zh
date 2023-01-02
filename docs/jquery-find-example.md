@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-find-example/>
-
 # jQuery find()示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-find-example/>
 
 使用 jQuery，您可以使用`find()`来搜索匹配元素的所有后代(子元素、孙元素、曾孙元素……任何深度级别)。
 

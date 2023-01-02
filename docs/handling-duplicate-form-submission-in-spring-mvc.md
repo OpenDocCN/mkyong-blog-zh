@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/handling-duplicate-form-submission-in-spring-mvc/>
-
 # 在 Spring MVC 中处理重复的表单提交
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/handling-duplicate-form-submission-in-spring-mvc/>
 
 在最后一个 [Spring MVC 表单处理](http://web.archive.org/web/20190224163020/http://www.mkyong.com/spring-mvc/spring-mvc-form-handling-example/)的例子中，如果你刷新表单成功视图，大多数浏览器会提示一个弹出对话框来确认表单的重新提交。如果您单击“是”，表单将再次被重新提交，这种情况就是众所周知的重复表单提交。
 

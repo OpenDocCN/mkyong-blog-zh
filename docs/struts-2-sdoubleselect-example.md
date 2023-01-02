@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-sdoubleselect-example/>
-
 # Struts 2 <doubleselect>示例</doubleselect>
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-sdoubleselect-example/>
 
 Download It – [Struts2-Double-Select-Example.zip](http://web.archive.org/web/20190304032357/http://www.mkyong.com/wp-content/uploads/2010/06/Struts2-Double-Select-Example.zip)
 

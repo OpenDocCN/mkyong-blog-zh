@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-example-xml-file-to-database/>
-
 # Spring 批处理示例 MongoDB 数据库的 XML 文件
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-example-xml-file-to-database/>
 
 在本教程中，我们将向您展示如何配置一个 Spring 批处理作业，将数据从一个 XML 文件( **XStream** library)读入一个 no SQL 数据库( **MongoDB** )。此外，创建一个单元测试用例来启动和测试批处理作业。
 

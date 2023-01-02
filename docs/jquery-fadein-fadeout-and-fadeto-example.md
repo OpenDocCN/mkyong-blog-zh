@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-fadein-fadeout-and-fadeto-example/>
-
 # jQuery fadeIn()、fadeOut()和 fadeTo()示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-fadein-fadeout-and-fadeto-example/>
 
 jQuery 提供了三种简便的方法来轻松创建渐变效果。
 

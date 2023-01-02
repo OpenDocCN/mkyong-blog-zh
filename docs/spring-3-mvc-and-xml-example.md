@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-3-mvc-and-xml-example/>
-
 # Spring 3 MVC 和 XML 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-3-mvc-and-xml-example/>
 
 在 Spring 3 中，“ [mvc:annotation-driven](http://web.archive.org/web/20190214225812/http://static.springsource.org/spring/docs/3.0.x/spring-framework-reference/html/mvc.html#mvc-annotation-driven) ”的一个特性是支持将对象转换为 XML 文件，如果 JAXB 在项目类路径中的话。
 

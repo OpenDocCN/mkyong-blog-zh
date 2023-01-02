@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/java-mongodb-query-document/>
-
 # Java MongoDB:查询文档
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/java-mongodb-query-document/>
 
 在本教程中，我们将向您展示从集合中获取或查询文档的几种常用方法。
 

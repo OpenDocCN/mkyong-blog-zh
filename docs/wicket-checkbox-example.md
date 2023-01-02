@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-checkbox-example/>
-
 # Wicket 复选框示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-checkbox-example/>
 
 Wicket 示例创建一个复选框，并自动选中该复选框。
 

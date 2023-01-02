@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-listfactorybean-example/>
-
 # Spring ListFactoryBean 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-listfactorybean-example/>
 
 ' **ListFactoryBean** '类为开发人员提供了在 Spring 的 Bean 配置文件中创建具体列表集合类(ArrayList 和 LinkedList)的方法。
 

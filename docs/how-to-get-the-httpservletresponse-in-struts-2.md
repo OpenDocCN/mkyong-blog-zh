@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/how-to-get-the-httpservletresponse-in-struts-2/>
-
 # 如何在 Struts 2 中获得 HttpServletResponse
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/how-to-get-the-httpservletresponse-in-struts-2/>
 
 在 Struts 2 中，您可以使用以下两种方法来获取`HttpServletResponse`对象。
 

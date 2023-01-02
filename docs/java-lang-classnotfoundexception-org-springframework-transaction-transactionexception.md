@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring/java-lang-classnotfoundexception-org-springframework-transaction-transactionexception/>
-
 # Java . lang . classnotfoundexception:org . spring framework . transaction . transaction exception
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring/java-lang-classnotfoundexception-org-springframework-transaction-transactionexception/>
 
 用 Spring 3 开发 Quartz，并点击以下错误信息。
 

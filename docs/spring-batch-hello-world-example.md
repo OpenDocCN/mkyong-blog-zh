@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-hello-world-example/>
-
 # 春季批次 Hello World 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-hello-world-example/>
 
 Spring Batch 是一个批处理框架——执行一系列作业。在 Spring Batch 中，一个作业由许多步骤组成，每个步骤由一个`READ-PROCESS-WRITE`任务或`single operation` 任务(小任务)组成。
 

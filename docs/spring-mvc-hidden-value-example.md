@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-hidden-value-example/>
-
 # Spring MVC 隐藏值示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-hidden-value-example/>
 
 在 Spring MVC 中，可以使用 **< form:hidden / >** 来渲染一个 HTML 隐藏值字段。举个例子，
 

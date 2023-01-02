@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-htmlcheckbox-checkbox-example/>
-
 # Struts <checkbox>复选框示例</checkbox>
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-htmlcheckbox-checkbox-example/>
 
 Download this Struts check box example – [Struts-CheckBox-Example.zip](http://web.archive.org/web/20190223075228/http://www.mkyong.com/wp-content/uploads/2010/04/Struts-CheckBox-Example.zip)
 

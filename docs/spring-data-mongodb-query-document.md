@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/spring-data-mongodb-query-document/>
-
 # Spring Data MongoDB:查询文档
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/spring-data-mongodb-query-document/>
 
 在这里，我们向您展示了一些从 MongoDB 查询文档的例子，使用了 query、Criteria 和一些常见的操作符。
 

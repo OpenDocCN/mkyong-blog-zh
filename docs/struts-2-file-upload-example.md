@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-file-upload-example/>
-
 # Struts 2 文件上传示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-file-upload-example/>
 
 Download It – [Struts2-File-Upload-Example.zip](http://web.archive.org/web/20190210101631/http://www.mkyong.com/wp-content/uploads/2010/06/Struts2-File-Upload-Example.zip)
 

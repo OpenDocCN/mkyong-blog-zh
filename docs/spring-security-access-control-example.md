@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/spring-security-access-control-example/>
-
 # Spring 安全访问控制示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/spring-security-access-control-example/>
 
 在 Spring Security 中，访问控制或授权很容易实现。请参见以下代码片段:
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/junit-categories-test/>
-
 # JUnit–类别测试
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/junit-categories-test/>
 
 在 JUnit 中，您可以将测试用例组织成不同的类别，并使用`@Categories.ExcludeCategory`或`@Categories.IncludeCategory`运行这些分类的测试用例
 

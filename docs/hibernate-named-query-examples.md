@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-named-query-examples/>
-
 # Hibernate 命名查询示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-named-query-examples/>
 
 很多时候，开发人员喜欢将 HQL 字符串分散在 Java 代码中，这种方法很难维护，而且看起来很难看。幸运的是，Hibernate 出来了一种叫做“ **names queries** ”的技术，它让开发者把所有的 HQL 放到 XML 映射文件中或者通过注释。
 

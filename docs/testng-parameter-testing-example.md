@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-parameter-testing-example/>
-
 # TestNG 参数测试示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-parameter-testing-example/>
 
 又一个 TestNG 参数测试例子，用`@DataProvider`。
 

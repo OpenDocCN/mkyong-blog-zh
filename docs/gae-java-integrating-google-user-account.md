@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/gae-java-integrating-google-user-account/>
-
 # GAE+Java——整合谷歌用户账户
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/gae-java-integrating-google-user-account/>
 
 在本教程中，我们将向您展示如何通过 Google Java SDK[UserService](http://web.archive.org/web/20190226114540/https://developers.google.com/appengine/docs/java/javadoc/com/google/appengine/api/users/UserService)类将 Google 用户帐户集成到 GAE + Java 项目中。
 

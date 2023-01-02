@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/spring-security-custom-login-form-annotation-example/>
-
 # Spring 安全自定义登录表单注释示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/spring-security-custom-login-form-annotation-example/>
 
 在本教程中，我们将把之前的 [Spring Security 定制登录表单(XML)](http://web.archive.org/web/20190303104611/http://www.mkyong.com/spring-security/spring-security-form-login-example/) 项目转换成一个纯粹的基于注释的项目。
 

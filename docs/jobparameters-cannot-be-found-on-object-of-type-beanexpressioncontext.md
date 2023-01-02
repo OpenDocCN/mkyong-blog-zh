@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/jobparameters-cannot-be-found-on-object-of-type-beanexpressioncontext/>
-
 # 在 BeanExpressionContext 类型的对象上找不到 jobParameters
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/jobparameters-cannot-be-found-on-object-of-type-beanexpressioncontext/>
 
 创建一个简单的 Spring 批处理作业，将数据写入 csv 文件。csv 文件名取决于作业参数的传递，由 Spring EL 解释。
 

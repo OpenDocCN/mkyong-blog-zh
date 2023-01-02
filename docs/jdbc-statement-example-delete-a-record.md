@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-statement-example-delete-a-record/>
-
 # JDBC 语句示例-删除记录
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-statement-example-delete-a-record/>
 
 下面的例子展示了如何通过 JDBC 语句从表中删除记录。要发出 delete 语句，调用`Statement.executeUpdate()`方法，如下所示:
 

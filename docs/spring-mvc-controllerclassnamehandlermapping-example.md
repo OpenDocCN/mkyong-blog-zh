@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-controllerclassnamehandlermapping-example/>
-
 # spring MVC controllerclassnamehandler 映射示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-controllerclassnamehandlermapping-example/>
 
 在 Spring MVC 中，**ControllerClassNameHandlerMapping**使用约定将请求的 URL 映射到控制器(约定优先于配置)。它接受类名，删除“Controller”后缀(如果存在的话),并返回剩余的文本，小写并以“/”开头。
 

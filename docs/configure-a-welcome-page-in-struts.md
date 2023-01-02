@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/configure-a-welcome-page-in-struts/>
-
 # 在 Struts 中配置欢迎页面
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/configure-a-welcome-page-in-struts/>
 
 每个网站都需要一个欢迎页面或默认页面作为入口点。这里有 3 种在 Struts 中配置欢迎页面的方法。
 

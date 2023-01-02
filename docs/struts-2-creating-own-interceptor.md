@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-creating-own-interceptor/>
-
 # Struts 2 创建自己的拦截器
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-creating-own-interceptor/>
 
 Download it – [Struts2-Create-Own-Interceptor-Example.zip](http://web.archive.org/web/20190214234608/http://www.mkyong.com/wp-content/uploads/2010/07/Struts2-Create-Own-Interceptor-Example.zip)
 

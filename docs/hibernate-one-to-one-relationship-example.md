@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-one-to-one-relationship-example/>
-
 # hibernate–一对一示例(XML 映射)
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-one-to-one-relationship-example/>
 
 > 当一个实体恰好与另一个实体中的一个事件相关时，就会出现一对一的关系。
 

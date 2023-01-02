@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-only-child-selector-example/>
-
 # jQuery–唯一子选择器示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-only-child-selector-example/>
 
 “**唯一子元素**用于选择所有作为其父元素唯一子元素的元素。
 

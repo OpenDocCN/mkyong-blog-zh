@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/how-to-convert-date-in-beanwrapperfieldsetmapper/>
-
 # 如何在 BeanWrapperFieldSetMapper 中转换日期
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/how-to-convert-date-in-beanwrapperfieldsetmapper/>
 
 读取下面的 Spring 批处理作业，它从" *domain.csv* "中读取数据，并将其映射到一个域对象。
 

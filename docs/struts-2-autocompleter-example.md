@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-autocompleter-example/>
-
 # Struts 2 自动完成器示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-autocompleter-example/>
 
 Download It – [Struts2-AutoCompleter-Example.zip](http://web.archive.org/web/20190304032710/http://www.mkyong.com/wp-content/uploads/2010/06/Struts2-AutoCompleter-Example.zip)
 

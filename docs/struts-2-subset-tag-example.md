@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-subset-tag-example/>
-
 # Struts 2 子集标记示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-subset-tag-example/>
 
 Download It – [Struts2-Subset-Tag-Example.zip](http://web.archive.org/web/20190222123713/http://www.mkyong.com/wp-content/uploads/2010/07/Struts2-Subset-Tag-Example.zip)
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-spring-quartz-scheduler-integration-example/>
-
 # Struts 1 + Spring 2.5.6 + Quartz 1.6 调度器示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-spring-quartz-scheduler-integration-example/>
 
 在本教程中，您将集成 Struts + Spring + Quartz 框架来执行调度任务。Spring 提供了现成的解决方案来轻松集成支柱和石英。关系如下:
 

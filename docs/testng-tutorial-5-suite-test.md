@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-tutorial-5-suite-test/>
-
 # TestNG–运行多个测试类(套件测试)
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-tutorial-5-suite-test/>
 
 ![testng-suite-test](img/55e947a61eb6eb073e6968c30889b01b.png)
 

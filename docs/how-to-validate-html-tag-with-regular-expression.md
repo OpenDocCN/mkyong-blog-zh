@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/regular-expressions/how-to-validate-html-tag-with-regular-expression/>
-
 # 如何用正则表达式验证 HTML 标签
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/regular-expressions/how-to-validate-html-tag-with-regular-expression/>
 
 HTML 标记正则表达式模式
 

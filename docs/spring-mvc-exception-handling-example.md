@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-exception-handling-example/>
-
 # Spring MVC 异常处理示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-exception-handling-example/>
 
 在 J2EE / servlet web 应用程序中，您可以映射错误页面来指定如下异常:
 

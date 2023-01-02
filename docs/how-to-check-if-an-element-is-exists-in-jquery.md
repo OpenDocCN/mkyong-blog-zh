@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/how-to-check-if-an-element-is-exists-in-jquery/>
-
 # 如何检查 jQuery 中是否存在元素
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/how-to-check-if-an-element-is-exists-in-jquery/>
 
 在 jQuery 中，可以使用**。length** 属性来检查元素是否存在。如果元素存在，length 属性将返回匹配元素的总数。
 

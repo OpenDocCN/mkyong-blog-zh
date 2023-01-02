@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/spring-security-check-if-user-is-from-remember-me-cookie/>
-
 # Spring Security:检查用户是否来自“记住我”cookie
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/spring-security-check-if-user-is-from-remember-me-cookie/>
 
 这个 Spring 安全示例向您展示了如何检查一个用户是否从“remember me”cookie 登录。
 

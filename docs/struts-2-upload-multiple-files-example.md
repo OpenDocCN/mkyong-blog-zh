@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-upload-multiple-files-example/>
-
 # Struts 2 上传多个文件示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-upload-multiple-files-example/>
 
 Download It – [Struts2-Multiple-Files-Upload-Example.zip](http://web.archive.org/web/20190225092247/http://www.mkyong.com/wp-content/uploads/2010/06/Struts2-Multiple-Files-Upload-Example.zip)
 

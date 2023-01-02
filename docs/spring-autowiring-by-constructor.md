@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-autowiring-by-constructor/>
-
 # 由构造者进行弹簧自动布线
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-autowiring-by-constructor/>
 
 在 Spring 中，“**由构造器**自动连线”实际上是[由构造器参数中的类型](http://web.archive.org/web/20190216035626/http://www.mkyong.com/spring/spring-autowiring-by-type/)自动连线。这意味着，如果一个 bean 的数据类型与另一个 bean 构造函数参数的数据类型相同，就自动连接它。
 

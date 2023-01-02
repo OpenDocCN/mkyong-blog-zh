@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-param-tag-example/>
-
 # Struts 2 参数标记示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-param-tag-example/>
 
 Download It – [Struts2-Param-Tag-Example.zip](http://web.archive.org/web/20190304031549/http://www.mkyong.com/wp-content/uploads/2010/07/Struts2-Param-Tag-Example.zip)
 

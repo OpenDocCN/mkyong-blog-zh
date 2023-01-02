@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-rating-bar-example/>
-
 # Android 评级栏示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-rating-bar-example/>
 
 在 Android 中，您可以使用“ [android.widget.RatingBar](http://web.archive.org/web/20190227085858/http://developer.android.com/reference/android/widget/RatingBar.html) ”在星星图标中显示评级栏组件。用户可以触摸、拖动或点击星星来轻松设置评级值。
 

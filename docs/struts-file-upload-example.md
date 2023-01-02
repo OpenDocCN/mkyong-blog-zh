@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-file-upload-example/>
-
 # Struts 文件上传示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-file-upload-example/>
 
 在本教程中，您将学习如何使用 Struts **< html:file >** 标签将文件上传到服务器文件系统。
 

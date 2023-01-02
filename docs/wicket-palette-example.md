@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-palette-example/>
-
 # Wicket 调色板示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-palette-example/>
 
 Wicket 扩展带有一个特殊的" **Palette** "组件，它呈现两个选择框，并允许用户将项目从一个选择框移动到另一个选择框。
 

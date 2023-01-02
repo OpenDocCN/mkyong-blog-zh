@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-properties-dependency-checking/>
-
 # Spring 属性依赖检查
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-properties-dependency-checking/>
 
 在 Spring 中，您可以使用依赖检查特性来确保已经设置或注入了所需的属性。
 

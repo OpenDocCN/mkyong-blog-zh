@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-shead-example/>
-
 # Struts 2 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-shead-example/>
 
 **< s:head >** 标签用于输出编码、CSS 或 JavaScript 文件等 HTML 头信息。请参见以下片段:
 

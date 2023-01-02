@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-webflux-server-sent-events-example/>
-
 # Spring Boot WebFlux +服务器发送的事件示例
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-webflux-server-sent-events-example/>
 
 在本文中，我们将向您展示如何使用[服务器发送的事件](http://web.archive.org/web/20190308020548/https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)开发一个反应式 web 应用程序
 

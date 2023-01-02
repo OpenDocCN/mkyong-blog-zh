@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-statement-example-create-a-table/>
-
 # JDBC 语句示例–创建表格
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-statement-example-create-a-table/>
 
 这里有一个例子向你展示如何通过 JDBC 语句在数据库中创建一个表。要发出 create 语句，调用 S `tatement.execute()`方法，如下所示:
 

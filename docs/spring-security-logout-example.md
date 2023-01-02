@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/spring-security-logout-example/>
-
 # Spring 安全注销示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/spring-security-logout-example/>
 
 在 Spring Security 中，要注销，只需添加一个链接到 URL“**j _ Spring _ Security _ logout**”，例如:
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-display-generated-sql-to-console-show_sql-format_sql-and-use_sql_comments/>
-
 # 向控制台显示 Hibernate SQL–show _ SQL、format_sql 和 use_sql_comments
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-display-generated-sql-to-console-show_sql-format_sql-and-use_sql_comments/>
 
 Hibernate 有一个内置函数，可以将所有生成的 SQL 语句记录到控制台。您可以通过在 Hibernate 配置文件"`hibernate.cfg.xml`"中添加一个" **show_sql** "属性来启用它。这个函数对于基本的故障排除很有用，并且可以查看 Hibernate 在后面做了什么。
 

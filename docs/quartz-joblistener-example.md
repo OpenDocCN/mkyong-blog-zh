@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/java/quartz-joblistener-example/>
-
 # Quartz 2 作业监听器示例
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/java/quartz-joblistener-example/>
 
 在本教程中，我们将向您展示如何创建一个`JobListener`，来跟踪正在运行的作业状态，比如作业何时完成。
 

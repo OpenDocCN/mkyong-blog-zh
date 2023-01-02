@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-inner-bean-examples/>
-
 # Spring 内部 bean 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-inner-bean-examples/>
 
 在 Spring framework 中，每当 bean 仅用于一个特定属性时，建议将其声明为内部 bean。并且 setter 注入'`property`'和 constructor 注入'`constructor-arg`'都支持内部 bean。
 

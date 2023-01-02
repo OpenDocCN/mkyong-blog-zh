@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/how-do-use-ajaxlazyloadpanel-in-wicket/>
-
 # 如何在 Wicket 中使用 AjaxLazyLoadPanel
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/how-do-use-ajaxlazyloadpanel-in-wicket/>
 
 *Ajax azionloadpanel 定义:*
 

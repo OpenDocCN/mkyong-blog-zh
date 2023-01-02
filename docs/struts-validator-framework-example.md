@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-validator-framework-example/>
-
 # Struts 验证器框架示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-validator-framework-example/>
 
 Struts 验证器框架提供了许多通用的验证方法，使验证工作更加容易和可维护。使用 Struts validator，您需要将验证函数声明到一个 xml 文件中，而不是 ActionForm validate()方法，这可以使 Struts 验证更加标准化、可重用和减少重复代码。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-global-custom-exception-example/>
-
 # struts–<global-exception>自定义异常处理程序示例</global-exception>
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-global-custom-exception-example/>
 
 Download this <global-exception> example – [Struts-Global-Exception-Example.zip](http://web.archive.org/web/20190223082407/http://www.mkyong.com/wp-content/uploads/2010/04/Struts-Log4j-integration-Example.zip)
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/spring-security-remember-me-example/>
-
 # Spring Security 记住我示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/spring-security-remember-me-example/>
 
 ![spring-security-remember-me](img/819532e7bf091a49d9f5091017461e4f.png)
 

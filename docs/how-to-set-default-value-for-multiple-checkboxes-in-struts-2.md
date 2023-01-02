@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/how-to-set-default-value-for-multiple-checkboxes-in-struts-2/>
-
 # 如何在 Struts 2 中为多个复选框设置默认值
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/how-to-set-default-value-for-multiple-checkboxes-in-struts-2/>
 
 在 Struts 2 中，可以通过 **< s:checkboxlist >** 标签创建多个同名的复选框。棘手的部分是如何在多个复选框中设置默认值。例如，带有“红色”、“黄色”、“蓝色”、“绿色”选项的复选框列表，并且您希望将“红色”和“绿色”都设置为默认选中值。
 

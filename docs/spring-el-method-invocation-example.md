@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/spring-el-method-invocation-example/>
-
 # Spring EL 方法调用示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/spring-el-method-invocation-example/>
 
 Spring expression language (SpEL)允许开发人员使用表达式来执行方法，并将方法返回值注入到属性中，即所谓的“ **SpEL 方法调用**”。
 

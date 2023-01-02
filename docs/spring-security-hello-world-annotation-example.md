@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/spring-security-hello-world-annotation-example/>
-
 # Spring Security Hello World 注释示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/spring-security-hello-world-annotation-example/>
 
 ![security](img/e206f7a84f1911c981876229fc0b8a20.png)
 

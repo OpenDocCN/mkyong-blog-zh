@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-click-and-dblclick-example/>
-
 # jQuery click()和 dblclick()示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-click-and-dblclick-example/>
 
 jQuery **click()** 和 **dblclick()** 事件是最常用的鼠标事件:
 

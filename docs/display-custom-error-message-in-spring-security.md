@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/display-custom-error-message-in-spring-security/>
-
 # 在 Spring Security 中显示自定义错误消息
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/display-custom-error-message-in-spring-security/>
 
 在 Spring Security 中，当身份验证失败时，将显示以下预定义的错误消息:
 

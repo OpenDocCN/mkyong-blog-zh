@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-datatable-sorting-example-datamodel/>
-
 # JSF 2 数据表排序示例–数据模型
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-datatable-sorting-example-datamodel/>
 
 在前面的 [JSF 2 的数据表排序示例](http://web.archive.org/web/20190214232804/http://www.mkyong.com/jsf2/jsf-2-datatable-sorting-example/)中，展示了最简单的方法，一个自定义的比较器来排序一个列表并显示在数据表中。
 

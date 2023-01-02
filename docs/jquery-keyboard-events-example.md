@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-keyboard-events-example/>
-
 # jQuery 键盘事件示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-keyboard-events-example/>
 
 jQuery 附带了三个键盘事件来捕获键盘活动——**keyup()**、 **keydown()** 和 **keypress()** 。
 

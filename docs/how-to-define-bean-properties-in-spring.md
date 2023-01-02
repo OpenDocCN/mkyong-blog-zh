@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/how-to-define-bean-properties-in-spring/>
-
 # 如何在 Spring 中为 bean 属性注入值
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/how-to-define-bean-properties-in-spring/>
 
 在 Spring 中，有三种方法可以向 bean 属性注入值。
 

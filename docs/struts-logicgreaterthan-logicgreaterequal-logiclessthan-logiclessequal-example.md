@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-logicgreaterthan-logicgreaterequal-logiclessthan-logiclessequal-example/>
-
 # struts-<greaterthan><greaterequal><lessthan><lessequal>示例</lessequal></lessthan></greaterequal></greaterthan>
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-logicgreaterthan-logicgreaterequal-logiclessthan-logiclessequal-example/>
 
 Download this example – [Struts-Logic-Number-Condition-Tag-Example.zip](http://web.archive.org/web/20190209024221/http://www.mkyong.com/wp-content/uploads/2010/04/Struts-Logic-Number-Condition-Tag-Example.zip)
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/how-to-make-a-phone-call-in-android/>
-
 # 如何用安卓打电话
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/how-to-make-a-phone-call-in-android/>
 
 在本教程中，我们将向您展示如何在 Android 中拨打电话，并通过`PhoneStateListener`监控电话通话状态。
 

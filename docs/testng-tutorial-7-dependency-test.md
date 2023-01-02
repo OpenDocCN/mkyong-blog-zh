@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-tutorial-7-dependency-test/>
-
 # TestNG–依赖性测试
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-tutorial-7-dependency-test/>
 
 在 TestNG 中，我们使用`dependOnMethods`和`dependsOnGroups`来实现依赖测试。如果一个从属方法失败，所有后续的测试方法将被跳过，而不是失败。
 

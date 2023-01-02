@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-merge-tag-example/>
-
 # Struts 2 合并标签示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-merge-tag-example/>
 
 Download It – [Struts2-Merge-Tag-Example.zip](http://web.archive.org/web/20190220094418/http://www.mkyong.com/wp-content/uploads/2010/07/Struts2-Merge-Tag-Example.zip)
 

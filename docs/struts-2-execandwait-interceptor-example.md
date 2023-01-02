@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-execandwait-interceptor-example/>
-
 # Struts 2 execAndWait 拦截器示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-execandwait-interceptor-example/>
 
 Download it – [Struts2-ExecAndWait-Interceptor-Example.zip](http://web.archive.org/web/20190214232659/http://www.mkyong.com/wp-content/uploads/2010/07/Struts2-ExecAndWait-Interceptor-Example.zip)
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-setfactorybean-example/>
-
 # Spring SetFactoryBean 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-setfactorybean-example/>
 
 ' **SetFactoryBean** '类为开发人员提供了在 Spring 的 Bean 配置文件中创建具体集合(HashSet 和 TreeSet)的方法。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/difference-between-struts-2-filterdispatcher-and-strutsprepareandexecutefilter/>
-
 # Struts 2 FilterDispatcher 和 StrutsPrepareAndExecuteFilter 的区别？
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/difference-between-struts-2-filterdispatcher-and-strutsprepareandexecutefilter/>
 
 ## 问题
 

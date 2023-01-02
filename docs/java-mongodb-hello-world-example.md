@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/java-mongodb-hello-world-example/>
-
 # Java + MongoDB hello world 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/java-mongodb-hello-world-example/>
 
 ![Java mongodb hello world](img/68fdec967ae7f4780c964ca910875ecc.png)
 

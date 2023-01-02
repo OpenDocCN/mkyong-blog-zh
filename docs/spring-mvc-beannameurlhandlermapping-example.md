@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-beannameurlhandlermapping-example/>
-
 # spring MVC BeanNameUrlHandlerMapping 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-beannameurlhandlermapping-example/>
 
 在 Spring MVC 中，**BeanNameUrlHandlerMapping**是默认的处理程序映射机制，它将 **URL 请求映射到 beans 的名称**。举个例子，
 

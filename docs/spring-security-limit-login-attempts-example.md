@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/spring-security-limit-login-attempts-example/>
-
 # Spring 安全性:限制登录尝试示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/spring-security-limit-login-attempts-example/>
 
 ![spring-security-limit-login-attempts-locked](img/33f942b9f928483104a4b127242a2957.png)
 

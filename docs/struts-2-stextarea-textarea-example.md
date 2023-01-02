@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-stextarea-textarea-example/>
-
 # Struts 2 <textarea>textarea 示例</textarea>
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-stextarea-textarea-example/>
 
 Download It – [Struts2-TextArea–Example.zip](http://web.archive.org/web/20190222143654/http://www.mkyong.com/wp-content/uploads/2010/06/Struts2-TextArea-Example.zip)
 

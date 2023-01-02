@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-radiobutton-and-radiobuttons-example/>
-
 # Spring MVC 单选按钮和单选按钮示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-radiobutton-and-radiobuttons-example/>
 
 在 Spring MVC 中， **<表单:radiobutton / >** 用于渲染一个 HTML 单选按钮，单选按钮值硬编码在 JSP 页面内部；而 **<表单:radiobuttons / >** 用于呈现多个单选按钮，单选按钮值在运行时生成。
 

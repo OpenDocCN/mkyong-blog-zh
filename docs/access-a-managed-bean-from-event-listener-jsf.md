@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/access-a-managed-bean-from-event-listener-jsf/>
-
 # 从事件监听器-JSF 访问受管 bean
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/access-a-managed-bean-from-event-listener-jsf/>
 
 ## 问题
 

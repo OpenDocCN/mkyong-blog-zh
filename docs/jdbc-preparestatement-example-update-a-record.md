@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-preparestatement-example-update-a-record/>
-
 # JDBC 编制报表示例-更新记录
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-preparestatement-example-update-a-record/>
 
 这里有一个例子，向您展示如何通过 JDBC PreparedStatement 更新表中的记录。要发出更新语句，调用`PreparedStatement.executeUpdate()`方法，如下所示:
 

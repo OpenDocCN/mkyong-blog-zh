@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/java-mongodb-delete-document/>
-
 # Java MongoDB:删除文档
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/java-mongodb-delete-document/>
 
 在本教程中，我们将向您展示如何使用`collection.remove()`从集合中删除文档。
 

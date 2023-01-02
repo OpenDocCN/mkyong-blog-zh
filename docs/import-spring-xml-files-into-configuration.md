@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring3/import-spring-xml-files-into-configuration/>
-
 # 将 Spring XML 文件导入@Configuration
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring3/import-spring-xml-files-into-configuration/>
 
 将 XML 配置混合到 Spring `@Configuration`中是很常见的，因为开发人员已经习惯了 XML 名称空间。在 Spring 中，您可以使用`@ImportResource`将 Spring XML 配置文件导入到`@Configuration`中:
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-unit-test-example/>
-
 # 春季批量单元测试示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-unit-test-example/>
 
 在本教程中，我们将向您展示如何使用 jUnit 和 TestNG 框架对 Spring 批处理作业进行单元测试。对批处理作业进行单元测试，声明`spring-batch-test.jar`、*、@autowired* 和`JobLauncherTestUtils`，启动作业或步骤，并断言执行状态。
 

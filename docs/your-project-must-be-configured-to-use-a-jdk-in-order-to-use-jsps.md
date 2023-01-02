@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/your-project-must-be-configured-to-use-a-jdk-in-order-to-use-jsps/>
-
 # 为了使用 JSP，您的项目必须配置为使用 JDK
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/your-project-must-be-configured-to-use-a-jdk-in-order-to-use-jsps/>
 
 ## 问题
 

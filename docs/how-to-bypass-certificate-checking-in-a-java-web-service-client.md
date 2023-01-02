@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/webservices/jax-ws/how-to-bypass-certificate-checking-in-a-java-web-service-client/>
-
 # 如何在 Java web 服务客户机中绕过证书检查
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/webservices/jax-ws/how-to-bypass-certificate-checking-in-a-java-web-service-client/>
 
 在 Java web 服务开发环境中，开发人员总是使用`keytool`来生成测试证书。在进行客户端测试时，web 服务测试客户端经常会遇到以下错误消息:
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-logic-present-logic-notpresent-example/>
-
 # struts-<present><notpresent>示例</notpresent></present>
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-logic-present-logic-notpresent-example/>
 
 Download this example – [Struts-Logic-Present-NotPresent-Example.zip](http://web.archive.org/web/20190224153322/http://www.mkyong.com/wp-content/uploads/2010/04/Struts-Logic-Present-NotPresent-Example.zip)
 

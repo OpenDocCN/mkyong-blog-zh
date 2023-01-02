@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/ant/ant-and-junit-task-example/>
-
 # Ant 和 jUnit 任务示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/ant/ant-and-junit-task-example/>
 
 在本教程中，我们将向您展示如何在 Ant build 中运行 junit 测试。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-logic-empty-logic-notempty-example/>
-
 # struts-<empty>&<notempty>示例</notempty></empty>
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-logic-empty-logic-notempty-example/>
 
 Download this example – [Struts-Logic-Empty-NotEmpty-Example.zip](http://web.archive.org/web/20190213170100/http://www.mkyong.com/wp-content/uploads/2010/04/Struts-Logic-Empty-NotEmpty-Example.zip)
 

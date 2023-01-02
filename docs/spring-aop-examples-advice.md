@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-aop-examples-advice/>
-
 # Spring AOP 示例——建议
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-aop-examples-advice/>
 
 **Spring AOP + AspectJ**
 Using AspectJ is more flexible and powerful, please refer to this tutorial – [Using AspectJ annotation in Spring AOP](http://web.archive.org/web/20190225095921/http://www.mkyong.com/spring3/spring-aop-aspectj-annotation-example/).

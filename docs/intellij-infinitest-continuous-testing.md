@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/intellij/intellij-infinitest-continuous-testing/>
-
 # Intellij + Infinitest 持续测试
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/intellij/intellij-infinitest-continuous-testing/>
 
 Infinitest 是一个持续测试插件，它有助于自动运行测试。
 

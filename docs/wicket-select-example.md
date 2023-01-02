@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-select-example/>
-
 # Wicket 选择示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-select-example/>
 
 Wicket 扩展附带了一个“`Select`”类，用于呈现一个下拉框组件，该组件能够用< optgroup >标签对相关选项进行**分组。**
 

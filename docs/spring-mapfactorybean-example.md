@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-mapfactorybean-example/>
-
 # Spring MapFactoryBean 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-mapfactorybean-example/>
 
 ' **MapFactoryBean** '类为开发人员提供了在 Spring 的 Bean 配置文件中创建具体地图集合类(HashMap 和 TreeMap)的方法。
 

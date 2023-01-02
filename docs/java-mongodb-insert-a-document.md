@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/java-mongodb-insert-a-document/>
-
 # Java MongoDB:插入文档
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/java-mongodb-insert-a-document/>
 
 在本教程中，我们向您展示了通过 Java MongoDB API 将下面的 **JSON** 数据插入到一个**文档**中的 4 种方法。
 

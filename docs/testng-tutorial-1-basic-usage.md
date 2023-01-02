@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-tutorial-1-basic-usage/>
-
 # TestNG–配置注释示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-tutorial-1-basic-usage/>
 
 ![testng-configuration](img/efe4cbddedcc870180bb57ff0e3aa986.png)
 

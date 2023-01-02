@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/load-multiple-spring-bean-configuration-file/>
-
 # 如何加载多个 Spring bean 配置文件
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/load-multiple-spring-bean-configuration-file/>
 
 ## 问题
 

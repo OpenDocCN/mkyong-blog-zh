@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-error-nosuchmethoderror-digester-parseljavaneturlljavalangobject/>
-
 # Struts 错误–NoSuchMethodError:digester . parse(Ljava/net/URL；)Ljava/lang/Object
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-error-nosuchmethoderror-digester-parseljavaneturlljavalangobject/>
 
 ## 问题
 

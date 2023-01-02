@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-shidden-hidden-value-example/>
-
 # Struts 2 <hidden>隐藏值示例</hidden>
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-shidden-hidden-value-example/>
 
 Download It – [Struts2-Hidden-Example.zip](http://web.archive.org/web/20190304030906/http://www.mkyong.com/wp-content/uploads/2010/06/Struts2-Hidden-Example.zip)
 

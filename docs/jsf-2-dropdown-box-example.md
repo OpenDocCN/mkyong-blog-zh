@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-dropdown-box-example/>
-
 # JSF 2 下拉框示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-dropdown-box-example/>
 
 在 JSF， **< h:selectOneMenu / >** 标签用于呈现一个下拉框——HTML 选择元素，属性为“ **size=1** ”。
 

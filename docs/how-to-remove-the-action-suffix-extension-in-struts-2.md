@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/how-to-remove-the-action-suffix-extension-in-struts-2/>
-
 # 如何删除 Struts 2 中的 action 后缀扩展
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/how-to-remove-the-action-suffix-extension-in-struts-2/>
 
 Download It – [Struts2-Custom-Extension-Example.zip](http://web.archive.org/web/20190303140546/http://www.mkyong.com/wp-content/uploads/2010/06/Struts2-Custom-Extension-Example.zip)
 

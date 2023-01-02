@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-resultpath-annotation-example/>
-
 # Struts 2 @ResultPath 注释示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-resultpath-annotation-example/>
 
 在 Struts 2 中， **@ResultPath 注释**用于控制 Struts 2 将在哪里找到存储的结果或 JSP 页面。默认情况下，它会从“ **WEB-INF/content/** ”文件夹中找到结果页面。
 

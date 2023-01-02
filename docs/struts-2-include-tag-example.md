@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-include-tag-example/>
-
 # Struts 2 包含标签示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-include-tag-example/>
 
 Download It – [Struts2-Include-Tag-Example.zip](http://web.archive.org/web/20190304032715/http://www.mkyong.com/wp-content/uploads/2010/07/Struts2-Include-Tag-Example.zip)
 

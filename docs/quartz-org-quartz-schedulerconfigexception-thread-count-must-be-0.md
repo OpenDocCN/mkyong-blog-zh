@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/java/quartz-org-quartz-schedulerconfigexception-thread-count-must-be-0/>
-
 # quartz:org . quartz . scheduler config 异常:线程计数必须大于 0
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/java/quartz-org-quartz-schedulerconfigexception-thread-count-must-be-0/>
 
 使用 Quartz 2，当运行项目时，遇到以下错误信息？
 

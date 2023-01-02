@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/how-to-pass-new-hidden-value-to-backing-bean-in-jsf/>
-
 # 如何将新的隐藏价值传递给 JSF 的 backing bean
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/how-to-pass-new-hidden-value-to-backing-bean-in-jsf/>
 
 在某些情况下，您可能需要向后备 bean 传递一个新的隐藏值。一般有两种方式:
 

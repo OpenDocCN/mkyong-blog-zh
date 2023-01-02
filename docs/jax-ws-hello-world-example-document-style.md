@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/webservices/jax-ws/jax-ws-hello-world-example-document-style/>
-
 # JAX-WS Hello World 示例-文档样式
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/webservices/jax-ws/jax-ws-hello-world-example-document-style/>
 
 在本教程中，我们将向您展示如何使用 JAX-WS 来创建一个基于 SOAP 的 web 服务(文档样式)端点。与 [RPC 风格](http://web.archive.org/web/20190310093210/http://www.mkyong.com/webservices/jax-ws/jax-ws-hello-world-example/)相比，它需要一些额外的努力来使它工作。
 

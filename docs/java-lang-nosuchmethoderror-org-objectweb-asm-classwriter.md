@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/java-lang-nosuchmethoderror-org-objectweb-asm-classwriter/>
-
 # Java . lang . nosuchmethod error:org . object web . ASM . class writer
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/java-lang-nosuchmethoderror-org-objectweb-asm-classwriter/>
 
 ## 问题
 

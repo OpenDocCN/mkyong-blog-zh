@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/how-to-load-ajax-libraries-from-google-code/>
-
 # 如何从 Google 代码加载 Ajax 库？
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/how-to-load-ajax-libraries-from-google-code/>
 
 谷歌代码托管了很多 Ajax 库，可以从任何服务器或网站免费下载。这里是迄今为止提供的 Ajax 库列表。
 

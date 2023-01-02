@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-how-to-know-which-connection-pool-is-used/>
-
 # Spring Boot——如何知道使用了哪个连接池？
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-how-to-know-which-connection-pool-is-used/>
 
 在 Spring Boot，`@Autowired` a `javax.sql.DataSource`，你就会知道当前运行的应用程序使用的是哪个数据库连接池。
 

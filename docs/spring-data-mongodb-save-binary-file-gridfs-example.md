@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/spring-data-mongodb-save-binary-file-gridfs-example/>
-
 # Spring 数据 MongoDB:保存二进制文件，GridFS 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/spring-data-mongodb-save-binary-file-gridfs-example/>
 
 <noscript><img src="img/de73355390cc8e8f5fc8ffbd2ae4e826.png" alt="binary-data-flow" width="380" height="253" data-original-src="http://web.archive.org/web/20200123144222im_/http://www.mkyong.com/wp-content/uploads/2013/04/binary-data-flow.jpg"/></noscript>
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-3-mvc-contentnegotiatingviewresolver-example/>
-
 # spring 3 MVC ContentNegotiatingViewResolver 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-3-mvc-contentnegotiatingviewresolver-example/>
 
 Spring 3，**contentnegotiatingviewrolver**，是一个有趣的视图解析器，它允许你输出相同的资源(内容或数据)到不同类型的视图，如 **JSP** 、 **XML** 、 **RSS** 、 **JSON** 等。简单地说，看下面的 web 请求的 URL，它将在不同的视图中返回。
 

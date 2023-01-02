@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/tutorials/junit-tutorials/>
-
 # JUnit 教程
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/tutorials/junit-tutorials/>
 
 ![junit-logo](img/ec5a508ced20f91fe56e6d1a59a7857e.png)
 

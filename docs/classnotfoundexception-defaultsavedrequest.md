@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/classnotfoundexception-defaultsavedrequest/>
-
 # ClassNotFoundException:DefaultSavedRequest
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/classnotfoundexception-defaultsavedrequest/>
 
 ## 问题
 

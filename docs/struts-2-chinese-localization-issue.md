@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-chinese-localization-issue/>
-
 # Struts 2 中文本地化问题
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-chinese-localization-issue/>
 
 一个 Struts 2 i18n 显示中文字符的本地化问题…
 

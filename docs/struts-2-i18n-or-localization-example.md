@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-i18n-or-localization-example/>
-
 # struts 2–i18n 或本地化示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-i18n-or-localization-example/>
 
 一个 Struts 2 国际化(i18n)、本地化(i10n)或多语言示例，展示了资源包的使用，以显示来自不同语言的消息。在本例中，您将创建一个简单的登录屏幕，通过 Struts 2 UI 组件显示资源包中的消息，并根据所选的语言选项更改区域设置。
 

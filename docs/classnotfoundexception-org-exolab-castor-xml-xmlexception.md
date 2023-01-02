@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/classnotfoundexception-org-exolab-castor-xml-xmlexception/>
-
 # ClassNotFoundException:org . exolab . castor . XML . XML exception
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/classnotfoundexception-org-exolab-castor-xml-xmlexception/>
 
 ## 问题
 

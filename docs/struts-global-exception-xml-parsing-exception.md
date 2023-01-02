@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-global-exception-xml-parsing-exception/>
-
 # struts–<global-exceptions>XML 解析异常</global-exceptions>
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-global-exception-xml-parsing-exception/>
 
 ## 问题
 

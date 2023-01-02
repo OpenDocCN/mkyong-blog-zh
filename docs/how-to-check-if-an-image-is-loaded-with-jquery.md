@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/how-to-check-if-an-image-is-loaded-with-jquery/>
-
 # 如何检查图片是否加载了 jQuery
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/how-to-check-if-an-image-is-loaded-with-jquery/>
 
 要检查图片加载是否成功，可以结合使用 jQuery ' **load()** 和' **error()** 事件:
 

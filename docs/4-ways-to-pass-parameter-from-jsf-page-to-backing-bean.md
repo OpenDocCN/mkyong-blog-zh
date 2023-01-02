@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/4-ways-to-pass-parameter-from-jsf-page-to-backing-bean/>
-
 # 从 JSF 页面向后台 bean 传递参数的 4 种方法
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/4-ways-to-pass-parameter-from-jsf-page-to-backing-bean/>
 
 据我所知，从 JSF 页面向后台 bean 传递参数值有 4 种方式:
 

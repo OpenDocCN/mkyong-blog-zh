@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/how-to-use-database-reserved-keyword-in-hibernate/>
-
 # Hibernate 中如何使用数据库保留关键字？
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/how-to-use-database-reserved-keyword-in-hibernate/>
 
 在 Hibernate 中，当您试图将一个对象保存到一个以任何数据库保留关键字作为列名的表中时，您可能会遇到以下错误…
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-example-mysql-database-to-xml/>
-
 # Spring 批处理示例——MySQL 数据库到 XML
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-example-mysql-database-to-xml/>
 
 在本教程中，我们将向您展示如何使用`JdbcCursorItemReader`和`JdbcPagingItemReader`从 MySQL 数据库中读取数据，并将其写入 XML 文件。
 

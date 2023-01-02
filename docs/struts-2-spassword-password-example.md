@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-spassword-password-example/>
-
 # Struts 2 <password>密码示例</password>
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-spassword-password-example/>
 
 Download It – [Struts2-Password-Example.zip](http://web.archive.org/web/20190304032242/http://www.mkyong.com/wp-content/uploads/2010/06/Struts2-Password-Example.zip)
 

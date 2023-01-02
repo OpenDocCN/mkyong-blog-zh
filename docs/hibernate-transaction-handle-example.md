@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-transaction-handle-example/>
-
 # Hibernate 事务处理示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-transaction-handle-example/>
 
 在 Hibernate 中，事务管理是相当标准的，只要记住 Hibernate 抛出的任何异常都是**致命的**，你必须回滚事务并立即关闭当前会话。
 

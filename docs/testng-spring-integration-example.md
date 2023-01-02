@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-spring-integration-example/>
-
 # TestNG + Spring 集成示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/testng-spring-integration-example/>
 
 在本教程中，我们将向您展示如何用 TestNG 测试 Spring 的组件。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/spring-data-mongodb-update-document/>
-
 # Spring 数据 MongoDB:更新文档
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/spring-data-mongodb-update-document/>
 
 在 Spring data-MongoDB 中，您可以使用以下方法来更新文档。
 

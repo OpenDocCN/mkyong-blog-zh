@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/how-to-check-if-an-element-has-a-certain-class-name-with-jquery/>
-
 # 如何用 jQuery 检查一个元素是否有某个类名
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/how-to-check-if-an-element-has-a-certain-class-name-with-jquery/>
 
 jQuery 提供了两种方法来检查元素是否有特定的类名。这两种方法具有相同的功能。
 

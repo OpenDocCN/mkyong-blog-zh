@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-3-mvc-and-rss-feed-example/>
-
 # Spring 3 MVC 和 RSS 提要示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-3-mvc-and-rss-feed-example/>
 
 在 Spring 3 中，附带了一个抽象类" **AbstractRssFeedView** "来生成 RSS 提要视图，使用 java.net 的 ROME 包。在本教程中，我们将向您展示如何从 Spring MVC 框架中生成 RSS 提要视图。
 

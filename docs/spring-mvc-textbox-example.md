@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-textbox-example/>
-
 # Spring MVC 文本框示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-textbox-example/>
 
 在 Spring MVC 中，可以使用 **< form:input / >** 标签来呈现一个 HTML textbox 字段。举个例子，
 

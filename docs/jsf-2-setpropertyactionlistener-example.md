@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-setpropertyactionlistener-example/>
-
 # JSF 2 setPropertyActionListener 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-setpropertyactionlistener-example/>
 
 在 JSF，“**f:setPropertyActionListener**”标签允许你直接设置一个值到你的后台 bean 的属性中。举个例子，
 

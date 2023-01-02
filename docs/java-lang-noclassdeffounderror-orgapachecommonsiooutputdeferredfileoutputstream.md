@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/java-lang-noclassdeffounderror-orgapachecommonsiooutputdeferredfileoutputstream/>
-
 # Java . lang . noclassdeffounderror:org/Apache/commons/io/output/DeferredFileOutputStream
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/java-lang-noclassdeffounderror-orgapachecommonsiooutputdeferredfileoutputstream/>
 
 ## 问题
 

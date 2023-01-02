@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-many-to-many-relationship-example-annotation/>
-
 # hibernate–多对多示例(注释)
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-many-to-many-relationship-example-annotation/>
 
 在本教程中，它将重用之前的“[Hibernate many to many example–XML mapping](http://web.archive.org/web/20190310100450/http://www.mkyong.com/hibernate/hibernate-many-to-many-relationship-example/)”教程的整个基础设施，并对其进行增强以支持 Hibernare / JPA 注释。
 

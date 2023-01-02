@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/spring-el-lists-maps-example/>
-
 # Spring EL 列表，地图示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/spring-el-lists-maps-example/>
 
 在本文中，我们将向您展示如何使用 Spring EL 从**映射**和**列表**中获取值。实际上，SpEL 处理 Map 和 List 的方式和 Java 完全一样。参见示例:
 

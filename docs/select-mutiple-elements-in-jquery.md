@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/select-mutiple-elements-in-jquery/>
-
 # 在 jquery 中选择多个元素
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/select-mutiple-elements-in-jquery/>
 
 在 jQuery 中，可以选择多个元素，用逗号“，”符号分隔。
 

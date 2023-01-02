@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-access-to-restricted-uri-denied-solution/>
-
 # jQuery–访问受限 URI 被拒绝–解决方案
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-access-to-restricted-uri-denied-solution/>
 
 ## 问题
 

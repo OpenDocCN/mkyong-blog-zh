@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-listview-example/>
-
 # Android ListView 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-listview-example/>
 
 在 Android 中， [ListView](http://web.archive.org/web/20190305142211/http://developer.android.com/reference/android/widget/ListView.html) 允许你在一个垂直的可滚动列表中排列组件。
 

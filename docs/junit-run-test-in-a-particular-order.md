@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/junit-run-test-in-a-particular-order/>
-
 # JUnit——以特定的顺序运行测试
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/junit-run-test-in-a-particular-order/>
 
 在 JUnit 中，您可以使用`@FixMethodOrder(MethodSorters.NAME_ASCENDING)`按照方法名，按字典顺序运行测试方法。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/java8/java-8-zoneddatetime-examples/>
-
 # Java 8 – ZonedDateTime examples
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/java8/java-8-zoneddatetime-examples/>
 
 ![paris-time-zone](img/8b604dea6b1dee9f696822522efab713.png)
 

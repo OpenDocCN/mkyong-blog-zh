@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-autowiring-qualifier-example/>
-
 # Spring 自动布线@Qualifier 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-autowiring-qualifier-example/>
 
 在 Spring 中，@Qualifier 表示哪个 bean 有资格在字段上自动绑定。请参见以下场景:
 

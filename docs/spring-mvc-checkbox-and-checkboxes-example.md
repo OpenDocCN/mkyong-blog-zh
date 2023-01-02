@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-checkbox-and-checkboxes-example/>
-
 # Spring MVC 复选框和复选框示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-checkbox-and-checkboxes-example/>
 
 在 Spring MVC 中， **<表单:checkbox / >** 用于呈现一个 HTML 的复选框字段，复选框值在 JSP 页面内部是硬编码的；当 **<表单:checkboxes / >** 用于呈现多个复选框时，复选框值是在运行时生成的。
 

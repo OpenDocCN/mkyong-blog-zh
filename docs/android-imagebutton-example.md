@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-imagebutton-example/>
-
 # Android ImageButton 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-imagebutton-example/>
 
 在 Android 中，您可以使用“[Android . widget . imagebutton](http://web.archive.org/web/20190215000650/http://developer.android.com/reference/android/widget/ImageButton.html)”来显示一个普通的“`Button`”，并带有自定义的背景图像。
 

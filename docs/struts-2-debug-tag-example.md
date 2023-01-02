@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-debug-tag-example/>
-
 # Struts 2 调试标记示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-debug-tag-example/>
 
 Download It – [Struts2-Debug-Tag-Example.zip](http://web.archive.org/web/20190304032231/http://www.mkyong.com/wp-content/uploads/2010/07/Struts2-Debug-Tag-Example.zip)
 

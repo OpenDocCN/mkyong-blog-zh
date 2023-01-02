@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring/incompatibleclasschangeerror-jobdetailbean-has-interface-org-quartz-jobdetail-as-super-class/>
-
 # 不兼容 class 错误:JobDetailBean 将接口 org.quartz.JobDetail 作为超类
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring/incompatibleclasschangeerror-jobdetailbean-has-interface-org-quartz-jobdetail-as-super-class/>
 
 开发**石英 2.1.5** + **弹簧 3.1.2 .释放**，出现以下错误信息:
 

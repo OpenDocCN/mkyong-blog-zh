@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-file-upload-example/>
-
 # Wicket 文件上传示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-file-upload-example/>
 
 这个例子展示了如何创建一个 Wicket **FileUploadField** 组件，让用户从本地驱动器选择一个文件并上传到服务器。
 

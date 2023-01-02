@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/spring-el-operators-example/>
-
 # Spring EL 运算符示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring3/spring-el-operators-example/>
 
 Spring EL 支持大多数标准的数学、逻辑或关系运算符。举个例子，
 

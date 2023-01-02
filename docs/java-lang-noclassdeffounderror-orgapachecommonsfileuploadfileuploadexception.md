@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/java-lang-noclassdeffounderror-orgapachecommonsfileuploadfileuploadexception/>
-
 # Java . lang . noclassdeffounderror:org/Apache/commons/file upload/file upload exception
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/java-lang-noclassdeffounderror-orgapachecommonsfileuploadfileuploadexception/>
 
 ## 问题
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-configure-maxswallowsize-in-embedded-tomcat/>
-
 # Spring Boot–在嵌入式 Tomcat 中配置 maxSwallowSize
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-configure-maxswallowsize-in-embedded-tomcat/>
 
 在 Spring Boot，你不能通过[通用应用属性](http://web.archive.org/web/20190309055300/http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#common-application-properties)配置嵌入式 Tomcat `maxSwallowSize`，没有像`server.tomcat.*.maxSwallowSize`这样的选项
 

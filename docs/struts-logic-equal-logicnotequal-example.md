@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-logic-equal-logicnotequal-example/>
-
 # struts-<equal>&<notequal>示例</notequal></equal>
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-logic-equal-logicnotequal-example/>
 
 Download this example – [Struts-Logic-Equal-NotEqual-Example.zip](http://web.archive.org/web/20190224164320/http://www.mkyong.com/wp-content/uploads/2010/04/Struts-Logic-Equal-NotEqual-Example.zip)
 

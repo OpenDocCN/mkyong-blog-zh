@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/how-to-change-wicket-to-deployment-mode/>
-
 # 如何将 Wicket 改为部署模式？
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/how-to-change-wicket-to-deployment-mode/>
 
 ## 问题
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-adjacent-sibling-selector-example/>
-
 # jQuery–相邻兄弟选择器示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-adjacent-sibling-selector-example/>
 
 **jQuery 相邻兄弟选择器(X + Y)** 用于选择与“X”元素的兄弟元素“Y”匹配的紧接着的或下一个元素。
 

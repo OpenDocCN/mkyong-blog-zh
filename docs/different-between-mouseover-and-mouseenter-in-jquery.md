@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/different-between-mouseover-and-mouseenter-in-jquery/>
-
 # jQuery 中的 mouseover()和 mouseenter()不同
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/different-between-mouseover-and-mouseenter-in-jquery/>
 
 在 jQuery 中，当鼠标进入匹配的元素时，触发 **mouseover()** 和 **mouseenter()** 事件。唯一不同的是在子元素中处理“**事件冒泡**的方式，让我们看两个场景:
 

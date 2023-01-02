@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-multiactioncontroller-example/>
-
 # Spring MVC 多动作控制器示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-multiactioncontroller-example/>
 
 在 Spring MVC 应用程序中， **MultiActionController** 用于将相关的动作分组到一个控制器中，方法处理程序必须遵循以下签名:
 

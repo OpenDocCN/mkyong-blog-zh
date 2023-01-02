@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-resize-example/>
-
 # jQuery resize()示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-resize-example/>
 
 jQuery **resize()** 事件在浏览器大小改变时被触发，该事件只绑定到 **$(窗口)**。
 

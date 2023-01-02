@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/how-to-call-javscript-after-ajax-update-wicket/>
-
 # AJAX 更新后如何调用 Javscript，Wicket
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/how-to-call-javscript-after-ajax-update-wicket/>
 
 ## 问题
 

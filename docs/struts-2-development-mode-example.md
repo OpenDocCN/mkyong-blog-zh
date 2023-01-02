@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-development-mode-example/>
-
 # struts 2–开发模式示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-development-mode-example/>
 
 在 Struts 2 开发中，这应该是要学习的第一个可配置值。为了启用 Struts 2 开发模式，您可以通过给予**自动配置和属性文件重新加载**和**额外的日志记录和调试**特性来显著提高您的 Struts 2 开发速度。
 

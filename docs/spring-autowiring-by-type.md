@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-autowiring-by-type/>
-
 # 按类型排列的弹簧自动布线
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-autowiring-by-type/>
 
 在 Spring 中，“**按类型**自动连接”意味着，如果一个 bean 的数据类型与其他 bean 属性的数据类型兼容，就自动连接它。
 

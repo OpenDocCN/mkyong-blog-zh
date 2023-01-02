@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-how-to-pass-a-date-into-bean-property-customdateeditor/>
-
 # Spring 将日期注入 bean 属性–custom Date editor
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-how-to-pass-a-date-into-bean-property-customdateeditor/>
 
 这个 Spring 示例向您展示了如何将一个“日期”注入到 bean 属性中。
 

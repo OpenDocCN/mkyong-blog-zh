@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/regular-expressions/how-to-validate-time-in-24-hours-format-with-regular-expression/>
-
 # 如何用正则表达式验证 24 小时格式的时间
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/regular-expressions/how-to-validate-time-in-24-hours-format-with-regular-expression/>
 
 24 小时格式正则表达式模式中的时间
 

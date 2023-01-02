@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/how-to-install-google-plugin-for-eclipse/>
-
 # 如何为 Eclipse 安装谷歌插件
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/how-to-install-google-plugin-for-eclipse/>
 
 在本教程中，我们将向您展示如何在 **Eclipse 3.7** (Indigo)中安装“**Eclipse**Google 插件”。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-mouseup-and-mousedown-example/>
-
 # jQuery mouseup()和 mousedown()示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-mouseup-and-mousedown-example/>
 
 jQuery **mouseup()** 和 **mousedown()** 事件都是不言自明的，用于验证鼠标按钮被按下或释放。
 

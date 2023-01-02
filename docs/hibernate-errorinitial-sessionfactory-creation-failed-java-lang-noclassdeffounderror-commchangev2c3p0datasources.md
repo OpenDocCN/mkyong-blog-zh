@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-errorinitial-sessionfactory-creation-failed-java-lang-noclassdeffounderror-commchangev2c3p0datasources/>
-
 # 休眠错误-初始会话工厂创建失败。Java . lang . noclassdeffounderror:com/m change/v2/c3p 0/data sources
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-errorinitial-sessionfactory-creation-failed-java-lang-noclassdeffounderror-commchangev2c3p0datasources/>
 
 Hibernate 的“C3P0”连接池错误，这是由于缺少依赖库–C3 P0 造成的。
 

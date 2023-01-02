@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-datatable-sorting-example/>
-
 # JSF 2 数据表排序示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-datatable-sorting-example/>
 
 对 JSF 数据表列表进行排序的想法如下:
 

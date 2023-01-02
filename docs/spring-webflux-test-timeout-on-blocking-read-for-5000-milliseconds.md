@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-webflux-test-timeout-on-blocking-read-for-5000-milliseconds/>
-
 # Spring WebFlux 测试——阻塞读取超时 5000 毫秒
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-webflux-test-timeout-on-blocking-read-for-5000-milliseconds/>
 
 用`WebTestClient`测试一个 Spring Webflux 端点，并显示以下错误消息。这有可能增加超时时间吗？
 

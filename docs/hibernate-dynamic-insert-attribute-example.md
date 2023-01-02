@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-dynamic-insert-attribute-example/>
-
 # hibernate–动态插入属性示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-dynamic-insert-attribute-example/>
 
 ## 什么是动态插入
 

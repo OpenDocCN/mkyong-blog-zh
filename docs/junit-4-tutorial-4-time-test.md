@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/junit-4-tutorial-4-time-test/>
-
 # JUnit–超时测试
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/junit-4-tutorial-4-time-test/>
 
 如果测试花费的时间超过定义的“超时”时间，将抛出`TestTimedOutException`并标记测试失败。请参见以下示例:
 

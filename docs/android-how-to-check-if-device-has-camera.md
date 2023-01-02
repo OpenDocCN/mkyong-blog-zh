@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-how-to-check-if-device-has-camera/>
-
 # Android:如何检查设备是否有摄像头
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/android-how-to-check-if-device-has-camera/>
 
 在 Android 中，您可以使用[`PackageManager`](http://web.archive.org/web/20190214233023/http://developer.android.com/reference/android/content/pm/PackageManager.html)`hasSystemFeature()`方法来检查设备是否具有摄像头、gps 或其他功能。
 

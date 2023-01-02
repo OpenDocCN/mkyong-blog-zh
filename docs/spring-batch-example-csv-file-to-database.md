@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-example-csv-file-to-database/>
-
 # Spring 批处理示例–CSV 文件到 MySQL 数据库
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-batch/spring-batch-example-csv-file-to-database/>
 
 在本教程中，我们将向您展示如何配置 Spring 批处理作业将数据从 CSV 文件读入数据库。
 

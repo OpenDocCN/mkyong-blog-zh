@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/notequalinputvalidator-in-wicket/>
-
 # Wicket 中的自定义 NotEqualInputValidator
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/notequalinputvalidator-in-wicket/>
 
 Wicket 包含许多为开发人员提供的内置验证器，例如，`EqualInputValidator`，它最适合比较两个表单组件的身份。然而，Wicket 没有为不等于验证器提供任何验证器。
 

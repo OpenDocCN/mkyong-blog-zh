@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-checkboxes-example/>
-
 # JSF 2 复选框示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-checkboxes-example/>
 
 在 JSF，**<h:selectBooleanCheckbox/>**标签用于呈现“ **checkbox** 类型的单个 HTML 输入元素。
 

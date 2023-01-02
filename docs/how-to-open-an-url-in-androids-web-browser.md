@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/how-to-open-an-url-in-androids-web-browser/>
-
 # 如何在 Android 的网络浏览器中打开一个网址
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/android/how-to-open-an-url-in-androids-web-browser/>
 
 这里有一个代码片段，展示了如何使用“`android.content.Intent`”在 Android 的网络浏览器中打开一个指定的 URL。
 

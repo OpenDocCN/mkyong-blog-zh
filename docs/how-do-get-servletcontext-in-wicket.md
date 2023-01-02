@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/how-do-get-servletcontext-in-wicket/>
-
 # 如何在 Wicket 中获取 ServletContext
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/how-do-get-servletcontext-in-wicket/>
 
 ## 问题
 

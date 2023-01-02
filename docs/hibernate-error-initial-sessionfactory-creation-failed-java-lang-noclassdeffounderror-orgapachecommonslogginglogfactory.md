@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-error-initial-sessionfactory-creation-failed-java-lang-noclassdeffounderror-orgapachecommonslogginglogfactory/>
-
 # 休眠错误-初始会话工厂创建失败。Java . lang . noclassdeffounderror:org/Apache/commons/logging/log factory
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-error-initial-sessionfactory-creation-failed-java-lang-noclassdeffounderror-orgapachecommonslogginglogfactory/>
 
 一个常见的 Hibernate 错误，这是由于缺少依赖库——公共日志记录造成的。
 

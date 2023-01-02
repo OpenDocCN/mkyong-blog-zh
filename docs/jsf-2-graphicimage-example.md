@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-graphicimage-example/>
-
 # JSF 2 图形图像示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-graphicimage-example/>
 
 在 JSF，你可以使用 **< h:graphicImage / >** 标签来呈现一个 HTML“img”元素。例如，资源文件夹中一个名为“sofa.png”的图片，见下图:
 

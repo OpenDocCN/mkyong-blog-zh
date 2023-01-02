@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/how-to-preselect-a-radio-button-value-in-struts-2/>
-
 # 如何在 Struts 2 中预选单选按钮值
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/how-to-preselect-a-radio-button-value-in-struts-2/>
 
 Download It – [Struts2-Radio-Button-Example.zip](http://web.archive.org/web/20190515054916/http://www.mkyong.com/wp-content/uploads/2010/06/Struts2-Radio-Button-Example.zip)
 

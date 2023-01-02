@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/gae-jsf-unable-to-instantiate-expressionfactory-com-sun-el-expressionfactoryimpl/>
-
 # GAE + JSF:无法实例化 expression factory“com . sun . El . expression factory impl”
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/google-app-engine/gae-jsf-unable-to-instantiate-expressionfactory-com-sun-el-expressionfactoryimpl/>
 
 ## 问题
 

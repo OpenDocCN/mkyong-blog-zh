@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-datetimepicker-example/>
-
 # Struts 2 日期时间选择器示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-datetimepicker-example/>
 
 Download It – [Struts2-DateTimePicker-Example.zip](http://web.archive.org/web/20190304031544/http://www.mkyong.com/wp-content/uploads/2010/06/Struts2-DateTimePicker-Example.zip)
 

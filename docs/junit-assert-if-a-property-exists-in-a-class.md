@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/junit-assert-if-a-property-exists-in-a-class/>
-
 # JUnit–断言一个属性是否存在于一个类中
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/junit-assert-if-a-property-exists-in-a-class/>
 
 包括`hamcrest-library`并用`hasProperty()`测试类属性及其值:
 

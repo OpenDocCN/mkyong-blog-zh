@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-jdbc-mysql-hikaricp-example/>
-
 # Spring Boot JDBC + MySQL + HikariCP 的例子
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-boot-jdbc-mysql-hikaricp-example/>
 
 在这篇文章中，我们将向您展示如何创建一个 Spring Boot JDBC 应用+ MySQL 和 HikariCP。
 

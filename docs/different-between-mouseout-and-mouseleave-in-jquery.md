@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/different-between-mouseout-and-mouseleave-in-jquery/>
-
 # jQuery 中 mouseout()和 mouseleave()之间的不同
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/different-between-mouseout-and-mouseleave-in-jquery/>
 
 在 jQuery 中，当鼠标离开匹配的元素时，触发 **mouseout()** 和 **mouseleave()** 事件。唯一不同的是在子元素中处理“**事件冒泡**的方式，让我们看两个场景:
 

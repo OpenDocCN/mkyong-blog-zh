@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-redirectview-example/>
-
 # Spring MVC 重定向视图示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-redirectview-example/>
 
 在 Spring MVC 中，org . Spring framework . web . servlet . view . redirect view，顾名思义，视图重定向到另一个绝对的、上下文相对的或当前请求相对的 URL。在本教程中，我们向您展示了一个使用 **RedirectView** 类的完整示例。
 

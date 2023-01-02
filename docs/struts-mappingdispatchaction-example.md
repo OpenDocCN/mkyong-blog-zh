@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-mappingdispatchaction-example/>
-
 # struts–MappingDispatchAction 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts/struts-mappingdispatchaction-example/>
 
 Struts MappingDispatchAction 类用于将相似的功能分组到单个 Action 类中，并根据相应 ActionMapping 的参数属性执行该功能。下面的示例展示了 MappingDispatchAction 的用法。
 

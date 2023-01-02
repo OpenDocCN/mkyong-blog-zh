@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/how-to-auto-select-drop-down-box-value-in-struts-2/>
-
 # 如何在 Struts 2 中自动选择下拉框值
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/how-to-auto-select-drop-down-box-value-in-struts-2/>
 
 在 Struts 2 中，HTML 下拉框可以通过 **< s:select >** 标签呈现。要自动选择下拉框的默认值，只需在 **< s:select >** 标签中声明一个 **value** 属性，并相应地设置默认值。
 

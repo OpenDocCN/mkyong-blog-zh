@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/how-to-stop-a-page-from-exit-or-unload-with-jquery/>
-
 # 如何用 jQuery 阻止页面退出或卸载
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/how-to-stop-a-page-from-exit-or-unload-with-jquery/>
 
 当页面退出或卸载时，' **unload** '事件将被激活，但是该事件不能阻止页面退出。
 

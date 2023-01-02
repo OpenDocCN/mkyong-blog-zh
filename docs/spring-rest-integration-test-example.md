@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-rest-integration-test-example/>
-
 # 弹簧座集成测试示例
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring-boot/spring-rest-integration-test-example/>
 
 ![spring boot test](img/1f34bbe7c7748420e5c1b235bea07530.png)
 

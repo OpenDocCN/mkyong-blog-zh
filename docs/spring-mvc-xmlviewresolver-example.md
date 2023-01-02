@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-xmlviewresolver-example/>
-
 # Spring MVC XmlViewResolver 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-xmlviewresolver-example/>
 
 在 Spring MVC 中， **XmlViewResolver** 用于根据 XML 文件中的视图 beans 解析“视图名”。默认情况下，`XmlViewResolver`将从 **/WEB-INF/views.xml** 加载视图 beans，但是，该位置可以通过“ **location** 属性覆盖:
 

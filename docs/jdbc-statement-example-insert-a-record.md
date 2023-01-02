@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-statement-example-insert-a-record/>
-
 # JDBC 声明示例-插入一条记录
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/jdbc/jdbc-statement-example-insert-a-record/>
 
 下面的例子展示了如何通过 JDBC 语句向表中插入记录。要发出 insert 语句，调用`Statement.executeUpdate()`方法，如下所示:
 

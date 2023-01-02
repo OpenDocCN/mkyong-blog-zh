@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/java/quartz-scheduler-example/>
-
 # Quartz 1.6 调度器教程
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/java/quartz-scheduler-example/>
 
 Quartz 是一个强大的高级调度框架，帮助 Java 开发者调度一个任务在指定的日期和时间运行。
 

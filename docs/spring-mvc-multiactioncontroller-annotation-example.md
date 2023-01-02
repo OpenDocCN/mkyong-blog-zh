@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-multiactioncontroller-annotation-example/>
-
 # Spring MVC MultiActionController 注释示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-multiactioncontroller-annotation-example/>
 
 在本教程中，我们将向您展示如何使用`@RequestMapping`开发一个基于 Spring MVC 注释的 **MultiActionController** 。
 

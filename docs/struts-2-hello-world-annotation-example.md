@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-hello-world-annotation-example/>
-
 # Struts 2 Hello World 注释示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-hello-world-annotation-example/>
 
 在本教程中，它将重用之前的 [Strust 2 Hello World (XML 版本)](http://web.archive.org/web/20190302180720/http://www.mkyong.com/struts2/struts-2-hello-world-example/)示例，并将其转换为注释版本。
 

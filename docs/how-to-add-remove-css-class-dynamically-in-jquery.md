@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/how-to-add-remove-css-class-dynamically-in-jquery/>
-
 # 如何在 jQuery 中动态添加/删除 CSS 类
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/how-to-add-remove-css-class-dynamically-in-jquery/>
 
 jQuery 自带 **addClass()** 和 **removeClass()** 来动态添加或移除 CSS 类。举个例子，
 

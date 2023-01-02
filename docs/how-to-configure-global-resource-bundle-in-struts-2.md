@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/how-to-configure-global-resource-bundle-in-struts-2/>
-
 # 如何在 Struts 2 中配置全局资源包
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/how-to-configure-global-resource-bundle-in-struts-2/>
 
 通常，您可能需要一个全局资源包(属性文件)来存储应用程序中所有类都可以使用的消息。
 

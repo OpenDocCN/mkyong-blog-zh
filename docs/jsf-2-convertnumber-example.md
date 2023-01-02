@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-convertnumber-example/>
-
 # JSF 新协议转换编号示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-convertnumber-example/>
 
 在 JSF，“ **f:convertNumber** ”是一个标准的转换器，将字符串转换成指定的“数字”格式。此外，它还用作验证器来确保输入值是有效的数字。请参见以下常用示例:
 

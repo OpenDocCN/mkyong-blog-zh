@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-textarea-example/>
-
 # Wicket textarea 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-textarea-example/>
 
 Wicket 教程向您展示了如何创建一个 textarea，多行文本编辑组件，通常用于地址字段。
 

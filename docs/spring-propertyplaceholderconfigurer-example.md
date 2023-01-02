@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-propertyplaceholderconfigurer-example/>
-
 # spring propertyplaceholderconfigure 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-propertyplaceholderconfigurer-example/>
 
 通常，大多数 Spring 开发人员只是将整个部署细节(数据库细节、日志文件路径)放在 XML bean 配置文件中，如下所示:
 

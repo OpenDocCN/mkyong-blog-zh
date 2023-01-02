@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-datatable-example/>
-
 # JSF 2 数据表示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/jsf-2-datatable-example/>
 
 在 JSF 中，“ **h:dataTable** ”标签用于以 HTML 表格格式显示数据。下面的 JSF 2.0 示例向您展示了如何使用“ **h:dataTable** ”标记来循环遍历“订单”对象的数组，并以 HTML 表格格式显示它。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-error-java-lang-noclassdeffounderror-javaxtransactionsynchronization/>
-
 # 休眠错误–Java . lang . noclasdeffounderror:javax/transaction/synchron ization
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/hibernate-error-java-lang-noclassdeffounderror-javaxtransactionsynchronization/>
 
 ## 问题
 

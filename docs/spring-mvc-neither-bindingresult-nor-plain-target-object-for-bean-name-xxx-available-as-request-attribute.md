@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-neither-bindingresult-nor-plain-target-object-for-bean-name-xxx-available-as-request-attribute/>
-
 # spring MVC–bean 名称“xxx”的 BindingResult 和 plain target 对象都不能用作请求属性。
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-neither-bindingresult-nor-plain-target-object-for-bean-name-xxx-available-as-request-attribute/>
 
 ## 问题
 

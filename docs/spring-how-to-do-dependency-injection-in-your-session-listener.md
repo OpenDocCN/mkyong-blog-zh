@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-how-to-do-dependency-injection-in-your-session-listener/>
-
 # spring——如何在会话监听器中进行依赖注入
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-how-to-do-dependency-injection-in-your-session-listener/>
 
 Spring 附带了一个" **ContextLoaderListener** "监听器，用于将 Spring 依赖注入会话监听器。在本教程中，它通过在会话监听器中添加一个 Spring 依赖注入 bean 来修改这个 [HttpSessionListener 示例](http://web.archive.org/web/20190224160129/http://www.mkyong.com/servlet/a-simple-httpsessionlistener-example-active-sessions-counter/)。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-collections-list-set-map-and-properties-example/>
-
 # Spring 集合(列表、集合、映射和属性)示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-collections-list-set-map-and-properties-example/>
 
 Spring 示例向您展示了如何将值注入集合类型(列表、集合、映射和属性)。支持 4 种主要集合类型:
 

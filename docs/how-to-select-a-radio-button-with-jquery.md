@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/how-to-select-a-radio-button-with-jquery/>
-
 # 如何使用 jQuery 选择单选按钮
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/how-to-select-a-radio-button-with-jquery/>
 
 一个用 jQuery 动态选择单选按钮的简单例子。
 

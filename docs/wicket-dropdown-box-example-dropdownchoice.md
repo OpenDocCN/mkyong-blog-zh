@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-dropdown-box-example-dropdownchoice/>
-
 # Wicket 下拉框示例–drop down choice
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/wicket-dropdown-box-example-dropdownchoice/>
 
 在 Wicket 中，可以使用“ **DropDownChoice** 来呈现一个下拉框组件。
 

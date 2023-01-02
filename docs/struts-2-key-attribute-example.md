@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-key-attribute-example/>
-
 # Struts 2 关键属性示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/struts2/struts-2-key-attribute-example/>
 
 Download It – [Struts2-Key-Attribute-Example.zip](http://web.archive.org/web/20190304004337/http://www.mkyong.com/wp-content/uploads/2010/06/Struts2-ActionError-ActionMessage-Example.zip)
 

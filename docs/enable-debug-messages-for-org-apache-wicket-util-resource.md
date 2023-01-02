@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/enable-debug-messages-for-org-apache-wicket-util-resource/>
-
 # 为 org . Apache . wicket . util . resource 启用调试消息
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/wicket/enable-debug-messages-for-org-apache-wicket-util-resource/>
 
 ## 问题
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-how-to-access-messagesource-in-bean-messagesourceaware/>
-
 # spring——如何在 bean 中访问 message source(message source aware)
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-how-to-access-messagesource-in-bean-messagesourceaware/>
 
 在上一个教程中，您可以通过 ApplicationContext 获得[消息源。但是对于获取 MessageSource 的 bean，您必须实现 **MessageSourceAware** 接口。](http://web.archive.org/web/20190213133419/http://www.mkyong.com/spring/spring-resource-bundle-with-resourcebundlemessagesource-example/)
 

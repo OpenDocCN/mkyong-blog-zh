@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/spring-security-hibernate-annotation-example/>
-
 # Spring Security + Hibernate 注释示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-security/spring-security-hibernate-annotation-example/>
 
 ![spring-hibernate-logo](img/c0ba02e9724c353b0618ca1f2b95338c.png)
 

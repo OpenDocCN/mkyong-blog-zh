@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-form-events-examples/>
-
 # jQuery 表单事件示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jquery/jquery-form-events-examples/>
 
 jQuery 提供了五个常见的表单事件来处理表单元素的动作。
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/different-between-cascade-and-inverse/>
-
 # 级联和逆之间的不同
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/hibernate/different-between-cascade-and-inverse/>
 
 许多 Hibernate 开发人员对 cascade 选项和 inverse 关键字感到困惑。在某些方面..它们一开始看起来真的很相似，两者都与关系有关。
 

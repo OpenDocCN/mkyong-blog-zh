@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/how-to-add-a-global-navigation-rule-in-jsf/>
-
 # 如何在 JSF 添加全球导航规则？
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/jsf2/how-to-add-a-global-navigation-rule-in-jsf/>
 
 ## 问题
 

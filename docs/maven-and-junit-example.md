@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/maven-and-junit-example/>
-
 # Maven 和 JUnit 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/unittest/maven-and-junit-example/>
 
 在 Maven 中，您可以像这样声明 JUnit 依赖关系:
 

@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-initializingbean-and-disposablebean-example/>
-
 # Spring InitializingBean 和 DisposableBean 示例
+
+> 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring/spring-initializingbean-and-disposablebean-example/>
 
 在 Spring 中， **InitializingBean** 和 **DisposableBean** 是两个标记接口，这是 Spring 在 Bean 初始化和销毁时执行某些操作的有用方法。
 

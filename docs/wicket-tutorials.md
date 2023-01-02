@@ -1,6 +1,6 @@
-> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/tutorials/wicket-tutorials/>
-
 # Wicket 教程
+
+> 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/tutorials/wicket-tutorials/>
 
 ![wicket tutorial](img/cf2dbc2f55dc7f08242fefdd4e76eff7.png "wicket-tutorials")
 
