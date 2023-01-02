@@ -53,7 +53,7 @@ public class TextAreaController extends SimpleFormController{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.模型
+ ## 2.模型
 
 存储 textarea 值的客户对象。
 
@@ -69,7 +69,7 @@ public class Customer{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.表单验证器
+ ## 3.表单验证器
 
 创建一个表单验证器类，并使用 **ValidationUtils** 类来确保“地址”不为空，否则，从相应的资源包(属性文件)中获取“ **required.address** 消息。
 

@@ -65,7 +65,7 @@ job-config.xml
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25) 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 参考上面的错误消息"**如果您想再次运行该任务，请更改参数。**“公式是`JobInstance = JobParameters + Job`。如果您没有任何用于`JobParameters`的参数，只需传递一个当前时间作为参数来创建一个新的`JobInstance`。举个例子，
 
@@ -102,7 +102,7 @@ public class CustomJobLauncher {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [Spring Batch:配置和运行作业](http://web.archive.org/web/20190303052552/http://static.springsource.org/spring-batch/reference/html/configureJob.html)
 2.  [如何创建新的作业实例](http://web.archive.org/web/20190303052552/http://forum.springsource.org/showthread.php?58319-How-to-create-new-job-instance)

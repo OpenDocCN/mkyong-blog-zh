@@ -110,7 +110,7 @@ public class TestOrder {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.Testng.xml
+ ## 2.Testng.xml
 
 要运行上面的测试类，创建一个 XML 文件-`testng.xml`(可以是任何文件名)文件，并如下定义细节:
 
@@ -163,7 +163,7 @@ testAfterTest()
 testAfterSuite() 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.其他示例
+ ## 3.其他示例
 
 下面是一些常用的例子。
 

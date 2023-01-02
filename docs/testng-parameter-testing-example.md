@@ -42,7 +42,7 @@ public class CharUtils {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.TestNG @DataProvider 示例
+ ## 2.TestNG @DataProvider 示例
 
 为了测试它，创建一个接受两个参数(字符和期望的 ASCII)的`@Test`方法，测试数据从数据提供者传递。
 
@@ -126,7 +126,7 @@ PASSED: ASCIIToCharTest(9, 57)
 ```
 
 **More Parameter Examples.**
-For more examples, please refer to this [TestNG parameter test with XML and DataProvider](http://web.archive.org/web/20190227120414/http://www.mkyong.com/unittest/testng-tutorial-6-parameterized-test/).[parameter test](http://web.archive.org/web/20190227120414/http://www.mkyong.com/tag/parameter-test/) [testng](http://web.archive.org/web/20190227120414/http://www.mkyong.com/tag/testng/)</ins>![](img/d9efcf273d2dd5a1eaf8556f42895918.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190227120414/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="2191">
+For more examples, please refer to this [TestNG parameter test with XML and DataProvider](http://web.archive.org/web/20190227120414/http://www.mkyong.com/unittest/testng-tutorial-6-parameterized-test/).[parameter test](http://web.archive.org/web/20190227120414/http://www.mkyong.com/tag/parameter-test/) [testng](http://web.archive.org/web/20190227120414/http://www.mkyong.com/tag/testng/)![](img/d9efcf273d2dd5a1eaf8556f42895918.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190227120414/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="2191">
 
 
 

@@ -29,7 +29,7 @@ public class CsvOutputGenerator implements IOutputGenerator {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.助手类
+ ## 2.助手类
 
 一个助手类，稍后使用 Spring 来定义 IOutputGenerator。
 
@@ -52,7 +52,7 @@ public class OutputHelper {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.弹簧配置
+ ## 3.弹簧配置
 
 在 Spring 配置文件中配置 bean，通过 property 标签，ref 属性，将 bean“CsvOutputGenerator”引用到“OutputHelper”中。
 

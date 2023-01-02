@@ -17,7 +17,7 @@ Wicket 要求 html 和 java 文件位于同一个包目录中。这里我们向�
 
 如果您仍然坚持定制资源路径，这里我提供了 2 种在 Wicket 1.3 中实现的方法。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.使用 web 上下文定位资源
+ ## 1.使用 web 上下文定位资源
 
 创建一个扩展 **ResourceStreamLocator** 类的类，并覆盖以下函数
 
@@ -96,7 +96,7 @@ public class MyApplication extends WebApplication
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.使用 ResourceFinder 定位资源
+ ## 2.使用 ResourceFinder 定位资源
 
 创建一个扩展 **ResourceStreamLocator** 类的类，并覆盖以下两个函数
 

@@ -45,7 +45,7 @@
 
 见图:
 
-![android linearlayout demo1](img/e3ff32f4c2f6ade31edcabfb54ec167e.png "android-linearlayout-horizontal") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.线性布局–垂直
+![android linearlayout demo1](img/e3ff32f4c2f6ade31edcabfb54ec167e.png "android-linearlayout-horizontal") ## 2.线性布局–垂直
 
 现在，将`LinearLayout`改为**垂直**方向。
 
@@ -82,7 +82,7 @@
 
 见图:
 
-![android linearlayout demo2](img/f79c128bc7483893f6c89e93182b29e6.png "android-linearlayout-vertical") <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 下载源代码
+![android linearlayout demo2](img/f79c128bc7483893f6c89e93182b29e6.png "android-linearlayout-vertical") ## 下载源代码
 
 Download it – [Android-LinearLayout-Example.zip](http://web.archive.org/web/20190223082342/http://www.mkyong.com/wp-content/uploads/2011/12/Android-LinearLayout-Example.zip) (15 KB)
 

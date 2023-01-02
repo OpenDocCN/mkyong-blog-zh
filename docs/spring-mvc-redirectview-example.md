@@ -20,7 +20,7 @@
 </beans> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.控制器
+ ## 2.控制器
 
 一个返回名为" **DummyRedirect** "的 ModelAndView 的控制器，它是一个 RedirectView 视图。
 
@@ -46,7 +46,7 @@ public class DummyController extends AbstractController{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.弹簧配置
+ ## 3.弹簧配置
 
 声明了所有映射。
 

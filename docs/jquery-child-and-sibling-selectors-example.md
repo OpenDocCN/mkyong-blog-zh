@@ -46,7 +46,7 @@ jQuery 子代和兄弟选择器可以分为四种选择器，后代选择器(A B
  $(".person1 div").css("border", "2px solid red"); 
 ```
 
-![jquery-child-sibling-example-descendant-selector](img/c2ae615e005adee4584334c61a67d242.png "jquery-child-sibling-example-descendant-selector") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.子选择器(A > B)
+![jquery-child-sibling-example-descendant-selector](img/c2ae615e005adee4584334c61a67d242.png "jquery-child-sibling-example-descendant-selector") ## 2.子选择器(A > B)
 
 子选择器用于选择与“A”元素的子元素“B”匹配的所有元素。
 
@@ -54,7 +54,7 @@ jQuery 子代和兄弟选择器可以分为四种选择器，后代选择器(A B
  $(".person1 > div").css("border", "2px solid red"); 
 ```
 
-![jquery-child-sibling-example-child-selector](img/3f7d0919f6a1f2e080f69ea38728bf9b.png "jquery-child-sibling-example-child-selector") <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.相邻兄弟选择器(A + B)
+![jquery-child-sibling-example-child-selector](img/3f7d0919f6a1f2e080f69ea38728bf9b.png "jquery-child-sibling-example-child-selector") ## 3.相邻兄弟选择器(A + B)
 
 相邻兄弟选择器用于选择与“A”元素的兄弟“B”匹配的紧接的或下一个元素。
 

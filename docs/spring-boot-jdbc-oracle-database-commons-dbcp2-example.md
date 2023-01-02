@@ -20,7 +20,7 @@ Related – [Spring Boot JDBC + MySQL + HikariCP example](http://web.archive.org
 
 一个标准的 Maven 项目结构。
 
-![](img/aed37ab93516d59bc1c12b4908da6511.png) <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.项目依赖性
+![](img/aed37ab93516d59bc1c12b4908da6511.png) ## 2.项目依赖性
 
 **Download and Install Oracle JDBC driver.**
 Oracle license restriction, you can’t get the Oracle JDBC driver from the public Maven repository. Instead, you need to go the Oracle website to download the driver and [install into the Local Maven repository manually](http://web.archive.org/web/20190303233325/https://www.mkyong.com/maven/how-to-add-oracle-jdbc-driver-in-your-maven-local-repository/).
@@ -147,7 +147,7 @@ Spring Boot uses Tomcat pooling `tomcat-jdbc` by default, and follow this sequen
 
 阅读 Spring Boot 官方文档—[连接到生产数据库](http://web.archive.org/web/20190303233325/https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-sql.html#boot-features-connect-to-production-database)
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.JDBC 模板
+ ## 3.JDBC 模板
 
 3.1 Spring Boot 会自动注册一个`JdbcTemplate` bean，只需将它注入你的 bean 中。
 

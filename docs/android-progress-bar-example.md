@@ -34,7 +34,7 @@ Refer to this [Android ProgressBar JavaDoc](http://web.archive.org/web/201902100
 </LinearLayout> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.代码代码
+ ## 2.代码代码
 
 使用进度条的关键是使用“`Thread`”来运行您的耗时任务，并使用另一个“`Thread`”来相应地更新进度条状态。阅读代码的注释，应该是不言自明的。
 
@@ -164,7 +164,7 @@ public class MyAndroidAppActivity extends Activity {
 
 “doSomeTasks”方法只是一个文件大小下载模拟器，只是用你的长时间运行的任务替换这个方法。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.演示
+ ## 3.演示
 
 运行应用程序。
 

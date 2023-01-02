@@ -19,7 +19,7 @@
 </h:column> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.履行
+ ## 2.履行
 
 在受管 bean 中，使用 **Collections.sort()** 和自定义比较器对列表进行排序。
 
@@ -45,7 +45,7 @@ public class OrderBean implements Serializable{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 数据表排序示例
+ ## 数据表排序示例
 
 一个在数据表中实现**排序特性的 JSF 2.0 例子。点击"订单号"列标题使列表按"订单号"升序排序；再次点击，按“订单号”降序排列列表。**
 

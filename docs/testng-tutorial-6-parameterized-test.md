@@ -112,7 +112,7 @@ username : mkyong
 password : password 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.用@DataProvider 传递参数
+ ## 2.用@DataProvider 传递参数
 
 **2.1** 回顾一个简单的`@DataProvider`例子，传递一个`int`参数。
 
@@ -235,7 +235,7 @@ PASSED: testConnection({jdbc.url=jdbc:mysql://localhost:3306/mkyongserver,
 jdbc.username=mkyong, jdbc.driver=com.mysql.jdbc.Driver, jdbc.password=password}) 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.@DataProvider +方法
+ ## 3.@DataProvider +方法
 
 这个例子向您展示了如何根据测试方法的名称来传递不同的参数。
 

@@ -20,7 +20,7 @@ Download It – [Struts2-Hidden-Example.zip](http://web.archive.org/web/20190304
 
 带有 url 隐藏值的页面，并在表单提交后显示隐藏值。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.行动
+ ## 1.行动
 
 **HiddenAction.java**
 
@@ -48,7 +48,7 @@ public class HiddenAction extends ActionSupport{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.查看页面
+ ## 2.查看页面
 
 Struts 2 " **s:hidden** "标记创建一个隐藏的值字段。
 

@@ -32,7 +32,7 @@ public class DebugTagAction extends ActionSupport{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.日期标签示例
+ ## 2.日期标签示例
 
 一个 JSP 页面，显示使用" **debug** "标签输出系统的"**值栈**"和"**栈上下文**"。
 
@@ -53,7 +53,7 @@ public class DebugTagAction extends ActionSupport{
 </html> 
 ```
 
-The **<s:debug />** will generate a text link named “**debug**“, you need to click on the text link to expand the debugging details. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.struts.xml
+The **<s:debug />** will generate a text link named “**debug**“, you need to click on the text link to expand the debugging details. ## 3.struts.xml
 
 链接一下~
 

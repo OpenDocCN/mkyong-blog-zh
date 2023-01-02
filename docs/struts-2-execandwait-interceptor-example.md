@@ -32,7 +32,7 @@ public class LongProcessAction extends ActionSupport{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.JSP 页面
+ ## 2.JSP 页面
 
 创建两个页面:
 
@@ -57,12 +57,7 @@ Remember to put the meta refresh on top of the waiting page; Otherwise, the page
 <h1>Struts 2 execAndWait example</h1>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2836379775501347"
-     data-ad-slot="8821506761"
-     data-ad-format="auto"
-     data-ad-region="mkyongregion"></ins>
+
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script><h2>Please wait while we process your request...</h2>
@@ -146,7 +141,7 @@ Remember to put the meta refresh on top of the waiting page; Otherwise, the page
 1.  [Struts 2 execAndWait 拦截器文档](http://web.archive.org/web/20190214232659/http://struts.apache.org/2.1.8/docs/execute-and-wait-interceptor.html)
 2.  [HTML 元刷新](http://web.archive.org/web/20190214232659/http://en.wikipedia.org/wiki/Meta_refresh)
 
-[interceptor](http://web.archive.org/web/20190214232659/http://www.mkyong.com/tag/interceptor/) [struts2](http://web.archive.org/web/20190214232659/http://www.mkyong.com/tag/struts2/)</ins>![](img/00d6531c0b6dcaf856a30054c1e3d4f8.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190214232659/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="6315">
+[interceptor](http://web.archive.org/web/20190214232659/http://www.mkyong.com/tag/interceptor/) [struts2](http://web.archive.org/web/20190214232659/http://www.mkyong.com/tag/struts2/)![](img/00d6531c0b6dcaf856a30054c1e3d4f8.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190214232659/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="6315">
 
 
 

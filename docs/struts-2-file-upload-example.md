@@ -66,7 +66,7 @@ public class FileUploadAction extends ActionSupport{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.结果页面
+ ## 2.结果页面
 
 使用 **< s:file >** 标签渲染一个文件上传组件，**将表单 enctype 类型设置为“multipart/form-data”**。
 
@@ -105,12 +105,7 @@ method="POST" enctype="multipart/form-data">
 <h1>Struts 2 <s:file> file upload example</h1>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2836379775501347"
-     data-ad-slot="8821506761"
-     data-ad-format="auto"
-     data-ad-region="mkyongregion"></ins>
+
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script><h2>
@@ -210,7 +205,7 @@ In Struts 2, there are may ways to lead same Rome, make sure you check this [Str
 4.  [http://commons . Apache . org/io/API-1.4/org/Apache/commons/io/fileutils . html](http://web.archive.org/web/20190210101631/http://commons.apache.org/io/api-1.4/org/apache/commons/io/FileUtils.html)
 5.  [http://www.mkyong.com/struts/struts-file-upload-example/](http://web.archive.org/web/20190210101631/http://www.mkyong.com/struts/struts-file-upload-example/)
 
-[file upload](http://web.archive.org/web/20190210101631/http://www.mkyong.com/tag/file-upload/) [struts2](http://web.archive.org/web/20190210101631/http://www.mkyong.com/tag/struts2/)</ins>![](img/74eef25a50791f8350d03d474a022f7f.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190210101631/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="5997">
+[file upload](http://web.archive.org/web/20190210101631/http://www.mkyong.com/tag/file-upload/) [struts2](http://web.archive.org/web/20190210101631/http://www.mkyong.com/tag/struts2/)![](img/74eef25a50791f8350d03d474a022f7f.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190210101631/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="5997">
 
 
 

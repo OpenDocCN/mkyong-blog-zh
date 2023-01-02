@@ -19,7 +19,7 @@ Related – [Spring Boot JDBC + Oracle database + Commons DBCP2 example](http://
 
 一个标准的 Maven 项目结构。
 
-![spring boot jdbc directory](img/b7a8c0a3deb4bff33a6ab64cd33f0f0e.png) <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.项目依赖性
+![spring boot jdbc directory](img/b7a8c0a3deb4bff33a6ab64cd33f0f0e.png) ## 2.项目依赖性
 
 为 JDBC 应用程序声明一个`spring-boot-starter-jdbc`。
 
@@ -147,7 +147,7 @@ Spring Boot uses Tomcat pooling `tomcat-jdbc` by default, and follow this sequen
 
 阅读 Spring Boot 官方文档—[连接到生产数据库](http://web.archive.org/web/20190310100522/https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-sql.html#boot-features-connect-to-production-database)
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.JDBC 模板
+ ## 3.JDBC 模板
 
 3.1 Spring Boot 将自动注册一个`JdbcTemplate` bean，通过`@Autowired`注入它
 

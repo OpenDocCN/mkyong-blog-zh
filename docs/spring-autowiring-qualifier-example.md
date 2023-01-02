@@ -54,7 +54,7 @@ class ="org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPost
 		expected single matching bean but found 2: [personA, personB] 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## @限定符示例
+ ## @限定符示例
 
 要解决上述问题，您需要 **@Quanlifier** 告诉 Spring 应该自动连接哪个 bean。
 
@@ -79,7 +79,7 @@ public class Customer {
  Customer [person=Person [name=mkyongA]] 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 下载源代码
+ ## 下载源代码
 
 Download It – [Spring-AutoWiring-Qualifier-Example.zip](http://web.archive.org/web/20190309053207/http://www.mkyong.com/wp-content/uploads/2011/06/Spring-AutoWiring-Qualifier-Example.zip) (6 KB)
 

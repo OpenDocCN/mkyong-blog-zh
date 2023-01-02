@@ -23,7 +23,7 @@ scheduler.triggerJob(jobKey); //trigger a job by jobkey
 
 最终项目目录。
 
-![final project directory](img/563a13e9b96e899fce291e2031a3757d.png "project-directory") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.项目依赖性
+![final project directory](img/563a13e9b96e899fce291e2031a3757d.png "project-directory") ## 2.项目依赖性
 
 本教程的所有依赖项。
 
@@ -92,7 +92,7 @@ scheduler.triggerJob(jobKey); //trigger a job by jobkey
 </project> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.石英工作
+ ## 3.石英工作
 
 通过`web.xml`中的监听器，创造两份工作并与 JSF 整合。
 

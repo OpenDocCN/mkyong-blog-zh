@@ -70,7 +70,7 @@ public class HibernatePlugin implements PlugIn {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.struts-config.xml
+ ## 2.struts-config.xml
 
 将 **Hibernate Struts 插件**包含到 Struts 配置文件( **struts-config.xml** )中。
 
@@ -84,7 +84,7 @@ public class HibernatePlugin implements PlugIn {
 <struts-config> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.获取 Hibernate 会话工厂
+ ## 3.获取 Hibernate 会话工厂
 
 在 Struts action 类中，可以从 servlet 上下文中获得 **Hibernate 会话工厂。**
 

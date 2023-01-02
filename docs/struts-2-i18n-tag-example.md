@@ -26,7 +26,7 @@ public class I18nTagAction extends ActionSupport{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.属性文件
+ ## 2.属性文件
 
 用于演示的两个属性文件。
 
@@ -42,7 +42,7 @@ public class I18nTagAction extends ActionSupport{
  i18n.msg = "This is a message from Custom.properties" 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.i18n 标签示例
+ ## 3.i18n 标签示例
 
 它展示了“ **i18n** ”标签的使用。
 

@@ -52,12 +52,12 @@ testCompile - Compile classpath for source set 'test'.
      \--- org.hamcrest:hamcrest-core:1.3 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 参考
+ ## 参考
 
 1.  [显示项目依赖关系](http://web.archive.org/web/20190223082648/http://www.mkyong.com/gradle/gradle-display-project-dependency/)
 2.  [JUnit–与 Gradle 一起使用](http://web.archive.org/web/20190223082648/https://github.com/junit-team/junit4/wiki/Use-with-Gradle)
 
-[gradle](http://web.archive.org/web/20190223082648/http://www.mkyong.com/tag/gradle/) [hamcrest](http://web.archive.org/web/20190223082648/http://www.mkyong.com/tag/hamcrest/) [junit](http://web.archive.org/web/20190223082648/http://www.mkyong.com/tag/junit/)</ins>![](img/58182f7b5263ff3130ef7d7aa3f4cada.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190223082648/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="13984">
+[gradle](http://web.archive.org/web/20190223082648/http://www.mkyong.com/tag/gradle/) [hamcrest](http://web.archive.org/web/20190223082648/http://www.mkyong.com/tag/hamcrest/) [junit](http://web.archive.org/web/20190223082648/http://www.mkyong.com/tag/junit/)![](img/58182f7b5263ff3130ef7d7aa3f4cada.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190223082648/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="13984">
 
 
 

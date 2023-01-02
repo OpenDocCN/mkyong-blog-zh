@@ -49,7 +49,7 @@ public class CustomerController extends MultiActionController{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.ParameterMethodNameResolver
+ ## 2.ParameterMethodNameResolver
 
 配置了**参数方法名称解析器**，通过“**参数名称**属性定义参数名称:
 
@@ -81,7 +81,7 @@ public class CustomerController extends MultiActionController{
 *附注“ ***** ”指任何文本。*
 
 **Note**
-By default, **MultiActionController** is used the [InternalPathMethodNameResolver](http://web.archive.org/web/20190212162210/http://www.mkyong.com/spring-mvc/spring-mvc-multiactioncontroller-example/) to map URL to the corresponds method name. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 下载源代码
+By default, **MultiActionController** is used the [InternalPathMethodNameResolver](http://web.archive.org/web/20190212162210/http://www.mkyong.com/spring-mvc/spring-mvc-multiactioncontroller-example/) to map URL to the corresponds method name. ## 下载源代码
 
 Download it – [SpringMVC-ParameterMethodNameResolver-Example.zip](http://web.archive.org/web/20190212162210/http://www.mkyong.com/wp-content/uploads/2010/08/SpringMVC-ParameterMethodNameResolver-Example.zip) (7KB)
 

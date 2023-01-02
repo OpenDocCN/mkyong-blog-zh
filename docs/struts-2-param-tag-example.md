@@ -40,7 +40,7 @@ Not
 
 如果您在“**值**”属性中声明了“**字符串**值，Struts 2 将会忽略它。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 示例 2
+ ## 示例 2
 
 通过“**参数**”标签将一个 **java.lang.Object** 对象设置到 bean 属性中，声明如下
 
@@ -54,7 +54,7 @@ Not
 </s:bean> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 示例 3
+ ## 示例 3
 
 对于原始类型，你可以自由地在任何地方声明它，它就像一个魔咒一样起作用。
 

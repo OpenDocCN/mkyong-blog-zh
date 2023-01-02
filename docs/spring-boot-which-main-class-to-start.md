@@ -48,12 +48,12 @@ pom.xml
     </build> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 参考
+ ## 参考
 
 1.  [Spring Boot——可执行的 jar 格式](http://web.archive.org/web/20190217051121/https://docs.spring.io/spring-boot/docs/current/reference/html/executable-jar.html)
 2.  [Spring Boot Maven 插件–用途](http://web.archive.org/web/20190217051121/http://docs.spring.io/spring-boot/docs/current/maven-plugin/usage.html)
 
-[executable jar](http://web.archive.org/web/20190217051121/http://www.mkyong.com/tag/executable-jar/) [jar](http://web.archive.org/web/20190217051121/http://www.mkyong.com/tag/jar/) [main class](http://web.archive.org/web/20190217051121/http://www.mkyong.com/tag/main-class/) [spring boot](http://web.archive.org/web/20190217051121/http://www.mkyong.com/tag/spring-boot/) [war](http://web.archive.org/web/20190217051121/http://www.mkyong.com/tag/war/)</ins>![](img/3e5b2f2bc8da8f255ef662f1acf8decb.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190217051121/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="14251">
+[executable jar](http://web.archive.org/web/20190217051121/http://www.mkyong.com/tag/executable-jar/) [jar](http://web.archive.org/web/20190217051121/http://www.mkyong.com/tag/jar/) [main class](http://web.archive.org/web/20190217051121/http://www.mkyong.com/tag/main-class/) [spring boot](http://web.archive.org/web/20190217051121/http://www.mkyong.com/tag/spring-boot/) [war](http://web.archive.org/web/20190217051121/http://www.mkyong.com/tag/war/)![](img/3e5b2f2bc8da8f255ef662f1acf8decb.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190217051121/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="14251">
 
 
 

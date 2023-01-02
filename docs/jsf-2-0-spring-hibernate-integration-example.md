@@ -10,7 +10,7 @@
 
 此示例的目录结构
 
-![jsf2-spring-hibernate-folder-1](img/22c6bb71cf6636bd09d8f4ba30061b0b.png "jsf2-spring-hibernate-folder-1")![jsf2-spring-hibernate-folder-2](img/52193abd6b331620c4645c8df76d4e64.png "jsf2-spring-hibernate-folder-2") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.表格脚本
+![jsf2-spring-hibernate-folder-1](img/22c6bb71cf6636bd09d8f4ba30061b0b.png "jsf2-spring-hibernate-folder-1")![jsf2-spring-hibernate-folder-2](img/52193abd6b331620c4645c8df76d4e64.png "jsf2-spring-hibernate-folder-2") ## 2.表格脚本
 
 创建一个客户表并插入 2 条虚拟记录。
 
@@ -30,7 +30,7 @@ insert into mkyongdb.customer(customer_id, name, address, created_date)
 values(2, 'mkyong2', 'address2', now()); 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.冬眠的东西
+ ## 3.冬眠的东西
 
 客户表的模型类和 Hibernate 映射文件。
 

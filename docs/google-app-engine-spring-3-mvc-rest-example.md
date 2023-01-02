@@ -22,7 +22,7 @@ This example is going to reuse this [Spring 3 MVC REST example](http://web.archi
 
 Eclipse 的“ *Google 插件*将生成一个 GAE 项目结构的样本。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.Spring 3.0 依赖项
+ ## 2.Spring 3.0 依赖项
 
 要在 GAE 使用 **Spring MVC + REST** ,您需要以下 jar
 
@@ -44,7 +44,7 @@ Eclipse 的“ *Google 插件*将生成一个 GAE 项目结构的样本。
 
 将其添加到项目的构建路径中——右键单击项目文件夹，选择“ **Properties** ”。选择“ **Java 构建路径**->-**库**”选项卡，点击“**添加 Jars** 按钮，选择上面的 Jars。
 
-![gae spring java build path](img/c9d8164f9c373fad994a0871b4cac480.png "gae-spring-java-build-example3") <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.弹簧控制器
+![gae spring java build path](img/c9d8164f9c373fad994a0871b4cac480.png "gae-spring-java-build-example3") ## 3.弹簧控制器
 
 3.1 删除自动生成的`SpringMVCGoogleAppEngineServlet.java`，不需要这个。
 

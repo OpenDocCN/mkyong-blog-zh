@@ -16,7 +16,7 @@ jQuery filter 函数是一个有用的特性，通过使用匹配的选择器或
 
 匹配所有 div 元素，并选择包含 id“div 1”的 div 元素，并将元素的背景色更改为蓝色。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.过滤器(功能)
+ ## 2.过滤器(功能)
 
 在一组匹配的元素中，获取通过函数测试的元素。该函数在内部传递一个索引参数，该参数表示匹配元素的索引，从 0 开始计数。
 
@@ -40,7 +40,7 @@ jQuery filter 函数是一个有用的特性，通过使用匹配的选择器或
 
 匹配所有 div 元素，用函数过滤选择包含**标签的 div 元素。**
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## jQuery filter()示例
+ ## jQuery filter()示例
 
 ```java
  <html>

@@ -17,7 +17,7 @@
 
 请参见本教程的最终项目结构。
 
-![one to one project structure](img/ba00e8f3e5a76353178b26d25dab1d2d.png "one-to-one-relationship-project-structure") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 项目依赖性
+![one to one project structure](img/ba00e8f3e5a76353178b26d25dab1d2d.png "one-to-one-relationship-project-structure") ## 项目依赖性
 
 从 JBoss 仓库获取 **hibernate.jar** ，Maven 会为您处理所有相关的依赖关系。
 
@@ -58,7 +58,7 @@
 </project> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 1.“一对一”表关系
+ ## 1.“一对一”表关系
 
 一个**一对一的**关系表设计，一个股票表在 STOCK_DETAIL 表中正好包含一条记录。两个表都有相同的 Stock_Id 作为主键。在 STOCK_DETAIL 表中，Stock_Id 是主键，也是 STOCK 表的外键。这是定义“一对一”表关系的常用方法。
 

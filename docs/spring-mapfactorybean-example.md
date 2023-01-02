@@ -108,11 +108,11 @@ public class App
 
 ## 下载源代码
 
-Download It – [Spring-MapFactoryBean-Example.zip](http://web.archive.org/web/20190214233817/http://www.mkyong.com/wp-content/uploads/2010/03/Spring-MapFactoryBean-Example.zip) (5KB) <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 参考
+Download It – [Spring-MapFactoryBean-Example.zip](http://web.archive.org/web/20190214233817/http://www.mkyong.com/wp-content/uploads/2010/03/Spring-MapFactoryBean-Example.zip) (5KB) ## 参考
 
 1.  [MapFactoryBean Javadoc](http://web.archive.org/web/20190214233817/http://static.springsource.org/spring/docs/2.5.x/api/org/springframework/beans/factory/config/MapFactoryBean.html)
 
-[spring](http://web.archive.org/web/20190214233817/http://www.mkyong.com/tag/spring/)</ins>![](img/a63506c8f00b1c6ff055980219867ffd.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190214233817/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="3749">
+[spring](http://web.archive.org/web/20190214233817/http://www.mkyong.com/tag/spring/)![](img/a63506c8f00b1c6ff055980219867ffd.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190214233817/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="3749">
 
 
 

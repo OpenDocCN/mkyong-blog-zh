@@ -45,7 +45,7 @@ pom.xml
 	</dependencies> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.弹簧组件
+ ## 2.弹簧组件
 
 创建一个简单的 Spring 组件，稍后我们将使用 TestNG 测试这个组件。
 
@@ -79,7 +79,7 @@ public class RandomEmailGenerator implements EmailGenerator {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.测试+弹簧
+ ## 3.测试+弹簧
 
 在测试文件夹中创建一个 Spring 配置文件，用于 Spring 组件扫描。
 

@@ -23,7 +23,7 @@ Spring Security 将消息存储在“ **spring-security-core.jar** 内的“ **m
 
 要覆盖它，在 spring security**message . properties**文件中找到哪个键生成了什么错误消息，并用您自己的属性文件重新定义它。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.覆盖密钥和消息
+ ## 1.覆盖密钥和消息
 
 创建一个新的属性文件，将其放在项目类路径中，并用您的自定义错误消息覆盖 Spring 的“key”。在这种情况下，只需覆盖“`AbstractUserDetailsAuthenticationProvider.badCredentials`”。
 
@@ -33,7 +33,7 @@ Spring Security 将消息存储在“ **spring-security-core.jar** 内的“ **m
  AbstractUserDetailsAuthenticationProvider.badCredentials=Invalid username or password 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.注册资源 BundleMessageSource
+ ## 2.注册资源 BundleMessageSource
 
 要加载上述属性文件，请在 Spring bean 配置文件中定义`ResourceBundleMessageSource`。
 

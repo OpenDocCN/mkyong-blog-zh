@@ -16,11 +16,11 @@ Infinitest 是一个持续测试插件，它有助于自动运行测试。
 
 1.3 重启 Intellij IDEA。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.添加 Infinitest 方面
+ ## 2.添加 Infinitest 方面
 
 在项目结构/设置中，添加一个“Infinitest”方面。
 
-![infinitest-idea-facet](img/017b7f10d158a15105ec7e4660e6b19e.png) <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.启用自动生成项目
+![infinitest-idea-facet](img/017b7f10d158a15105ec7e4660e6b19e.png) ## 3.启用自动生成项目
 
 3.1 默认情况下，Intellij 不会自动编译类，您需要手动启用它，以便“Infinitest”插件可以检测到变化并自动运行测试。
 

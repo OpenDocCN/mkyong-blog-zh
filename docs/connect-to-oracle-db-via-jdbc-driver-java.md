@@ -12,7 +12,7 @@
 
 *另外，您需要创建一个 Oracle 帐户(免费)来下载 JDBC 驱动程序。*
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.Java JDBC 连接示例
+ ## 2.Java JDBC 连接示例
 
 通过 JDBC 驱动程序连接 Oracle 数据库的代码片段。
 
@@ -79,7 +79,7 @@ public class OracleJDBCExample {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.运行它
+ ## 3.运行它
 
 假设`OracleJDBCExample.java`与 Oracle JDBC 驱动程序`ojdbc7.jar`一起存储在`C:\jdbc-test`文件夹中
 

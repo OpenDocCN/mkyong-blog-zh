@@ -65,11 +65,11 @@ public abstract class AbstractUserDetailsAuthenticationProvider
     } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.项目演示
+ ## 2.项目演示
 
 [//web.archive.org/web/20190210095107if_/http://www.youtube.com/embed/vyoD4ALC43s](//web.archive.org/web/20190210095107if_/http://www.youtube.com/embed/vyoD4ALC43s)
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.项目目录
+ ## 3.项目目录
 
 查看最终项目结构(基于注释):
 

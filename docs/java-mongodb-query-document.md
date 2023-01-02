@@ -16,7 +16,7 @@
 { "_id" : { "$oid" : "id"} , "number" : 5 , "name" : "mkyong-5"} 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.查找()示例
+ ## 1.查找()示例
 
 1.1 仅获取第一个匹配的文档。
 
@@ -73,7 +73,7 @@
 { "_id" : { "$oid" : "id"} , "name" : "mkyong-5"} 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.查找()和比较
+ ## 2.查找()和比较
 
 2.1 在`number = 5`处获取所有文件。
 

@@ -27,7 +27,7 @@ See equivalent version in Spring EL. It is more flexible and contains many usefu
 
 访问控制包含在核心 Spring 安全 jar 中。请参考这个 [Spring Security hello world 示例](http://web.archive.org/web/20190215001531/http://www.mkyong.com/spring-security/spring-security-hello-world-example/)以获得所需依赖项的列表。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.Spring MVC
+ ## 2.Spring MVC
 
 Spring MVC 控制器并返回一个“hello”视图，这应该是不言自明的。
 
@@ -62,12 +62,7 @@ public class WelcomeController {
 <html>
 <body>
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2836379775501347"
-     data-ad-slot="8821506761"
-     data-ad-format="auto"
-     data-ad-region="mkyongregion"></ins>
+
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script><h2>Message : ${message}</h2>	
@@ -133,7 +128,7 @@ Download it – [Spring-Security-Access-Control-Example.zip](http://web.archive.
 1.  [Spring 安全授权文档](http://web.archive.org/web/20190215001531/http://static.springsource.org/spring-security/site/docs/3.0.x/reference/authorization.html)
 2.  [Spring 安全+ el 访问控制文档](http://web.archive.org/web/20190215001531/http://static.springsource.org/spring-security/site/docs/3.0.x/reference/el-access.html)
 
-[access control](http://web.archive.org/web/20190215001531/http://www.mkyong.com/tag/access-control/) [spring security](http://web.archive.org/web/20190215001531/http://www.mkyong.com/tag/spring-security/)</ins>![](img/ced56df2a4f8ea0f775b51c99165f3c8.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190215001531/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="10075">
+[access control](http://web.archive.org/web/20190215001531/http://www.mkyong.com/tag/access-control/) [spring security](http://web.archive.org/web/20190215001531/http://www.mkyong.com/tag/spring-security/)![](img/ced56df2a4f8ea0f775b51c99165f3c8.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190215001531/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="10075">
 
 
 

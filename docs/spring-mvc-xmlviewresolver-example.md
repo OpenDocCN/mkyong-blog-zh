@@ -35,7 +35,7 @@ public class WelcomeController extends AbstractController{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.XmlViewResolver
+ ## 2.XmlViewResolver
 
 在 Spring 的 bean 配置文件中注册 XmlViewResolver，从"**/we b-INF/Spring-views . XML**"加载视图 bean。
 
@@ -60,7 +60,7 @@ public class WelcomeController extends AbstractController{
 </beans> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.查看 beans
+ ## 3.查看 beans
 
 “**视图 bean** ”只是在 Spring 的 bean 配置文件中声明的一个普通的 Spring bean，其中
 

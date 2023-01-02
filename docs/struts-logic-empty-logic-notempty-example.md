@@ -65,9 +65,9 @@ public class LogicExampleAction extends Action{
 
 Struts -测试
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## listMag0 为空</ins> 
+ ## listMag0 为空 
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## listMag1 为空</ins> 
+ ## listMag1 为空 
 
  ## listMag2 为空 
 

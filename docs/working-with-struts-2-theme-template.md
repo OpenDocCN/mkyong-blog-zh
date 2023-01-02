@@ -43,11 +43,11 @@ Struts 2 tags + Theme’s template file (ftl) = Final HTML markup code.Struts 2 
 
 在新主题中，错误信息将显示在输入字段旁边，并用红色突出显示。
 
-![Struts2 mkyong theme](img/dd0de85dd7a1a8d3dbc023191f78157c.png "Struts2-theme-example-2") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.提取主题
+![Struts2 mkyong theme](img/dd0de85dd7a1a8d3dbc023191f78157c.png "Struts2-theme-example-2") ## 1.提取主题
 
 所有的主题和模板文件都在模板文件夹 **struts2-core.jar** 中。将其解压缩到您的本地驱动器。
 
-The ftl file is just a normal text file, you can open it with any prefer text editors. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.创建新主题
+The ftl file is just a normal text file, you can open it with any prefer text editors. ## 2.创建新主题
 
 创建一个新文件夹，复制所有现有的 xhtml 模板文件(ftl)并将新文件夹放入项目资源文件夹。
 

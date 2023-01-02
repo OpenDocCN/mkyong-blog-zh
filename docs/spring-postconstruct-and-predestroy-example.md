@@ -44,7 +44,7 @@ public class CustomerService
 
 默认情况下，Spring 不知道@PostConstruct 和@PreDestroy 注释。要启用它，您必须注册'**commannotationbeanpostprocessor**，或者在 bean 配置文件中指定'**<context:annotation-config/>**'。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.commannotationbeanpostprocessor
+ ## 1.commannotationbeanpostprocessor
 
 ```java
  <beans 
@@ -61,7 +61,7 @@ public class CustomerService
 </beans> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.
+ ## 2.
 
 ```java
  <beans 

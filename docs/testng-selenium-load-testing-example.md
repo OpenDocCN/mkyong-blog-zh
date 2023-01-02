@@ -41,7 +41,7 @@ pom.xml
    <dependencies> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.@Test(invocationCount=？)
+ ## 2.@Test(invocationCount=？)
 
 这个`invocationCount`决定了 TestNG 应该运行这个测试方法多少次。
 
@@ -109,7 +109,7 @@ PASSED: loadTestThisWebsite
 PASSED: loadTestThisWebsite 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.@Test(invocationCount =？，threadPoolSize =？)
+ ## 3.@Test(invocationCount =？，threadPoolSize =？)
 
 `threadPoolSize`属性告诉 TestNG 创建一个线程池，通过多线程运行测试方法。有了线程池，将大大减少测试方法的运行时间。
 

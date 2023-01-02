@@ -34,7 +34,7 @@ public class MovieController {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.日志示例
+ ## 2.日志示例
 
 创建一个文件 logging.properties，设置日志级别，并将其放入" **$project/war/WEB-INF** "
 
@@ -45,7 +45,7 @@ public class MovieController {
 .level = WARNING 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.appengine-web.xml
+ ## 3.appengine-web.xml
 
 更新 **appengine-web.xml** ，定义系统属性标签，将日志指向上面的“**we b-INF/logging . properties**”。
 

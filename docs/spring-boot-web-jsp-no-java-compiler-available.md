@@ -81,7 +81,7 @@ pom.xml
 [INFO] \- javax.servlet:jstl:jar:1.2:compile 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.解决办法
+ ## 2.解决办法
 
 不知道为什么`tomcat-embed-jasper`没有使用 ecj 编译器，为了解决这个问题，Eclipse `ecj`手动声明:
 
@@ -142,7 +142,7 @@ pom.xml
 [INFO] \- org.eclipse.jdt.core.compiler:ecj:jar:4.6.1:provided 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [使用嵌入式 Tomcat 创建一个 Java Web 应用程序](http://web.archive.org/web/20190303102708/https://devcenter.heroku.com/articles/create-a-java-web-application-using-embedded-tomcat)
 2.  [Jasper 2 JSP 引擎如何](http://web.archive.org/web/20190303102708/https://tomcat.apache.org/tomcat-7.0-doc/jasper-howto.html)

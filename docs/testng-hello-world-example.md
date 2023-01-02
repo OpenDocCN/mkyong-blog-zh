@@ -25,7 +25,7 @@ pom.xml
 	</dependency> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.测试示例
+ ## 2.测试示例
 
 复习一个简单的类，有一个方法返回一个固定的邮箱“feedback@yoursite.com”。
 
@@ -74,7 +74,7 @@ public class TestHelloWorld {
 
 完成后，一个简单的 TestNG 测试用例就创建了，这个测试确保`RandomEmailGenerator.generate()`总是返回“feedback@yoursite.com”。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.测试 Eclipse 插件
+ ## 3.测试 Eclipse 插件
 
 要在 Eclipse IDE 中运行上述测试，您需要安装 TestNG Eclipse 插件。按照这个[官方测试 Eclipse 插件指南](http://web.archive.org/web/20190303051040/http://testng.org/doc/eclipse.html)进行安装。
 

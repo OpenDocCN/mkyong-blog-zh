@@ -33,12 +33,7 @@ jQuery **resize()** 事件在浏览器大小改变时被触发，该事件只绑
   <h1>jQuery resize() example</h1>
 
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-format="fluid"
-     data-ad-layout="in-article"
-     data-ad-client="ca-pub-2836379775501347"
-     data-ad-slot="6894224149"></ins>
+
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script><h2>Try resize this browser</h2>

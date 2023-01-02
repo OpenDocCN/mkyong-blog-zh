@@ -90,7 +90,7 @@ apple
 banana 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## Java 8–映射到列表
+ ## Java 8–映射到列表
 
 对于 Java 8，您可以将`Map`转换成流，对其进行处理，并将其作为`List`返回
 
@@ -165,7 +165,7 @@ watermelon
 apple 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.Java 8–将地图转换为 2 列表
+ ## 3.Java 8–将地图转换为 2 列表
 
 这个例子有点极端，用`map.entrySet()`把一个`Map`转换成 2 个`List`
 

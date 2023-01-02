@@ -14,7 +14,7 @@
 
 然而，这个解决方案对我来说并不奏效。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 或者，您可以使用“`ajaxRequestTarget`”来附加 Javascrip 代码:
 
@@ -22,7 +22,7 @@
  ajaxRequestTarget.appendJavascript("alert('hello');"); 
 ```
 
-[ajax](http://web.archive.org/web/20190112014028/http://www.mkyong.com/tag/ajax/) [javascript](http://web.archive.org/web/20190112014028/http://www.mkyong.com/tag/javascript/) [wicket](http://web.archive.org/web/20190112014028/http://www.mkyong.com/tag/wicket/)</ins>![](img/df2456be1f3b9440379476aced587531.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190112014028/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="1276">
+[ajax](http://web.archive.org/web/20190112014028/http://www.mkyong.com/tag/ajax/) [javascript](http://web.archive.org/web/20190112014028/http://www.mkyong.com/tag/javascript/) [wicket](http://web.archive.org/web/20190112014028/http://www.mkyong.com/tag/wicket/)![](img/df2456be1f3b9440379476aced587531.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190112014028/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="1276">
 
 
 

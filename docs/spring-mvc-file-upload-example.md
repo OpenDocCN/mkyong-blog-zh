@@ -24,7 +24,7 @@ This article will focus on the Servlet 3.0 multipart request parsing.
 
 一个标准的 Maven 项目结构。
 
-![spring-mvc-file-upload-example-directory](img/f951fd06cc86e1de06fdce786253b161.png) <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.项目依赖性
+![spring-mvc-file-upload-example-directory](img/f951fd06cc86e1de06fdce786253b161.png) ## 2.项目依赖性
 
 标准的 Spring 依赖，不需要额外的文件上传库。
 
@@ -139,7 +139,7 @@ pom.xml
 </project> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.MultipartConfigElement
+ ## 3.MultipartConfigElement
 
 创建一个 Servlet 初始化器类并注册一个`javax.servlet.MultipartConfigElement`
 

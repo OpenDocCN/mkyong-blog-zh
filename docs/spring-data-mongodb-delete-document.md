@@ -119,9 +119,9 @@ User [id=5162e0153004c3cb0a907372, ic=1003, name=cat, age=30]
 User [id=5162e0153004c3cb0a907374, ic=1005, name=elephant, age=50] 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 下载源代码
+ ## 下载源代码
 
-Download it – [SpringMongoDB-Delete-Example.zip](http://web.archive.org/web/20190214015648/http://www.mkyong.com/wp-content/uploads/2011/05/SpringMongoDB-Delete-Example.zip) (24 KB) <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+Download it – [SpringMongoDB-Delete-Example.zip](http://web.archive.org/web/20190214015648/http://www.mkyong.com/wp-content/uploads/2011/05/SpringMongoDB-Delete-Example.zip) (24 KB) ## 参考
 
 1.  [从 MongoDB 中保存、更新和删除文档](http://web.archive.org/web/20190214015648/http://static.springsource.org/spring-data/mongodb/docs/current/reference/html/mongo.core.html#mongo-template.save-update-remove)
 2.  [Java MongoDB 删除示例/](http://web.archive.org/web/20190214015648/http://www.mkyong.com/mongodb/java-mongodb-delete-document/)

@@ -103,7 +103,7 @@ found in bean 'CustomerBean' (hint: specify index and/or
 type arguments for simple parameters to avoid type ambiguities) 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 要解决这个问题，您应该始终通过 type 属性为构造函数指定确切的数据类型，如下所示:
 
@@ -143,7 +143,7 @@ http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
 ```
 
 **Note**
-It’s always a good practice to explicitly declared the data type for each constructor argument, to avoid constructor injection type ambiguities issue above.[spring](http://web.archive.org/web/20190309054054/http://www.mkyong.com/tag/spring/)</ins>![](img/306930b314782ee346296b3768090b1a.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190309054054/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="3654">
+It’s always a good practice to explicitly declared the data type for each constructor argument, to avoid constructor injection type ambiguities issue above.[spring](http://web.archive.org/web/20190309054054/http://www.mkyong.com/tag/spring/)![](img/306930b314782ee346296b3768090b1a.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190309054054/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="3654">
 
 
 

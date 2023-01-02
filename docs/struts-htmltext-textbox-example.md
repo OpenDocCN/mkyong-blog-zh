@@ -10,7 +10,7 @@ Download this Struts text box example – [Struts-TextBox-Example.zip](http://we
 
 这是 Maven 创建的最终项目结构。请创建相应的文件夹。
 
-![Struts-text-box-folder](img/dd30bbb84bce6a74f57b596d88ca6ef0.png "Struts-text-box-folder") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.动作类
+![Struts-text-box-folder](img/dd30bbb84bce6a74f57b596d88ca6ef0.png "Struts-text-box-folder") ## 2.动作类
 
 创建一个 Action 类，除了转发请求什么也不做。
 
@@ -39,7 +39,7 @@ public class UserAction extends Action{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.属性文件
+ ## 3.属性文件
 
 创建一个属性文件，并声明错误和标签消息。
 

@@ -77,11 +77,11 @@ public String saveOrUpdateUser(@ModelAttribute("userForm") User user,
 
 完成了。让我们开始教程。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.项目目录
+ ## 1.项目目录
 
 这是最终的项目目录结构。标准的 Maven 项目。
 
-[![spring-mvc-form-handling-directory](img/85a99fadbd10f80849e9a71532a69a09.png)](http://web.archive.org/web/20190303052227/http://www.mkyong.com/wp-content/uploads/2010/08/spring-mvc-form-handling-directory.png) <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.项目相关性
+[![spring-mvc-form-handling-directory](img/85a99fadbd10f80849e9a71532a69a09.png)](http://web.archive.org/web/20190303052227/http://www.mkyong.com/wp-content/uploads/2010/08/spring-mvc-form-handling-directory.png) ## 2.项目相关性
 
 开发一个 Spring MVC 项目，需要`spring-webmvc`。
 

@@ -15,7 +15,7 @@ Mashable 最出名的是社交媒体资源网站，当用户滚动页面时，�
 5.  当滚动条 y 位置小于浮动框 y 位置时，恢复原始位置。
 6.  当然是用 jQuery。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.HTML 布局
+ ## 1.HTML 布局
 
 一个简单的 HTML 布局，页眉，内容和页脚，在内容上方放置一个 div“浮动框”。
 
@@ -26,12 +26,7 @@ Mashable 最出名的是社交媒体资源网站，当用户滚动页面时，�
 	<div id="body">
 		<h1>content</h1>
 		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2836379775501347"
-     data-ad-slot="8821506761"
-     data-ad-format="auto"
-     data-ad-region="mkyongregion"></ins>
+
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script><h2>Mashable floating effect example</h2>
@@ -243,7 +238,7 @@ Mashable 最出名的是社交媒体资源网站，当用户滚动页面时，�
 </html> 
 ```
 
-[Try Demo](http://web.archive.org/web/20190310101552/http://www.mkyong.com/wp-content/uploads/jQuery/jQuery-Mashable-floating-effect-example.html)[jquery](http://web.archive.org/web/20190310101552/http://www.mkyong.com/tag/jquery/) [jquery effects](http://web.archive.org/web/20190310101552/http://www.mkyong.com/tag/jquery-effects/)</ins>![](img/db07b12801c98faa40e92b81f1f7870d.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190310101552/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="5255">
+[Try Demo](http://web.archive.org/web/20190310101552/http://www.mkyong.com/wp-content/uploads/jQuery/jQuery-Mashable-floating-effect-example.html)[jquery](http://web.archive.org/web/20190310101552/http://www.mkyong.com/tag/jquery/) [jquery effects](http://web.archive.org/web/20190310101552/http://www.mkyong.com/tag/jquery-effects/)![](img/db07b12801c98faa40e92b81f1f7870d.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190310101552/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="5255">
 
 
 

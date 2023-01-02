@@ -17,7 +17,7 @@ Check the details explanation of [Post/Redirect/Get Design Pattern in Wiki](http
 
 在本教程中，我们将向您展示如何应用 Spring MVC 中的" **Post/Redirect/Get** "设计模式来解决[最后一个表单处理](http://web.archive.org/web/20190224163020/http://www.mkyong.com/spring-mvc/spring-mvc-form-handling-example/)示例中的重复表单提交问题。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.重复表单提交
+ ## 1.重复表单提交
 
 见下面正常的表单声明，会遇到重复表单提交的问题。
 
@@ -45,7 +45,7 @@ class="org.springframework.web.servlet.mvc.support.ControllerClassNameHandlerMap
 
 在上面的代码片段中，`CustomerController`直接返回一个" **CustomerSuccess** "视图，而这个视图应该用重定向 URL 替换为**。**
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.重定向视图
+ ## 2.重定向视图
 
 声明了一个评论视图，命名为“**customersuccessredict**”，并返回一个 URL“【CustomerSuccess.htm】T2”。
 

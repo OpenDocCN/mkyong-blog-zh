@@ -23,7 +23,7 @@ Wicket hello world，基本的东西和 URL 配置。
 *   [在 Wicket 中加密 URL](http://web.archive.org/web/20190213133126/http://www.mkyong.com/wicket/how-do-encrypt-encode-url-in-wicket/)
     在 Wicket 中加密 URL 的简单方法。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 模型
+ ## 模型
 
 Wicket 模型示例，从组件绑定到对象属性，反之亦然。
 
@@ -32,7 +32,7 @@ Wicket 模型示例，从组件绑定到对象属性，反之亦然。
 *   [CompoundPropertyModel 示例](http://web.archive.org/web/20190213133126/http://www.mkyong.com/wicket/wicket-compoundpropertymodel-example/)
     使用 CompoundPropertyModel 将表单组件绑定到对象属性。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 表单组件
+ ## 表单组件
 
 Wicket 表单组件示例。
 

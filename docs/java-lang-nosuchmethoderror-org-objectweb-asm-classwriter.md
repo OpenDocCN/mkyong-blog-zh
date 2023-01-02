@@ -26,7 +26,7 @@ Caused by: java.lang.NoSuchMethodError: org.objectweb.asm.ClassWriter.<init>(I)V
 	... 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 “**无法实例化默认的 tu plizer[org . hibernate . tuple . entity . pojoentitytuplizer**”是一个一般性的错误消息，它可能由多种原因引起。因此，您必须查看导致错误的最后一行。
 
@@ -36,7 +36,7 @@ Caused by: java.lang.NoSuchMethodError: org.objectweb.asm.ClassWriter.<init>(I)V
 
 主要原因是**旧的 asm.jar 库**例如“asm-1.5.3.jar”，只需**将 asm 库**升级到最新版本就可以摆脱错误信息。例如，“asm-3.1.jar”。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [ASM 图书馆官方网站](http://web.archive.org/web/20190305233131/http://asm.ow2.org/)
 

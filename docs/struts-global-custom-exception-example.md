@@ -59,7 +59,7 @@ Struts 全局异常示例
 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2. <global-exception>+自定义异常处理程序</global-exception>
+ ## 2. <global-exception>+自定义异常处理程序</global-exception>
 
 在默认的异常处理程序中，您无法控制如何处理异常。在大多数情况下，您可能需要记录该异常以供进一步分析。为此，您需要一个定制的异常处理程序来将所有异常记录到另一个数据存储中，如文件系统或数据库。
 
@@ -129,7 +129,7 @@ public class MyCustomExceptionHandler extends ExceptionHandler{
 
 在上面的代码中，当异常被 Action 抛出时，它将调用您的自定义异常处理程序 MyCustomExceptionHandler 的 **execute()** 方法，而不是默认的异常处理程序。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  Struts 异常处理程序-[http://struts . Apache . org/1 . x/user guide/building _ controller . html](http://web.archive.org/web/20190223082407/http://struts.apache.org/1.x/userGuide/building_controller.html)
 

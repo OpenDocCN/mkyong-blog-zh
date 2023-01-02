@@ -15,7 +15,7 @@
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.jQuery
+ ## 2.jQuery
 
 为了在页面加载后调用函数，jQuery 使用了" **$(document)。准备好**，和 **html()** 来动态创建内容。
 
@@ -25,7 +25,7 @@
 }); 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 例子
+ ## 例子
 
 ```java
  <html>

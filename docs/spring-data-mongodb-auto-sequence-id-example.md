@@ -36,7 +36,7 @@
 
 查看项目目录结构，这是一个标准的 Maven 项目。
 
-![springdata-auto-sequence-id](img/36041262ceebaf6d3254ef2ef21e1886.png) <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.Maven Pom
+![springdata-auto-sequence-id](img/36041262ceebaf6d3254ef2ef21e1886.png) ## 2.Maven Pom
 
 如果您对项目依赖关系感兴趣。
 
@@ -100,7 +100,7 @@ pom.xml
 </project> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.序列集合
+ ## 3.序列集合
 
 我们创建一个名为“sequence”的集合来存储自动增加的序列 id。参考下面的`SequenceDaoImpl.java`，它显示了生成序列 id 的代码。
 

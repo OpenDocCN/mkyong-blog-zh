@@ -36,11 +36,11 @@ In common, you do not need to declared the **fieldValue=”true”**, because tr
 <label for="resultAction_checkMe" class="checkboxLabel">Check Me for testing</label> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## Struts 2 **< s:复选框>** 示例
+ ## Struts 2 **< s:复选框>** 示例
 
 一个完整的例子，通过 Struts 2**<s:checkbox>**创建复选框，并将提交的复选框值赋给 Action 类并显示。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 1.行动
+ ## 1.行动
 
 带有用于保存复选框值的 **checkMe** 布尔属性的操作类。CheckBoxAction.java
 T3

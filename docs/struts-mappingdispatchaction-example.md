@@ -45,7 +45,7 @@ public class MyCustomDispatchAction extends MappingDispatchAction{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.Struts 配置
+ ## 2.Struts 配置
 
 声明两个操作映射，每个映射指向具有不同参数属性的同一个 MyCustomDispatchAction 类。
 
@@ -93,7 +93,7 @@ public class MyCustomDispatchAction extends MappingDispatchAction{
 </struts-config> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.查看页面
+ ## 3.查看页面
 
 在 JSP 页面中，链接的工作方式如下:
 

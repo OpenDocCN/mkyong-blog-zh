@@ -57,13 +57,13 @@ public class Time12HoursValidator{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 匹配的时间格式:
+ ## 匹配的时间格式:
 
 1.“凌晨 1 点”，“凌晨 1 点”，“凌晨 1 点”，
 2。“下午 1 点”，“下午 1 点”，“下午 1 点”，
 3。"下午 12 点 50 分"
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 时间格式不匹配:
+ ## 时间格式不匹配:
 
 1.“0:00am”-小时超出范围[1-12]
 2。“上午 10:00”——只允许一个空格

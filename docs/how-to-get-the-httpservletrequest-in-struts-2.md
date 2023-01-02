@@ -21,7 +21,7 @@ public class LocaleAction{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.ServletRequestAware
+ ## 2.ServletRequestAware
 
 使您的类实现了**org . Apache . struts 2 . interceptor . servletrequestaware**。
 
@@ -52,7 +52,7 @@ public class LocaleAction implements ServletRequestAware{
 } 
 ```
 
-Struts 2 documentation is recommended **ServletRequestAware** instead of **ServletActionContext**. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+Struts 2 documentation is recommended **ServletRequestAware** instead of **ServletActionContext**. ## 参考
 
 1.  [http://struts . Apache . org/2 . x/docs/how-can-we-access-the-http servlet request . html](http://web.archive.org/web/20190304031154/http://struts.apache.org/2.x/docs/how-can-we-access-the-httpservletrequest.html)
 2.  [http://struts . Apache . org/2 . 0 . 6/struts 2-core/API docs/org/Apache/struts 2/interceptor/servletrequestaware . html](http://web.archive.org/web/20190304031154/http://struts.apache.org/2.0.6/struts2-core/apidocs/org/apache/struts2/interceptor/ServletRequestAware.html)

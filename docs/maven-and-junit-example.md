@@ -71,13 +71,13 @@ pom.xml
 ... 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 参考
+ ## 参考
 
 1.  [如何用 Maven 创建 Java 项目](http://web.archive.org/web/20190215000831/http://www.mkyong.com/maven/how-to-create-a-java-project-with-maven/)
 2.  [Maven–显示项目依赖性](http://web.archive.org/web/20190215000831/http://www.mkyong.com/maven/maven-display-project-dependency/)
 3.  [JUnit–与 Maven 一起使用](http://web.archive.org/web/20190215000831/https://github.com/junit-team/junit4/wiki/Use-with-Maven)
 
-[junit](http://web.archive.org/web/20190215000831/http://www.mkyong.com/tag/junit/) [maven](http://web.archive.org/web/20190215000831/http://www.mkyong.com/tag/maven/)</ins>![](img/3d67308a2d9c0bb69d9eb6830b8ccffe.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190215000831/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="13981">
+[junit](http://web.archive.org/web/20190215000831/http://www.mkyong.com/tag/junit/) [maven](http://web.archive.org/web/20190215000831/http://www.mkyong.com/tag/maven/)![](img/3d67308a2d9c0bb69d9eb6830b8ccffe.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190215000831/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="13981">
 
 
 

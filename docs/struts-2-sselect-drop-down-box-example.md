@@ -40,7 +40,7 @@ To auto select a default value for drop down box, read this artcle : [Auto selec
 
 一个完整的 Struts 2 例子，通过 **<创建下拉框:选择>** ，**通过 Java 列表和 OGNL 列表**填充选择的选项，存储选择的值并显示在另一个页面中。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.行动
+ ## 1.行动
 
 操作类来生成和保存所选的下拉框选项。
 **SelectAction.java**
@@ -108,7 +108,7 @@ public class SelectAction extends ActionSupport{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.结果页面
+ ## 2.结果页面
 
 通过“ **< s:select >** ”标签呈现下拉框，通过 Java list 和 OGNL list 填充选择选项
 

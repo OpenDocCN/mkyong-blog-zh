@@ -86,7 +86,7 @@ pom.xml
 
 读读这个——[Spring Boot——从哪个主班开始](http://web.archive.org/web/20190306164208/http://www.mkyong.com/spring-boot/spring-boot-which-main-class-to-start/)
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.将嵌入式 servlet 容器标记为已提供
+ ## 2.将嵌入式 servlet 容器标记为已提供
 
 pom.xml
 
@@ -108,7 +108,7 @@ pom.xml
 </dependencies> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.将包装更新到 war
+ ## 3.将包装更新到 war
 
 pom.xml
 

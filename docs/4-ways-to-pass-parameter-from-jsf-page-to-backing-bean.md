@@ -36,7 +36,7 @@ public class UserBean{
 ```
 
 **Note**
-If you are deploy JSF application in servlet container like Tomcat, make sure you include the “**el-impl-2.2.jar**” properly. For detail, please read this article – [JSF 2.0 method expression caused error in Tomcat](http://web.archive.org/web/20190213134747/http://www.mkyong.com/jsf2/how-to-pass-parameters-in-method-expression-jsf-2-0/). <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 第二，我的钱
+If you are deploy JSF application in servlet container like Tomcat, make sure you include the “**el-impl-2.2.jar**” properly. For detail, please read this article – [JSF 2.0 method expression caused error in Tomcat](http://web.archive.org/web/20190213134747/http://www.mkyong.com/jsf2/how-to-pass-parameters-in-method-expression-jsf-2-0/). ## 第二，我的钱
 
 通过`f:param`标签传递参数值，并通过 backing bean 中的请求参数取回。
 
@@ -69,7 +69,7 @@ public class UserBean{
 
 点击这里查看完整的 [f:param 示例](http://web.archive.org/web/20190213134747/http://www.mkyong.com/jsf2/jsf-2-param-example/)。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.女:属性
+ ## 3.女:属性
 
 通过`f:atribute`标签传递参数值，并通过 backing bean 中的动作监听器获取它。
 

@@ -40,7 +40,7 @@ This example is a bit outdate, unless you are still using the old Quartz 1.6.3 l
 	</dependencies> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.石英工作
+ ## 2.石英工作
 
 Quartz 作业定义了你要运行什么？
 
@@ -65,7 +65,7 @@ public class HelloJob implements Job
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.石英触发器
+ ## 3.石英触发器
 
 石英触发器定义了石英什么时候会运行你上面的石英的工作？
 

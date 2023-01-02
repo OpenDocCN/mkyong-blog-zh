@@ -23,7 +23,7 @@
 
 要启用 MongoDB 认证，您必须首先将一个用户添加到特殊的“admin”数据库，详细指南请参考此 [MongoDB 认证示例](http://web.archive.org/web/20190214234952/http://www.mkyong.com/mongodb/mongodb-authentication-example/)。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.Java + MongoDB 认证示例
+ ## 2.Java + MongoDB 认证示例
 
 如果 MongoDB 是在安全模式下启动的，下面的“插入”操作将不再有效，并提示“需要登录”的错误信息。
 
@@ -104,7 +104,7 @@ public class JavaMongoDBAuthExample {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [Java MongoDB 认证示例](http://web.archive.org/web/20190214234952/http://www.mkyong.com/mongodb/java-authentication-access-to-mongodb/)
 2.  [JIRA–db . authenticate()应该使用字符[]作为密码](http://web.archive.org/web/20190214234952/https://jira.mongodb.org/browse/JAVA-45)

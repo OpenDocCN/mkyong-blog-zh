@@ -20,7 +20,7 @@ Currently, Spring 3 is still NOT support Quartz 2 APIs, see this [SPR-8581 bug r
 
 这是最终的项目文件夹结构。
 
-![](img/4b2adf15a4ed33eb9acfb684225612d0.png "struts2-spring3-quartz") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.依赖库
+![](img/4b2adf15a4ed33eb9acfb684225612d0.png "struts2-spring3-quartz") ## 2.依赖库
 
 集成与这个 [Spring 2.5.6 + Quartz 1.6](http://web.archive.org/web/20190304032247/http://www.mkyong.com/struts2/struts-2-spring-quartz-scheduler-integration-example/) 类似，只是 Spring3 的依赖关系有点混乱，阅读下面的 Maven pom.xml 了解开发本教程所需的所有依赖关系。
 
@@ -91,7 +91,7 @@ Currently, Spring 3 is still NOT support Quartz 2 APIs, see this [SPR-8581 bug r
   ... 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.弹簧 3 +石英
+ ## 3.弹簧 3 +石英
 
 要集成 Spring3 和 Quartz，需要创建一个扩展了`org.springframework.scheduling.quartz.QuartzJobBean`的类，并实现`executeInternal()`方法，就像在 Quartz 中创建调度作业一样。
 

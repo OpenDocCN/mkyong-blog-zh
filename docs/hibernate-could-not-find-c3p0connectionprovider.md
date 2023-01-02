@@ -20,7 +20,7 @@ Using Hibernate built-in connection pool (not for production use!)
 
 貌似“`org.hibernate.connection.C3P0ConnectionProvider`”不见了？
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 从 Hibernate v3.3 开始(如果没弄错的话)，“ **C3P0ConnectionProvider** ”被移到另一个 jar 文件“ **hibernate-c3p0.jar** ”。你需要包含它，以使 Hibernate 支持 c3p0 连接池。
 
@@ -52,7 +52,7 @@ Using Hibernate built-in connection pool (not for production use!)
 ```
 
 **Note**
-See this detail guide – “[How to configure c3p0 connection pool in Hibernate](http://web.archive.org/web/20190308011736/http://www.mkyong.com/hibernate/how-to-configure-the-c3p0-connection-pool-in-hibernate/)“. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+See this detail guide – “[How to configure c3p0 connection pool in Hibernate](http://web.archive.org/web/20190308011736/http://www.mkyong.com/hibernate/how-to-configure-the-c3p0-connection-pool-in-hibernate/)“. ## 参考
 
 1.  [http://docs . JBoss . org/hibernate/core/3.3/API/org/hibernate/connection/C3 P0 connection provider . html](http://web.archive.org/web/20190308011736/http://docs.jboss.org/hibernate/core/3.3/api/org/hibernate/connection/C3P0ConnectionProvider.html)
 2.  [http://sourceforge.net/projects/c3p0/](http://web.archive.org/web/20190308011736/http://sourceforge.net/projects/c3p0/)

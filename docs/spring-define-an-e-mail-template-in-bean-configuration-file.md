@@ -57,7 +57,7 @@
 </project> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.春天的邮件发送者
+ ## 2.春天的邮件发送者
 
 一个 Java 类，通过 Spring 的 MailSender 接口发送电子邮件，并使用 **String.format** 用 bean 配置文件中的传递变量替换电子邮件消息“ **%s** ”。
 
@@ -95,7 +95,7 @@ public class MailMail
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.Bean 配置文件
+ ## 3.Bean 配置文件
 
 在 bean 配置文件中定义电子邮件模板' **customeMailMessage** '和邮件发送者详细信息。
 

@@ -43,7 +43,7 @@ public class Address
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.弹簧布线
+ ## 2.弹簧布线
 
 通常，通过 ref 属性显式连接 bean，如下所示:
 
@@ -95,7 +95,7 @@ public class Address
  Customer [address=null] 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 下载源代码
+ ## 下载源代码
 
 Download it – [Spring-AutoWiring-by-Name-Example.zip](http://web.archive.org/web/20190310093451/http://www.mkyong.com/wp-content/uploads/2011/06/Spring-AutoWiring-by-Name-Example.zip) (6 KB)[spring](http://web.archive.org/web/20190310093451/http://www.mkyong.com/tag/spring/) [wiring](http://web.archive.org/web/20190310093451/http://www.mkyong.com/tag/wiring/)
 

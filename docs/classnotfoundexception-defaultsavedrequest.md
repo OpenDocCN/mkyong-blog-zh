@@ -17,7 +17,7 @@ java.lang.ClassNotFoundException:
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:252) 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 `DefaultSavedRequest`在 **spring-security-web.jar** 里面。访问这个 [Spring Security hello world 示例](http://web.archive.org/web/20190306155926/http://www.mkyong.com/spring-security/spring-security-hello-world-example/)获得依赖库列表。
 
@@ -42,7 +42,7 @@ java.lang.ClassNotFoundException:
 	</dependency> 
 ```
 
-[spring security](http://web.archive.org/web/20190306155926/http://www.mkyong.com/tag/spring-security/)</ins>![](img/4f73078a83b999640928d24fa1f35165.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190306155926/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="10067">
+[spring security](http://web.archive.org/web/20190306155926/http://www.mkyong.com/tag/spring-security/)![](img/4f73078a83b999640928d24fa1f35165.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190306155926/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="10067">
 
 
 

@@ -54,7 +54,7 @@ public class DateTagAction extends ActionSupport{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.日期标签示例
+ ## 2.日期标签示例
 
 一个 JSP 页面，展示了如何使用“ **date** 标记来格式化日期对象:
 
@@ -96,7 +96,7 @@ In Date tag, set the nice attribute to "true"
 </html> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.struts.xml
+ ## 3.struts.xml
 
 链接一下~
 

@@ -12,7 +12,7 @@
      ...AcceptHeaderLocaleResolver.setLocale(AcceptHeaderLocaleResolver.java:45) 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 在 Spring MVC 应用程序中，如果不配置 Spring 的 LocaleResolver，它将使用默认的**AcceptHeaderLocaleResolver**，这不允许更改区域设置。要解决这个问题，请尝试在 Spring bean 配置文件中声明一个**session locale resolver**bean，它应该适合大多数情况。
 
@@ -40,7 +40,7 @@
 </beans> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [locale solver 文档](http://web.archive.org/web/20190225100934/http://static.springsource.org/spring/docs/2.5.x/api/org/springframework/web/servlet/class-use/LocaleResolver.html)
 

@@ -26,7 +26,7 @@
 </resources> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.检验盒
+ ## 2.检验盒
 
 打开“ **res/layout/main.xml** 文件，在`LinearLayout`里面添加 3 个“**复选框**和一个按钮。
 
@@ -68,7 +68,7 @@
 ```
 
 **Make CheckBox is checked by default**
-Put `android:checked="true"` inside checkbox element to make it checked bu default. In this case, “Android” option is checked by default. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.代码代码
+Put `android:checked="true"` inside checkbox element to make it checked bu default. In this case, “Android” option is checked by default. ## 3.代码代码
 
 在 activity " `onCreate()`"方法中附加侦听器，以监视以下事件:
 

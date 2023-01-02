@@ -64,7 +64,7 @@ jpaContext
 //... 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.作为 Bean 的 CommandLineRunner
+ ## 2.作为 Bean 的 CommandLineRunner
 
 只是打印加载的 beans 的方式不同。
 
@@ -101,7 +101,7 @@ public class Application {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [命令行运行程序 JavaDoc](http://web.archive.org/web/20190225100502/http://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/CommandLineRunner.html)
 2.  [Spring Boot 非 web 应用实例](http://web.archive.org/web/20190225100502/http://www.mkyong.com/spring-boot/spring-boot-non-web-application-example/)

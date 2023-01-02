@@ -41,12 +41,12 @@ org.quartz.plugin.jobInitializer.fileNames = quartz-config.xml
 org.quartz.plugin.jobInitializer.failOnFileNotFound = true 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 参考
+ ## 参考
 
 1.  [石英配置参考](http://web.archive.org/web/20190222093208/http://www.quartz-scheduler.org/documentation/quartz-2.1.x/configuration)
 2.  [JSF 2 +石英示例](http://web.archive.org/web/20190222093208/http://www.mkyong.com/jsf2/jsf-2-quartz-2-example/)
 
-[quartz](http://web.archive.org/web/20190222093208/http://www.mkyong.com/tag/quartz/)</ins>![](img/6f7187d4ca228957ac50ac0439be2904.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190222093208/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="11280">
+[quartz](http://web.archive.org/web/20190222093208/http://www.mkyong.com/tag/quartz/)![](img/6f7187d4ca228957ac50ac0439be2904.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190222093208/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="11280">
 
 
 

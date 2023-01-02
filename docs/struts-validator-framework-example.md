@@ -10,7 +10,7 @@ Download this example – [Struts-Validator-Example.zip](http://web.archive.org/
 
 下面是使用 Struts 验证器框架的快速指南。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.验证程序插件
+ ## 1.验证程序插件
 
 要使用 Struts 验证器插件，您需要将" **ValidatorPlugIn** "类包含到 struts-config.xml 文件中。
 
@@ -26,7 +26,7 @@ Download this example – [Struts-Validator-Example.zip](http://web.archive.org/
 
 " **validator-rules.xml** "文件包含了所有的通用验证器名称，你可以在 Struts 分发库中获得这个文件，(不要自己创建这个文件)。“validator-user.xml”包含所有表单域验证。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.验证器表单
+ ## 2.验证器表单
 
 对于需要使用验证器框架的表单 bean，它必须扩展**验证器表单**，而不是**动作表单**。
 

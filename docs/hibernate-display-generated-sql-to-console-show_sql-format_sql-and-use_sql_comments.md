@@ -21,7 +21,7 @@ Hibernate 有一个内置函数，可以将所有生成的 SQL 语句记录到�
 values (?, ?, ?, ?, ?, ?) 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.格式 _sql
+ ## 2.格式 _sql
 
 格式化生成的 SQL 语句，使其更具可读性，但会占用更多的屏幕空间。:)
 
@@ -42,7 +42,7 @@ values (?, ?, ?, ?, ?, ?)
         (?, ?, ?, ?, ?, ?) 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.使用 sql 注释
+ ## 3.使用 sql 注释
 
 Hibernate 将把注释放在所有生成的 SQL 语句中，以提示生成的 SQL 试图做什么
 

@@ -39,7 +39,7 @@ public class LoginAction{
  http://localhost:8080/Struts2Example/User/validateUser.action 
 ```
 
-The default .action is configurable, just change the “[struts.action.extension](http://web.archive.org/web/20190225092953/http://www.mkyong.com/struts2/how-to-remove-the-action-suffix-extension-in-struts-2/)” value to suit your need. <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.可选操作界面
+The default .action is configurable, just change the “[struts.action.extension](http://web.archive.org/web/20190225092953/http://www.mkyong.com/struts2/how-to-remove-the-action-suffix-extension-in-struts-2/)” value to suit your need. ## 2.可选操作界面
 
 Struts 2 自带可选的动作接口(**com . open symphony . xwork 2 . action**)。通过实现这个接口，它带来了一些方便的好处，参见源代码:
 
@@ -80,7 +80,7 @@ public class LoginAction{
 } 
 ```
 
-I don’t understand why many Struts developers like to implement this Action interface, it better to extend the ActionSupport. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.行动支持
+I don’t understand why many Struts developers like to implement this Action interface, it better to extend the ActionSupport. ## 3.行动支持
 
 Support class, a common practice to provide default implementations of interfaces.
 

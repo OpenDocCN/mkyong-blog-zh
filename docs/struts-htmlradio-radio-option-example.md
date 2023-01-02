@@ -10,7 +10,7 @@ Download this Struts radio option example – [Struts-Radio-Example.zip](http://
 
 这是 Maven 创建的最终项目结构。请创建相应的文件夹。
 
-![Struts-radio-folder](img/49e299917c84de0f3e5bb36715121850.png "Struts-radio-folder") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.动作类
+![Struts-radio-folder](img/49e299917c84de0f3e5bb36715121850.png "Struts-radio-folder") ## 2.动作类
 
 创建一个 Action 类，除了转发请求什么也不做。
 
@@ -43,7 +43,7 @@ public class HtmlRadioAction extends Action{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.属性文件
+ ## 3.属性文件
 
 创建一个属性文件，并声明错误和标签消息。
 

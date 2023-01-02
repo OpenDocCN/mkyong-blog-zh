@@ -14,7 +14,7 @@ right syntax to use near 'Datadabase reserved keyword....
 
 在 MySQL 中，“DESC”是保留关键字。让我们看一些例子来演示如何在 Hibernate 中使用这个保留关键字。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## Hibernate XML 映射文件
+ ## Hibernate XML 映射文件
 
 这是表列的默认 XML 映射文件实现，它将导致 JDBCException…
 
@@ -24,7 +24,7 @@ right syntax to use near 'Datadabase reserved keyword....
         </property> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 解决办法
+ ## 解决办法
 
 1.用方括号[]将关键字括起来。
 

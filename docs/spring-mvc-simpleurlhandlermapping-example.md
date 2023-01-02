@@ -32,7 +32,7 @@
 </beans> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.方法 1–价值
+ ## 2.方法 1–价值
 
 左侧是 URL 模式，右侧是处理程序 id 或名称，用等号“=”隔开。
 
@@ -58,7 +58,7 @@
 </beans> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.演示
+ ## 3.演示
 
 两者都定义了相同的处理程序映射。
 

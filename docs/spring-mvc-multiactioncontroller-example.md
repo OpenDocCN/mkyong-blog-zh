@@ -67,7 +67,7 @@ public class CustomerController extends MultiActionController{
 </beans> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.映射示例
+ ## 2.映射示例
 
 现在，重新请求的 URL 将按照以下模式映射到方法名:
 
@@ -77,7 +77,7 @@ public class CustomerController extends MultiActionController{
 4.  /customer/ **更新**。htm->**更新()**
 5.  /客户/ **列表**。htm->**列表()**
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.InternalPathMethodNameResolver
+ ## 3.InternalPathMethodNameResolver
 
 InternalPathMethodNameResolver 是默认的 **MultiActionController** 实现，用于将 URL 映射到方法名。但是，您仍然可以给方法名添加前缀或后缀:
 

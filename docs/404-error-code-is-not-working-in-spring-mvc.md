@@ -33,7 +33,7 @@
 
 然而，当用户访问任何不存在的资源时，它将**显示一个空白页面，而不是 404.htm**。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 404 错误代码配置正确，但会导致“**”。“ **servlet 容器**和 Spring 的“ **DispatcherServlet** ”之间的扩展处理**冲突**。要解决这个问题，请尝试将 404.htm 更改为其他文件扩展名，例如 404.jsp。**
 
@@ -64,7 +64,7 @@
 
 现在，当用户访问任何不存在的资源时，它会转到 404.jsp 页面。
 
-[404](http://web.archive.org/web/20190225092406/http://www.mkyong.com/tag/404/) [spring mvc](http://web.archive.org/web/20190225092406/http://www.mkyong.com/tag/spring-mvc/)</ins>![](img/b4e0d1232d6bb55737e13bae59128319.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190225092406/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="6565">
+[404](http://web.archive.org/web/20190225092406/http://www.mkyong.com/tag/404/) [spring mvc](http://web.archive.org/web/20190225092406/http://www.mkyong.com/tag/spring-mvc/)![](img/b4e0d1232d6bb55737e13bae59128319.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190225092406/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="6565">
 
 
 

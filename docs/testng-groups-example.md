@@ -84,7 +84,7 @@ PASSED: testConnectOracle
 PASSED: runFinal 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.课堂上的小组
+ ## 2.课堂上的小组
 
 “组”可以应用于类级别。在下面的例子中，这个类“TestSelenium”的每个公共方法都属于组`selenium-test`。
 
@@ -166,7 +166,7 @@ Total tests run: 7, Failures: 0, Skips: 0
 =============================================== 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.杂项示例
+ ## 3.杂项示例
 
 3.1 一种试验方法可以属于多个组。
 

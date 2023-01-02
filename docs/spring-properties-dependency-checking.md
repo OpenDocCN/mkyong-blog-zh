@@ -16,7 +16,7 @@
 
 *P.S 默认模式为无*
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 例子
+ ## 例子
 
 演示的客户和人员对象。
 
@@ -46,7 +46,7 @@ public class Person
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 1.无依赖性检查
+ ## 1.无依赖性检查
 
 具有“无”依赖性检查模式的 Spring bean 配置文件。
 

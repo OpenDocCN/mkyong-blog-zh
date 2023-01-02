@@ -31,7 +31,7 @@ build.xml
 </target> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.运行一批单元测试
+ ## 2.运行一批单元测试
 
 build.xml
 
@@ -60,7 +60,7 @@ build.xml
 </target> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.例子
+ ## 3.例子
 
 一个 web 应用程序示例，向您展示如何运行 junit 测试。
 

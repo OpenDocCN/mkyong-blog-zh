@@ -156,11 +156,11 @@ public class App
 
 现在，您可以从 bean 中获取资源。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 结论
+ ## 结论
 
 如果没有这个 getResource()方法，您将需要用不同的解决方案处理不同的资源，比如文件系统资源的文件对象，URL 资源的 URL 对象。Spring 确实用这个超级通用的 **getResource()** 方法做得很好，它确实节省了我们处理资源的时间。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 下载源代码
+ ## 下载源代码
 
 Download it – [Spring-getResource-Example.zip](http://web.archive.org/web/20190308030421/http://www.mkyong.com/wp-content/uploads/2010/03/Spring-getResource-Example.zip)[spring](http://web.archive.org/web/20190308030421/http://www.mkyong.com/tag/spring/)
 

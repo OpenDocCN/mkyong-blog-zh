@@ -8,7 +8,7 @@
 
 在这个例子中，展示了另一种对 dataTable 中的列表进行排序的方式，在“ *Core JavaServer Faces(第三版)*”中提到了这种方式，称为 DataModel Decorator。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.数据模型
+ ## 1.数据模型
 
 创建一个 decorator 类来扩展 javax.faces.model.DataModel 类，并添加一个额外的排序行为。嗯，解释起来有点复杂，详细请参考书中:)
 
@@ -107,7 +107,7 @@ public class SortableDataModel<E> extends DataModel<E>{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.受管 Bean
+ ## 2.受管 Bean
 
 一个托管 bean 为测试提供一个虚拟列表，并展示了使用**自定义数据模型对数据表列表**进行排序。
 

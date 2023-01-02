@@ -24,7 +24,7 @@
 
 最终项目目录结构。
 
-![spring-security-hibernate-annotation-directory](img/ce0b86d3ddddac703eb7e09cde1cf33b.png) <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.用户模型+映射文件
+![spring-security-hibernate-annotation-directory](img/ce0b86d3ddddac703eb7e09cde1cf33b.png) ## 2.用户模型+映射文件
 
 模型类及其基于注释的映射文件。
 
@@ -178,7 +178,7 @@ public class UserRole{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.道类
+ ## 3.道类
 
 DAO 类，通过 Hibernate 从数据库加载数据。
 

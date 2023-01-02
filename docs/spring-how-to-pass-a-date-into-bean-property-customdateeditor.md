@@ -81,7 +81,7 @@ nested exception is java.lang.IllegalArgumentException:
 
 在 Spring 中，您可以通过两种方法注入日期:
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.工厂豆
+ ## 1.工厂豆
 
 声明一个日期格式 bean，在“客户”bean 中，引用“日期格式”bean 作为工厂 bean。工厂方法会调用`SimpleDateFormat.parse()`自动将字符串转换成日期对象。
 
@@ -106,7 +106,7 @@ nested exception is java.lang.IllegalArgumentException:
 </beans> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.自定义日期编辑器
+ ## 2.自定义日期编辑器
 
 声明一个 CustomDateEditor 类，将 String 转换成 **java.util.Date** 。
 

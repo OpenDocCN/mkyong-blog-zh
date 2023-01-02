@@ -20,7 +20,7 @@
 
 回顾最终的项目结构，一个标准的 Maven 项目。
 
-![spring batch database to xml](img/515d3e62f90a0c24add2f638a7aaba21.png) <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.数据库ˌ资料库
+![spring batch database to xml](img/515d3e62f90a0c24add2f638a7aaba21.png) ## 2.数据库ˌ资料库
 
 一个“用户”表，只包含 5 条记录，稍后用 jdbc 读取它。
 
@@ -36,7 +36,7 @@ users table
 '5','user_d','password','40' 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.项目阅读器
+ ## 3.项目阅读器
 
 创建一个行映射器，将数据库值映射到“用户”对象。
 

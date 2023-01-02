@@ -24,7 +24,7 @@ public class LocaleAction{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.ServletResponseAware
+ ## 2.ServletResponseAware
 
 通过实现`ServletResponseAware`接口来访问`HttpServletResponse`，并覆盖 `setServletResponse()`方法。
 
@@ -61,7 +61,7 @@ public class LocaleAction implements ServletResponseAware{
 
 两种机制都获得相同的`HttpServletResponse`对象，但是 Struts 2 文档推荐使用`ServletResponseAware`，参见下面的参考资料:
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [http://struts . Apache . org/2 . x/docs/how-can-we-access-the-http servlet response . html](http://web.archive.org/web/20190304032352/http://struts.apache.org/2.x/docs/how-can-we-access-the-httpservletresponse.html)
 2.  [http://struts . Apache . org/2 . 1 . 2/struts 2-core/API docs/org/Apache/struts 2/interceptor/servletresponseaware . html](http://web.archive.org/web/20190304032352/http://struts.apache.org/2.1.2/struts2-core/apidocs/org/apache/struts2/interceptor/ServletResponseAware.html)

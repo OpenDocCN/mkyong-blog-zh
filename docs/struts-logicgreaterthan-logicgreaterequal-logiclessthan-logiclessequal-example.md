@@ -50,7 +50,7 @@ public class LogicExampleAction extends Action{
 
 Struts - <greaterthan></greaterthan>
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 数字 100 > 99 =真</ins> 
+ ## 数字 100 > 99 =真 
 
  ## Struts - <greaterequal></greaterequal>
 

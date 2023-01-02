@@ -25,12 +25,12 @@
 
 页面渲染时，遇到“**找不到 base name com . mkyong . payment _ error，locale en_US** 的 bundle”？
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 显然，包或属性文件(**com . mkyong . payment _ error . properties**)丢失了，请确保名称匹配并正确放置在资源文件夹中。
 
 **For Eclipse User**
-This problem is usually happened in the Eclipse IDE environment, where it doesn’t copy the “**.properties**” file extension by default. So, just make sure the properties file is existed in the run time “classes” folder and can be located by your web application.[jsf2](http://web.archive.org/web/20190224212715/http://www.mkyong.com/tag/jsf2/)</ins>![](img/3e072f25f11cc9085d56f53f648f0401.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190224212715/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="7481">
+This problem is usually happened in the Eclipse IDE environment, where it doesn’t copy the “**.properties**” file extension by default. So, just make sure the properties file is existed in the run time “classes” folder and can be located by your web application.[jsf2](http://web.archive.org/web/20190224212715/http://www.mkyong.com/tag/jsf2/)![](img/3e072f25f11cc9085d56f53f648f0401.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190224212715/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="7481">
 
 
 

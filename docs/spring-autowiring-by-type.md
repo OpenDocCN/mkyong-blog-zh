@@ -43,7 +43,7 @@ public class Ability
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.弹簧布线
+ ## 2.弹簧布线
 
 通常，您显式连接 bean:
 
@@ -108,7 +108,7 @@ expected single matching bean but found 2: [steal, invisible]
 在这种情况下，你会点击`UnsatisfiedDependencyException`错误信息。
 
 **Note**
-In autowiring by type mode, you just have to make sure only one unique data type of bean is declared. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 下载源代码
+In autowiring by type mode, you just have to make sure only one unique data type of bean is declared. ## 下载源代码
 
 Download it – [Spring-AutoWiring-by-Type-Example.zip](http://web.archive.org/web/20190302163344/http://www.mkyong.com/wp-content/uploads/2011/06/Spring-AutoWiring-by-Type-Example.zip) (6 KB)[spring](http://web.archive.org/web/20190302163344/http://www.mkyong.com/tag/spring/) [wiring](http://web.archive.org/web/20190302163344/http://www.mkyong.com/tag/wiring/)
 

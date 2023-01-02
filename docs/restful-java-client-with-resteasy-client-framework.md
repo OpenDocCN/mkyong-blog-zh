@@ -18,7 +18,7 @@ RESTEasy 客户端框架包含在 RESTEasy 核心模块中，所以，你只需�
 	</dependency> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.获取请求
+ ## 2.获取请求
 
 回顾上次休息服务。
 
@@ -103,7 +103,7 @@ public class RESTEasyClientGet {
 {"qty":999,"name":"iPad 3"} 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.发布请求
+ ## 3.发布请求
 
 也回顾最后一次休息服务。
 

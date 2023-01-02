@@ -47,7 +47,7 @@ pom.xml
 	</dependency> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.春季批处理作业
+ ## 2.春季批处理作业
 
 一个简单的作业，稍后单元测试执行状态。
 
@@ -67,7 +67,7 @@ spring-batch-job.xml
     </batch:job> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.jUnit 示例
+ ## 3.jUnit 示例
 
 启动作业并断言执行状态。
 

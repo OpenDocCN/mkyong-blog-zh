@@ -28,11 +28,11 @@ cannot be resolved in either web.xml or
 the jar files deployed with this application 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 这是因为您没有配置 Struts 标记库属性，在您的项目依赖项中找不到 tld 文件。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 1.支柱标记库手动配置
+ ## 1.支柱标记库手动配置
 
 如果你是手动配置 Struts 标签库，用在 **Struts 版本< = 1.1 和 Servlet < 2.3 容器**中。请确保将下面的“ **tld** 文件复制到 **WEB-INF** 文件夹中，您可以在您的 Struts 库文件夹中找到这些文件。
 

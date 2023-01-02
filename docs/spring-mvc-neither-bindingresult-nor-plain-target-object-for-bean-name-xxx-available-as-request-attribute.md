@@ -38,7 +38,7 @@ public class CustomerController{
         </bean> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 造成这种情况的根本原因是 JSP 页面中的视图名称不正确，见下文。
 
@@ -52,7 +52,7 @@ public class CustomerController{
  <form:form method="POST" commandName="customer"> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 类似案例
+ ## 类似案例
 
 我在 validator 或 SimpleFormController 类中也见过很多类似的情况。要解决它，只需确保映射名称匹配或存在。
 

@@ -70,7 +70,7 @@ The rating bar contains many configurable values. In this case, the rating bar c
 </LinearLayout> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.代码代码
+ ## 2.代码代码
 
 在 activity " `onCreate()`"方法中，在评级栏上附加一个监听器，当评级值改变时触发。按钮上的另一个侦听器，在按钮被单击时触发。阅读代码的注释，应该是不言自明的。
 
@@ -145,7 +145,7 @@ public class MyAndroidAppActivity extends Activity {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.演示
+ ## 3.演示
 
 运行应用程序。
 

@@ -8,7 +8,7 @@
 
 如果匹配的元素没有子元素，那么 **mouseout()** 和 **mouseleave()** 事件的工作方式完全相同。参见下面的“亲自尝试”。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.内部有子元素
+ ## 2.内部有子元素
 
 如果匹配的元素有子元素，那么 **mouseout()** 和 **mouseleave()** 事件的工作方式是不同的，其方式是“**事件冒泡**”:
 
@@ -39,7 +39,7 @@
 
 让我们通过播放下面的例子来理解它:
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 你自己试试
+ ## 你自己试试
 
 ```java
  <html>

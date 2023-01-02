@@ -17,7 +17,7 @@ Spring MVC 自带 **AbstractExcelView** 类，通过 **Apache POI** 库将数据
    </dependency> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.控制器
+ ## 2.控制器
 
 一个控制器类，生成虚拟数据用于演示，并获取请求参数以确定返回哪个视图。如果请求参数等于“Excel”，则返回一个 EXCEL 视图( **AbstractExcelView** )。
 
@@ -68,7 +68,7 @@ public class RevenueReportController extends AbstractController{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.AbstractExcelView
+ ## 3.AbstractExcelView
 
 通过扩展 **AbstractExcelView** 类创建一个 Excel 视图，并覆盖 **buildExcelDocument()** 方法将数据填充到 Excel 文件中。 **AbstractExcelView** 正在使用 Apache POI API 创建 Excel 文件细节。
 

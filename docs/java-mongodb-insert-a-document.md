@@ -22,7 +22,7 @@ JSON 格式的测试数据。
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.BasicDBObject 示例
+ ## 1.BasicDBObject 示例
 
 ```java
  BasicDBObject document = new BasicDBObject();
@@ -39,7 +39,7 @@ JSON 格式的测试数据。
 	collection.insert(document); 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.BasicDBObjectBuilder 示例
+ ## 2.BasicDBObjectBuilder 示例
 
 ```java
  BasicDBObjectBuilder documentBuilder = BasicDBObjectBuilder.start()

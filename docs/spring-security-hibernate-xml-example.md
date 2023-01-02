@@ -30,7 +30,7 @@ For annotation version, please read this [Spring Security + Hibernate Annotation
 
 最终项目目录结构。
 
-![spring-security-hibernate-directory](img/2569d2ebf480a13e5bf6b3666124ca99.png) <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.项目依赖性
+![spring-security-hibernate-directory](img/2569d2ebf480a13e5bf6b3666124ca99.png) ## 2.项目依赖性
 
 POM 文件中项目依赖项的列表。
 
@@ -162,7 +162,7 @@ pom.xml
 	</dependencies> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.用户表
+ ## 3.用户表
 
 创建存储用户和用户角色的表的 SQL 脚本。
 

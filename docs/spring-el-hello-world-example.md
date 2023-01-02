@@ -35,7 +35,7 @@ Spring EL 类似于 OGNL 和 JSF EL，在 bean 创建期间被评估或执行。
 	<dependencies> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.春豆
+ ## 2.春豆
 
 两个简单的 beans，后来使用 SpEL 在 XML 和注释中将值注入到属性中。
 
@@ -63,7 +63,7 @@ public class Item {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.XML 中的 Spring EL
+ ## 3.XML 中的 Spring EL
 
 SpEL 用`#{ SpEL expression }`括起来，参见 XML bean 定义文件中的以下示例。
 

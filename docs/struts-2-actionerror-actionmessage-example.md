@@ -32,7 +32,7 @@ Download It – [Struts2-ActionError-ActionMessage-Example.zip](http://web.archi
 
 查看此项目结构
 
-![Struts 2 Login Folder Structure](img/0deffa510026924cbb6acbf2cb8790de.png "Struts2-login-form-folder-stucture") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.属性文件
+![Struts 2 Login Folder Structure](img/0deffa510026924cbb6acbf2cb8790de.png "Struts2-login-form-folder-stucture") ## 2.属性文件
 
 存储消息的两个属性文件。
 
@@ -57,7 +57,7 @@ global.submit = Submit
 global.reset = Reset 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.行动
+ ## 3.行动
 
 一个经典的 action 类，做一个简单的检查确保用户名等于“mkyong”，用 **addActionError()** 设置错误消息或者用 **addActionMessage()** 设置成功消息。
 

@@ -34,7 +34,7 @@ public class SetTagAction extends ActionSupport{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.设置标签示例
+ ## 2.设置标签示例
 
 它显示了使用“ **set** 标签。
 
@@ -49,12 +49,7 @@ public class SetTagAction extends ActionSupport{
 <body>
 <h1>Struts 2 set tag example</h1>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2836379775501347"
-     data-ad-slot="8821506761"
-     data-ad-format="auto"
-     data-ad-region="mkyongregion"></ins>
+
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script><h2>1\. <s:set var="varMsg" value="msg" /></h2>
@@ -137,7 +132,7 @@ public class SetTagAction extends ActionSupport{
 
 1.  [Struts 2 设置标签文档](http://web.archive.org/web/20190304030901/http://struts.apache.org/2.1.8/docs/set.html)
 
-[struts2](http://web.archive.org/web/20190304030901/http://www.mkyong.com/tag/struts2/)</ins>![](img/7b0b1e46b8fc2dfcd50aed95a372278d.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190304030901/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="6234">
+[struts2](http://web.archive.org/web/20190304030901/http://www.mkyong.com/tag/struts2/)![](img/7b0b1e46b8fc2dfcd50aed95a372278d.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190304030901/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="6234">
 
 
 

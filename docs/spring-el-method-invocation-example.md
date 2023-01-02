@@ -84,7 +84,7 @@ public class Price {
 	private double amount; 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## XML 中的 Spring EL
+ ## XML 中的 Spring EL
 
 这是 bean 定义 XML 文件中的等效版本。
 
@@ -110,7 +110,7 @@ public class Price {
  Customer [name=MKYONG, amount=99.99] 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 下载源代码
+ ## 下载源代码
 
 Download It – [Spring3-EL-Method-Invocation-Example.zip](http://web.archive.org/web/20190220135005/http://www.mkyong.com/wp-content/uploads/2011/06/Spring3-EL-Method-Invocation-Example.zip) (6 KB)[spring el](http://web.archive.org/web/20190220135005/http://www.mkyong.com/tag/spring-el/) [spring3](http://web.archive.org/web/20190220135005/http://www.mkyong.com/tag/spring3/)
 

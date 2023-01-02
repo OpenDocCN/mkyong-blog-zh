@@ -89,7 +89,7 @@ doubleName="" doubleList="" />
 
 一个完整的 **< s:doubleselect >** 标签的例子，展示了使用 OGNL 或 Java 列表来填充下拉列表中的数据。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.行动
+ ## 1.行动
 
 操作类来生成和保存两个下拉列表。
 **DoubleSelectAction.java**
@@ -194,7 +194,7 @@ public class DoubleSelectAction extends ActionSupport{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.结果页面
+ ## 2.结果页面
 
 通过“ **< s:doubleselect >** ”标签呈现两个下拉框，通过 Java list 和 OGNL list 填充列表
 

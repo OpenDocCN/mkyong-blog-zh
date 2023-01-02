@@ -78,7 +78,7 @@ public class ListFruitActivity extends ListActivity {
 
 *1.3 演示*
 
-![android listview example](img/9ef1d83e985e4b3e3da1f6d2ef594931.png "android-listview-demo1") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.自定义数组适配器示例
+![android listview example](img/9ef1d83e985e4b3e3da1f6d2ef594931.png "android-listview-demo1") ## 2.自定义数组适配器示例
 
 在这个例子中，我们展示了如何在`ListView`中创建 4 个项目，并使用一个自定义的`ArrayAdapter`来根据列表中的“项目名称”显示不同的图像。
 
@@ -214,7 +214,7 @@ public class ListMobileActivity extends ListActivity {
 
 *2.5 演示*
 
-![android custom array adapter example](img/bb19fd624dbebe1d22ea351b5533b47b.png "android-listadapter-demo1") <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 下载源代码
+![android custom array adapter example](img/bb19fd624dbebe1d22ea351b5533b47b.png "android-listadapter-demo1") ## 下载源代码
 
 Download both examples – [Android-ListView-Example.zip](http://web.archive.org/web/20190305142211/http://www.mkyong.com/wp-content/uploads/2012/01/Android-ListView-Example.zip) (21 KB)
 

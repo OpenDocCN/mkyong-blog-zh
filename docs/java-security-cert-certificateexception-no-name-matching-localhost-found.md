@@ -46,7 +46,7 @@ Caused by: java.security.cert.CertificateException: No name matching localhost f
 	...... 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 这个问题和解决方案在这篇[文章](http://web.archive.org/web/20190223080735/http://docs.sun.com/app/docs/doc/820-1072/6ncp48v40?a=view#ahicy)中有很好的解释，您可以为您的“ *localhost* 开发环境使用一个传输安全(SSL)解决方案。
 
@@ -99,7 +99,7 @@ public class HelloWorldClient{
 
 它现在工作正常。
 
-[jax-ws](http://web.archive.org/web/20190223080735/http://www.mkyong.com/tag/jax-ws/) [web services](http://web.archive.org/web/20190223080735/http://www.mkyong.com/tag/web-services/)</ins>![](img/fc7d2588893b5063bdd27c47442feb3b.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190223080735/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="7908">
+[jax-ws](http://web.archive.org/web/20190223080735/http://www.mkyong.com/tag/jax-ws/) [web services](http://web.archive.org/web/20190223080735/http://www.mkyong.com/tag/web-services/)![](img/fc7d2588893b5063bdd27c47442feb3b.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190223080735/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="7908">
 
 
 

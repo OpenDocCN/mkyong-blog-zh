@@ -26,7 +26,7 @@ Download It – [Struts2-Custom-Extension-Example.zip](http://web.archive.org/we
 
 Struts 2 允许轻松配置动作扩展，要更改它，只需声明一个常量" **struts.action.extension** 值:
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.html 扩展
+ ## 1.html 扩展
 
 将操作类更改为。html 扩展。
 
@@ -50,7 +50,7 @@ Struts 2 允许轻松配置动作扩展，要更改它，只需声明一个常�
  Action URL : http://localhost:8080/Struts2Example/SayStruts2.html 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.没有扩展
+ ## 2.没有扩展
 
 将操作类更改为空扩展。
 

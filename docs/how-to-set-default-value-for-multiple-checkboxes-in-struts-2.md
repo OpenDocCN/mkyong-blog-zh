@@ -59,7 +59,7 @@ public class CheckBoxListAction extends ActionSupport{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.单一默认检查值
+ ## 2.单一默认检查值
 
 要将“ **red** 选项设置为默认选中值，只需在 Action 类中添加一个方法，并返回一个“ **red** 值。
 
@@ -85,7 +85,7 @@ Struts 2 is intelligent enough to match the “**defaultColor**” value to the 
 
 再次运行它，默认情况下“红色”选项将被选中。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.多个默认选中值
+ ## 2.多个默认选中值
 
 要将多个值“**红色**”和“**绿色**”设置为默认检查值，只需返回一个“**字符串[]** ”而不是一个“字符串”，Struts 2 就会相应地匹配它。
 

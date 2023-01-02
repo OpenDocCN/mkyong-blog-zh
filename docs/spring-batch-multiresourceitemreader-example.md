@@ -18,7 +18,7 @@
 
 回顾最终的项目结构，一个标准的 Maven 项目。
 
-![spring-batch-MultiResourceItemReader-example](img/199a47ae07997e625d08bbcf3a4deef7.png) <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.多个 CSV 文件
+![spring-batch-MultiResourceItemReader-example](img/199a47ae07997e625d08bbcf3a4deef7.png) ## 2.多个 CSV 文件
 
 有 3 个 csv 文件，稍后我们将使用`MultiResourceItemReader`来逐个读取。
 
@@ -45,7 +45,7 @@ csv/inputs/domain-3-3-2013.csv
 888,baidu.com 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.春季批处理作业
+ ## 3.春季批处理作业
 
 读取与这个模式`csv/inputs/domain-*.csv`匹配的资源，并将其写入单个 cvs 文件`domain.all.csv`的任务。
 

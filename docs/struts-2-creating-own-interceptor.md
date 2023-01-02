@@ -40,7 +40,7 @@ public class HelloAction extends ActionSupport{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.拦截机
+ ## 2.拦截机
 
 一个完整的拦截器示例。
 
@@ -84,7 +84,7 @@ public class PrintMsgInterceptor implements Interceptor{
 
 **invocation.invoke()**
 In the interceptor intercept() method, you **must called the invocation.invoke()** and return it’s result. This is the method responsible for calling the next interceptor or the action. The action will failed to continue without calling the **invocation.invoke()** method.**destroy() is not reliable**
-It’s not recommend to put any code inside the **destroy()**, because this method is not reliable. When your application server is force shutdown or be killed by command, the **destroy()** will not be called. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.struts.xml
+It’s not recommend to put any code inside the **destroy()**, because this method is not reliable. When your application server is force shutdown or be killed by command, the **destroy()** will not be called. ## 3.struts.xml
 
 在 **struts.xml** 文件中配置拦截器。
 

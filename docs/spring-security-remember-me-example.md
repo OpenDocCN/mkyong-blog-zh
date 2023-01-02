@@ -38,11 +38,11 @@
 
 [//web.archive.org/web/20190225101058if_/http://www.youtube.com/embed/HUnGc4WKgRk](//web.archive.org/web/20190225101058if_/http://www.youtube.com/embed/HUnGc4WKgRk)
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.项目目录
+ ## 2.项目目录
 
 查看项目目录结构。
 
-![spring-security-remember-me-directory](img/0af81f8a7b4a291d61e3f6ab54816913.png) <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.MySQL 脚本
+![spring-security-remember-me-directory](img/0af81f8a7b4a291d61e3f6ab54816913.png) ## 3.MySQL 脚本
 
 创建`users`、`user_roles`和`persistent_logins`的 SQL 脚本。
 

@@ -28,7 +28,7 @@ resources/spring/batch/jobs/job-read-files.xml
 </beans> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.包项目
+ ## 2.包项目
 
 使用 Maven 将您的项目打包成一个 jar 文件-**target/your-project . jar**，并将所有依赖项复制到 **target/dependency-jars/** 。
 
@@ -61,7 +61,7 @@ pom.xml
  $ mvn package 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.CommandLineJobRunner 示例
+ ## 3.CommandLineJobRunner 示例
 
 用法:
 

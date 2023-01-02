@@ -11,11 +11,11 @@ For many to many with extra columns in join table, please refer to this [tutoria
 
 查看本教程的新项目结构。
 
-![many to many project folder](img/8e61c049346ae4edb0c563749c076919.png "many-to-many-annotation-project-folder") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.“多对多”表关系
+![many to many project folder](img/8e61c049346ae4edb0c563749c076919.png "many-to-many-annotation-project-folder") ## 1.“多对多”表关系
 
 再看前面的多对多表关系。
 
-![many to many ER diagram](img/2262d7d950a544f8a9481a3213878aaa.png "many-to-many-diagram") <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.Hibernate 模型类
+![many to many ER diagram](img/2262d7d950a544f8a9481a3213878aaa.png "many-to-many-diagram") ## 2.Hibernate 模型类
 
 更新以前的模型类—`Stock.java`和`Category.java`，并在其中定义新的注释代码。
 

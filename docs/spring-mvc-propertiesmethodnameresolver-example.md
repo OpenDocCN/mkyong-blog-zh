@@ -49,7 +49,7 @@ public class CustomerController extends MultiActionController{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.PropertiesMethodNameResolver
+ ## 2.PropertiesMethodNameResolver
 
 使用**propertiesmethodname resolver**，您可以轻松地将任何 URL 名称映射到对应的方法名称:
 
@@ -87,7 +87,7 @@ public class CustomerController extends MultiActionController{
 5.  /customer/whatever . htm –> add()方法
 
 **Note**
-By default, **MultiActionController** is used the [InternalPathMethodNameResolver](http://web.archive.org/web/20190214225817/http://www.mkyong.com/spring-mvc/spring-mvc-multiactioncontroller-example/) to map URL to the corresponds method name. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 下载源代码
+By default, **MultiActionController** is used the [InternalPathMethodNameResolver](http://web.archive.org/web/20190214225817/http://www.mkyong.com/spring-mvc/spring-mvc-multiactioncontroller-example/) to map URL to the corresponds method name. ## 下载源代码
 
 Download it – [SpringMVC-PropertiesMethodNameResolver-Example.zip](http://web.archive.org/web/20190214225817/http://www.mkyong.com/wp-content/uploads/2010/08/SpringMVC-PropertiesMethodNameResolver-Example.zip) (7KB)
 

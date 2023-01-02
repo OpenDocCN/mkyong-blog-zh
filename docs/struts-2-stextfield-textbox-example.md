@@ -29,7 +29,7 @@ In Struts 2, the “name” will maps to the JavaBean property automatically. In
 
 在 Struts 2 中创建文本框输入字段的快速指南。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.属性文件
+ ## 1.属性文件
 
 存储消息的两个属性文件。
 
@@ -48,7 +48,7 @@ submit = Submit
 username.required = Username is required 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.行动
+ ## 2.行动
 
 一个简单的 Action 类，通过验证来确保用户名不为空，否则返回一个错误消息。
 

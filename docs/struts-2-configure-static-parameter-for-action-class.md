@@ -31,11 +31,11 @@ Download It – [Struts-Action-Static-ParamExample.zip](http://web.archive.org/w
 
 它将三个预定义参数值分配给一个 **LocaleAction** 操作类。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 从操作中获取静态参数
+ ## 从操作中获取静态参数
 
 为了从 **struts.xml** 中获取静态参数值，Action 类必须实现**参数化**接口。它可以通过**地图属性**或 **JavaBean** 属性来访问。
 
-The Action’s static parameters is control by the **staticParams Interceptor**, which is included in the default stack “struts-default.xml”. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 1.地图属性
+The Action’s static parameters is control by the **staticParams Interceptor**, which is included in the default stack “struts-default.xml”. ## 1.地图属性
 
 在动作类初始化期间，staticParams 拦截器将通过 **setParams()** 方法将预定义参数值的引用传递给动作类。
 

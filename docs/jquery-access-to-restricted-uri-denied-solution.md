@@ -53,7 +53,7 @@ $('#load').click(function(){
 
 然而，这不起作用，当你点击“加载”按钮时，它什么也不做，只是提示一个“**访问受限 URI 被拒绝**”的错误信息。**由于 JavaScript 安全限制，严格不允许跨域加载内容**。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 这里有一个肮脏的解决方法——用服务器端语言获取跨域内容。例如，创建一个名为“proxy.php”的单行 php 文件。
 
@@ -79,7 +79,7 @@ $('#load').click(function(){
 
 现在，当你点击“加载”按钮，它会加载跨域(yahoo.com)的内容到你的网页上点播。
 
-[jquery](http://web.archive.org/web/20190225225008/http://www.mkyong.com/tag/jquery/) [uri](http://web.archive.org/web/20190225225008/http://www.mkyong.com/tag/uri/)</ins>![](img/4481a3d99f5fa1394434ba7df733dc3b.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190225225008/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="5296">
+[jquery](http://web.archive.org/web/20190225225008/http://www.mkyong.com/tag/jquery/) [uri](http://web.archive.org/web/20190225225008/http://www.mkyong.com/tag/uri/)![](img/4481a3d99f5fa1394434ba7df733dc3b.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190225225008/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="5296">
 
 
 

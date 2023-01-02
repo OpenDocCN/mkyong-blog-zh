@@ -40,7 +40,7 @@ Read this article about how to set the [default value for multiple check boxes](
 
 一个完整的 Struts 2 示例，通过 **< s:checkboxlist >** 创建多个同名的复选框，存储选中的值并显示在另一个页面中。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.行动
+ ## 1.行动
 
 操作类来生成和保存多个复选框值。
 **CheckBoxListAction.java**
@@ -97,7 +97,7 @@ public class CheckBoxListAction extends ActionSupport{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.结果页面
+ ## 2.结果页面
 
 通过“ **s:checkboxlist** ”标签呈现多个复选框。checkBoxlist.jsp
 T3

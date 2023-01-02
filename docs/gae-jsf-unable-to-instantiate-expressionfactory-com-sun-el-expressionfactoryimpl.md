@@ -42,12 +42,12 @@ com.sun.faces.config.ConfigurationException:
 	at java.lang.Thread.run(Thread.java:679) 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 GAE + JSF 需要 **el-ri.jar** 。要解决它，找到并获取 **el-ri.jar** ，并将其复制到您的“ **/war/lib** ”文件夹中。
 
 **Where to get el-ri.jar?**
-The faster way is get the **el-ri.jar** from [Maven repository](http://web.archive.org/web/20190302180431/http://search.maven.org/remotecontent?filepath=com/sun/el/el-ri/1.0/el-ri-1.0.jar). <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+The faster way is get the **el-ri.jar** from [Maven repository](http://web.archive.org/web/20190302180431/http://search.maven.org/remotecontent?filepath=com/sun/el/el-ri/1.0/el-ri-1.0.jar). ## 参考
 
 1.  [搜索 Maven 知识库](http://web.archive.org/web/20190302180431/http://search.maven.org/)
 2.  [带有 JSF2、CDI 的谷歌应用引擎](http://web.archive.org/web/20190302180431/http://javamomentum.be/2011/04/google-app-engine-with-jsf2-cdi/)

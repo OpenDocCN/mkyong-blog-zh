@@ -49,7 +49,7 @@
 </LinearLayout> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.代码代码
+ ## 2.代码代码
 
 不知道我能用`AnalogClock`或`DigitalClock`做什么。
 
@@ -81,7 +81,7 @@ public class MyAndroidAppActivity extends Activity {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.演示
+ ## 3.演示
 
 运行应用程序。
 

@@ -31,7 +31,7 @@ public class UserBean
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.JSF 标签+ JavaScript
+ ## 2.JSF 标签+ JavaScript
 
 通过“h:inputHidden”标记呈现隐藏字段，通过 JavaScript 分配新值。
 
@@ -66,7 +66,7 @@ public class UserBean
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## JSF 2.0 新隐藏价值示例
+ ## JSF 2.0 新隐藏价值示例
 
 一个 JSF 2.0 的例子，演示了使用上述两种方法来传递一个新的隐藏值给一个后台 bean。
 

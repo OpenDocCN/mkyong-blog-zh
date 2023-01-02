@@ -33,7 +33,7 @@ public class HelloJob implements Job
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.作业监听器
+ ## 2.作业监听器
 
 要创建 JobListener，只需实现`JobListener`接口，并覆盖所有接口的方法。
 
@@ -91,7 +91,7 @@ public class HelloJobListener implements JobListener {
 ```
 
 **Note**
-No idea what is “jobExecutionVetoed” and when will it triggered? Do comment if you know this, thanks. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.克朗触发器
+No idea what is “jobExecutionVetoed” and when will it triggered? Do comment if you know this, thanks. ## 3.克朗触发器
 
 示例将上述`HelloJobListener`附加到调度程序，并监控作业的状态。
 

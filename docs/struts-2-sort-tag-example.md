@@ -51,7 +51,7 @@ public class Person{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.比较仪
+ ## 2.比较仪
 
 创建 2 个**比较器**类，对人的“名字”和“年龄”属性进行排序。
 
@@ -93,7 +93,7 @@ public class AgeComparator implements Comparator<Person> {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.行动
+ ## 3.行动
 
 Action 类，初始化 6 个 Person 对象，并将其添加到一个 ArrayList 中。
 

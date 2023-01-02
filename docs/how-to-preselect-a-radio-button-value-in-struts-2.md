@@ -46,7 +46,7 @@ Download It – [Struts2-Radio-Button-Example.zip](http://web.archive.org/web/20
 <label for="resultAction_yourGenderunknown">unknown</label> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.OGNL
+ ## 2.OGNL
 
 在结果页面中，通过 OGNL 表达式创建一个单选按钮，**预选“2”作为默认值**。
 
@@ -65,7 +65,7 @@ checked="checked" value="2"/>
 <label for="resultAction_yourAnswer2">No</label> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.目标
+ ## 3.目标
 
 在 Java 代码中，使用 languageCode 和 languageDisplay 属性创建一个语言对象。
 

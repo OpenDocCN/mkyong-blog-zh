@@ -36,7 +36,7 @@ public class TimeoutTest {
 
 这个超时测试对于测试方法性能很有用。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.全局超时规则示例
+ ## 2.全局超时规则示例
 
 这个例子向你展示了如何创建一个全局超时规则，这个规则将应用于一个类中的所有测试方法。
 
@@ -78,7 +78,7 @@ public class TimeoutRuleTest {
 这个规则也适用于`@Before`和`@After`方法。
 
 **Note**
-All unit test should be fast, and this global timeout rule should be your best helper. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+All unit test should be fast, and this global timeout rule should be your best helper. ## 参考
 
 1.  [@Test JavaDoc](http://web.archive.org/web/20190223081356/http://junit.sourceforge.net/javadoc/org/junit/Test.html)
 2.  [超时规则 JavaDoc](http://web.archive.org/web/20190223081356/http://junit.org/junit4/javadoc/4.12/org/junit/rules/Timeout.html)

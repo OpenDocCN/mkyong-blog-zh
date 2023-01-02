@@ -30,7 +30,7 @@ public class JsonOutputGenerator implements IOutputGenerator
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.助手类
+ ## 2.助手类
 
 一个助手类，稍后使用 Spring 通过构造函数来定义 IOutputGenerator。
 
@@ -54,7 +54,7 @@ public class OutputHelper {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.弹簧配置
+ ## 3.弹簧配置
 
 请看下面的 Spring bean 配置，Spring 将 DI 上面的" JsonOutputGenerator "转换成这个" OutputHelper "类，通过构造函数"**public output helper(ioutput generator output generator)**"。
 

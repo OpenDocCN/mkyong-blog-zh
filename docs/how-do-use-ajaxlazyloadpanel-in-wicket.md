@@ -16,7 +16,7 @@
  add(new PricePanel("price")); 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 惰性负载面板
+ ## 惰性负载面板
 
 转换到 Wicket `AjaxLazyLoadPanel`。
 
@@ -33,7 +33,7 @@
 
 搞定了，现在 PricePanel 有懒加载效果了。尼斯（法国城市名）
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 当心！
+ ## 当心！
 
 这个 **AjaxLazyLoadPanel** 的一个缺点是它不包含后备版本。如果浏览器的 JavaScript 被禁用，懒惰图像将永远保持加载。
 

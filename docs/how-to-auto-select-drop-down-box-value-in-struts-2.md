@@ -42,7 +42,7 @@ public class SelectAction extends ActionSupport{
 
 在本例中，下拉框将自动选择“**yahoo.com**”作为默认选项。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.OGNL 列表示例
+ ## 2.OGNL 列表示例
 
 通过 OGNL 表达式创建一个下拉框，直接在“**值**属性中设置默认值。
 
@@ -56,7 +56,7 @@ public class SelectAction extends ActionSupport{
 
 在本例中，下拉框将自动选择**“2”(Feb)**作为默认选项。
 
-Download It – [Struts2-Select-DropDown-Box-Example.zip](http://web.archive.org/web/20190304030851/http://www.mkyong.com/wp-content/uploads/2010/06/Struts2-Select-DropDown-Box-Example.zip)[dropdown](http://web.archive.org/web/20190304030851/http://www.mkyong.com/tag/dropdown/) [struts2](http://web.archive.org/web/20190304030851/http://www.mkyong.com/tag/struts2/)</ins>![](img/c1fc6aa0c611c2b25bd7551673c477c0.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190304030851/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="5940">
+Download It – [Struts2-Select-DropDown-Box-Example.zip](http://web.archive.org/web/20190304030851/http://www.mkyong.com/wp-content/uploads/2010/06/Struts2-Select-DropDown-Box-Example.zip)[dropdown](http://web.archive.org/web/20190304030851/http://www.mkyong.com/tag/dropdown/) [struts2](http://web.archive.org/web/20190304030851/http://www.mkyong.com/tag/struts2/)![](img/c1fc6aa0c611c2b25bd7551673c477c0.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190304030851/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="5940">
 
 
 

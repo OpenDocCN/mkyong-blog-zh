@@ -10,7 +10,7 @@ Download It – [Struts2-i18-localization-Example.zip](http://web.archive.org/we
 
 本例的项目结构
 
-![Struts2 localization folder structure](img/1d4eb637c840eeef0070f2bc008ec0d7.png "struts2-localization-folder-structure") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.属性文件
+![Struts2 localization folder structure](img/1d4eb637c840eeef0070f2bc008ec0d7.png "struts2-localization-folder-structure") ## 2.属性文件
 
 确保属性文件被命名为国家指定代码。
 
@@ -52,7 +52,7 @@ global.password = Kennwort
 global.submit = Einreichen 
 ```
 
-Please read this [Struts 2 resource bundle example](http://web.archive.org/web/20190214223348/http://www.mkyong.com/struts2/struts-2-resource-bundle-example/) to understand how Struts 2 search the properties file automatically. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.行动
+Please read this [Struts 2 resource bundle example](http://web.archive.org/web/20190214223348/http://www.mkyong.com/struts2/struts-2-resource-bundle-example/) to understand how Struts 2 search the properties file automatically. ## 3.行动
 
 两个 action 类， **LocaleAction** 基本上什么都不做， **LoginAction** 会通过 **getText()** 做一个简单的验证并显示资源包的错误信息。
 

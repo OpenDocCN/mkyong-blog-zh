@@ -24,7 +24,7 @@ This workaround is very similar with the classic [Struts 1.x and Hibernate integ
 
 查看完整的项目文件夹结构。
 
-![Struts 2 Hibernate integration example](img/fda85e00473c2af9fc40a8966e619caf.png "Struts2-Hibernate-Integration-Example") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.MySQL 表脚本
+![Struts 2 Hibernate integration example](img/fda85e00473c2af9fc40a8966e619caf.png "Struts2-Hibernate-Integration-Example") ## 2.MySQL 表脚本
 
 为演示创建一个客户表。下面是 SQL 表脚本。
 
@@ -39,7 +39,7 @@ CREATE TABLE  `mkyong`.`customer` (
 ) ENGINE=InnoDB AUTO_INCREMENT=17 DEFAULT CHARSET=utf8; 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.属国
+ ## 3.属国
 
 获取 Struts2、Hibernate 和 MySQL 依赖库。
 

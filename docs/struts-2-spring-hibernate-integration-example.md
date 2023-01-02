@@ -29,11 +29,11 @@ This will be a very long tutorial with little explanation, make sure you check t
 
 它将创建一个客户页面，添加客户和列出客户功能。前端使用 **Struts 2** 进行显示， **Spring** 作为依赖注入引擎， **Hibernate** 进行数据库操作。让我们开始…
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.项目结构
+ ## 1.项目结构
 
 项目文件夹结构。
 
-![Struts2 Spring Hibernate Project Structure](img/1f8e4531fe59ee951cfcd79ce2492e7e.png "Struts2-Spring-Hibernate-folder1")![Struts2 Spring Hibernate Project Structure](img/d09158edf508b663bc26f562bfca4712.png "Struts2-Spring-Hibernate-folder2") <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.MySQL 表脚本
+![Struts2 Spring Hibernate Project Structure](img/1f8e4531fe59ee951cfcd79ce2492e7e.png "Struts2-Spring-Hibernate-folder1")![Struts2 Spring Hibernate Project Structure](img/d09158edf508b663bc26f562bfca4712.png "Struts2-Spring-Hibernate-folder2") ## 2.MySQL 表脚本
 
 客户的表脚本。
 

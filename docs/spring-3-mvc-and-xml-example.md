@@ -49,7 +49,7 @@ JAXB is included in JDK6, so, you do not need to include JAXB library manually, 
 	</dependencies> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.模型+ JAXB
+ ## 2.模型+ JAXB
 
 一个简单的 POJO 模型并用 **JAXB 注释**进行了注释，稍后将这个对象转换成 XML 输出。
 
@@ -94,7 +94,7 @@ public class Coffee {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.控制器
+ ## 3.控制器
 
 在方法返回值中添加“**@ response body**”,[Spring 文档](http://web.archive.org/web/20190214225812/http://static.springsource.org/spring/docs/3.0.x/javadoc-api/org/springframework/web/bind/annotation/ResponseBody.html)中没有太多细节。
 

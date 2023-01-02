@@ -42,13 +42,13 @@
 ... 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 回答
+ ## 回答
 
 **FilterDispatcher** ( `org.apache.struts2.dispatcher.FilterDispatcher`)用于早期的 Struts2 开发中，**从 Struts 2.1.3** 开始就不再使用了。
 
 如果您使用的是 Struts 版本> = 2.1.3，那么总是建议升级新的过滤器类—**strutsprepareendexecutefilter**(`org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter`)。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [FilterDispatcher 文档](http://web.archive.org/web/20190225101604/http://struts.apache.org/2.1.8/struts2-core/apidocs/org/apache/struts2/dispatcher/FilterDispatcher.html)
 2.  [strutsprepareendexecutefilter 文档](http://web.archive.org/web/20190225101604/http://struts.apache.org/2.1.8/struts2-core/apidocs/org/apache/struts2/dispatcher/ng/filter/StrutsPrepareAndExecuteFilter.html)

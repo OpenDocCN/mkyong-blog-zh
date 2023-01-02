@@ -18,7 +18,7 @@
 
 一个标准的 Maven 项目结构。
 
-![spring-boot-file-upload-ajax-directory-1](img/5a036c18a48ccc112114bf61e75babf5.png) <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.项目依赖性
+![spring-boot-file-upload-ajax-directory-1](img/5a036c18a48ccc112114bf61e75babf5.png) ## 2.项目依赖性
 
 为 HTML 格式的 Ajax 请求声明一个额外的`jQuery` webjar 依赖项。
 
@@ -81,7 +81,7 @@ pom.xml
 </project> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.文件上传
+ ## 3.文件上传
 
 为了支持 Ajax 请求和响应，最简单的解决方案是返回一个`ResponseEntity`。
 

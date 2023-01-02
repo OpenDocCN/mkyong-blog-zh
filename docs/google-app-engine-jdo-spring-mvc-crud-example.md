@@ -21,7 +21,7 @@ This tutorial is more on practice guide, please refer to this [official Using JD
 	} 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 搜索
+ ## 搜索
 
 搜索“客户”，其中 name = =“mkyong”。
 
@@ -78,7 +78,7 @@ This tutorial is more on practice guide, please refer to this [official Using JD
 	} 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 更新
+ ## 更新
 
 若要更新，请获取现有对象并修改它。
 

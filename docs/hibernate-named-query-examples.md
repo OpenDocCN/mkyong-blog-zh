@@ -8,7 +8,7 @@
 
 HQL 或本机 SQL 都支持命名查询。查看示例…
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.XML 映射文件
+ ## 1.XML 映射文件
 
 映射文件中的 HQL
 
@@ -59,7 +59,7 @@ HQL 或本机 SQL 都支持命名查询。查看示例…
 您可以在' **hibernate-mapping** 元素中放置一个命名查询，但是不要放在'**类**元素之前，hibernate 会提示无效的映射文件，您的所有命名查询都必须放在'**类**元素之后。
 
 **Note**
-Regarding the CDATA , it’s always good practice to wrap your query text with CDATA, so that the XML parser will not prompt error for some special XML characters like ‘>’ , <‘ and etc. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.注释
+Regarding the CDATA , it’s always good practice to wrap your query text with CDATA, so that the XML parser will not prompt error for some special XML characters like ‘>’ , <‘ and etc. ## 2.注释
 
 注释中的 HQL
 

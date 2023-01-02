@@ -24,7 +24,7 @@
 	at java.lang.ClassLoader.loadClass(Unknow 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 这总是由位于 Java.net 的 **javaee.jar** 引起的。许多开发人员喜欢用下面的 Maven 坐标抓取 **javaee.jar** :
 
@@ -48,7 +48,7 @@
 
 但是，来自 java.net 的 **javaee.jar** 不包含任何方法体，只包含 API 名称。它不适合与您的应用程序一起运行或部署。
 
-The good practice is always get the original full version of **javaee.jar** file from the [http://java.sun.com/javaee/](http://web.archive.org/web/20190517121037/http://java.sun.com/javaee/). Just download and install the J2EE SDK, and the **javaee.jar** can be found in the “\J2EE_SDK_FOLDER\lib” folder. Include it into your local Maven repository or poject classpath will get rid of the above error message. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+The good practice is always get the original full version of **javaee.jar** file from the [http://java.sun.com/javaee/](http://web.archive.org/web/20190517121037/http://java.sun.com/javaee/). Just download and install the J2EE SDK, and the **javaee.jar** can be found in the “\J2EE_SDK_FOLDER\lib” folder. Include it into your local Maven repository or poject classpath will get rid of the above error message. ## 参考
 
 1.  [http://weblogs . Java . net/blog/ludo/archive/2007/01/Java _ ee _ 5 _ APIs . html](http://web.archive.org/web/20190517121037/http://weblogs.java.net/blog/ludo/archive/2007/01/java_ee_5_apis.html)
 2.  [http://forums.java.net/jive/message.jspa?messageID=226931](http://web.archive.org/web/20190517121037/http://forums.java.net/jive/message.jspa?messageID=226931)

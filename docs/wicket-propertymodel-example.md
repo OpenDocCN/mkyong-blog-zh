@@ -23,7 +23,7 @@ public class User implements Serializable{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.PropertyModel 示例
+ ## 2.PropertyModel 示例
 
 使用“ **PropertyModel** ”将 textbox 组件绑定到“**用户**对象的属性。
 
@@ -94,7 +94,7 @@ public class UserPage extends WebPage {
 	new PropertyModel<String>(this, "nickname")); 
 ```
 
-Download it – [Wicket-PropertyModel-Examples.zip](http://web.archive.org/web/20190114230032/http://www.mkyong.com/wp-content/uploads/2011/05/Wicket-PropertyModel-Examples.zip) (10KB) <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+Download it – [Wicket-PropertyModel-Examples.zip](http://web.archive.org/web/20190114230032/http://www.mkyong.com/wp-content/uploads/2011/05/Wicket-PropertyModel-Examples.zip) (10KB) ## 参考
 
 1.  [PropertyModel Javadoc](http://web.archive.org/web/20190114230032/http://wicket.apache.org/apidocs/1.4/org/apache/wicket/model/PropertyModel.html)
 2.  [使用属性模型](http://web.archive.org/web/20190114230032/https://cwiki.apache.org/WICKET/working-with-wicket-models.html#WorkingwithWicketmodels-PropertyModels)

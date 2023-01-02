@@ -89,7 +89,7 @@ SKIPPED: method2
 =============================================== 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.dependsOnGroups 示例
+ ## 2.dependsOnGroups 示例
 
 让我们创建几个测试用例来演示`dependsOnMethods`和`dependsOnGroups`的混合使用。不言自明的见注释。
 
@@ -213,7 +213,7 @@ Total tests run: 6, Failures: 0, Skips: 0
 =============================================== 
 ```
 
-![testng-dependency-test](img/474a7e43e0960f11896001aeddf30f7b.png) <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+![testng-dependency-test](img/474a7e43e0960f11896001aeddf30f7b.png) ## 参考
 
 1.  [测试依赖方法](http://web.archive.org/web/20190227120346/http://testng.org/doc/documentation-main.html#dependent-methods)
 

@@ -40,7 +40,7 @@ public class WelcomeController extends AbstractController{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.ResourceBundleViewResolver
+ ## 2.ResourceBundleViewResolver
 
 在 Spring 的 bean 配置文件中注册`ResourceBundleViewResolver`，将默认的视图 bean 位置更改为“ **spring-views.properties** ”。
 
@@ -63,7 +63,7 @@ public class WelcomeController extends AbstractController{
 </beans> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.查看 beans
+ ## 3.查看 beans
 
 将每个视图 bean 声明为普通的资源包样式(键和消息)，其中
 

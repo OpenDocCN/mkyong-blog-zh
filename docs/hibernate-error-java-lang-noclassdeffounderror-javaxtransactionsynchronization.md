@@ -24,11 +24,11 @@ Caused by: java.lang.ClassNotFoundException: javax.transaction.Synchronization
  ... 5 more 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 你可以从默认的 Maven central、JBoss 或 Java.net 库下载“`jta.jar`”。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 1.Maven 中央存储库
+ ## 1.Maven 中央存储库
 
 ```java
  <dependencies>

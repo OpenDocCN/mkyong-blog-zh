@@ -15,7 +15,7 @@ jQuery **bind()** 函数用于将事件处理程序附加到元素上，而 **un
 <span></span> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.绑定()
+ ## 1.绑定()
 
 jQuery 完全支持 JavaScript 事件类型，如“click”、“dblclick”或自定义事件名称。
 
@@ -35,7 +35,7 @@ jQuery 完全支持 JavaScript 事件类型，如“click”、“dblclick”或
 })); 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.bind() +事件对象
+ ## 2.bind() +事件对象
 
 jQuery 附带了许多事件对象，要获得关于用户环境的更多信息，请查看这里的 [jQuery 事件对象细节](http://web.archive.org/web/20190210095257/http://api.jquery.com/category/events/event-object/)。
 

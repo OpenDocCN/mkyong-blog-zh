@@ -30,7 +30,7 @@ public class UserBean{
 
 好了，让我们来看一个 JSF 2.0 的完整例子。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.受管 Bean
+ ## 1.受管 Bean
 
 一个名为“user”的超级简单的托管 bean。
 
@@ -61,7 +61,7 @@ public class UserBean{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.JSF·佩奇
+ ## 2.JSF·佩奇
 
 JSF 页面展示了如何使用"**f:setPropertyActionListener**"将一个值" *mkyong* "直接设置到您的后台 bean 的属性" *username* "中。
 

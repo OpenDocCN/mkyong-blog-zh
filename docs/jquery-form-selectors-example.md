@@ -24,7 +24,7 @@ jQuery 附带了许多表单选择器，可以更容易、更有效地访问表�
  $('input:text').val("New Text"); 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.密码-$('输入:密码')
+ ## 2.密码-$('输入:密码')
 
 要选择密码
 
@@ -44,7 +44,7 @@ jQuery 附带了许多表单选择器，可以更容易、更有效地访问表�
  $('input:text').val("New Text"); 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.textarea-$(' textarea ')
+ ## 3.textarea-$(' textarea ')
 
 要选择文本区域
 

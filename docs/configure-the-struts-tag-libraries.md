@@ -95,7 +95,7 @@
 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.支柱标签库自动配置
+ ## 2.支柱标签库自动配置
 
 这是一种简单的方法，只在 Struts、1.3 和 Servlet 2.3/2.4 容器中使用。您不再需要在 web.xml 中定义“ **tlds** ”细节，只需要在您的项目类路径中包含 **struts-taglib.jar** 或者将其复制到 WEB-INF/lib 文件夹中。
 
@@ -109,7 +109,7 @@
 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 常见问题解答
+ ## 常见问题解答
 
 **问:看起来“taglib uri”指向 Apache 网站，客户端无法访问互联网怎么办？**
 **A**:taglib uri 定义在“**struts-taglib . jar \ META-INF \ TLD**”文件夹中，它只是一个项目 uri 名称，并不指向 Apache 网站，即使在没有互联网访问的环境下也可以访问。

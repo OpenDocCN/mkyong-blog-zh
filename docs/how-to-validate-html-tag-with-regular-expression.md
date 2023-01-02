@@ -58,7 +58,7 @@ public class HTMLTagValidator{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 匹配 HTML 标签:
+ ## 匹配 HTML 标签:
 
 1.**、<input value="’">' >
 二<输入值=' < ' >"，"< b/ > "
@@ -66,7 +66,7 @@ public class HTMLTagValidator{
 4< br >，<br/>
 5。"<输入值=\"\" id='test' >"，"<输入值=" id='test' >"**
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## HTML 标记不匹配:
+ ## HTML 标记不匹配:
 
 1."<input value="\”" id="’test’">"–不允许使用一个双引号字符串
 2。"<输入值= ' id = ' test '>"–不允许使用单引号字符串

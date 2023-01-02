@@ -15,7 +15,7 @@ Before you proceed, make sure you understand the basic usage of **autocompleter*
 
 在本教程中，您将使用 **Struts 2 JSON 插件**将一个对象转换成 JSON 格式，并将其传递给**自动完成器**组件。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.获取依赖库
+ ## 1.获取依赖库
 
 获取所有的依赖库。
 
@@ -44,7 +44,7 @@ Before you proceed, make sure you understand the basic usage of **autocompleter*
     </dependency> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.行动
+ ## 2.行动
 
 一个稍后要转换成 JSON 格式的类，为**自动完成器**组件提供一个选择选项列表。
 

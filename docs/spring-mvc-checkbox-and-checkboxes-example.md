@@ -31,7 +31,7 @@ If you set the “**receiveNewsletter**” boolean value to true, this checkbox 
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.<checkbox>–多个复选框</checkbox>
+ ## 2.<checkbox>–多个复选框</checkbox>
 
 生成多个复选框并硬编码值。
 
@@ -65,7 +65,7 @@ If you want to make the checkbox with value “Java” is checked by default, yo
 	} 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.<checkboxes>–多个复选框</checkboxes>
+ ## 3.<checkboxes>–多个复选框</checkboxes>
 
 为复选框值生成一个运行时列表，并将其链接到 Spring 的表单标签 **<表单:复选框>** 。
 

@@ -75,7 +75,7 @@ JAXB is bundled in JDK1.6, so, you don’t need to include it manually.
 </project> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.模型
+ ## 2.模型
 
 一个 Pojo，用 JAXB 注释进行了注释，因此它可以在 XML 文件中输出。除此之外，以后我们用这个模型来显示不同的视图。
 
@@ -120,7 +120,7 @@ public class Fruit {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.JSON 和 XML 视图
+ ## 3.JSON 和 XML 视图
 
 要输出 JSON 和 XML 视图，你不需要做任何额外的工作，Spring MVC 会自动处理转换。阅读这个 [Spring MVC 和 XML](http://web.archive.org/web/20190213135405/http://www.mkyong.com/spring-mvc/spring-3-mvc-and-xml-example/) ，以及 [Spring MVC 和 JSON](http://web.archive.org/web/20190213135405/http://www.mkyong.com/spring-mvc/spring-3-mvc-and-json-example/) 的例子。
 

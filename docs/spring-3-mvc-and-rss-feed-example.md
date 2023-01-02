@@ -41,7 +41,7 @@
 
 审查最终的项目结构。
 
-![directory structure](img/637befe0e23f4b58bc46a5d9114a6560.png "spring-mvc-rss-feed") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.项目相关性
+![directory structure](img/637befe0e23f4b58bc46a5d9114a6560.png "spring-mvc-rss-feed") ## 2.项目相关性
 
 对于 Maven，在您的`pom.xml`中声明以下依赖项。
 
@@ -89,7 +89,7 @@
 	</dependencies> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.模型
+ ## 3.模型
 
 一个简单的 POJO，稍后使用这个对象来生成 RSS 提要内容。
 

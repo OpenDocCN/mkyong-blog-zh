@@ -20,11 +20,11 @@ In this example, last [Spring Security hello world annotation example](http://we
 
 [//web.archive.org/web/20190303104611if_/http://www.youtube.com/embed/Th5keN9Cqx4](//web.archive.org/web/20190303104611if_/http://www.youtube.com/embed/Th5keN9Cqx4)
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.目录结构
+ ## 2.目录结构
 
 查看本教程的最终目录结构。
 
-![spring-security-custom-login-annotation-directory](img/7c6513ac98d682e29a40405166bd76a4.png) <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.Spring 安全配置
+![spring-security-custom-login-annotation-directory](img/7c6513ac98d682e29a40405166bd76a4.png) ## 3.Spring 安全配置
 
 通过注释进行 Spring 安全配置。
 

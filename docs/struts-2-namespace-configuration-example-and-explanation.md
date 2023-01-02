@@ -49,7 +49,7 @@ Download It – [Struts2-NameSpace-Configuration-Example.zip](http://web.archive
 
 Struts 2 动作名称空间映射到文件夹结构。
 
-![namespace map folder](img/6280ff05e5e2080ff0163d1dd70cfd3a.png "namespace-example-folder") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.JSP 视图页面
+![namespace map folder](img/6280ff05e5e2080ff0163d1dd70cfd3a.png "namespace-example-folder") ## 2.JSP 视图页面
 
 3 个 JSP 视图页面具有相同的文件名，但是位于不同的模块。
 
@@ -130,7 +130,7 @@ URL:*http://localhost:8080/struts 2 Example/user/say welcome . action*
 
 1.  [Struts 2 名称空间配置参考](http://web.archive.org/web/20190225093132/http://struts.apache.org/2.0.14/docs/namespace-configuration.html)
 
-[namespace](http://web.archive.org/web/20190225093132/http://www.mkyong.com/tag/namespace/) [struts2](http://web.archive.org/web/20190225093132/http://www.mkyong.com/tag/struts2/)</ins>![](img/8ba7484a2f1563982d5f7c3951f9a24f.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190225093132/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="5646">
+[namespace](http://web.archive.org/web/20190225093132/http://www.mkyong.com/tag/namespace/) [struts2](http://web.archive.org/web/20190225093132/http://www.mkyong.com/tag/struts2/)![](img/8ba7484a2f1563982d5f7c3951f9a24f.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190225093132/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="5646">
 
 
 

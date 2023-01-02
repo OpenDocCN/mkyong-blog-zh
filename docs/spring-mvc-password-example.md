@@ -56,7 +56,7 @@ public class PasswordController extends SimpleFormController{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.模型
+ ## 2.模型
 
 存储密码值的客户对象。
 
@@ -73,7 +73,7 @@ public class Customer{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.表单验证器
+ ## 3.表单验证器
 
 创建一个密码验证器类来检查两个密码字段:不得为空，“密码”和“确认密码”必须匹配。否则，从资源包(属性文件)中获取相应的消息。
 

@@ -27,7 +27,7 @@
 
 *P.S `@Value`自春季 3.0* 开始发售
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.@值和属性示例
+ ## 2.@值和属性示例
 
 要设置属性占位符的默认值:
 
@@ -77,7 +77,7 @@ mongodb.db=hello
   } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [春埃尔的表情](http://web.archive.org/web/20190225095833/http://docs.spring.io/spring/docs/current/spring-framework-reference/html/expressions.html)
 

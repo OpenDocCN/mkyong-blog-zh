@@ -26,7 +26,7 @@ You may also interest at this – [Struts 2 + Spring 3 + Quartz 1.8.6 integratio
 
 这是项目文件夹结构。
 
-![Struts 2 Spring Quartz integration example](img/8f1954bb9b0efa1b5e39301cdbee7293.png "Struts2-Spring-Quartz-Integration-Example") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.依赖库
+![Struts 2 Spring Quartz integration example](img/8f1954bb9b0efa1b5e39301cdbee7293.png "Struts2-Spring-Quartz-Integration-Example") ## 2.依赖库
 
 获取所有的依赖库，你需要 Spring，Struts2，struts 2-Spring-Plugin 和 Quartz jar 文件。
 
@@ -81,7 +81,7 @@ You may also interest at this – [Struts 2 + Spring 3 + Quartz 1.8.6 integratio
   ... 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.调度程序任务
+ ## 3.调度程序任务
 
 将所有调度程序逻辑放在这个类中。
 

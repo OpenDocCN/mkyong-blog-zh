@@ -27,11 +27,11 @@
 
 [//web.archive.org/web/20190304011458if_/http://www.youtube.com/embed/NKamWA6hDaU](//web.archive.org/web/20190304011458if_/http://www.youtube.com/embed/NKamWA6hDaU)
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.目录结构
+ ## 2.目录结构
 
 查看本教程的最终目录结构。
 
-![spring-security-helloworld-annotation-directory](img/d330f34eb22b2eee0ffe84f4a2d65652.png) <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.Spring 安全依赖项
+![spring-security-helloworld-annotation-directory](img/d330f34eb22b2eee0ffe84f4a2d65652.png) ## 3.Spring 安全依赖项
 
 要使用 Spring security，需要`spring-security-web`和`spring-security-config`。
 

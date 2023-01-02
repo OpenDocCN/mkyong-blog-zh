@@ -8,7 +8,7 @@ No idea why the Struts 2 annotation set the “WEB-INF/content/” as default fo
 
 ## @ResultPath 示例
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.默认结果路径
+ ## 1.默认结果路径
 
 一个登录动作类，设置为“**/用户**”命名空间，重定向到“**页面/login.jsp** ”页面。
 
@@ -33,7 +33,7 @@ Struts 2 将从默认位置找到“**login.jsp**”结果页面
  /Struts2Example/WEB-INF/content/User/pages/login.jsp 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.自定义结果路径
+ ## 2.自定义结果路径
 
 如果您 JSP 结果页面存储在其他位置，您可以使用 **@ResultPath** 注释对其进行更改。
 

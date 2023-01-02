@@ -37,7 +37,7 @@
 
 找到包含 id 为“`A1`”的元素，以及包含类名“**子**”的子元素，然后将其背景更改为红色。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.$('#A2 ')。查找('。孩子’)
+ ## 2.$('#A2 ')。查找('。孩子’)
 
 ```java
  $('#A2').find('.child').css('background','red'); 
@@ -45,7 +45,7 @@
 
 找到包含 id 为“`A2`”的元素，以及包含类名“**子**”的子元素，然后将其背景更改为红色。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.jQuery find()示例
+ ## 3.jQuery find()示例
 
 播放这个例子。
 

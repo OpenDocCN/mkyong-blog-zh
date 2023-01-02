@@ -22,7 +22,7 @@ Download It – [Struts2-global-resource-bundle-Example.zip](http://web.archive.
  struts.custom.i18n.resources = global, another-properties-file 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.struts.xml
+ ## 2.struts.xml
 
 或者，您可以在 **struts.xml** 配置文件中将全局资源包配置为一个常量值。
 
@@ -32,7 +32,7 @@ Download It – [Struts2-global-resource-bundle-Example.zip](http://web.archive.
 </struts> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.听众
+ ## 3.听众
 
 最后一种方法是使用 servlet 监听器加载一个属性文件作为全局资源包。
 

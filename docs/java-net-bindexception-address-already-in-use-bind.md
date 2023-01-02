@@ -23,7 +23,7 @@ Caused by: java.net.BindException: Address already in use: bind
 	... 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.解决办法
+ ## 2.解决办法
 
 一个非常常见的错误消息，它意味着地址(通常是端口号)已经被另一个应用程序使用。
 
@@ -35,7 +35,7 @@ Caused by: java.net.BindException: Address already in use: bind
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [Linux–哪个应用程序正在使用端口 8080](http://web.archive.org/web/20190201025100/http://www.mkyong.com/linux/linux-which-application-is-using-port-8080/)
 

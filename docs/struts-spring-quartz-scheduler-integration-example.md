@@ -31,7 +31,7 @@ public class SchedulerTask
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.调度程序作业
+ ## 2.调度程序作业
 
 要集成 Spring 和 Quartz，创建一个扩展 Spring 的`QuartzJobBean`的 SchedulerJob，而不是 Quartz Job 类。
 
@@ -61,7 +61,7 @@ public class SchedulerJob extends QuartzJobBean
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.春天的石英助手
+ ## 3.春天的石英助手
 
 Spring 附带了许多 Quartz 助手类来简化整个 Quartz 调度程序流程——调度程序、Trigget、作业和作业细节。
 

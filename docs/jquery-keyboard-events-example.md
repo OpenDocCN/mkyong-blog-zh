@@ -14,11 +14,11 @@ jQuery 附带了三个键盘事件来捕获键盘活动——**keyup()**、 **ke
 
 如果您按住某个键，keydown()事件会被触发一次，但是 keypress()事件会一直触发，直到您放开该键。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.编辑关键点
+ ## 2.编辑关键点
 
 键盘修饰键( **ctrl、shift、alt…** )将触发 keydown()事件，但不会触发 keypress()事件。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.key code-ascii 代码
+ ## 3.key code-ascii 代码
 
 比如 A = 65，a= 97，请参考这个 [ASCII 表图表](http://web.archive.org/web/20190303105502/http://www.asciitable.com/)。
 

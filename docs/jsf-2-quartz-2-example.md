@@ -20,7 +20,7 @@
 
 检查最终的项目目录结构。
 
-![project directory structure](img/5dde32659ec75ff27625483d2f2b91f2.png "jsf-quartz-project-directory") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.属国
+![project directory structure](img/5dde32659ec75ff27625483d2f2b91f2.png "jsf-quartz-project-directory") ## 2.属国
 
 要在 Tomcat 上部署，您需要许多 JSF 依赖项。有关详细信息，请阅读 XML 注释。
 
@@ -82,7 +82,7 @@
 ... 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.石英工作
+ ## 3.石英工作
 
 创建一个 Quartz 作业类。该课程将在以后安排和运行。
 

@@ -51,7 +51,7 @@ public class JsonOutputGenerator implements IOutputGenerator
 
 有几种方法可以调用 IOutputGenerator，以及如何使用 Spring 来避免对象之间的紧密耦合。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.方法 1–直接调用它
+ ## 1.方法 1–直接调用它
 
 正常方式，直接调用。
 
@@ -73,7 +73,7 @@ public class App
 
 **问题**如果这段代码分散在你的项目中，那么输出生成器的每一个变化都会让你深受其害。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 方法 2–用助手类调用它
+ ## 方法 2–用助手类调用它
 
 您可能会考虑创建一个助手类，将所有输出实现都放入其中。
 

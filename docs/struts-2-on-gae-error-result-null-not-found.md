@@ -13,7 +13,7 @@
 
 刚开始一个简单的 Struts2 hello world 例子，当访问 action 类时，在本地开发和实际生产的 GAE 环境中都出现错误“Error: result 'null' not found”。
 
-![struts2 on gae - result null error](img/874b576bd66f95a2185194a2f52bca5a.png "struts2-gae-result-null-error") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+![struts2 on gae - result null error](img/874b576bd66f95a2185194a2f52bca5a.png "struts2-gae-result-null-error") ## 解决办法
 
 OGNL 正在执行一些安全检查，这在 GAE 是不支持的。为了让 **Struts 2 在 GAE 环境**中工作，您需要在`web.xml`中创建一个监听器，并将 OGNL 安全管理器设置为空。
 
@@ -110,7 +110,7 @@ http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
 </web-app> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [在 GAE 部署 Struts 2 时出现的问题](http://web.archive.org/web/20190226094949/http://struts.apache.org/2.2.1/docs/google-app-engine-gae.html)
 

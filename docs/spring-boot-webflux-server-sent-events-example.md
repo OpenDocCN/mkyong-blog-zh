@@ -68,7 +68,7 @@ window.onbeforeunload = function() {
 
 ## 1.项目目录
 
-![project directory](img/9b0c42cd24c4b239e68b2a9dbf9deabd.png) <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.专家
+![project directory](img/9b0c42cd24c4b239e68b2a9dbf9deabd.png) ## 2.专家
 
 pom.xml
 
@@ -248,7 +248,7 @@ pom.xml
 [INFO]    \- org.springframework.boot:spring-boot-autoconfigure:jar:2.1.2.RELEASE:compile 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.Spring Boot +春网流量
+ ## 3.Spring Boot +春网流量
 
 3.1 基于 Spring WebFlux 注释的控制器。启用数据流。写`produces = MediaType.TEXT_EVENT_STREAM_VALUE`
 

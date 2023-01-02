@@ -24,7 +24,7 @@
 </resources> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.切换按钮
+ ## 2.切换按钮
 
 打开“ **res/layout/main.xml** 文件，在`LinearLayout`里面添加两个“ **ToggleButton** 和一个普通按钮。
 
@@ -61,7 +61,7 @@
 ```
 
 **Note**
-Review the “togglebutton2”, we did customized the togglebutton2’s display text on and off and made it checked by default. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.代码代码
+Review the “togglebutton2”, we did customized the togglebutton2’s display text on and off and made it checked by default. ## 3.代码代码
 
 在 activity " `onCreate()`"方法内部，在一个普通按钮上附加一个 click 监听器，以显示切换按钮的当前状态。
 

@@ -32,7 +32,7 @@ public class TextTagAction extends ActionSupport{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.属性文件
+ ## 2.属性文件
 
 一个简单的属性文件，包含两个关键字“ **name.msg** 和“ **name.msg.param** ”。
 
@@ -43,7 +43,7 @@ public class TextTagAction extends ActionSupport{
 name.msg.param = "This is a message from properties file - param : {0}" 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.文本标签示例
+ ## 3.文本标签示例
 
 它显示了“文本”标签的使用。
 

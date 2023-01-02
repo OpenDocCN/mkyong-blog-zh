@@ -28,7 +28,7 @@ public class User implements Serializable{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.CompoundPropertyModel 示例
+ ## 2.CompoundPropertyModel 示例
 
 使用“ **CompoundPropertyModel** ”将 textbox 组件绑定到“**用户**对象。
 
@@ -82,7 +82,7 @@ public class UserPage extends WebPage {
 1.  **新的 TextField <string>【名称】</string>** 将绑定到用户对象，**名称属性**
 2.  **新建 TextField <integer>(【年龄】)</integer>** 绑定到用户对象，**年龄属性**
 
-Download It – [Wicket-CompoundPropertyModel-Examples.zip](http://web.archive.org/web/20190114230013/http://www.mkyong.com/wp-content/uploads/2011/05/Wicket-CompoundPropertyModel-Examples.zip) (8KB) <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+Download It – [Wicket-CompoundPropertyModel-Examples.zip](http://web.archive.org/web/20190114230013/http://www.mkyong.com/wp-content/uploads/2011/05/Wicket-CompoundPropertyModel-Examples.zip) (8KB) ## 参考
 
 1.  [CompoundPropertyModel Javadoc](http://web.archive.org/web/20190114230013/http://wicket.apache.org/apidocs/1.4/org/apache/wicket/model/CompoundPropertyModel.html)
 2.  [使用复合属性模型](http://web.archive.org/web/20190114230013/https://cwiki.apache.org/WICKET/working-with-wicket-models.html#WorkingwithWicketmodels-CompoundPropertyModels)

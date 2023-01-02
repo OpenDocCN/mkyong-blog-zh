@@ -47,7 +47,7 @@ public class IteratorKFCAction extends ActionSupport{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.迭代器示例
+ ## 2.迭代器示例
 
 一个 JSP 页面，展示了如何使用**迭代器标签**来遍历“KFC comboMeals”列表。在**迭代器标签**中，包含一个“**状态**属性，用于声明**迭代器状态**类的名称。
 
@@ -64,12 +64,7 @@ The **IteratorStatus** class is used to get information about the status of the 
 <h1>Struts 2 Iterator tag example</h1>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2836379775501347"
-     data-ad-slot="8821506761"
-     data-ad-format="auto"
-     data-ad-region="mkyongregion"></ins>
+
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script><h2>Simple Iterator</h2>
@@ -137,7 +132,7 @@ The **IteratorStatus** class is used to get information about the status of the 
 1.  [Struts 2 迭代器标签示例](http://web.archive.org/web/20190304032825/http://struts.apache.org/2.0.14/docs/iterator.html)
 2.  [迭代器状态文档](http://web.archive.org/web/20190304032825/http://struts.apache.org/2.1.8/struts2-core/apidocs/org/apache/struts2/views/jsp/IteratorStatus.html)
 
-[iterator](http://web.archive.org/web/20190304032825/http://www.mkyong.com/tag/iterator/) [struts2](http://web.archive.org/web/20190304032825/http://www.mkyong.com/tag/struts2/)</ins>![](img/b50a69c32a54ffdd18b907d889ee1fa1.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190304032825/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="6086">
+[iterator](http://web.archive.org/web/20190304032825/http://www.mkyong.com/tag/iterator/) [struts2](http://web.archive.org/web/20190304032825/http://www.mkyong.com/tag/struts2/)![](img/b50a69c32a54ffdd18b907d889ee1fa1.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190304032825/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="6086">
 
 
 

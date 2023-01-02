@@ -10,13 +10,13 @@ Hibernate SQL 方言告诉您的 Hibernate 应用程序应该使用哪种 SQL �
  org.hibernate.dialect.DB2Dialect 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.DB2 AS/400
+ ## 2.DB2 AS/400
 
 ```java
  org.hibernate.dialect.DB2400Dialect 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.DB2 OS390
+ ## 3.DB2 OS390
 
 ```java
  org.hibernate.dialect.DB2390Dialect 

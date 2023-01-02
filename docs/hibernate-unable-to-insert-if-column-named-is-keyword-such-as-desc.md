@@ -48,7 +48,7 @@ MySQL 数据库中一个名为“category”的表，包含一个“ **DESC** �
    ... 35 more 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 在 Hibernate 中，要插入" keyword "列名，应该像这样用'**【列名】**'括起来。
 
@@ -75,7 +75,7 @@ MySQL 数据库中一个名为“category”的表，包含一个“ **DESC** �
 	} 
 ```
 
-[hibernate](http://web.archive.org/web/20190305140545/http://www.mkyong.com/tag/hibernate/) [insert](http://web.archive.org/web/20190305140545/http://www.mkyong.com/tag/insert/)</ins>![](img/29fa0f09f3adae2699e06bba1571eb95.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190305140545/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="8706">
+[hibernate](http://web.archive.org/web/20190305140545/http://www.mkyong.com/tag/hibernate/) [insert](http://web.archive.org/web/20190305140545/http://www.mkyong.com/tag/insert/)![](img/29fa0f09f3adae2699e06bba1571eb95.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190305140545/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="8706">
 
 
 

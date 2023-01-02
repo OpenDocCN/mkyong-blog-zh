@@ -16,7 +16,7 @@
 ******************************************************************** 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 据我所知，有两种方法可以将 Wicket 更改为在部署(生产)模式下运行:
 
@@ -24,7 +24,7 @@
  WebApplication:759 - [WicketApplication] Started Wicket version 1.4.17 in deployment mode 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 1.web.xml
+ ## 1.web.xml
 
 第一种方法是在 web.xml 中添加一个“**配置**”上下文参数。
 

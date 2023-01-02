@@ -28,7 +28,7 @@ Simpel 布局文件，显示一个按钮。
 </LinearLayout> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.活动
+ ## 2.活动
 
 使用下面的代码片段在 Android 中打电话。
 
@@ -81,7 +81,7 @@ public class MainActivity extends Activity {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3 Android 清单
+ ## 3 Android 清单
 
 要打电话，Android 需要 **CALL_PHONE** 权限。
 

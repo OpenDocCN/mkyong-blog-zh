@@ -109,11 +109,11 @@ In Eclipse 3.7, XML code assist will not prompts the attribute “`android:layou
 </TableLayout> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.演示
+ ## 2.演示
 
 见结果。
 
-![android tablelayout demo](img/16c4716c0b7f1253f37a614ca4cf69db.png "android-tablelayout-demo1") <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 下载源代码
+![android tablelayout demo](img/16c4716c0b7f1253f37a614ca4cf69db.png "android-tablelayout-demo1") ## 下载源代码
 
 Download it – [Android-TableLayout-Example.zip](http://web.archive.org/web/20190224164510/http://www.mkyong.com/wp-content/uploads/2011/12/Android-TableLayout-Example.zip) (15 KB)
 

@@ -25,7 +25,7 @@
 
 显然，‘**输出**的 id 没有找到，但是已经在**<h:output text id = " output "/>**中明确声明了？
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 在 JSF 2.0 中， **< f:ajax >** 标签要求在同一个表单级别内进行“渲染”输出。**<h:output text id = " output "/>**标签应该在表单内移动。
 
@@ -39,7 +39,7 @@
 </h:form> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [JSF 2.0 + Ajax hello world 示例](http://web.archive.org/web/20190113095434/http://www.mkyong.com/jsf2/jsf-2-0-ajax-hello-world-example/)
 

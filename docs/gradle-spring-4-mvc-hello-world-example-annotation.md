@@ -26,7 +26,7 @@
 
 *P.S 不再有类似`web.xml`或 Spring XML 配置文件的 XML 文件。*
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2\. Gradle
+ ## 2\. Gradle
 
 2.1 查看`build.gradle`文件，这应该是不言自明的。
 
@@ -98,7 +98,7 @@ eclipse {
  your-project$ gradle eclipse 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.弹簧@配置
+ ## 3.弹簧@配置
 
 Spring @Configuration 及其 XML 等价物。
 

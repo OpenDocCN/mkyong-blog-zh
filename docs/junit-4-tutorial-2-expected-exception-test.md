@@ -37,7 +37,7 @@ public class Exception1Test {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.Try-catch 并且总是失败()
+ ## 2.Try-catch 并且总是失败()
 
 这是一个有点老的学校，在 JUnit 3 中广泛使用。测试异常类型和异常详细信息。参考下文:
 
@@ -79,7 +79,7 @@ public class Exception2Test {
 ```
 
 **Always remember the fail()!**
-If the line you want to test didn’t throw any exception, and you forgot to put the `fail()`, the test will be passed (false positive). <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.@Rule 需要异常
+If the line you want to test didn’t throw any exception, and you forgot to put the `fail()`, the test will be passed (false positive). ## 3.@Rule 需要异常
 
 这个`ExpectedException`规则(从 JUnit 4.7 开始)允许您测试异常类型和异常细节，类似于" *2。*“试-赶和总是失败()”的方法，但用了一种更优雅的方式:
 

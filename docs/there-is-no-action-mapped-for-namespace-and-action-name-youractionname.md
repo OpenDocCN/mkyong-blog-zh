@@ -8,7 +8,7 @@
 
 查看两种模式下的错误信息:
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.“struts.devMode”处于关闭状态(默认)
+ ## 1.“struts.devMode”处于关闭状态(默认)
 
 ```java
  HTTP Status 404 - 
@@ -22,7 +22,7 @@ description The requested resource
 (There is no Action mapped for namespace / and action name "yourActionName".) is not available. 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.struts.devMode 已打开
+ ## 2.struts.devMode 已打开
 
 在`struts.xml`
 

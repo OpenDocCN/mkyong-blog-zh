@@ -26,7 +26,7 @@ GAE Java SDK，命令“ **appcfg** ”是硬编码的，可以找到上面两�
 ```
 
 **Note**
-If you don’t have the XML files but still want to download the logs, you can issue [appcfg download_app](http://web.archive.org/web/20190227044303/http://www.mkyong.com/google-app-engine/download-uploaded-application-from-google-app-engine-gae/) to download the deployed application which included the XML files. <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.例子
+If you don’t have the XML files but still want to download the logs, you can issue [appcfg download_app](http://web.archive.org/web/20190227044303/http://www.mkyong.com/google-app-engine/download-uploaded-application-from-google-app-engine-gae/) to download the deployed application which included the XML files. ## 2.例子
 
 以下是一些从 GAE 下载日志的常见例子。
 
@@ -62,7 +62,7 @@ appcfg --num_days=0 --severity=4 request_logs C:\workspace-3.7\SpringGAEProject\
 appcfg --num_days=0 --append request_logs C:\workspace-3.7\SpringGAEProject\war\ c:\gae.log 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [GAE 下载日志文档](http://web.archive.org/web/20190227044303/https://developers.google.com/appengine/docs/java/tools/uploadinganapp#Downloading_Logs)
 2.  [下载应用引擎日志](http://web.archive.org/web/20190227044303/http://blog.dantup.com/2009/12/downloadingexporting-app-engine-logs.html)

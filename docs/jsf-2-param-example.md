@@ -17,7 +17,7 @@
 
 下面是输出结果——“**你好，JSF 用户。你来自中国**”。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.f:参数+其他组件
+ ## 2.f:参数+其他组件
 
 如果您将一个“ *f:param* ”标签附加到其他组件上，如“ *h:commandButton* ”，该参数将被转换为请求参数。
 
@@ -37,7 +37,7 @@
 	String countrry = params.get("country"); 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## JSF f:参数示例
+ ## JSF f:参数示例
 
 下面是一个 JSF 2.0 应用程序，展示了在“ **h:commandButton** 和“ **h:outputFormat** 组件中使用 **f:param** 标记。
 

@@ -13,11 +13,11 @@
 
 从哪里下载 Apache commons-io？
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 默认情况下，Struts 使用 Apache " **commons-io.jar** "进行文件上传。要修复它，您必须将此库包含到项目依赖库文件夹中。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 1.直接得到
+ ## 1.直接得到
 
 从 http://commons.apache.org/io/[官方网站](http://web.archive.org/web/20190209023054/http://commons.apache.org/io/)获取“ **commons-io.jar**
 

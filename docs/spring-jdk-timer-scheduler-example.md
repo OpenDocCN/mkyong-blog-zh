@@ -47,7 +47,7 @@ Spring 附带了一个 **ScheduledTimerTask** 来代替 JDK 计时器。您可�
 </bean> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.定时器工厂 Bean
+ ## 2.定时器工厂 Bean
 
 最后，您可以配置一个 TimerFactoryBean bean 来启动您的调度程序任务。
 
@@ -115,7 +115,7 @@ public class App
 
 没有代码需要调用调度程序任务， **TimerFactoryBean** 将在启动时运行您的调度任务。因此，Spring scheduler 将每 60 秒运行一次 printMe()方法，第一次执行时有 1 秒的延迟。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 下载源代码
+ ## 下载源代码
 
 Download it – [Spring-Scheduler-JDK-TimerExample.zip](http://web.archive.org/web/20190214222721/http://www.mkyong.com/wp-content/uploads/2010/04/Spring-Scheduler-JDK-TimerExample.zip)[integration](http://web.archive.org/web/20190214222721/http://www.mkyong.com/tag/integration/) [scheduler](http://web.archive.org/web/20190214222721/http://www.mkyong.com/tag/scheduler/) [spring](http://web.archive.org/web/20190214222721/http://www.mkyong.com/tag/spring/) [timer](http://web.archive.org/web/20190214222721/http://www.mkyong.com/tag/timer/)
 

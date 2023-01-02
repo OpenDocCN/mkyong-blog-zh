@@ -27,7 +27,7 @@ public class TestRuntime {
 
 上述单元测试将通过。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.检查异常
+ ## 2.检查异常
 
 检查一个简单的业务对象，保存和更新方法，如果出错，抛出自定义的检查异常。
 
@@ -108,7 +108,7 @@ public class TestCheckedException {
 
 上述单元测试将通过。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 下载源代码
+ ## 下载源代码
 
 Download it – [TestNG-Example-Excepted-Exception.zip](http://web.archive.org/web/20190227120235/http://www.mkyong.com/wp-content/uploads/2009/05/TestNG-Example-Excepted-Exception.zip) (11 kb)
 

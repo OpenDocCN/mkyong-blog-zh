@@ -25,7 +25,7 @@ P.S Maven 和 Eclipse 都是可选的，只是我个人最喜欢的开发工具�
   -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.获取 Mongo Java 驱动程序
+ ## 2.获取 Mongo Java 驱动程序
 
 从 [github](http://web.archive.org/web/20190220123320/https://github.com/mongodb/mongo-java-driver/downloads) 下载 mongo-java 驱动。对于 Maven 用户，mongo-java 驱动程序在`pom.xml`中声明。
 
@@ -69,7 +69,7 @@ pom.xml
 </project> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.Mongo 连接
+ ## 3.Mongo 连接
 
 连接到 MongoDB 服务器。对于 MongoDB 版本> = 2.10.0，使用`MongoClient`。
 

@@ -96,7 +96,7 @@ label {
 </html> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.用户名验证器
+ ## 2.用户名验证器
 
 一个用户名验证器，以确保用户名的长度在 5 到 15 之间，在字符或符号 a-z，0-9，下划线，连字符。
 
@@ -122,7 +122,7 @@ public class UsernameValidator extends CompoundValidator<String> {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.显示文本框值
+ ## 3.显示文本框值
 
 显示来自**UserPage.html**的文本框值的页面。
 

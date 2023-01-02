@@ -49,7 +49,7 @@ protected Object formBackingObject(HttpServletRequest request)
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.<radiobuttons></radiobuttons>
+ ## 2.<radiobuttons></radiobuttons>
 
 生成多个单选按钮，这些值在运行时生成。
 
@@ -102,7 +102,7 @@ protected Object formBackingObject(HttpServletRequest request)
 ```
 
 **Note**
-For radio button selection, as long as the “**path**” or “**property**” is equal to the “**radio button value**“, the radio button will be selected automatically. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 完整的单选按钮示例
+For radio button selection, as long as the “**path**” or “**property**” is equal to the “**radio button value**“, the radio button will be selected automatically. ## 完整的单选按钮示例
 
 让我们来看一个完整的 Spring MVC 单选按钮示例:
 

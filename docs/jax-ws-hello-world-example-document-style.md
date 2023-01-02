@@ -12,7 +12,7 @@
 
 下面是在 JAX WS 中创建文档样式 web 服务的步骤。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.创建 Web 服务端点接口
+ ## 1.创建 Web 服务端点接口
 
 实际上，用`@SOAPBinding`标注是可选的，因为默认样式是 document。
 
@@ -37,7 +37,7 @@ public interface HelloWorld{
 ```
 
 **Note**
-In JAX-WS development, convert from “*RPC style*” to “*Document style*” is very easy, just change the `@SOAPBinding` style option. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.创建 Web 服务端点实现
+In JAX-WS development, convert from “*RPC style*” to “*Document style*” is very easy, just change the `@SOAPBinding` style option. ## 2.创建 Web 服务端点实现
 
 *文件:HelloWorldImpl.java*
 

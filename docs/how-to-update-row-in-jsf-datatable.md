@@ -78,11 +78,11 @@ public String editAction(Order order) {
 </h:column> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 例子
+ ## 例子
 
 一个 JSF 2.0 的例子来实现上述概念，以更新数据表中的行。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 1.受管 Bean
+ ## 1.受管 Bean
 
 一个名为“order”的托管 bean，不言自明。
 

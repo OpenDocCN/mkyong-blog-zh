@@ -18,7 +18,7 @@
 
 *注:本例在`mongo-java-driver-2.11.0.jar`和`spring-data-mongodb-1.2.0.RELEASE.jar`和*下测试
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.基本查询示例
+ ## 1.基本查询示例
 
 如果您熟悉核心 MongoDB 控制台 find()命令，只需将“原始”查询放在`BasicQuery`中。
 
@@ -37,7 +37,7 @@ System.out.println("userTest1 - " + userTest1);
 userTest1 - User [id=id, ic=1003, name=cat, age=30] 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.找一个例子
+ ## 2.找一个例子
 
 findOne 将返回与查询匹配的单个文档，您可以用`Criteria.and()`方法组合几个标准。更多细节见例 4。
 

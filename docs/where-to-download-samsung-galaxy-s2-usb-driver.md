@@ -17,11 +17,11 @@
 上图摘自三星网站。
 
 **Note**
-The phone model number of my Samsung galaxy s2 is “**GT-19100**“. <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.三星网站
+The phone model number of my Samsung galaxy s2 is “**GT-19100**“. ## 2.三星网站
 
 进入三星官网:[http://www.samsung.com](http://web.archive.org/web/20190220131458/http://www.samsung.com/)，会自动重定向到您当地的三星网站。找到“**支持**——>”**下载**，或者类似的东西。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.下载三星 Kies (USB 驱动程序)
+ ## 3.下载三星 Kies (USB 驱动程序)
 
 输入您的手机型号或手机名称，找到合适的“ **Samsung Kies** ”进行下载。见下图:
 

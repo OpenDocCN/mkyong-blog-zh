@@ -50,7 +50,7 @@ protected ModelAndView handleRequestInternal(
 
 在本教程中，它展示了使用**ParameterizableViewController**控制器在 Spring MVC 应用程序中进行页面重定向。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.ParameterizableViewController
+ ## 1.ParameterizableViewController
 
 不需要控制器类，只需声明**ParameterizableViewController**bean，并通过“ **viewName** 属性指定视图名称。此外，您必须为它定义一个显式映射。
 
@@ -104,7 +104,7 @@ class="org.springframework.web.servlet.mvc.support.ControllerClassNameHandlerMap
 
 在上面代码片段中，您是否期望一个名为“welcome”的视图会返回一个“WelcomePage”？抱歉，不是，你得定义一个**显式映射**，因为**ControllerClassNameHandlerMapping**不会为任何内置的 Spring MVC 控制器生成映射。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.视角
+ ## 2.视角
 
 只是一个简单的 JSP 来显示标题行。
 

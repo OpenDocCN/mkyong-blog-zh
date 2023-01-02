@@ -53,7 +53,7 @@ According to Java’s i18n documentation, to display a special character correct
 
 在深入研究了 **TextProvider.getText()** 源代码后，它使用 resource bundle.getString()从资源包中检索消息，因此不正确的消息是合理的。但是为什么“ **s:text** ”、“ **s:textfield** ”和“ **s:password** ”能够正确显示中文信息，为什么“ **s:submit** ”会失败呢？我脑子里的问题太多了，让我们来看案例 2…
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 案例 2:带有特殊字符的属性文件(编码)
+ ## 案例 2:带有特殊字符的属性文件(编码)
 
 这一次，使用 native2ascii 工具处理属性文件，并正确编码中文字符。
 
@@ -65,7 +65,7 @@ According to Java’s i18n documentation, to display a special character correct
 
 结果完全相反，现在“ **s:submit** ”和“ **getText()** ”能够正确显示，但是其他 UI 组件都失败了。这是预期工作，因为 Struts 2 推荐 **getText()** 显示 i18n 或本地化消息。问题是，为什么“ **s:submit** 不一样？
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 支柱 2..怎么了?
+ ## 支柱 2..怎么了?
 
 以下是我心中的一些疑问…
 
@@ -73,7 +73,7 @@ According to Java’s i18n documentation, to display a special character correct
 2.  i18n 应该很简单，为什么 Struts 2 有这种问题？还是我误解了 Struts 2 i18n 的工作原理？
 3.  为什么资源包中的消息有这么多显示方式？为什么不直接用一种方法分组呢？在 Struts 1 中，只使用“bean:message ”,为什么在 Struts 2 中看起来如此复杂？
 4.  Struts 2 支持 XML 资源包吗？我只是不喜欢使用 native2ascii 工具将数据编码为 UTF 8 格式，这使得属性文件不可读。Apache Wicket 在这个问题上做得非常好，可能 Struts 2 应该借鉴一下。
-5.  那么，如何在 Struts 2 中正确显示汉字呢？</ins> Many articles and tutorials are told that the following methods are able to display the message from resource bundle:
+5.  那么，如何在 Struts 2 中正确显示汉字呢？ Many articles and tutorials are told that the following methods are able to display the message from resource bundle:
 
 ```java
  <s:text name="global.username"/>
@@ -138,7 +138,7 @@ Download it – [Struts2-i18n-issue-Example](http://web.archive.org/web/20190601
 5.  [http://struts.apache.org/2.1.8/docs/localization.html](http://web.archive.org/web/20190601051037/http://struts.apache.org/2.1.8/docs/localization.html)
 6.  [http://hxzon 00 . blog . 163 . com/blog/static/10489241620088121449163/](http://web.archive.org/web/20190601051037/http://hxzon00.blog.163.com/blog/static/10489241620088121449163/)
 
-[multiple languages](http://web.archive.org/web/20190601051037/https://www.mkyong.com/tag/multiple-languages/) [struts2](http://web.archive.org/web/20190601051037/https://www.mkyong.com/tag/struts2/)</ins>![](img/ea021ce0a25a4c9eadce1be15b8da6de.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190601051037/https://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="5783">
+[multiple languages](http://web.archive.org/web/20190601051037/https://www.mkyong.com/tag/multiple-languages/) [struts2](http://web.archive.org/web/20190601051037/https://www.mkyong.com/tag/struts2/)![](img/ea021ce0a25a4c9eadce1be15b8da6de.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190601051037/https://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="5783">
 
 
 

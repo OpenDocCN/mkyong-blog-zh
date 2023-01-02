@@ -8,7 +8,7 @@
 
 这里有两种方法可以从数据库中查询或提取单行记录，并将其转换为模型类。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.1 自定义行映射器
+ ## 1.1 自定义行映射器
 
 一般来说，总是建议实现 RowMapper 接口来创建自定义的 RowMapper，以满足您的需求。
 
@@ -47,7 +47,7 @@ public class CustomerRowMapper implements RowMapper
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 1.2 BeanPropertyRowMapper
+ ## 1.2 BeanPropertyRowMapper
 
 在 Spring 2.5 中，附带了一个方便的行映射器实现，称为“BeanPropertyRowMapper”，它可以通过匹配它们的名称将行的列值映射到属性。只需确保属性和列具有相同的名称，例如，属性“CUSTID”将与列名“custId”或下划线“CUST_ID”匹配。
 

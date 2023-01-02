@@ -45,7 +45,7 @@
 </beans> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.同一 XML 文件中的 Bean
+ ## 2.同一 XML 文件中的 Bean
 
 如果在同一个 XML 文件中引用一个 bean，可以用'`ref`'标记、'`local`'属性引用它。
 
@@ -75,7 +75,7 @@
 </beans> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 结论
+ ## 结论
 
 实际上,“ref”标记可以访问相同或不同 XML 文件中的 bean，但是，为了项目的可读性，如果引用在相同 XML 文件中声明的 bean，则应该使用“local”属性。
 

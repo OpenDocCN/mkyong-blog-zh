@@ -22,7 +22,7 @@ Refer to this [Spring IDE vs STS pdf file](http://web.archive.org/web/2019021010
 
 完成后需要很长时间来安装和重启 Eclipse。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.Eclipse 市场
+ ## 2.Eclipse 市场
 
 这是更好的方法，因为你不需要记住很长的 Spring ide 更新 URL。在 Eclipse IDE 中，点击“**帮助**”->”**Eclipse market place**，输入“ **Spring IDE** ，按照向导完成安装。
 
@@ -30,7 +30,7 @@ Refer to this [Spring IDE vs STS pdf file](http://web.archive.org/web/2019021010
 
 同样，安装和重启 Eclipse 需要很长时间。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [http://www.springsource.com/developer/sts](http://web.archive.org/web/20190210101641/http://www.springsource.com/developer/sts)
 2.  [http://marketplace.eclipse.org/content/spring-ide](http://web.archive.org/web/20190210101641/http://marketplace.eclipse.org/content/spring-ide)

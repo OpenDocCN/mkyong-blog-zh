@@ -47,7 +47,7 @@ public class SpringBootConsoleApplication implements CommandLineRunner {
  DATASOURCE = org.apache.tomcat.jdbc.pool.DataSource@7c541c15... 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.hikaricp 测试
+ ## 2.hikaricp 测试
 
 要切换到另一个连接池，例如 HikariCP，只需排除默认连接池，并将 HikariCP 包含在类路径中。
 
@@ -80,7 +80,7 @@ pom.xml
 ```
 
 **Note**
-Read this example – [Spring Boot JDBC + MySQL + HikariCP example](http://web.archive.org/web/20190223075556/http://www.mkyong.com/spring-boot/spring-boot-jdbc-mysql-hikaricp-example/) <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+Read this example – [Spring Boot JDBC + MySQL + HikariCP example](http://web.archive.org/web/20190223075556/http://www.mkyong.com/spring-boot/spring-boot-jdbc-mysql-hikaricp-example/) ## 参考
 
 1.  [鼠标指针](http://web.archive.org/web/20190223075556/https://github.com/brettwooldridge/HikariCP)
 2.  [Spring Boot JDBC+MySQL+HikariCP 的例子](http://web.archive.org/web/20190223075556/http://www.mkyong.com/spring-boot/spring-boot-jdbc-mysql-hikaricp-example/)

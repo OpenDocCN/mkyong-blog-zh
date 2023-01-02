@@ -75,7 +75,7 @@ pom.xml
 </project> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.春季批处理作业
+ ## 2.春季批处理作业
 
 通过自定义编写器读取 csv 文件并打印内容的批处理作业。需要强调的几点:
 
@@ -182,7 +182,7 @@ job-quartz.xml
 </beans> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.QuartzJobBean 示例
+ ## 3.QuartzJobBean 示例
 
 这个类是从[Spring batch sample Github repository](http://web.archive.org/web/20190309052916/https://github.com/SpringSource/spring-batch/blob/master/spring-batch-samples/src/main/java/org/springframework/batch/sample/quartz/JobLauncherDetails.java)复制来的，做了一点小小的改动，就是在每次作业运行时通过传递一个`new Date()`来运行已完成的作业。
 

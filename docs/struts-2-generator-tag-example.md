@@ -44,7 +44,7 @@ public class GeneratorTagAction extends ActionSupport{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.生成器标签示例
+ ## 2.生成器标签示例
 
 一个 JSP 页面，展示了如何使用**生成器**标签来动态创建迭代器。“**分隔符**属性是必需的，它将 val 分隔成迭代器的条目。
 
@@ -84,7 +84,7 @@ converter="%{languageConverter}">
 </html> 
 ```
 
-Can’t find any use case of this generator tag, as i don’t recommend to hardcore the iterator values in the page. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.struts.xml
+Can’t find any use case of this generator tag, as i don’t recommend to hardcore the iterator values in the page. ## 3.struts.xml
 
 链接一下~
 

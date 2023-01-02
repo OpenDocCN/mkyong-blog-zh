@@ -94,7 +94,7 @@
  CustomerService cust = (CustomerService)appContext.getBean("customerService"); 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.DefaultAdvisorAutoProxyCreator 示例
+ ## 2.DefaultAdvisorAutoProxyCreator 示例
 
 这个**DefaultAdvisorAutoProxyCreator**非常强大，如果任何一个 beans 被 advisor 匹配，Spring 将自动为它创建一个代理。
 
@@ -124,7 +124,7 @@
 
 这只是越权，因为你不能控制 bean 应该代理什么，你能做的只是相信 Spring 会为你做得最好。如果你想在你的项目中实现它，请小心。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 下载源代码
+ ## 下载源代码
 
 Download it – [Spring-Auto-Proxy-Creator-Example.zip](http://web.archive.org/web/20190225101459/http://www.mkyong.com/wp-content/uploads/2010/03/Spring-Auto-Proxy-Creator-Example.zip)[proxy](http://web.archive.org/web/20190225101459/http://www.mkyong.com/tag/proxy/) [spring](http://web.archive.org/web/20190225101459/http://www.mkyong.com/tag/spring/)
 

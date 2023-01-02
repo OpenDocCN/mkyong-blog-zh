@@ -24,7 +24,7 @@ Tue Sep 11 21:55:36 [websvr] admin web console waiting for connections on port 2
 Tue Sep 11 21:55:36 [initandlisten] waiting for connections on port 27017 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.连接 MongoDB
+ ## 2.连接 MongoDB
 
 为了连接 MongoDB，使用了`$MongoDB-folder/bin/mongo`
 
@@ -34,7 +34,7 @@ MongoDB shell version: 2.0.7
 connecting to: test 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.创建数据库或表(集合)
+ ## 3.创建数据库或表(集合)
 
 在 MongoDB 中，数据库和表都是在第一次插入数据时自动创建的。使用`use database-name`，切换到您的数据库(即使这个数据库还没有创建)。
 

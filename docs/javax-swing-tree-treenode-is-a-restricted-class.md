@@ -23,7 +23,7 @@ java.lang.NoClassDefFoundError: javax.swing.tree.TreeNode is a restricted class.
 	at freemarker.core.TextBlock.heedsTrailingWhitespace(TextBlock.java:337) 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 不知道为什么它能在 GAE 生产环境中工作，对于 GAE 本地环境，你可以重载`TextBlock` 类，编译下面的代码并将其移动到 *WEB-INF/classes* *，这样它将重载原来的`TextBlock`类。*
 
@@ -453,7 +453,7 @@ public final class TextBlock extends TemplateElement {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [Freemarker 2.4，GAE/J 1.2.6 和 javax.swing.tree.TreeNode](http://web.archive.org/web/20190119160619/http://groups.google.com/group/google-appengine-java/browse_thread/thread/dd84e44f604498c4)
 

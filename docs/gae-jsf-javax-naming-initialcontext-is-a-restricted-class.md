@@ -17,7 +17,7 @@
 	//... 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 谷歌应用引擎不支持 Java clsss-`javax.naming.InitialContext`，但 JSF 正在`WebConfiguration.java`中使用它。获得 JSF 源代码的副本，审查方法—`processJndiEntries()`和`canProcessJndiEntries()`。
 
@@ -1525,7 +1525,7 @@ public class WebConfiguration {
 } // END WebConfiguration 
 ```
 
-**Credit** : Source code is copied from [here](http://web.archive.org/web/20190304032745/http://code.google.com/p/joshjcarrier/source/browse/trunk/Sun%20JSF%20GAE/src/com/sun/faces/config/WebConfiguration.java) <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+**Credit** : Source code is copied from [here](http://web.archive.org/web/20190304032745/http://code.google.com/p/joshjcarrier/source/browse/trunk/Sun%20JSF%20GAE/src/com/sun/faces/config/WebConfiguration.java) ## 参考
 
 1.  [为 GAE 修改 WebConfiguration.java](http://web.archive.org/web/20190304032745/http://code.google.com/p/joshjcarrier/source/browse/trunk/Sun%20JSF%20GAE/src/com/sun/faces/config/WebConfiguration.java)
 2.  [Mojarra JSF 2.0 RC2 和谷歌应用引擎 SDK 1.2.6](http://web.archive.org/web/20190304032745/http://javadocs.wordpress.com/2009/10/17/mojarra-jsf-2-0-rc2-and-google-app-engine-sdk-1-2-6/)

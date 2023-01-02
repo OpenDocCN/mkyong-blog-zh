@@ -10,7 +10,7 @@ Download this Struts check box example – [Struts-CheckBox-Example.zip](http://
 
 这是 Maven 创建的最终项目结构。请创建相应的文件夹。
 
-![](img/90442f5cb5ad8eb614f4cedc388b1f0f.png "Struts-check-box-folder") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.动作类
+![](img/90442f5cb5ad8eb614f4cedc388b1f0f.png "Struts-check-box-folder") ## 2.动作类
 
 创建一个 Action 类，除了转发请求什么也不做。
 
@@ -39,7 +39,7 @@ public class HtmlCheckBoxAction extends Action{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.属性文件
+ ## 3.属性文件
 
 创建一个属性文件，并声明错误和标签消息。
 

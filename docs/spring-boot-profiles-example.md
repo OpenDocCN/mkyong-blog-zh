@@ -13,7 +13,7 @@
 
 一个标准的 Maven 项目结构。
 
-![project directory](img/5103388209b96fc7609931050a2dcb0b.png) <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.项目依赖性
+![project directory](img/5103388209b96fc7609931050a2dcb0b.png) ## 2.项目依赖性
 
 标准`spring-boot-starter`和`spring-boot-starter-test`
 
@@ -71,7 +71,7 @@ pom.xml
 </project> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.Spring Boot
+ ## 3.Spring Boot
 
 在 Spring Boot，默认配置文件是“`default`”。查看以下天气服务。
 

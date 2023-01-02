@@ -10,7 +10,7 @@ Download It – [Struts2-Hello-World-Annotation-Example.zip](http://web.archive.
 
 Struts 2 注释是由 Struts 2 约定插件支持的，因此，您必须理解其“**扫描方法学**”和“**命名转换器**”机制背后的魔力。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.扫描方法
+ ## 1.扫描方法
 
 许多 Struts 2 的文章或书籍指出，您可以配置过滤器的" **init-param** 或"**Struts . conventi on . action . packages**"来告诉 Struts 2 在哪里扫描带注释的类。举个例子，
 
@@ -39,7 +39,7 @@ Struts 2 注释是由 Struts 2 约定插件支持的，因此，您必须理解�
 
 参见这个 [Struts 2 约定插件文档](http://web.archive.org/web/20190302180720/http://struts.apache.org/2.1.8/docs/convention-plugin.html#ConventionPlugin-Codebehindhelloworld)。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.命名转换器
+ ## 2.命名转换器
 
 Struts 2 约定插件将把所有带注释的动作文件名转换成指定的格式。
 

@@ -8,7 +8,7 @@
 
 然而，级联和逆之间没有关系，两者是完全不同的概念。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.相反的
+ ## 1.相反的
 
 这用于决定哪一方是管理关系的关系所有者(插入或更新外键列)。
 
@@ -39,7 +39,7 @@ session.update(stock);
 
 Hibernate 只会插入或更新股票表，不会更新外键列。[此处有更多详细示例……](http://web.archive.org/web/20190306163129/http://www.mkyong.com/hibernate/inverse-true-example-and-explanation/)
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.串联
+ ## 2.串联
 
 在 cascade 中，在一个操作(保存、更新和删除)完成后，它决定是否需要在另一个有关系实体上调用其他操作(保存、更新和删除)。
 

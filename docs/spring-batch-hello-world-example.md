@@ -57,7 +57,7 @@ Job = {Step 1 -> Step 2 -> Step 3} (Chained together)
 
 整个作业和步骤的执行都存储在数据库中，这使得失败的步骤能够从失败的地方重新开始，而不需要重新开始整个作业。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.辅导的
+ ## 1.辅导的
 
 在这个 Spring 批处理教程中，我们将向您展示如何创建作业、读取 CSV 文件、处理它、将输出写入 XML 文件。
 
@@ -71,7 +71,7 @@ Job = {Step 1 -> Step 2 -> Step 3} (Chained together)
 6.  春季 JDBC 3.2.2 .发布
 7.  春季批次 2.2.0 .发布
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.项目目录
+ ## 2.项目目录
 
 查看最终项目目录，这是一个标准的 Maven 项目。
 

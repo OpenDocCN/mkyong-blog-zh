@@ -39,7 +39,7 @@ final Palette<Hosting> palette = new Palette<Hosting>("palette",
 6.  Allow order–允许用户上下移动选择
 
 **Note**
-Pretty hard to understand, right? Never mind, read following complete Wicket Palette example. <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.Wicket 扩展
+Pretty hard to understand, right? Never mind, read following complete Wicket Palette example. ## 1.Wicket 扩展
 
 要使用"**调色板**，你需要"**wicket-extensions**jar。
 
@@ -61,7 +61,7 @@ Pretty hard to understand, right? Never mind, read following complete Wicket Pal
 </project> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.调色板的模型
+ ## 2.调色板的模型
 
 创建一个模型类，以表示选择框中的选择。
 

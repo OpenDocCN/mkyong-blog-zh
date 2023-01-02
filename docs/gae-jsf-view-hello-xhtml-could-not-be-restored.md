@@ -13,7 +13,7 @@
 
 在 GAE 当地发展没有问题。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 默认情况下，JSF 2 使用服务器进行会话管理，GAE 不支持(在 1.6.3 中测试)。要解决这个问题，更新 **web.xml** 文件，定义“`javax.faces.STATE_SAVING_METHOD`，把值设为“**客户端**”。
 
@@ -26,7 +26,7 @@
 	</context-param> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [用 JavaServer Faces 开发 Web 应用](http://web.archive.org/web/20190304031656/http://www.oracle.com/technetwork/articles/javase/javaserverfaces-135231.html)
 2.  [使用 JSF 2 和谷歌应用引擎](http://web.archive.org/web/20190304031656/http://java.dzone.com/news/jsf2-configuration-google-app)

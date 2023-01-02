@@ -30,13 +30,13 @@
 
 请参阅此“[何处下载三星 Galaxy S2 USB 驱动程序](http://web.archive.org/web/20190304000832/http://www.mkyong.com/android/where-to-download-samsung-galaxy-s2-usb-driver/)”指南，在您的电脑上安装 USB 驱动程序。
 
-![get samsung USB driver](img/64ea652dbc89ac895241823974bed2a1.png "android-samsung-USB-driver") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.启用 USB 调试
+![get samsung USB driver](img/64ea652dbc89ac895241823974bed2a1.png "android-samsung-USB-driver") ## 2.启用 USB 调试
 
 在您的设备中，要打开 USB 调试:“设置”->“应用程序”->“开发”->“USB 调试”。
 
 见下图:
 
-![enable usb debugging on Android](img/0ec96cb3d0bec62c546de9a0b6913669.png "android-usb-debugging") <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.将设备连接到 PC
+![enable usb debugging on Android](img/0ec96cb3d0bec62c546de9a0b6913669.png "android-usb-debugging") ## 3.将设备连接到 PC
 
 将三星 Galaxy S2 连接到 PC，并通过命令“`adb devices`”进行验证。
 

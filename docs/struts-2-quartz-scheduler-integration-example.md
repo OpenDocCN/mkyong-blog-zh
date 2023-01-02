@@ -56,7 +56,7 @@ Struts 2 没有附带任何现成的"`Struts2-Quartz.jar`"插件，黑客使用�
   ... 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.调度程序作业
+ ## 2.调度程序作业
 
 创建一个 Quartz 作业并打印出一行。
 
@@ -79,7 +79,7 @@ public class SchedulerJob implements Job {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.Servlet 监听器
+ ## 3.Servlet 监听器
 
 创建标准的 servlet 监听器类，以完成集成工作。它在`contextInitialized()`方法中调用 Quartz 调度程序框架。在 Servlet 容器初始化期间，这个`contextInitialized()`方法将被自动执行。
 

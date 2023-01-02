@@ -98,9 +98,9 @@ Spring Container is destroy! Customer clean up
 设置消息属性后，调用 afterPropertiesSet()方法。而 destroy()方法是在 context.close()之后调用的；
 
 **Thoughts…**
-I would not recommend to use InitializingBean and DisposableBean interface, because it will tight coupled your code to Spring. A better approach should be specifying the [init-method and destroy-method](http://web.archive.org/web/20190310101221/http://www.mkyong.com/spring/spring-init-method-and-destroy-method-example/) attributes in your bean configuration file. <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 下载源代码
+I would not recommend to use InitializingBean and DisposableBean interface, because it will tight coupled your code to Spring. A better approach should be specifying the [init-method and destroy-method](http://web.archive.org/web/20190310101221/http://www.mkyong.com/spring/spring-init-method-and-destroy-method-example/) attributes in your bean configuration file. ## 下载源代码
 
-Download It – [Spring-InitializingBean-DisposableBean-Example.zip](http://web.archive.org/web/20190310101221/http://www.mkyong.com/wp-content/uploads/2010/03/Spring-InitializingBean-DisposableBean-Example.zip) <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+Download It – [Spring-InitializingBean-DisposableBean-Example.zip](http://web.archive.org/web/20190310101221/http://www.mkyong.com/wp-content/uploads/2010/03/Spring-InitializingBean-DisposableBean-Example.zip) ## 参考
 
 1.  [初始化 Bean Javadoc](http://web.archive.org/web/20190310101221/http://static.springsource.org/spring/docs/2.5.x/api/org/springframework/beans/factory/InitializingBean.html)
 2.  [一次性 Bean Javadoc](http://web.archive.org/web/20190310101221/http://static.springsource.org/spring/docs/2.5.x/api/org/springframework/beans/factory/DisposableBean.html)

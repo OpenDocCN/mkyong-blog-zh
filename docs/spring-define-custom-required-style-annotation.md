@@ -22,7 +22,7 @@ public @interface Mandatory {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.将其应用于一个属性
+ ## 2.将其应用于一个属性
 
 ```java
  package com.mkyong.common;
@@ -41,7 +41,7 @@ public class Customer
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.注册它
+ ## 3.注册它
 
 在“RequiredAnnotationBeanPostProcessor”类中包含新的 **@Mandatory** 批注。
 

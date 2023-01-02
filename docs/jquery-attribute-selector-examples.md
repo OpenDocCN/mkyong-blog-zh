@@ -11,14 +11,14 @@
 **示例**
 $(' a[rel]')–选择与具有 rel 属性的< a >匹配的所有元素。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.属性值等于[A=B]
+ ## 2.属性值等于[A=B]
 
 选择 A 属性的值恰好等于 b 的所有元素。
 
 **示例**
 $(' a[rel = nofollow]')–选择与< a >匹配的所有元素，这些元素的 rel 属性值正好等于' no follow '。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.属性值不等于[A！=B]
+ ## 3.属性值不等于[A！=B]
 
 选择所有不具有值正好等于 b 的 A 属性的元素。
 

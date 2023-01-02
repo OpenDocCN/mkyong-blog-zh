@@ -49,12 +49,12 @@ Start : 2016-06-06
 End : 2016-07-05 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 参考
+ ## 参考
 
 1.  [维基百科–斋月(日历月)](http://web.archive.org/web/20190225092841/https://en.wikipedia.org/wiki/Ramadan_(calendar_month))
 2.  [HijrahDate JavaDoc](http://web.archive.org/web/20190225092841/https://docs.oracle.com/javase/8/docs/api/java/time/chrono/HijrahDate.html)
 
-[hijrah](http://web.archive.org/web/20190225092841/http://www.mkyong.com/tag/hijrah/) [java.time](http://web.archive.org/web/20190225092841/http://www.mkyong.com/tag/java-time/) [java8](http://web.archive.org/web/20190225092841/http://www.mkyong.com/tag/java8/) [ramadan](http://web.archive.org/web/20190225092841/http://www.mkyong.com/tag/ramadan/)</ins>![](img/7a5e1dfaf6e61d7e161b3e9306e88a49.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190225092841/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="14061">
+[hijrah](http://web.archive.org/web/20190225092841/http://www.mkyong.com/tag/hijrah/) [java.time](http://web.archive.org/web/20190225092841/http://www.mkyong.com/tag/java-time/) [java8](http://web.archive.org/web/20190225092841/http://www.mkyong.com/tag/java8/) [ramadan](http://web.archive.org/web/20190225092841/http://www.mkyong.com/tag/ramadan/)![](img/7a5e1dfaf6e61d7e161b3e9306e88a49.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190225092841/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="14061">
 
 
 

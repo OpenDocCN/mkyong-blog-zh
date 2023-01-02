@@ -47,7 +47,7 @@ public class HelloWorldImpl implements HelloWorld{
 	//... 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 服务端点接口没有用任何`@SOAPBinding`进行注释，因此，它使用默认的**文档样式**来发布它。为了便于阅读，您可以将其重写如下:
 
@@ -63,7 +63,7 @@ public interface HelloWorld{
 
 在文档风格中，您需要使用" **wsgen** "工具来为服务发布生成所有必要的 JAX-WS 可移植工件(映射类、wsdl 或 xsd 模式)。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## wsgen 命令
+ ## wsgen 命令
 
 读取服务端点实现类需要使用 **wsgen** 命令:
 

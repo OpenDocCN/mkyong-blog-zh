@@ -16,7 +16,7 @@ Download It – [Struts2-Key-Attribute-Example.zip](http://web.archive.org/web/2
  global.username = Username 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.案例 1
+ ## 2.案例 1
 
 如果您将一个“**键**属性分配给一个文本字段。key 属性将从资源包中获取消息，并基于**默认的 xhtml text.tfl 模板**呈现它。
 
@@ -50,7 +50,7 @@ Download It – [Struts2-Key-Attribute-Example.zip](http://web.archive.org/web/2
 
 key 属性将以**{左侧}** 作为文本框名称和 id；**{右侧}** 为标签值。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.案例 2
+ ## 3.案例 2
 
 在某些情况下，您可能需要为文本框显式声明一个不同的名称。
 

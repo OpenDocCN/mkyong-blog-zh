@@ -10,7 +10,7 @@ Download It – [Struts2-Radio-Button-Example.zip](http://web.archive.org/web/20
 
 这个例子展示了如何使用列表、OGNL 和对象向通过 Struts 2 <radio>标签创建的单选按钮填充数据。</radio>
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.行动
+ ## 1.行动
 
 为单选按钮创建性别和语言值列表的操作类。
 
@@ -93,7 +93,7 @@ public class Language{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.结果页面
+ ## 2.结果页面
 
 使用 Struts 2 " **s:radio** "通过列表、OGNL 和对象创建三个单选按钮的结果页。
 

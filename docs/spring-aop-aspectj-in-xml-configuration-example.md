@@ -66,7 +66,7 @@ XML 中的等效功能，用 **< aop:在>** 之前。
 </aop:config> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.AspectJ <after>= @After</after>
+ ## 2.AspectJ <after>= @After</after>
 
 AspectJ @After 示例。
 
@@ -109,7 +109,7 @@ XML 中的等效功能，用**<:AOP:在>** 之后。
 </aop:config> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.AspectJ <after-returning>= @AfterReturning</after-returning>
+ ## 3.AspectJ <after-returning>= @AfterReturning</after-returning>
 
 AspectJ @AfterReturning 示例。
 

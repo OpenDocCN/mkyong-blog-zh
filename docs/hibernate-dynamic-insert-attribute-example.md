@@ -6,9 +6,9 @@
 
 dynamic-insert 属性告诉 Hibernate 是否在 SQL INSERT 语句中包含空属性。让我们探讨一些例子来更清楚地了解它。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 动态插入示例
+ ## 动态插入示例
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 1.动态插入=假
+ ## 1.动态插入=假
 
 dynamic-insert 的默认值是 false，这意味着**在 Hibernate 的 SQL INSERT 语句中包含空属性**。
 

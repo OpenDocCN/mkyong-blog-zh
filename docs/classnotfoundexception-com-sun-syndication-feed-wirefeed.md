@@ -19,7 +19,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.syndication.feed.WireFeed
 	... 41 more 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 Spring MVC 使用"[罗马](http://web.archive.org/web/20190225093251/http://java.net/projects/rome/)"来生成 RSS 提要。对于 Maven，在`pom.xml`文件中包含下面的依赖关系。
 
@@ -31,7 +31,7 @@ Spring MVC 使用"[罗马](http://web.archive.org/web/20190225093251/http://java
 	</dependency> 
 ```
 
-[spring mvc](http://web.archive.org/web/20190225093251/http://www.mkyong.com/tag/spring-mvc/)</ins>![](img/969687f39547cd47c77ce11e3527f5d5.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190225093251/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="9741">
+[spring mvc](http://web.archive.org/web/20190225093251/http://www.mkyong.com/tag/spring-mvc/)![](img/969687f39547cd47c77ce11e3527f5d5.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190225093251/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="9741">
 
 
 

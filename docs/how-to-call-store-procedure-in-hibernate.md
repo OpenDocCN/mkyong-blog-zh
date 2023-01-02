@@ -25,11 +25,11 @@ DELIMITER ;
  CALL GetStocks('7277'); 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 休眠调用存储过程
+ ## 休眠调用存储过程
 
 在 Hibernate 中，有三种方法可以调用数据库存储过程。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 1.原生 SQL–createsql query
+ ## 1.原生 SQL–createsql query
 
 可以使用 **createSQLQuery()** 直接调用存储过程。
 

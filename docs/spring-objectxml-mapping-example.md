@@ -63,7 +63,7 @@ Spring’s oxm itself doesn’t handle the XML marshalling or UnMarshalling, it 
 	</dependencies> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.简单对象
+ ## 2.简单对象
 
 一个简单的对象，后来把它转换成 XML 文件。
 
@@ -81,7 +81,7 @@ public class Customer {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.编组器和解组器
+ ## 3.编组器和解组器
 
 这个类将通过 Spring 的 oxm 接口:`Marshaller`和`Unmarshaller`处理转换。
 

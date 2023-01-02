@@ -73,11 +73,11 @@ The `RelativeLayout` is very flexible, but hard to master it. Suggest you use Ec
 </RelativeLayout> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.演示
+ ## 2.演示
 
 请参见结果，上面的 XML 代码将生成以下输出。
 
-![android relativelayout demo](img/88b22dd990af248ae6e57dcd1bf2eb97.png "android-relative-layout-demo") <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 下载源代码
+![android relativelayout demo](img/88b22dd990af248ae6e57dcd1bf2eb97.png "android-relative-layout-demo") ## 下载源代码
 
 Download it – [Android-RelativeLayout-Example.zip](http://web.archive.org/web/20190309055103/http://www.mkyong.com/wp-content/uploads/2011/12/Android-RelativeLayout-Example.zip) (15 KB)
 

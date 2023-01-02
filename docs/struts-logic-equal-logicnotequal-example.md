@@ -68,7 +68,7 @@ public class LogicExampleAction extends Action{
 
 Struts -测试<equal></equal>
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 用户的电子邮件是平等的</ins> 
+ ## 用户的电子邮件是平等的 
 
  ## Struts -测试<notequal></notequal>
 

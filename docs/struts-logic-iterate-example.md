@@ -55,7 +55,7 @@ public class PrintMsgAction extends Action{
 </html> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.遍历列表数组(对象)
+ ## 2.遍历列表数组(对象)
 
 创建一个包含少量“用户”对象的普通列表，并将其存储到`HttpServletRequest`中，命名为“**列表用户**”。
 
@@ -114,7 +114,7 @@ public class PrintMsgAction extends Action{
 </html> 
 ```
 
-![struts-logic-iterate-example](img/a59c123f2b3de245131dbb2a149ad600.png "struts-logic-iterate-example") <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 下载源代码
+![struts-logic-iterate-example](img/a59c123f2b3de245131dbb2a149ad600.png "struts-logic-iterate-example") ## 下载源代码
 
 Download it – [Struts-logic-Iterate-example.zip](http://web.archive.org/web/20190223082036/http://www.mkyong.com/wp-content/uploads/2010/04/Struts-logic-Iterate-example.zip)[struts](http://web.archive.org/web/20190223082036/http://www.mkyong.com/tag/struts/)
 

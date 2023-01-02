@@ -37,12 +37,7 @@ public class LoginExampleServlet extends HttpServlet {
 
 		resp.setContentType("text/html");
 		resp.getWriter().println("<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-format="fluid"
-     data-ad-layout="in-article"
-     data-ad-client="ca-pub-2836379775501347"
-     data-ad-slot="6894224149"></ins>
+
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script><h2>GAE - Integrating Google user account</h2>");
@@ -73,7 +68,7 @@ Both login or logout page are handle by GAE automatically, but the workflow is d
 1.  在本地运行-它将模拟谷歌帐户登录页面(无密码认证)。
 2.  在 GAE 上运行-它将重定向到实际的谷歌帐户登录屏幕。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.在本地运行
+ ## 2.在本地运行
 
 右键单击项目并作为“Web 应用程序”运行。默认情况下，它在 post 8888 上运行。
 
@@ -118,7 +113,7 @@ Download it – [GAE-UserService-LoginExample.zip](http://web.archive.org/web/20
 3.  GAE 用户服务 JavaDoc
 4.  [GAE Java hello world 示例](http://web.archive.org/web/20190226114540/http://www.mkyong.com/google-app-engine/google-app-engine-hello-world-example-using-eclipse/)
 
-[gae](http://web.archive.org/web/20190226114540/http://www.mkyong.com/tag/gae/) [java](http://web.archive.org/web/20190226114540/http://www.mkyong.com/tag/java/)</ins>![](img/3665e87f91bee74f2d77c92e4beaf83b.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190226114540/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="10821">
+[gae](http://web.archive.org/web/20190226114540/http://www.mkyong.com/tag/gae/) [java](http://web.archive.org/web/20190226114540/http://www.mkyong.com/tag/java/)![](img/3665e87f91bee74f2d77c92e4beaf83b.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190226114540/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="10821">
 
 
 

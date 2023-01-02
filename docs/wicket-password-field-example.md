@@ -111,7 +111,7 @@ label {
 </html> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.包.属性
+ ## 2.包.属性
 
 将 string 放在一个“ **package.properties** 中，这样它就可以在其他页面之间共享。
 
@@ -124,7 +124,7 @@ password.PatternValidator = ${label} should contains at least 1 digit, ... (omit
 cpassword.EqualPasswordInputValidator = "${label} did not match!" 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.演示
+ ## 3.演示
 
 开始并访问—*http://localhost:8080/wicket examples/*
 

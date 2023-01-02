@@ -52,7 +52,7 @@ public class StrongPasswordValidator implements IValidator<String>{
 
 参见下面的 Wicket 示例，创建一个定制的密码验证器，并在密码与预定义的模式不匹配时显示一条错误消息。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.StrongPasswordValidator
+ ## 1.StrongPasswordValidator
 
 自定义密码验证程序。
 
@@ -106,7 +106,7 @@ public class StrongPasswordValidator implements IValidator<String> {
  StrongPasswordValidator.not-strong-password = Password required at least ... (omitted) 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.附加到组件
+ ## 2.附加到组件
 
 将上述自定义验证程序附加到密码字段。
 

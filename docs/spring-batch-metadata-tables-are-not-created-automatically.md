@@ -52,7 +52,7 @@ spring-config.xml
 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411) 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 元表的脚本存储在`spring-batch.jar`中，您需要手动创建它。
 
@@ -91,7 +91,7 @@ spring-config.xml
 
 再次运行 Spring 批处理作业，这些元表将被自动创建。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [Spring 批处理–元数据模式](http://web.archive.org/web/20190226173225/http://static.springsource.org/spring-batch/reference/html/metaDataSchema.html)
 

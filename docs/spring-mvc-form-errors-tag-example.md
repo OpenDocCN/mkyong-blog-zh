@@ -20,7 +20,7 @@ public class TextBoxValidator implements Validator{
 /*** required.username = username is required! ***/ 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.显示字段错误
+ ## 2.显示字段错误
 
 然后，您可以使用 **<表单:errors / >** 来呈现与“**用户名**字段相关联的错误消息。
 
@@ -39,7 +39,7 @@ public class TextBoxValidator implements Validator{
 1.  path = " * "–显示与任何字段相关的所有错误消息。
 2.  path = " username "–仅显示与“username”字段相关的错误消息。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.自定义输出元素
+ ## 3.自定义输出元素
 
 出于某些原因，比如 CSS 格式化的目的，您可能需要用不同的元素来包含错误消息，而不是默认的“ **span** 标签。为此，只需在“**元素**属性中指定 prefer 元素:
 

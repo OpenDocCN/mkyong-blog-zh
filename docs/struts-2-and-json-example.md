@@ -25,7 +25,7 @@ POM . XML
     </dependency> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.行动(JSON)
+ ## 2.行动(JSON)
 
 这是一个将被转换成 JSON 格式的动作类。
 
@@ -120,7 +120,7 @@ public class JSONDataAction{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.struts.xml
+ ## 3.struts.xml
 
 要输出 JSON 数据，需要声明一个扩展了“ **json-default** ”的包，结果类型为“ **json** ”。
 

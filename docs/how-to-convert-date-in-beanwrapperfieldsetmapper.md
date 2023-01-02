@@ -69,7 +69,7 @@ public class DomainRanking {
 	no matching editors or conversion strategy found 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 参考[BeanWrapperFieldSetMapper JavaDoc](http://web.archive.org/web/20190210094907/http://static.springsource.org/spring-batch/apidocs/org/springframework/batch/item/file/mapping/BeanWrapperFieldSetMapper.html):
 
@@ -139,7 +139,7 @@ Do not injects the `CustomDateEditor` via `CustomEditorConfigurer` (globally), i
     </bean> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [BeanWrapperFieldSetMapper JavaDoc](http://web.archive.org/web/20190210094907/http://static.springsource.org/spring-batch/apidocs/org/springframework/batch/item/file/mapping/BeanWrapperFieldSetMapper.html)
 2.  [BeanWrapperFieldSetMapper 不适用于日期](http://web.archive.org/web/20190210094907/http://forum.springsource.org/showthread.php?68551-BeanWrapperFieldSetMapper-not-working-for-Dates)

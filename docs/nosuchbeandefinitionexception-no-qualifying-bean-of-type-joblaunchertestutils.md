@@ -49,7 +49,7 @@ Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired
 	... 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 将`spring-batch-test.jar`添加到类路径中不会自动创建`JobLauncherTestUtils` bean。
 
@@ -92,7 +92,7 @@ public class AppTest {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [Spring 批处理单元测试示例–jUnit 和 TestNG](http://web.archive.org/web/20190223065023/http://www.mkyong.com/spring-batch/spring-batch-unit-test-example/)
 2.  [春季批量单元测试官方指南](http://web.archive.org/web/20190223065023/http://static.springsource.org/spring-batch/reference/html/testing.html)

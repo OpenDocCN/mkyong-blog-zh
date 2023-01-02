@@ -27,7 +27,7 @@ If not using JSP or the EL RI, make sure the context initialization parameter,
 com.sun.faces.expressionFactory, is properly set. 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 不太确定它的根本原因，但解决方案是包含 **el-ri.jar** 库
 
@@ -42,7 +42,7 @@ com.sun.faces.expressionFactory, is properly set.
 这个 el-ri.jar 在默认的 [Maven 中央存储库](http://web.archive.org/web/20190228163124/http://repo1.maven.org/maven2/)中可用。
 
 **Note**
-The [JSF 2.0 released note](http://web.archive.org/web/20190228163124/https://javaserverfaces.dev.java.net/nonav/rlnotes/2.0.0/releasenotes.html) didn’t mention about this **el-ri.jar** dependency library, that’s weird. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 更新日期:2010 年 10 月 21 日
+The [JSF 2.0 released note](http://web.archive.org/web/20190228163124/https://javaserverfaces.dev.java.net/nonav/rlnotes/2.0.0/releasenotes.html) didn’t mention about this **el-ri.jar** dependency library, that’s weird. ## 更新日期:2010 年 10 月 21 日
 
 这个“el-ri.jar”太旧了，建议使用最新的“el-impl-2.2.jar”，来自[Java.net](http://web.archive.org/web/20190228163124/http://download.java.net/maven/2/org/glassfish/web/el-impl/2.2/el-impl-2.2.pom)
 

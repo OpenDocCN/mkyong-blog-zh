@@ -78,7 +78,7 @@ public class MergeTagAction extends ActionSupport{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.附加标签示例
+ ## 2.附加标签示例
 
 一个 JSP 页面，展示了如何使用 **merge** 标签将 3 ArrayList/3 HashMap/1 ArrayList+1 HashMap 组合成一个迭代器，并循环遍历其值并打印出来。
 
@@ -132,7 +132,7 @@ public class MergeTagAction extends ActionSupport{
 </html> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.struts.xml
+ ## 3.struts.xml
 
 链接一下~
 

@@ -26,7 +26,7 @@ private static SessionFactory buildSessionFactory() {
 
 代码还在工作，只是一直显示不推荐使用的警告信息，`AnnotationConfiguration`有没有替换？
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 在 Hibernate 3.6 中，“`org.hibernate.cfg.AnnotationConfiguration`”已被弃用，其所有功能已被移至“`org.hibernate.cfg.Configuration`”。
 
@@ -50,7 +50,7 @@ private static SessionFactory buildSessionFactory() {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [http://docs . JBoss . org/hibernate/core/3.6/javadocs/org/hibernate/CFG/annotation configuration . html](http://web.archive.org/web/20190223085746/http://docs.jboss.org/hibernate/core/3.6/javadocs/org/hibernate/cfg/AnnotationConfiguration.html)
 2.  [http://docs . JBoss . org/hibernate/core/3.6/javadocs/org/hibernate/CFG/configuration . html](http://web.archive.org/web/20190223085746/http://docs.jboss.org/hibernate/core/3.6/javadocs/org/hibernate/cfg/Configuration.html)

@@ -29,11 +29,11 @@ List result = query.list();
 
 或者，您也可以使用**命名查询**来调用您的本地 SQL 语句。这里的见 [Hibernate 命名查询示例。](http://web.archive.org/web/20190309024532/http://www.mkyong.com/hibernate/hibernate-named-query-examples/)
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## Hibernate 生成的 SQL 语句很慢！？
+ ## Hibernate 生成的 SQL 语句很慢！？
 
 我不同意“Hibernate 生成的 SQL 语句很慢”的说法。很多时候，我发现这是因为开发人员没有很好地理解表关系，并且做了一些错误的表映射或者误用了获取策略。这将导致 Hibernate 生成一些不必要的 SQL 语句或加入一些不必要的表…而开发人员喜欢以此为借口，创建自己的 SQL 语句来快速修复 bug，而没有意识到核心问题将导致更多的 bug 等待。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 结论
+ ## 结论
 
 我承认有时候原生 SQL 语句确实比 HQL 更方便、更容易，但是，请仔细想想为什么需要原生 SQL 语句？这真的是冬眠做不到吗？如果是，那就去吧~
 

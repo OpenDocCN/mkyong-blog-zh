@@ -70,7 +70,7 @@ Depart : 2016-08-22T14:30+08:00[Asia/Kuala_Lumpur]
 Arrive : 2016-08-22T22:30+09:00[Asia/Tokyo] 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.法国，巴黎-> -05:00
+ ## 2.法国，巴黎-> -05:00
 
 另一个时区示例是从法国巴黎(UTC+02:00，DST)到硬编码(UTC-05:00)时区(如纽约)
 
@@ -137,7 +137,7 @@ Arrive : 2016-08-22T15:40-05:00
 ```
 
 **Daylight Saving Time (DST)**
-Paris, normally UTC+1 has DST (add one hour = UTC+2) from 27/mar to 30/Oct, 2016\. Review the above output, the `java.time` is able to calculate and handle the DST correctly. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+Paris, normally UTC+1 has DST (add one hour = UTC+2) from 27/mar to 30/Oct, 2016\. Review the above output, the `java.time` is able to calculate and handle the DST correctly. ## 参考
 
 1.  [维基百科–夏令时](http://web.archive.org/web/20190210022143/https://en.wikipedia.org/wiki/Daylight_saving_time)
 2.  [DateTimeFormatter JavaDoc](http://web.archive.org/web/20190210022143/https://docs.oracle.com/javase/8/docs/api/java/time/format/DateTimeFormatter.html)

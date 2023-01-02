@@ -24,7 +24,7 @@ Try this [Spring 4 MVC hello world example – Annotation](http://web.archive.or
 
 没有像`web.xml`这样的 XML 文件或任何其他 Spring XML 配置文件。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.专家
+ ## 2.专家
 
 2.1 一个`pom.xml`模板快速启动一个 Spring MVC 项目。为了编译这个项目，我们需要添加一个`servlet-api`依赖项。
 
@@ -126,7 +126,7 @@ Terminal
  $ mvn eclipse:eclipse 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.弹簧控制器
+ ## 3.弹簧控制器
 
 HelloController.java
 

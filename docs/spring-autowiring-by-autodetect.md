@@ -49,7 +49,7 @@ public class Panda {
 Person [kungfu=Language [name=Shao lin]] 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.自动检测–按类型
+ ## 2.自动检测–按类型
 
 如果没有找到默认构造函数，自动检测将按类型选择焊线。
 
@@ -79,7 +79,7 @@ public class Panda {
 Person [kungfu=Language [name=Shao lin]] 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 下载源代码
+ ## 下载源代码
 
 Download it – [Spring-AutoWiring-by-Auto-Detect-Example.zip](http://web.archive.org/web/20190308062331/http://www.mkyong.com/wp-content/uploads/2011/06/Spring-AutoWiring-by-Auto-Detect-Example.zip) (6 KB)
 

@@ -60,7 +60,7 @@ Please visit this [Quartz 2 scheduler example](http://web.archive.org/web/201902
 	</dependency> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.Quartz 调度程序作业
+ ## 2.Quartz 调度程序作业
 
 创建一个 Quartz 作业来打印消息。
 
@@ -84,7 +84,7 @@ public class SchedulerJob implements Job
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.Struts 插件
+ ## 3.Struts 插件
 
 创建一个简单的 Struts 插件并集成 Quartz 框架。在这个插件中，在 Struts 初始化期间，`init()`方法将被调用，并每 5 秒启动一次 Quartz 调度程序作业。
 

@@ -167,12 +167,7 @@ pages/error/generic_error.jsp.jsp
 
 	<c:if test="${not empty exception.errMsg}">
 		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-format="fluid"
-     data-ad-layout="in-article"
-     data-ad-client="ca-pub-2836379775501347"
-     data-ad-slot="6894224149"></ins>
+
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script><h2>${exception.errMsg}</h2>
@@ -184,7 +179,7 @@ pages/error/generic_error.jsp.jsp
 
 演示-*http://localhost:8080/spring MVC example/customer*
 
-![spring-mvc-exception-handle-1](img/297aa90bee00ea77188dd34157b5778e.png)Download it – [SpringMvc-SimpleMappingExceptionResolver-Example.zip](http://web.archive.org/web/20190225100332/http://www.mkyong.com/wp-content/uploads/2010/08/SpringMvc-SimpleMappingExceptionResolver-Example.zip) (13KB) <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.@ExceptionHandler 示例
+![spring-mvc-exception-handle-1](img/297aa90bee00ea77188dd34157b5778e.png)Download it – [SpringMvc-SimpleMappingExceptionResolver-Example.zip](http://web.archive.org/web/20190225100332/http://www.mkyong.com/wp-content/uploads/2010/08/SpringMvc-SimpleMappingExceptionResolver-Example.zip) (13KB) ## 2.@ExceptionHandler 示例
 
 从 Spring 3.0 开始，有了一个新的注释`@ExceptionHandler`来简化 XML 配置。下面是使用`@ExceptionHandler`的等效版本。
 
@@ -273,7 +268,7 @@ You may interest at this [Spring MVC @ExceptionHandler Example](http://web.archi
 2.  [@ExceptionHandler JavaDoc](http://web.archive.org/web/20190225100332/http://docs.spring.io/spring/docs/3.0.x/javadoc-api/org/springframework/web/bind/annotation/ExceptionHandler.html)
 3.  [Spring MVC @ExceptionHandler 示例](http://web.archive.org/web/20190225100332/http://www.mkyong.com/spring-mvc/spring-mvc-exceptionhandler-example/)
 
-[exception handler](http://web.archive.org/web/20190225100332/http://www.mkyong.com/tag/exception-handler/) [spring mvc](http://web.archive.org/web/20190225100332/http://www.mkyong.com/tag/spring-mvc/)</ins>![](img/14744f542bd183abc570967fe0ec2aa5.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190225100332/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="6569">
+[exception handler](http://web.archive.org/web/20190225100332/http://www.mkyong.com/tag/exception-handler/) [spring mvc](http://web.archive.org/web/20190225100332/http://www.mkyong.com/tag/spring-mvc/)![](img/14744f542bd183abc570967fe0ec2aa5.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190225100332/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="6569">
 
 
 

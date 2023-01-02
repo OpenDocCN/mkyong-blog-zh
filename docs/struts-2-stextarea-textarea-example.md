@@ -20,7 +20,7 @@ Download It – [Struts2-TextArea–Example.zip](http://web.archive.org/web/2019
 
 一个页面包含一个地址文本区字段，并在表单提交后显示文本区值。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.行动
+ ## 1.行动
 
 **TextAreaAction.java**
 
@@ -48,7 +48,7 @@ public class TextAreaAction extends ActionSupport{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.查看页面
+ ## 2.查看页面
 
 Struts 2 " **s:textarea** "标记来创建一个 textarea 字段。
 

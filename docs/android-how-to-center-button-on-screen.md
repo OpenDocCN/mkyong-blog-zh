@@ -35,7 +35,7 @@ android:layout_centerHorizontal="true"
 </RelativeLayout> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.活动
+ ## 2.活动
 
 简单的活动类，什么也不做，只显示上面的布局文件。
 
@@ -55,7 +55,7 @@ public class HelloWorldActivity extends Activity {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.演示
+ ## 3.演示
 
 启动它，并查看输出:
 

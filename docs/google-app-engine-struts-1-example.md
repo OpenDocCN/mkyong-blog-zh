@@ -24,7 +24,7 @@ You may also interest at this [Google App Engine + Struts 2 example](http://web.
 
 Google Plugin for Eclipse 将生成一个样本 GAE 项目结构。稍后将把 Struts 1 集成到这个 GAE 结构中。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.集成 Struts 1.x 库
+ ## 2.集成 Struts 1.x 库
 
 访问此链接[下载 Struts 1.x](http://web.archive.org/web/20190304032322/http://struts.apache.org/download.cgi#struts1310) 。需要以下罐子:
 
@@ -44,7 +44,7 @@ Google Plugin for Eclipse 将生成一个样本 GAE 项目结构。稍后将把 
 
 右击项目文件夹，选择**属性**。选择" **Java 构建路径** " - > " **库**"选项卡，点击"**添加 Jars** "按钮，从" **war/WEB-INF/lib** "文件夹中选择上面 9 个 Jars 进入构建路径。
 
-![struts1 on gae example java build](img/f582cd101d09499f2fd1ff164b483243.png "gae-struts1-example3-java-build") <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.集成 Struts 1.x 动作和表单
+![struts1 on gae example java build](img/f582cd101d09499f2fd1ff164b483243.png "gae-struts1-example3-java-build") ## 3.集成 Struts 1.x 动作和表单
 
 3.1 删除`StrutsGoogleAppEngineServlet.java`，你不需要这个。
 

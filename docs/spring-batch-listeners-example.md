@@ -99,7 +99,7 @@ public class CustomItemWriterListener implements ItemWriteListener<Domain> {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.批处理作业
+ ## 2.批处理作业
 
 一个批处理作业，附加在三个侦听器上。
 
@@ -151,7 +151,7 @@ ItemWriteListener - afterWrite
 StepExecutionListener - afterStep 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 下载源代码
+ ## 下载源代码
 
 Download it – [SpringBatch-Listener-Example.zip](http://web.archive.org/web/20190223085316/http://www.mkyong.com/wp-content/uploads/2013/07/SpringBatch-Listener-Example.zip) (14 KB)
 

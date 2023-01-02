@@ -26,12 +26,12 @@
 *   单元测试——什么是嘲讽？为什么呢？
 *   [JUnit 4 与 TestNG–比较(已弃用)](http://web.archive.org/web/20190224161623/http://www.mkyong.com/unittest/junit-4-vs-testng-comparison/)
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 参考
+ ## 参考
 
 1.  [JUnit 官方网站](http://web.archive.org/web/20190224161623/http://junit.org/junit4/)
 2.  [维基百科–JUnit](http://web.archive.org/web/20190224161623/https://en.wikipedia.org/wiki/JUnit)
 
-[junit](http://web.archive.org/web/20190224161623/http://www.mkyong.com/tag/junit/) [tutorials](http://web.archive.org/web/20190224161623/http://www.mkyong.com/tag/tutorials/) [unit test](http://web.archive.org/web/20190224161623/http://www.mkyong.com/tag/unit-test/)</ins>![](img/a56d150f426db71c92dd065ef79d035e.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190224161623/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="4316">
+[junit](http://web.archive.org/web/20190224161623/http://www.mkyong.com/tag/junit/) [tutorials](http://web.archive.org/web/20190224161623/http://www.mkyong.com/tag/tutorials/) [unit test](http://web.archive.org/web/20190224161623/http://www.mkyong.com/tag/unit-test/)![](img/a56d150f426db71c92dd065ef79d035e.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190224161623/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="4316">
 
 
 

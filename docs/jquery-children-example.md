@@ -36,7 +36,7 @@
 
 A2 和 A3 孩子将被忽略。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.$('.A1 ')。孩子(’。孩子’)
+ ## 2.$('.A1 ')。孩子(’。孩子’)
 
 ```java
  $('.A1').children('.child').css('background','red'); 
@@ -44,7 +44,7 @@ A2 和 A3 孩子将被忽略。
 
 匹配包含类名“ **A1** ”的元素，并搜索包含类名“child”的“ **A1** ”子元素。在本例中，**除了类名为“孤儿”的孩子外，所有 A1 的“单级孩子”都将被选择**。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## jQuery children()示例
+ ## jQuery children()示例
 
 ```java
  <html>

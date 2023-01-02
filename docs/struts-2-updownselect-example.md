@@ -67,7 +67,7 @@ StrutsUtils.addEventListener(containingForm, "submit",
 
 **< s:updownselect >** 标签的完整示例，展示了如何使用 OGNL 和 Java 列表将数据填充到 updown 选择列表中。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.动作类
+ ## 1.动作类
 
 操作类来生成和存储选择选项。
 
@@ -135,7 +135,7 @@ public class UpDownSelectAction extends ActionSupport{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.结果页面
+ ## 2.结果页面
 
 通过“ **< s:updownselect >** ”标签渲染 updown select 组件。
 

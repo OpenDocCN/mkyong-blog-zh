@@ -38,13 +38,13 @@ import org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletCon
     } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 参考
+ ## 参考
 
 1.  [Spring 文件上传和连接重置问题](http://web.archive.org/web/20190309055300/http://www.mkyong.com/spring/spring-file-upload-and-connection-reset-issue/)
 2.  [常用应用属性](http://web.archive.org/web/20190309055300/http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#common-application-properties)
 3.  [Spring Boot 文件上传错误处理(Japanase)](http://web.archive.org/web/20190309055300/https://www.agilegroup.co.jp/technote/springboot-fileupload-error-handling.html)
 
-[connection reset](http://web.archive.org/web/20190309055300/http://www.mkyong.com/tag/connection-reset/) [file upload](http://web.archive.org/web/20190309055300/http://www.mkyong.com/tag/file-upload/) [spring boot](http://web.archive.org/web/20190309055300/http://www.mkyong.com/tag/spring-boot/) [tomcat](http://web.archive.org/web/20190309055300/http://www.mkyong.com/tag/tomcat/)</ins>![](img/0efdae9172393ecbeacc09e2ce45232b.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190309055300/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="14377">
+[connection reset](http://web.archive.org/web/20190309055300/http://www.mkyong.com/tag/connection-reset/) [file upload](http://web.archive.org/web/20190309055300/http://www.mkyong.com/tag/file-upload/) [spring boot](http://web.archive.org/web/20190309055300/http://www.mkyong.com/tag/spring-boot/) [tomcat](http://web.archive.org/web/20190309055300/http://www.mkyong.com/tag/tomcat/)![](img/0efdae9172393ecbeacc09e2ce45232b.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190309055300/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="14377">
 
 
 

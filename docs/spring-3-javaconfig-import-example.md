@@ -35,11 +35,11 @@ public class AppConfig {
 
 查看使用 JavaConfig **@Import** 的完整示例。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.目录结构
+ ## 1.目录结构
 
 这个例子的目录结构。
 
-![directory structure of this example](img/75dc53702eaa717c9d626df5c045bc67.png "spring-javaconfig-import") <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.春豆
+![directory structure of this example](img/75dc53702eaa717c9d626df5c045bc67.png "spring-javaconfig-import") ## 2.春豆
 
 两个简单的春豆。
 

@@ -80,7 +80,7 @@ djConfig.searchIds.push("resultAction_yourLuckyNumber");</script>
 
 一个完整的 **< s:autocompleter >** 标签的例子，当用户在相应的文本框中输入时，生成下拉建议列表。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.pom.xml
+ ## 1.pom.xml
 
 下载 Struts 2 dojo 依赖库。
 
@@ -104,7 +104,7 @@ djConfig.searchIds.push("resultAction_yourLuckyNumber");</script>
 //... 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.动作类
+ ## 2.动作类
 
 Action 类来为" **autocompleter** "组件生成 web 框架选项列表。
 

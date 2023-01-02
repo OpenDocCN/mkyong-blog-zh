@@ -37,7 +37,7 @@
 
 在哪里应用这个 **mousemove()** 事件？知道的请建议一些:)
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 你自己试试
+ ## 你自己试试
 
 ```java
  <html>
@@ -82,7 +82,7 @@ $('#bigbigbox').mousemove(function(event) {
 
 [http://web.archive.org/web/20190210095225if_/http://www.mkyong.com/wp-content/uploads/jQuery/jQuery-mousemove-example.html](http://web.archive.org/web/20190210095225if_/http://www.mkyong.com/wp-content/uploads/jQuery/jQuery-mousemove-example.html)
 
-[Try Demo](http://web.archive.org/web/20190210095225/http://www.mkyong.com/wp-content/uploads/jQuery/jQuery-mousemove-example.html)[jquery](http://web.archive.org/web/20190210095225/http://www.mkyong.com/tag/jquery/) [mouse movement](http://web.archive.org/web/20190210095225/http://www.mkyong.com/tag/mouse-movement/)</ins>![](img/8a57b84c448622984b007e53eb27c530.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190210095225/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="5207">
+[Try Demo](http://web.archive.org/web/20190210095225/http://www.mkyong.com/wp-content/uploads/jQuery/jQuery-mousemove-example.html)[jquery](http://web.archive.org/web/20190210095225/http://www.mkyong.com/tag/jquery/) [mouse movement](http://web.archive.org/web/20190210095225/http://www.mkyong.com/tag/mouse-movement/)![](img/8a57b84c448622984b007e53eb27c530.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190210095225/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="5207">
 
 
 

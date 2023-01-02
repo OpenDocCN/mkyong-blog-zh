@@ -54,7 +54,7 @@
 3.  用 Map 生成值，并将其放入“**f:selecti items**标签中。
 4.  用一个对象数组生成值，放入“ **f:selectItems** ”标签，然后用“ **var** 属性表示值。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.支撑豆
+ ## 1.支撑豆
 
 用于保存提交的复选框值的后备 bean。
 
@@ -161,7 +161,7 @@ public class UserBean{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.JSF·佩奇
+ ## 2.JSF·佩奇
 
 一个 JSF 页面，演示了“ **h:selectBooleanCheckbox** ”和“ **h:selectManyCheckbox** ”标签的使用。
 

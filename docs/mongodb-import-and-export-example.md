@@ -67,7 +67,7 @@ total 2144
 ```
 
 **Note**
-With `mongoexport`, all exported documents will be in json format. <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.使用 mongoimport 恢复数据库
+With `mongoexport`, all exported documents will be in json format. ## 2.使用 mongoimport 恢复数据库
 
 几个例子向你展示如何使用`mongoimport`来恢复数据库。
 
@@ -115,7 +115,7 @@ connected to: id.mongolab.com:47307
 Wed Apr 10 13:26:12 imported 10903 objects 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [MongoDB 官方文档-导入导出 MongoDB 数据](http://web.archive.org/web/20190304032805/http://docs.mongodb.org/manual/core/import-export/)
 

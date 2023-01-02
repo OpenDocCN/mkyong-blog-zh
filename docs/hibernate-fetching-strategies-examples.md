@@ -15,7 +15,7 @@ Hibernate 几乎没有抓取策略来优化 Hibernate 生成的 select 语句，
 
 关于详细的解释，你可以查看 [Hibernate 文档](http://web.archive.org/web/20190305234631/https://www.hibernate.org/315.html)。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 获取策略示例
+ ## 获取策略示例
 
 这里有一个“一对多关系”的例子来演示获取策略。一只股票是属于许多股票的日常记录。
 
@@ -57,7 +57,7 @@ public class Stock implements Serializable{
 
 让我们探讨一下获取策略如何影响 Hibernate 生成的 SQL 语句。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 1.fetch="select "或@Fetch(FetchMode。选择)
+ ## 1.fetch="select "或@Fetch(FetchMode。选择)
 
 这是默认的获取策略。它支持所有相关集合的延迟加载。让我们看看这个例子…
 

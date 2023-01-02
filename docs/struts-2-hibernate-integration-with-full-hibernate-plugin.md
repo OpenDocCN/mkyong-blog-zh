@@ -25,7 +25,7 @@ This tutorial is an update version from the previous [Struts 2 + Hibernate integ
 
 查看完整的项目文件夹结构。
 
-![Struts 2 Hibernate plugin folder structure](img/625b620df120444802941fb531856a27.png "Struts2-Full-Hibernate-Plugin-Folder") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.MySQL 表脚本
+![Struts 2 Hibernate plugin folder structure](img/625b620df120444802941fb531856a27.png "Struts2-Full-Hibernate-Plugin-Folder") ## 2.MySQL 表脚本
 
 客户的表脚本。
 
@@ -40,7 +40,7 @@ CREATE TABLE  `mkyong`.`customer` (
 ) ENGINE=InnoDB AUTO_INCREMENT=17 DEFAULT CHARSET=utf8; 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.获取“完整的 Hibernate 插件”和依赖项
+ ## 3.获取“完整的 Hibernate 插件”和依赖项
 
 获取所有 Struts2、Hibernate、 **Full Hibernate 插件**和 MySQL 依赖库。由于“**全 Hibernate 插件**”不支持 Maven，您需要从官网下载并手动包含到您的 Maven 本地库。
 

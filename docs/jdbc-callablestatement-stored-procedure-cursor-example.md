@@ -33,7 +33,7 @@ while (rs.next()) {
 
 关于输出**光标**参数，参见完整的 JDBC `CallableStatement`示例。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.存储过程
+ ## 1.存储过程
 
 一个 Oracle 存储过程，有一个 IN 和一个 OUT 游标参数。后来，称之为经 JDBC。
 
@@ -51,7 +51,7 @@ END;
 / 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.通过 CallableStatement 调用存储过程
+ ## 2.通过 CallableStatement 调用存储过程
 
 JDBC 示例调用上述存储过程，将返回的**光标**转换为**结果集**，并按顺序遍历记录。
 

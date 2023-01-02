@@ -50,7 +50,7 @@ HelloGuestController -> /helloguest*
 4.  /hello guest 12345 . htm –> hello guest controller。
 5.  /helloGuest.htm，无法映射**/hello guest ***,“g”大小写不匹配。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.区分大小写
+ ## 2.区分大小写
 
 为了解决上述区分大小写的问题，声明了“ **caseSensitive** ”属性并将其设置为 true。
 
@@ -78,7 +78,7 @@ HelloGuestController -> /helloGuest*
 1.  /hello guest . htm –> hello guest controller。
 2.  /helloguest.htm，未能映射“/hello guest *”,“G”大小写不匹配。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3\. pathPrefix
+ ## 3\. pathPrefix
 
 此外，您可以指定一个前缀来映射请求的 URL，声明一个“ **pathPrefix** 属性。
 

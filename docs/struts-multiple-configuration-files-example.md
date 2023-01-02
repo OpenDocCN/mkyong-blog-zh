@@ -12,7 +12,7 @@
 
 这是用于演示的示例项目结构。
 
-![Struts-mutiple-configuration-file](img/e5da80ed075957e4164a81bb2f1c4af2.png "Struts-mutiple-configuration-file") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.单一模块
+![Struts-mutiple-configuration-file](img/e5da80ed075957e4164a81bb2f1c4af2.png "Struts-mutiple-configuration-file") ## 1.单一模块
 
 单个模块支持多个 Struts 配置文件。
 
@@ -118,7 +118,7 @@ web . XML
 
 两种 Struts 配置都是 loaded 属性。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.多个模块
+ ## 2.多个模块
 
 多个模块，每个模块都有自己的 Struts 配置文件。
 

@@ -22,7 +22,7 @@ All GAE tutorials are developed with “**Eclipse 3.7 + Google Plugin for Eclips
 *   [GAE+Python hello world on Mac OS X](http://web.archive.org/web/20190223081129/http://www.mkyong.com/google-app-engine/gae-python-hello-world-on-mac-os-x/)
     GAE+Python web hello world 示例，使用 GAE launcher。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.GAE +支柱 1 和 2
+ ## 2.GAE +支柱 1 和 2
 
 Struts 1 & 2 框架集成和你可能遇到的一些常见错误。
 
@@ -34,7 +34,7 @@ Struts 1 & 2 框架集成和你可能遇到的一些常见错误。
 *   [GAE 上的 Struts 2–Java . security . accesscontrolexception:访问被拒绝](http://web.archive.org/web/20190223081129/http://www.mkyong.com/google-app-engine/struts-2-on-gae-java-security-accesscontrolexception-access-denied/)
 *   [javax.swing.tree.TreeNode 是受限类](http://web.archive.org/web/20190223081129/http://www.mkyong.com/google-app-engine/javax-swing-tree-treenode-is-a-restricted-class/)
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.GAE + JSF 2
+ ## 3.GAE + JSF 2
 
 JSF 新协议框架集成和你可能遇到的一些常见错误。
 

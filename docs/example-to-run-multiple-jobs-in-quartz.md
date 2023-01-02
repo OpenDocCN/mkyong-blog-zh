@@ -137,7 +137,7 @@ Job B is runing
 Job C is runing 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.Quartz XML 示例
+ ## 2.Quartz XML 示例
 
 XML 文件中的等效版本。确保“quartz.properties”和“quartz-config.xml”位于项目类路径中。
 
@@ -216,7 +216,7 @@ org.quartz.plugin.jobInitializer.failOnFileNotFound = true
 </web-app> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.春天的例子
+ ## 3.春天的例子
 
 春天的对等版本。
 

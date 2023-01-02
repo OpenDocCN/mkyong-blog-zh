@@ -20,7 +20,7 @@
 
 Spring oxm 中是否包含 [castor 数据绑定框架](http://web.archive.org/web/20190121170502/http://www.castor.org/)？
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 castor 是 spring-oxm.jar 中的一个可选依赖项，要在 Spring OXM 中使用 castor 来编组和解组 XML，将这个 castor 依赖项添加到您的 Maven `pom.xml`文件中。
 
@@ -50,7 +50,7 @@ castor 是 spring-oxm.jar 中的一个可选依赖项，要在 Spring OXM 中使
 	</dependencies> 
 ```
 
-[oxm](http://web.archive.org/web/20190121170502/http://www.mkyong.com/tag/oxm/) [spring3](http://web.archive.org/web/20190121170502/http://www.mkyong.com/tag/spring3/)</ins>![](img/b99b2b274c86c86f8e438fb26df1a17a.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190121170502/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="9373">
+[oxm](http://web.archive.org/web/20190121170502/http://www.mkyong.com/tag/oxm/) [spring3](http://web.archive.org/web/20190121170502/http://www.mkyong.com/tag/spring3/)![](img/b99b2b274c86c86f8e438fb26df1a17a.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190121170502/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="9373">
 
 
 

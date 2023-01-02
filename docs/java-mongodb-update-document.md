@@ -32,7 +32,7 @@
 { "_id" : { "$oid" : "id"} , "hosting" : "hostC" , "type" : "vps" , "clients" : 900} 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.带有 set 的 DBCollection.update()
+ ## 1.带有 set 的 DBCollection.update()
 
 查找 hosting = 'hostB '的文档，并将其客户端值从 100 更新为 110。
 
@@ -76,7 +76,7 @@ Wait, the entire “hostB” document is replaced with another new document, thi
 ```
 
 **Note**
-The MongoDB team should create another new API named `DBCollection.replace()`, many beginners are trapped in this `DBCollection.update()` API and replace the entire document accidentally. Again, to update a particular value, use `$set`. <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.带有$inc .的 DBCollection.update()
+The MongoDB team should create another new API named `DBCollection.replace()`, many beginners are trapped in this `DBCollection.update()` API and replace the entire document accidentally. Again, to update a particular value, use `$set`. ## 2.带有$inc .的 DBCollection.update()
 
 这个例子显示了使用`$inc`修饰符来增加一个特定的值。查找 hosting = 'hostB '的文档，通过将值从 100 增加到 199，(100 + 99) = 199 来更新它的' clients '值。
 

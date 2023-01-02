@@ -25,7 +25,7 @@ struts.devMode = true
 </struts> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 禁用 Strut2 开发模式
+ ## 禁用 Strut2 开发模式
 
 在 struts 属性文件或 XML 配置文件中将" **struts.devMode** "设置为 false。
 
@@ -44,7 +44,7 @@ struts.devMode = false
 </struts> 
 ```
 
-The development mode is only suitable in development or debugging environment. In production environment, **you HAVE TO disabled it**. It will caused significant impact on performance, because the entire application configuration, properties files will be reloaded on every request, many extra logging and debug information will be provide also.Before commit Struts configuration file, just make sure the development mode is turn off. I saw many accidentally commit cases – commit with development mode enable, and someone just grab the source code for QA environment. To be Frankly, QA seldom will do the performance test, they just make sure the functionality are there, and end with a development mode enabled application deployed to the production. Guess what? you will receive many screaming phone calls from clients very soon… <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+The development mode is only suitable in development or debugging environment. In production environment, **you HAVE TO disabled it**. It will caused significant impact on performance, because the entire application configuration, properties files will be reloaded on every request, many extra logging and debug information will be provide also.Before commit Struts configuration file, just make sure the development mode is turn off. I saw many accidentally commit cases – commit with development mode enable, and someone just grab the source code for QA environment. To be Frankly, QA seldom will do the performance test, they just make sure the functionality are there, and end with a development mode enabled application deployed to the production. Guess what? you will receive many screaming phone calls from clients very soon… ## 参考
 
 1.  [Struts 2 开发模式文档](http://web.archive.org/web/20190225092948/http://struts.apache.org/2.1.8/docs/devmode.html)
 

@@ -96,14 +96,14 @@ public class BookControllerTest {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 参考
+ ## 参考
 
 *   [自动配置模型 Mvc 文档](http://web.archive.org/web/20190308020137/https://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/test/autoconfigure/web/servlet/AutoConfigureMockMvc.html)
 *   [测试网页层](http://web.archive.org/web/20190308020137/https://spring.io/guides/gs/testing-web/)
 *   [测试网页层](http://web.archive.org/web/20190308020137/https://stackoverflow.com/questions/46343782/whats-the-difference-between-autoconfigurewebmvc-and-autoconfiguremockmvc)
 *   [@ autoconfigureweb MVC 和@AutoConfigureMockMvc 有什么区别？](http://web.archive.org/web/20190308020137/https://spring.io/guides/gs/testing-web/)
 
-[mock](http://web.archive.org/web/20190308020137/http://www.mkyong.com/tag/mock/) [MockMvc](http://web.archive.org/web/20190308020137/http://www.mkyong.com/tag/mockmvc/) [spring boot](http://web.archive.org/web/20190308020137/http://www.mkyong.com/tag/spring-boot/) [spring test](http://web.archive.org/web/20190308020137/http://www.mkyong.com/tag/spring-test/)</ins>![](img/eac3a102052d0d0b015c2587d374d310.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190308020137/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="14929">
+[mock](http://web.archive.org/web/20190308020137/http://www.mkyong.com/tag/mock/) [MockMvc](http://web.archive.org/web/20190308020137/http://www.mkyong.com/tag/mockmvc/) [spring boot](http://web.archive.org/web/20190308020137/http://www.mkyong.com/tag/spring-boot/) [spring test](http://web.archive.org/web/20190308020137/http://www.mkyong.com/tag/spring-test/)![](img/eac3a102052d0d0b015c2587d374d310.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190308020137/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="14929">
 
 
 

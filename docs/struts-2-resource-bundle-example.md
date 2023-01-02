@@ -30,13 +30,13 @@ Refer to Struts 2 [Resource Bundle documentation](http://web.archive.org/web/201
     …将 find package.properties 保存在每个父目录中，一直到根目录
 4.  找到[全局资源属性](http://web.archive.org/web/20190302163540/http://www.mkyong.com/struts2/how-to-configure-global-resource-bundle-in-struts-2/)，如果您在应用程序中配置了它
 
-Understand this search order can give you more confident to decide the correct folder for properties file. <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 获取资源包
+Understand this search order can give you more confident to decide the correct folder for properties file. ## 获取资源包
 
 访问资源包的几个示例:
 
 *P . S’**username . required**和’**username**是属性文件中的关键字。*
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 1.动作类
+ ## 1.动作类
 
 在 Action 类中，您可以扩展 ActionSupport 并通过 getText('key ')函数获得资源包。
 

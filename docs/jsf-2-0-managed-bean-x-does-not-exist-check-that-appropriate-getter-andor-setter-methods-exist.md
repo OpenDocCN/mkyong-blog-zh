@@ -30,7 +30,7 @@ public class MessageBean implements Serializable {
 > **出现错误:**
 > 无法创建受管 bean helloBean。发现以下问题:–受管 bean helloBean 的属性 messageBean 不存在。检查是否存在适当的 getter 和/或 setter 方法。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 要将“messageBean”注入到“helloBean”的字段中，必须提供 **messageBean setter 方法**。
 
@@ -51,7 +51,7 @@ public class HelloBean implements Serializable {
 
 完成后，错误消息应该会消失。
 
-[jsf2](http://web.archive.org/web/20190225125610/http://www.mkyong.com/tag/jsf2/) [managed bean](http://web.archive.org/web/20190225125610/http://www.mkyong.com/tag/managed-bean/)</ins>![](img/fac1b6259fe10a382721f63cf6842948.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190225125610/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="7041">
+[jsf2](http://web.archive.org/web/20190225125610/http://www.mkyong.com/tag/jsf2/) [managed bean](http://web.archive.org/web/20190225125610/http://www.mkyong.com/tag/managed-bean/)![](img/fac1b6259fe10a382721f63cf6842948.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190225125610/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="7041">
 
 
 

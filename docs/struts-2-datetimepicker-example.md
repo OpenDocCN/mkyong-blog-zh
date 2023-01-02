@@ -83,7 +83,7 @@ djConfig.searchIds.push("widget_1291193434");</script>
 
 一个完整的完整示例，使用 **< s:datetimepicker >** 标签生成一个 **datetimepicker** 组件，并展示如何使用 OGNL 和 Java 属性将默认日期设置为“ **datetimepicker** ”组件。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.pom.xml
+ ## 1.pom.xml
 
 下载 Struts 2 dojo 依赖库。
 
@@ -107,7 +107,7 @@ djConfig.searchIds.push("widget_1291193434");</script>
 //... 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.动作类
+ ## 2.动作类
 
 存储选定日期的操作类。
 

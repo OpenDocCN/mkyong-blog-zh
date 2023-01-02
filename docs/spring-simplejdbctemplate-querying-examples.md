@@ -11,7 +11,7 @@ Please compare this [SimpleJdbcTemplate example](http://web.archive.org/web/2019
 
 这里有两种方法向您展示如何从数据库中查询或提取单个行，并将其转换为模型类。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.1 自定义行映射器
+ ## 1.1 自定义行映射器
 
 一般来说，总是建议实现 RowMapper 接口来创建自定义的 RowMapper 以满足您的需求。
 
@@ -48,7 +48,7 @@ public class CustomerRowMapper implements RowMapper
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 1.2 BeanPropertyRowMapper
+ ## 1.2 BeanPropertyRowMapper
 
 在 SimpleJdbcTemplate 中，需要使用“ParameterizedBeanPropertyRowMapper”而不是“BeanPropertyRowMapper”。
 

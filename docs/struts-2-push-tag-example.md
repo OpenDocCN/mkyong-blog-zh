@@ -26,7 +26,7 @@ public class PushTagAction extends ActionSupport{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.豆
+ ## 2.豆
 
 一个简单的 Person 类，稍后会将它放入堆栈以便于访问。
 
@@ -49,7 +49,7 @@ public class Person{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.推送标签示例
+ ## 3.推送标签示例
 
 它显示了" **push** 标签的使用。
 

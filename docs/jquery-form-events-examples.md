@@ -14,7 +14,7 @@ jQuery 提供了五个常见的表单事件来处理表单元素的动作。
 }); 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.模糊()
+ ## 2.模糊()
 
 当元素失去焦点时激发。
 
@@ -24,7 +24,7 @@ jQuery 提供了五个常见的表单事件来处理表单元素的动作。
 }); 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.更改()
+ ## 3.更改()
 
 当元素值改变时触发，例如更新复选框，单选按钮或文本框值。
 

@@ -46,11 +46,11 @@ public class AppConfig {
 
 现在，请看一个完整的 Spring JavaConfig 示例。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.目录结构
+ ## 1.目录结构
 
 请参见本示例的目录结构。
 
-![directory structure of this example](img/af02bb5afa129a50134f3eacc741d7dc.png "spring-javaconfig-folder") <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.依赖库
+![directory structure of this example](img/af02bb5afa129a50134f3eacc741d7dc.png "spring-javaconfig-folder") ## 2.依赖库
 
 要使用 Java config(**@ Configuration**)，需要包含 **CGLIB** 库。查看依赖关系:
 

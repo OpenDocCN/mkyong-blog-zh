@@ -39,7 +39,7 @@ import org.apache.wicket.extensions.markup.html.form.select.SelectOption;
 </select> 
 ```
 
-##  <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1。Wicket Extension</ins> 
+##  ## 1。Wicket Extension 
 
 要使用“`Select`”标签，您需要获得“**wicket-extensions**jar。
 
@@ -74,7 +74,7 @@ import org.apache.wicket.extensions.markup.html.form.select.SelectOption;
 </project> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.Wicket 选择示例
+ ## 2.Wicket 选择示例
 
 显示下拉框的示例，使用 **< optgroup >** 标签，通过“`Select`”和“`SelectOption`”标签对相关选项进行分组。
 
@@ -186,7 +186,7 @@ public class SelectPage extends WebPage {
 2.  [Wicket select option Javadoc](http://web.archive.org/web/20190202032227/http://wicket.apache.org/apidocs/1.4/org/apache/wicket/extensions/markup/html/form/select/SelectOption.html)
 3.  [HTML optgroup 标签](http://web.archive.org/web/20190202032227/http://www.w3schools.com/tags/tag_optgroup.asp)
 
-[wicket](http://web.archive.org/web/20190202032227/http://www.mkyong.com/tag/wicket/)</ins>![](img/9e519e48c42a1fb7372c36c8642924ba.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190202032227/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="9067">
+[wicket](http://web.archive.org/web/20190202032227/http://www.mkyong.com/tag/wicket/)![](img/9e519e48c42a1fb7372c36c8642924ba.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190202032227/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="9067">
 
 
 

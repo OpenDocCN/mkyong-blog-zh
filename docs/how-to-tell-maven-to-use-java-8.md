@@ -28,7 +28,7 @@ pom.xml
     </properties> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.编译器插件
+ ## 2.编译器插件
 
 或者，直接配置插件。
 
@@ -50,7 +50,7 @@ pom.xml
     </build> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [Maven–设置 Java 编译器的-source 和-target](http://web.archive.org/web/20190224170051/https://maven.apache.org/plugins/maven-compiler-plugin/examples/set-compiler-source-and-target.html)
 2.  [如何用不同的 JDK 版本编译 Maven 项目？](http://web.archive.org/web/20190224170051/https://www.mkyong.com/maven/how-to-compile-maven-project-with-different-jdk-version/)

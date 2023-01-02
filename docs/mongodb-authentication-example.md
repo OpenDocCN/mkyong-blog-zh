@@ -76,12 +76,12 @@ user
 
 完成了。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 参考
+ ## 参考
 
 1.  [MongoDB:安全实践和管理](http://web.archive.org/web/20190308183427/http://docs.mongodb.org/manual/administration/security/)
 2.  [Java MongoDB 认证示例](http://web.archive.org/web/20190308183427/http://www.mkyong.com/mongodb/java-authentication-access-to-mongodb/)
 
-[authentication](http://web.archive.org/web/20190308183427/http://www.mkyong.com/tag/authentication/) [mongodb](http://web.archive.org/web/20190308183427/http://www.mkyong.com/tag/mongodb/)</ins>![](img/3b5f2c09681d48e0e2627a3077bcae0e.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190308183427/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="12909">
+[authentication](http://web.archive.org/web/20190308183427/http://www.mkyong.com/tag/authentication/) [mongodb](http://web.archive.org/web/20190308183427/http://www.mkyong.com/tag/mongodb/)![](img/3b5f2c09681d48e0e2627a3077bcae0e.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190308183427/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="12909">
 
 
 

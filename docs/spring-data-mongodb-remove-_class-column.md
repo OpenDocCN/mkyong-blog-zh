@@ -65,7 +65,7 @@ public class SpringMongoConfig{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.可扩展标记语言
+ ## 2.可扩展标记语言
 
 同样的事情，但是在 XML 文件中。
 
@@ -94,7 +94,7 @@ public class SpringMongoConfig{
  </bean> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.再测试一次
+ ## 3.再测试一次
 
 再保存一次，“_class”就没了。
 

@@ -23,7 +23,7 @@ Caused by: java.lang.IllegalArgumentException: javax.faces.context.ExceptionHand
 	... 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 在 Eclipse 调试模式下，深入源代码内部，找出 FactoryFinder 的 **getFactory()** 方法抛出的 **IllegalArgumentException** 。
 
@@ -53,7 +53,7 @@ IllegalArgumentException 记录了因子查找器无法识别新的 JSF 2.0**exc
 
 在从项目类路径中移除 **javaee.jar** 之后，JSF 2.0 web 应用程序能够在 Tomcat 上启动并运行良好。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [factory finder . html # get factory Javadoc](http://web.archive.org/web/20190228163119/http://download.oracle.com/docs/cd/E17802_01/j2ee/javaee/javaserverfaces/2.0/docs/api/javax/faces/FactoryFinder.html#getFactory%28java.lang.String%29)
 2.  [JSF 2.0.3 发行说明](http://web.archive.org/web/20190228163119/https://javaserverfaces.dev.java.net/nonav/rlnotes/2.0.3/releasenotes.html)

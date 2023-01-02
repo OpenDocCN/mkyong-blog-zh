@@ -27,7 +27,7 @@ Download It – [Struts2-Password-Example.zip](http://web.archive.org/web/201903
 
 带有“密码”和“确认密码”字段的页面，并进行验证以确保“确认密码”与“密码”匹配。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.属性文件
+ ## 1.属性文件
 
 **global.properties**
 
@@ -49,7 +49,7 @@ cpassword.required = Confirm password is required
 cpassword.notmatch = Confirm password is not match 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.行动
+ ## 2.行动
 
 **RegisterAction.java**
 

@@ -62,7 +62,7 @@ public class NotEqualInputValidator extends AbstractFormValidator {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 怎么用？
+ ## 怎么用？
 
 要使用它，只需像普通的验证器一样附加它。
 
@@ -74,7 +74,7 @@ public class NotEqualInputValidator extends AbstractFormValidator {
 ```
 
 **Note**
-You may interest to read this “[how to create a custom validator in Wicket](http://web.archive.org/web/20190304031826/http://www.mkyong.com/wicket/create-custom-validator-in-wicket/)“.[wicket](http://web.archive.org/web/20190304031826/http://www.mkyong.com/tag/wicket/)</ins>![](img/5be3d30e38d614f03fdc1141dfa3edec.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190304031826/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="1752">
+You may interest to read this “[how to create a custom validator in Wicket](http://web.archive.org/web/20190304031826/http://www.mkyong.com/wicket/create-custom-validator-in-wicket/)“.[wicket](http://web.archive.org/web/20190304031826/http://www.mkyong.com/tag/wicket/)![](img/5be3d30e38d614f03fdc1141dfa3edec.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190304031826/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="1752">
 
 
 

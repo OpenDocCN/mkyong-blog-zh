@@ -114,7 +114,7 @@ PASSED: runTest2
 =============================================== 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.套件测试类
+ ## 2.套件测试类
 
 再创建 2 个测试类来展示 before/after `suite`和`test`的用法。
 
@@ -243,7 +243,7 @@ Total tests run: 6, Failures: 0, Skips: 0
 
 完成了。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 参考
+ ## 参考
 
 1.  [测试文档](http://web.archive.org/web/20190228162811/http://testng.org/doc/documentation-main.html)
 2.  [TestNG–运行多个测试类(套件测试)](http://web.archive.org/web/20190228162811/http://www.mkyong.com/unittest/testng-tutorial-5-suite-test/)

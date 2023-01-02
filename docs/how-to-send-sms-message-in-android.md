@@ -170,7 +170,7 @@ public class SendSMSActivity extends Activity {
 
 参见演示:
 
-![send sms message via smsmanager](img/1246663482afa05d7787e9d46b08eba9.png "android-send-sms-message-example") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.内置短信应用示例
+![send sms message via smsmanager](img/1246663482afa05d7787e9d46b08eba9.png "android-send-sms-message-example") ## 2.内置短信应用示例
 
 该示例使用设备的内置 SMS 应用程序发送 SMS 消息。
 
@@ -243,7 +243,7 @@ public class SendSMSActivity extends Activity {
 
 参见演示:
 
-![send sms via build-in sms application](img/53e09212990ac13161fbff9de0d1e833.png "android-send-sms-message-example2")![send sms via build-in sms application](img/e522d4faab5ce3cc8ef6bda9b28f0163.png "android-send-sms-message-example2-1") <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 下载源代码
+![send sms via build-in sms application](img/53e09212990ac13161fbff9de0d1e833.png "android-send-sms-message-example2")![send sms via build-in sms application](img/e522d4faab5ce3cc8ef6bda9b28f0163.png "android-send-sms-message-example2-1") ## 下载源代码
 
 Download it – [1\. Android-Send-SMS-Example.zip](http://web.archive.org/web/20190309054809/http://www.mkyong.com/wp-content/uploads/2012/03/Android-Send-SMS-Example.zip) (16 KB)Download it – [2\. Android-Build-In-SMS-Application-Example.zip](http://web.archive.org/web/20190309054809/http://www.mkyong.com/wp-content/uploads/2012/03/Android-Build-In-SMS-Application-Example.zip) (16 KB)
 

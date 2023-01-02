@@ -38,7 +38,7 @@ POM . XML
 	</dependency> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.注册 Struts 插件
+ ## 2.注册 Struts 插件
 
 在您的 struts 配置文件(struts-config.xml)中，注册 Spring 的现成 Struts 插件—“**ContextLoaderPlugIn**”。
 
@@ -70,7 +70,7 @@ http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
 </beans> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.春天的行动支持
+ ## 3.春天的行动支持
 
 在 Struts Action 类中，扩展了 Spring " **ActionSupport** "类，通过"**getWebApplicationContext()**"方法获取 Spring 的 bean。
 

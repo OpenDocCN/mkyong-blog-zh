@@ -58,7 +58,7 @@ The currencyCode is defined in [ISO 4217](http://web.archive.org/web/20190214233
 
 下面的 JSF 2.0 完整示例向您展示了如何使用" **f:convertNumber** "标签。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.受管 Bean
+ ## 1.受管 Bean
 
 一个简单的托管 bean，具有“amount”属性。
 
@@ -86,7 +86,7 @@ public class ReceiptBean implements Serializable{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.f:convertNumber 示例
+ ## 2.f:convertNumber 示例
 
 JSF XHTML 页面使用“ **f:convertNumber** ”标签进行验证，也是字符串格式化程序。
 

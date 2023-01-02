@@ -26,7 +26,7 @@ P.S Spring Batch 是 Spring 产品组合的一部分。
 *   [用命令行运行 Spring 批处理作业 Runner](http://web.archive.org/web/20190306165316/http://www.mkyong.com/spring-batch/run-spring-batch-job-with-commandlinejobrunner/)
     用命令行运行 Spring 批处理作业。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.项目读取器、项目处理器、项目写入器
+ ## 2.项目读取器、项目处理器、项目写入器
 
 几个例子展示了使用 Spring 批处理类来读/写资源(csv、xml 和数据库)。
 
@@ -41,7 +41,7 @@ P.S Spring Batch 是 Spring 产品组合的一部分。
 *   [Spring Batch MultiResourceItemReader 示例](http://web.archive.org/web/20190306165316/http://www.mkyong.com/spring-batch/spring-batch-multiresourceitemreader-example/)
     一个 ItemReader 读取多个文件。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.调度程序
+ ## 3.调度程序
 
 使用调度程序框架运行批处理作业。
 

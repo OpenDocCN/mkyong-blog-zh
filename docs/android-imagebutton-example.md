@@ -15,7 +15,7 @@ You may also like this [Android ImageButton selector example](http://web.archive
 
 将 image "**Android _ button . png**"放入" *res/drawable-？dpi* 文件夹。以便 Android 知道在哪里可以找到您图像。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.添加 ImageButton
+ ## 2.添加 ImageButton
 
 打开“ **res/layout/main.xml** 文件，添加一个“`ImageButton`标签，通过“`android:src`定义背景图片。
 
@@ -37,7 +37,7 @@ You may also like this [Android ImageButton selector example](http://web.archive
 </LinearLayout> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.代码代码
+ ## 3.代码代码
 
 下面是代码，在图像按钮上添加一个点击监听器。
 

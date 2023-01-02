@@ -25,7 +25,7 @@ Caused by: org.hibernate.MappingException: An AnnotationConfiguration instance i
 
 ## 解决办法
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.下载 Hibernate 注释库
+ ## 1.下载 Hibernate 注释库
 
 可以从 [Hibernate 官网](http://web.archive.org/web/20190310090827/https://www.hibernate.org/397.html)下载该库
 
@@ -53,7 +53,7 @@ Caused by: org.hibernate.MappingException: An AnnotationConfiguration instance i
   </repositories> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.使用 AnnotationConfiguration 构建会话工厂
+ ## 2.使用 AnnotationConfiguration 构建会话工厂
 
 正常的 Hibernate XML 文件映射使用配置()
 

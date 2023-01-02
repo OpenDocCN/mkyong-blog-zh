@@ -25,7 +25,7 @@ fileUpload .add(new AbstractValidator() {
 
 然而，如果用户没有选择任何文件上传，并点击提交按钮，附加的上传验证程序将被忽略！？
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 解决办法
+ ## 解决办法
 
 默认情况下， **AbstractValidator** (您的自定义验证器)**不会对空值**进行验证，参见源代码:
 
@@ -67,7 +67,7 @@ fileUpload .add(new AbstractValidator() {
 
 现在，当没有选择文件，并点击提交按钮，验证将被执行。
 
-[file upload](http://web.archive.org/web/20190120162100/http://www.mkyong.com/tag/file-upload/) [validation](http://web.archive.org/web/20190120162100/http://www.mkyong.com/tag/validation/) [wicket](http://web.archive.org/web/20190120162100/http://www.mkyong.com/tag/wicket/)</ins>![](img/ff806ceb158e92368344950bf7bb3369.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190120162100/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="1676">
+[file upload](http://web.archive.org/web/20190120162100/http://www.mkyong.com/tag/file-upload/) [validation](http://web.archive.org/web/20190120162100/http://www.mkyong.com/tag/validation/) [wicket](http://web.archive.org/web/20190120162100/http://www.mkyong.com/tag/wicket/)![](img/ff806ceb158e92368344950bf7bb3369.png) (function (i,d,s,o,m,r,c,l,w,q,y,h,g) { var e=d.getElementById(r);if(e===null){ var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n); var dt=new Date().getTime(); try{i[l][w+y](h,i[l][q+y](h)+'&amp;'+dt);}catch(er){i[h]=dt;} } else if(typeof i[c]!=='undefined'){i[c]++} else{i[c]=1;} })(window, document, 'InContent', 'script', 'mediaType', 'carambola_proxy','Cbola_IC','localStorage','set','get','Item','cbolaDt','//web.archive.org/web/20190120162100/http://route.carambo.la/inimage/getlayer?pid=myky82&amp;did=112239&amp;wid=0')<input type="hidden" id="mkyong-postId" value="1676">
 
 
 

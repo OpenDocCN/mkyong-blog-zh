@@ -81,11 +81,11 @@ public class AjaxController {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.项目目录
+ ## 2.项目目录
 
 查看项目目录，这是一个标准的 Maven 项目目录结构。
 
-[![spring-mvc-ajax-example-1](img/fa138636105fd764c5e9a44910eadfda.png)](http://web.archive.org/web/20190215000820/http://www.mkyong.com/wp-content/uploads/2015/10/spring-mvc-ajax-example-1.png) <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.项目相关性
+[![spring-mvc-ajax-example-1](img/fa138636105fd764c5e9a44910eadfda.png)](http://web.archive.org/web/20190215000820/http://www.mkyong.com/wp-content/uploads/2015/10/spring-mvc-ajax-example-1.png) ## 3.项目相关性
 
 pom.xml
 

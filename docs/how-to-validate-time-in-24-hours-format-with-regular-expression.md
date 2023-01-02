@@ -56,14 +56,14 @@ public class Time24HoursValidator{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 匹配的时间格式:
+ ## 匹配的时间格式:
 
 1.“01:00”，“02:00”，“13:00”，
 2。“1:00”，“2:00”，“13:01”，
 3。" 23:59 " 15:00 "
 4 . "00:00″,"0:00"
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 时间格式不匹配:
+ ## 时间格式不匹配:
 
 1.“24:00”-小时超出范围[0-23]
 2。“12:60”——分钟超出范围[00-59]

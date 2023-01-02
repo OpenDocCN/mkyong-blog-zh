@@ -22,7 +22,7 @@ HTML 输出…
  <img src="resourcimg/sofa.png;" alt="" /> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.JSF 2.x 图形图像
+ ## 2.JSF 2.x 图形图像
 
 在 JSF 2.0 中，你可以通过“资源库”的概念来渲染上面的图像:
 
@@ -39,7 +39,7 @@ HTML 输出…
 ```
 
 **Note**
-For more detail, please read this [JSF 2.0 resource library example](http://web.archive.org/web/20190214235255/http://www.mkyong.com/jsf2/resources-library-in-jsf-2-0/). <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 下载源代码
+For more detail, please read this [JSF 2.0 resource library example](http://web.archive.org/web/20190214235255/http://www.mkyong.com/jsf2/resources-library-in-jsf-2-0/). ## 下载源代码
 
 Download It – [JSF-2-GraphicImage-Example.zip](http://web.archive.org/web/20190214235255/http://www.mkyong.com/wp-content/uploads/2010/10/JSF-2-GraphicImage-Example.zip) (14KB)
 

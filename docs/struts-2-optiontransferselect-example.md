@@ -123,7 +123,7 @@ StrutsUtils.addEventListener(containingForm, "submit",
 
 **<s:optiontransferselect>**标签的完整示例，展示了使用 OGNL 和 Java 列表将数据填充到“optiontransferselect”组件中。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.动作类
+ ## 1.动作类
 
 Action 类来生成和存储左右选择选项。
 
@@ -224,7 +224,7 @@ public class OptionTransferSelectAction extends ActionSupport{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.结果页面
+ ## 2.结果页面
 
 通过“**<s:optiontransferselect>**”标签渲染选项转移选择组件，通过 Java 和 OGNL 列表生成左右选择选项。
 

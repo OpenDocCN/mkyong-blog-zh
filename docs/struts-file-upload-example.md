@@ -65,7 +65,7 @@ public class FileUploadForm extends ActionForm{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.行动
+ ## 2.行动
 
 在 Action 类中，只需获取上传的文件并将其保存到服务器文件系统中，并将新创建的文件详细信息存储到一个会话中以备后用。
 
@@ -129,7 +129,7 @@ public class FileUploadAction extends Action{
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.JSP
+ ## 3.JSP
 
 你要将 **< html:form >** 标签的编码类型设置为“ **multipart/form-data** ”，并将 HTTP 方法指定为“ **post** ”。
 

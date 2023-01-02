@@ -22,7 +22,7 @@ Download this Struts welcome file example – [Struts-Welcome-File-Example.zip](
  http://localhost:8080/StrutsExample/index.jsp 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.web.xml 欢迎文件
+ ## 2.web.xml 欢迎文件
 
 在 web.xml 文件中声明一个**欢迎文件**。
 
@@ -84,7 +84,7 @@ Download this Struts welcome file example – [Struts-Welcome-File-Example.zip](
 </web-app> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.JSP 转发
+ ## 3.JSP 转发
 
 如方法 1 所述，创建一个“**index.jsp**”文件，并定义一个 JSP forward 标记，将其重定向到另一个 Struts 动作。
 

@@ -47,7 +47,7 @@ public class Person
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.自动布线'否'
+ ## 1.自动布线'否'
 
 这是默认模式，您需要通过“ref”属性连接您的 bean。
 
@@ -59,7 +59,7 @@ public class Person
 	<bean id="person" class="com.mkyong.common.Person" /> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.自动布线'按名称'
+ ## 2.自动布线'按名称'
 
 通过属性名自动连接 bean。在这种情况下，由于“person”bean 的名称与“customer”bean 的属性名称(“person”)相同，因此，Spring 将通过 setter 方法自动连接它—“`setPerson(Person person)`”。
 

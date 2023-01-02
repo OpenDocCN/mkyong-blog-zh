@@ -11,7 +11,7 @@ However there are some components that didn’t implement the fallback behavior,
 
 实际上，Wicket 有一个内置机制来检测浏览器是否支持 JavaScript。但是，Wicket 默认关闭了这个功能是有原因的。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.收集您的浏览器信息
+ ## 1.收集您的浏览器信息
 
 在 Wicket 应用程序中，用**setgathereextendedbrowserinfo(true)**覆盖`init()`，它告诉 Wicket 从浏览器收集额外信息。
 
@@ -21,7 +21,7 @@ However there are some components that didn’t implement the fallback behavior,
 	} 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.检测 JavaScript
+ ## 2.检测 JavaScript
 
 现在，您可以像这样检测浏览器是否支持 JavaScript:
 

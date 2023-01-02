@@ -22,7 +22,7 @@ Before proceed on this tutorial, make sure you read this – [GAE + Java example
 
 Eclipse 的谷歌插件将生成一个 GAE 项目结构的样本。稍后，我们将向您展示如何将 Struts2 与这个生成的 GAE 项目集成。
 
-![gae struts2 example sample project](img/c4276e3c3e71f84e05b3ad2f919adc21.png "gae-struts2-example2-sample-project") <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.集成 Struts 2 库
+![gae struts2 example sample project](img/c4276e3c3e71f84e05b3ad2f919adc21.png "gae-struts2-example2-sample-project") ## 2.集成 Struts 2 库
 
 获取以下 Struts 2 依赖库，[在此下载 Struts 2](http://web.archive.org/web/20190223080850/http://struts.apache.org/download.cgi)。
 
@@ -44,7 +44,7 @@ Eclipse 的谷歌插件将生成一个 GAE 项目结构的样本。稍后，我�
 
 右键点击项目文件夹，选择"**属性** " - > " **Java 构建路径** " - > " **库**"选项卡，点击"**添加 Jars** 按钮，从" **war/WEB-INF/lib** "文件夹中选择以上 11 个 Jars 进入构建路径。
 
-![gae struts2 example java build path](img/4bf112d37070b2920f77d83a637459e2.png "gae-struts2-example4-build-path") <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.集成 Struts 2 代码
+![gae struts2 example java build path](img/4bf112d37070b2920f77d83a637459e2.png "gae-struts2-example4-build-path") ## 3.集成 Struts 2 代码
 
 3.1 删除生成的`Struts2GoogleAppEngineServlet.java`，不需要这个。
 

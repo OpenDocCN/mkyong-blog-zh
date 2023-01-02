@@ -54,7 +54,7 @@ public class FileNameGenerator
 </beans> 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.捷径
+ ## 2.捷径
 
 用“值”属性注入值。
 
@@ -72,7 +72,7 @@ public class FileNameGenerator
 </beans> 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.“p”模式
+ ## 3.“p”模式
 
 通过使用“p”模式作为属性来注入值。
 

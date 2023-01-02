@@ -54,7 +54,7 @@ userTest1_1 - User [id=id, ic=1001, name=appleA, age=99, createdDate=Sat Apr 06 
 ```
 
 **Note**
-See example 2, it shows a common mistake made by most of the developers. <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.saveourupdate–第 2 部分示例
+See example 2, it shows a common mistake made by most of the developers. ## 2.saveourupdate–第 2 部分示例
 
 这是一个失败的例子，仔细阅读，一个真正常见的错误。
 
@@ -103,7 +103,7 @@ userTest2_1 - User [id=51603dba3004d7fffc202391, ic=null, name=appleB, age=99, c
 
 在 save()之后，字段“age”被正确更新，但是 ic 和 createdDate 都被设置为 null，整个“user”对象被更新。若要更新单个字段/键值，请不要使用 save()，而是使用 updateFirst()或 updateMulti()。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 3.updateFirst 示例
+ ## 3.updateFirst 示例
 
 更新匹配查询的第一个文档。在这种情况下，只有单个字段“年龄”被更新。
 

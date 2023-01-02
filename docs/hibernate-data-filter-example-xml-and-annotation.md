@@ -8,7 +8,7 @@ Hibernate 数据过滤器是一种创新的方式来过滤从数据库中检索�
 
 在本例中，它定义了一个数据过滤器，过滤指定日期的收集数据。Hibernate 数据过滤器可以在 XML 映射文件和注释中实现。
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 1.XML 映射文件中的 Hibernate 数据过滤器
+ ## 1.XML 映射文件中的 Hibernate 数据过滤器
 
 用' **filter-def** '关键字定义一个数据过滤器，并接受一个日期参数。
 
@@ -43,7 +43,7 @@ Hibernate 数据过滤器是一种创新的方式来过滤从数据库中检索�
 
 在**condition = " date>=:stockRecordFilterParam "**中，“日期”是属于“StockDailyRecord”的一个属性。
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 2.批注中的休眠数据过滤器
+ ## 2.批注中的休眠数据过滤器
 
 用' **@FilterDef** '关键字定义一个数据过滤器，用 **@ParamDef** 接受一个日期参数。
 

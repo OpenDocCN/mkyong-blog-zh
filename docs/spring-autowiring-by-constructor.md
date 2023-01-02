@@ -35,7 +35,7 @@ public class Language {
 } 
 ```
 
- <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2836379775501347" data-ad-slot="6894224149">## 2.弹簧布线
+ ## 2.弹簧布线
 
 通常，通过构造函数连接 bean，如下所示:
 
@@ -73,7 +73,7 @@ public class Language {
  Developer [language=Language [name=Java]] 
 ```
 
- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2836379775501347" data-ad-slot="8821506761" data-ad-format="auto" data-ad-region="mkyongregion">## 下载源代码
+ ## 下载源代码
 
 Download it – [Spring-AutoWiring-by-Constructor-Example.zip](http://web.archive.org/web/20190216035626/http://www.mkyong.com/wp-content/uploads/2011/06/Spring-AutoWiring-by-Constructor-Example.zip) (6 KB)
 
