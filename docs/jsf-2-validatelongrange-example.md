@@ -90,7 +90,7 @@ JSF XHTML 页面，展示了如何使用“ **f:validateLongRange** ”标签来
 
 最大范围验证失败。
 
-<noscript><img src="img/e3e4ae9cd7e86eb7cfd609a6bbf112bc.png" alt="jsf2-ValidateLongRange-Example-1" title="jsf2-ValidateLongRange-Example-1" width="640" height="239" data-original-src="http://web.archive.org/web/20210220021055im_/http://www.mkyong.com/wp-content/uploads/2010/10/jsf2-ValidateLongRange-Example-1.png"/></noscript>
+
 
 ![jsf2-ValidateLongRange-Example-1](img/61fd12062aa171b102dce26d18807c1d.png "jsf2-ValidateLongRange-Example-1")
 

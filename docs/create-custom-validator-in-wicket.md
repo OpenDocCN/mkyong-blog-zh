@@ -16,7 +16,7 @@ public class StrongPasswordValidator implements IValidator<String>{
 } 
 ```
 
-2.超越`validate(IValidatable <string>validatable)</string>`。
+2.超越`validate(IValidatable <string>validatable)`。
 
 ```java
  public class StrongPasswordValidator implements IValidator<String>{

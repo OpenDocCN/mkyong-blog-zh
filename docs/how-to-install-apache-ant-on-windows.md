@@ -14,7 +14,7 @@
 
 确保安装了 JDK，并且将`JAVA_HOME`配置为 Windows 环境变量。
 
-<noscript><img src="img/696b6d7aa98f41a96d1ecb964815d9ec.png" alt="install-ant-on-windows-1" width="408" height="451" class="alignnone size-full wp-image-13552" srcset="http://web.archive.org/web/20200511132528im_/https://mkyong.com/wp-content/uploads/2015/01/install-ant-on-windows-1.png 408w, http://web.archive.org/web/20200511132528im_/https://mkyong.com/wp-content/uploads/2015/01/install-ant-on-windows-1-271x300.png 271w" sizes="(max-width: 408px) 100vw, 408px" data-original-src="http://web.archive.org/web/20200511132528im_/http://www.mkyong.com/wp-content/uploads/2015/01/install-ant-on-windows-1.png"/></noscript>
+
 
 ![install-ant-on-windows-1](img/568b30f8cf4cd83bdb2ea34c93d93cad.png)
 
@@ -22,13 +22,13 @@
 
 访问 Apache Ant 官网，下载 Ant 二进制 zip 文件，比如:`apache-ant-1.9.4-bin.zip`，解压到你想要存放 Apache Ant 的文件夹。
 
-<noscript><img src="img/26899614cee4277e9888abbd2af97c14.png" alt="install-ant-on-windows-2" width="640" height="403" class="alignnone size-full wp-image-13553" srcset="http://web.archive.org/web/20200511132528im_/https://mkyong.com/wp-content/uploads/2015/01/install-ant-on-windows-2.png 640w, http://web.archive.org/web/20200511132528im_/https://mkyong.com/wp-content/uploads/2015/01/install-ant-on-windows-2-300x189.png 300w" sizes="(max-width: 640px) 100vw, 640px" data-original-src="http://web.archive.org/web/20200511132528im_/http://www.mkyong.com/wp-content/uploads/2015/01/install-ant-on-windows-2.png"/></noscript>
+
 
 ![install-ant-on-windows-2](img/aea28836bcfbf16ff96800d3c8bdc237.png)
 
 假设你解压到这个文件夹-`C:\apache-ant-1.9.4`
 
-<noscript><img src="img/7f26d01d2740af12a453e5e02b359b89.png" alt="install-ant-on-windows-3" width="640" height="340" class="alignnone size-full wp-image-13554" srcset="http://web.archive.org/web/20200511132528im_/https://mkyong.com/wp-content/uploads/2015/01/install-ant-on-windows-3.png 640w, http://web.archive.org/web/20200511132528im_/https://mkyong.com/wp-content/uploads/2015/01/install-ant-on-windows-3-300x159.png 300w" sizes="(max-width: 640px) 100vw, 640px" data-original-src="http://web.archive.org/web/20200511132528im_/http://www.mkyong.com/wp-content/uploads/2015/01/install-ant-on-windows-3.png"/></noscript>
+
 
 ![install-ant-on-windows-3](img/ba2d644c3f93ccad746357a4969f9e85.png)
 
@@ -36,7 +36,7 @@
 
 添加`ANT_HOME`作为 Windows 环境变量，并将其指向您的 Ant 文件夹。
 
-<noscript><img src="img/a976a5fdc5e661e5bab3b2d8858f325b.png" alt="install-ant-on-windows-4" width="408" height="451" class="alignnone size-full wp-image-13555" srcset="http://web.archive.org/web/20200511132528im_/https://mkyong.com/wp-content/uploads/2015/01/install-ant-on-windows-4.png 408w, http://web.archive.org/web/20200511132528im_/https://mkyong.com/wp-content/uploads/2015/01/install-ant-on-windows-4-271x300.png 271w" sizes="(max-width: 408px) 100vw, 408px" data-original-src="http://web.archive.org/web/20200511132528im_/http://www.mkyong.com/wp-content/uploads/2015/01/install-ant-on-windows-4.png"/></noscript>
+
 
 ![install-ant-on-windows-4](img/1f8b6cfec3ea3e009526de4feec88ebc.png)
 
@@ -44,7 +44,7 @@
 
 更新`PATH`变量，在末尾追加`%ANT_HOME%\bin`，这样就可以到处运行蚂蚁的命令了。
 
-<noscript><img src="img/f3243945b1609bfba0b778606d404a82.png" alt="install-ant-on-windows-5" width="687" height="451" class="alignnone size-full wp-image-13556" srcset="http://web.archive.org/web/20200511132528im_/https://mkyong.com/wp-content/uploads/2015/01/install-ant-on-windows-5.png 687w, http://web.archive.org/web/20200511132528im_/https://mkyong.com/wp-content/uploads/2015/01/install-ant-on-windows-5-300x197.png 300w" sizes="(max-width: 687px) 100vw, 687px" data-original-src="http://web.archive.org/web/20200511132528im_/http://www.mkyong.com/wp-content/uploads/2015/01/install-ant-on-windows-5.png"/></noscript>
+
 
 ![install-ant-on-windows-5](img/4e7cd7741a5d1dd4ac4cef37ad8a952c.png)
 

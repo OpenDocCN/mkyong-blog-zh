@@ -21,7 +21,7 @@ freestar.config.enabled_slots.push({ placementName: "mkyong_incontent_1", slotId
 
 本例的目录结构。
 
-<noscript><img src="img/b243a2c750dd3d113b71aa0e983e2d0b.png" alt="jsf2-internationalization-folder" title="jsf2-internationalization-folder" width="327" height="437" data-original-src="http://web.archive.org/web/20210224055858im_/http://www.mkyong.com/wp-content/uploads/2010/11/jsf2-internationalization-folder.png"/></noscript>
+
 
 ![jsf2-internationalization-folder](img/ddb2a22e1c8e57cd2fc646428c00b050.png "jsf2-internationalization-folder")
 
@@ -182,13 +182,13 @@ URL:*http://localhost:8080/Java server faces/faces/default . XHTML*
 
 默认情况下，显示区域英语。
 
-<noscript><img src="img/a1be1e9bc541f27a634b12e9494c8dbb.png" alt="jsf2-internationalization-example-1" title="jsf2-internationalization-example-1" width="640" height="302" data-original-src="http://web.archive.org/web/20210224055858im_/http://www.mkyong.com/wp-content/uploads/2010/11/jsf2-internationalization-example-1.png"/></noscript>
+
 
 ![jsf2-internationalization-example-1](img/08714e2efbde577a135be15a88e86333.png "jsf2-internationalization-example-1")
 
 如果用户更改下拉框语言，它将触发一个值更改事件监听器，并相应地更改应用程序的区域设置。
 
-<noscript><img src="img/b6d5b8d73335a29fab1c7960b9f8dc05.png" alt="jsf2-internationalization-example-2" title="jsf2-internationalization-example-2" width="639" height="313" data-original-src="http://web.archive.org/web/20210224055858im_/http://www.mkyong.com/wp-content/uploads/2010/11/jsf2-internationalization-example-2.png"/></noscript>
+
 
 ![jsf2-internationalization-example-2](img/67e6fc31c9ea86ee49f734f29fcfcfde.png "jsf2-internationalization-example-2")
 

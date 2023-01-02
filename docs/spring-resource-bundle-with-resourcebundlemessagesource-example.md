@@ -8,7 +8,7 @@
 
 查看此示例的目录结构。
 
-<noscript><img src="img/e8e15d18b6d217963b2a420e2a474030.png" alt="directory structure of this example" title="spring-resource-folder" width="484" height="341" data-original-src="http://web.archive.org/web/20200616055144im_/http://www.mkyong.com/wp-content/uploads/2010/03/spring-resource-folder.png"/></noscript>
+
 
 ![directory structure of this example](img/6957f52405595f8acfa284f27cd39d06.png "spring-resource-folder")
 
@@ -88,7 +88,7 @@ public class App {
 
 *输出*
 
-<noscript><img src="img/2bebc599099270af1708af6d303a8cec.png" alt="output" title="spring-resource-output" width="640" height="264" data-original-src="http://web.archive.org/web/20200616055144im_/http://www.mkyong.com/wp-content/uploads/2010/03/spring-resource-output.png"/></noscript>
+
 
 ![output](img/fa5890f08133aa286e2a3999a8cedbdc.png "spring-resource-output")**Note**
 Make sure your [Eclipse is able to display Chinese output](http://web.archive.org/web/20200616055144/http://www.mkyong.com/java/how-to-display-chinese-character-in-eclipse-console/).

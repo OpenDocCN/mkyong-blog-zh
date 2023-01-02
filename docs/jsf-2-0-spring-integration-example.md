@@ -20,7 +20,7 @@
 
 用于演示的标准 Maven 项目。
 
-<noscript><img src="img/30359bfeda70625c9c7cdfb53bbc16c4.png" alt="jsf2-spring-example-folder" title="jsf2-spring-example-folder" width="327" height="455" data-original-src="http://web.archive.org/web/20201112012809im_/http://www.mkyong.com/wp-content/uploads/2010/12/jsf2-spring-example-folder.png"/></noscript>
+
 
 ![jsf2-spring-example-folder](img/1e4f7e7852ad154ebfc02351d6ff3fea.png "jsf2-spring-example-folder")
 
@@ -502,7 +502,7 @@ web.xml
 
 完成，查看输出:*http://localhost:8080/Java server faces/default . JSF*
 
-<noscript><img src="img/8c7f2b27d62687d6f759c097224c7bd6.png" alt="jsf2 and spring integration" title="jsf2-spring" width="593" height="297" data-original-src="http://web.archive.org/web/20201112012809im_/http://www.mkyong.com/wp-content/uploads/2010/12/jsf2-spring.png"/></noscript>
+
 
 ![jsf2 and spring integration](img/43d088e34fa5def5d560f247bbb2d73e.png "jsf2-spring")
 

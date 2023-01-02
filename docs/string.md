@@ -1,4 +1,4 @@
-# Java 8–将可选的<string>转换为字符串</string>
+# Java 8–将可选的<string>转换为字符串
 
 > 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/java8/java-8-convert-optionalstring-to-string/>
 

@@ -21,7 +21,7 @@ There are many Hibernate articles try to explain the “inverse” with many Hib
 
 这是一个**一对多**的关系表设计，一个股票表在 STOCK_DAILY_RECORD 表中有多次出现。
 
-<noscript><img src="img/db993de1a987e82c454e61b359073417.png" alt="one to many relationship" title="one-to-many-relationship-inverse" width="554" height="207" data-original-src="http://web.archive.org/web/20210112045324im_/http://www.mkyong.com/wp-content/uploads/2010/01/one-to-many-relationship-inverse.png"/></noscript>
+
 
 ![one to many relationship](img/90097f5275bce534a9c307dc792d237c.png "one-to-many-relationship-inverse")
 

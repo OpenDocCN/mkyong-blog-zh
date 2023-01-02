@@ -26,8 +26,8 @@ Spinner is a widget similar to a drop-down list for selecting items.
  <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">MyAndroidApp</string>
-    <string name="country_prompt">Choose a country</string>
+    <string name="app_name">MyAndroidApp
+    <string name="country_prompt">Choose a country
 
     <string-array name="country_arrays">
         <item>Malaysia</item>

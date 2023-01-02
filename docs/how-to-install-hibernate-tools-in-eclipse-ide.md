@@ -26,13 +26,13 @@ Hibernate Tools is bundled as the core component of JBoss Tools. So, after insta
 
 在 Eclipse IDE 的菜单栏中，选择“**帮助**”>”**安装新软件…** ，放入 Eclipse 更新站点的 URL。
 
-<noscript><img src="img/8be93ae279a9ace77a9b9033dbca4cc4.png" alt="JBoss tools in Eclipse" title="jboss-tool-eclipse" width="586" height="480" data-original-src="http://web.archive.org/web/20210109132243im_/http://www.mkyong.com/wp-content/uploads/2009/12/jboss-tool-eclipse.png"/></noscript>
+
 
 ![JBoss tools in Eclipse](img/0ab7a15ea9eb35d3e31d781e61b33330.png "jboss-tool-eclipse")
 
 在过滤器框中键入“ **hibernate** ”，列出 hibernate 工具所需的组件。选择所有的 **Hibernate Tools** 组件，点击下一步下载。
 
-<noscript><img src="img/09d9cfe2a142a13173cde10f68a4b575.png" alt="JBoss tools in Eclipse 2" title="jboss-tool-eclipse-2" width="640" height="413" data-original-src="http://web.archive.org/web/20210109132243im_/http://www.mkyong.com/wp-content/uploads/2009/12/jboss-tool-eclipse-2.png"/></noscript>
+
 
 ![JBoss tools in Eclipse 2](img/2ab693df0e02e72bc461f4b48b32b4a2.png "jboss-tool-eclipse-2")**Warning**
 Do not select all components, it will take much longer time download many unnecessary components. You want Hibernate tools only, not others.
@@ -45,7 +45,7 @@ Do not select all components, it will take much longer time download many unnece
 
 如果 Hibernate tools 安装正确，您可以在**窗口**>>**打开透视图**>>**其他**中看到 **Hibernate 透视图**。
 
-<noscript><img src="img/e12357cbda9bb8fd0c7b78bf5ff49cba.png" alt="Hibernate Perspective in Eclipse IDE" title="jboss-tool-eclipse-hibernate-view" width="373" height="450" data-original-src="http://web.archive.org/web/20210109132243im_/http://www.mkyong.com/wp-content/uploads/2009/12/jboss-tool-eclipse-hibernate-view.png"/></noscript>
+
 
 ![Hibernate Perspective in Eclipse IDE](img/f22e58ede8ee651d757797b5085f6114.png "jboss-tool-eclipse-hibernate-view")
 

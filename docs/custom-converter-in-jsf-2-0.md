@@ -20,7 +20,7 @@ freestar.config.enabled_slots.push({ placementName: "mkyong_incontent_1", slotId
 
 这个例子的文件夹结构。
 
-<noscript><img src="img/8bfe1e6e5e294581d663fa26f83271f9.png" alt="jsf2-custom-converter-example-folder" title="jsf2-custom-converter-example-folder" width="322" height="383" data-original-src="http://web.archive.org/web/20210305084858im_/http://www.mkyong.com/wp-content/uploads/2010/11/jsf2-custom-converter-example-folder.png"/></noscript>
+
 
 ![jsf2-custom-converter-example-folder](img/669708deec3196607cf037c33a70ad0d.png "jsf2-custom-converter-example-folder")
 
@@ -259,19 +259,19 @@ public class UserBean implements Serializable{
 
 输入一个有效的 URL，不带“http”。
 
-<noscript><img src="img/ab893996995d23786a091501650b8d47.png" alt="jsf2-custom-converter-example-1" title="jsf2-custom-converter-example-1" width="640" height="299" data-original-src="http://web.archive.org/web/20210305084858im_/http://www.mkyong.com/wp-content/uploads/2010/11/jsf2-custom-converter-example-1.png"/></noscript>
+
 
 ![jsf2-custom-converter-example-1](img/8d5d81d58ac02d3f75de09c411ff1655.png "jsf2-custom-converter-example-1")
 
 在有效的 URL 前面添加一个“http”并显示它。
 
-<noscript><img src="img/e8c9851909b9c46875f9a978ca68ff6c.png" alt="jsf2-custom-converter-example-2" title="jsf2-custom-converter-example-2" width="640" height="299" data-original-src="http://web.archive.org/web/20210305084858im_/http://www.mkyong.com/wp-content/uploads/2010/11/jsf2-custom-converter-example-2.png"/></noscript>
+
 
 ![jsf2-custom-converter-example-2](img/1b550aee35af4d16f904fb7429390186.png "jsf2-custom-converter-example-2")
 
 如果提供了无效的 URL，则返回声明的错误消息。
 
-<noscript><img src="img/a2dd39edb77d3a28446bbc5cd28780b3.png" alt="jsf2-custom-converter-example-3" title="jsf2-custom-converter-example-3" width="640" height="299" data-original-src="http://web.archive.org/web/20210305084858im_/http://www.mkyong.com/wp-content/uploads/2010/11/jsf2-custom-converter-example-3.png"/></noscript>
+
 
 ![jsf2-custom-converter-example-3](img/f73746f59cd3c4fa0e492ebbc42d36c0.png "jsf2-custom-converter-example-3")
 

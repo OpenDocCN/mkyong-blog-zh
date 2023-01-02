@@ -42,7 +42,7 @@ This “javaee.jar” could be find in your J2EE SDK folder.
 
 如果您正在调试，请确保您的服务器实例能够找到`javaee.jar`文件。
 
-<noscript><img src="img/f0e61f2ef956ad60a84224d0a385e579.png" alt="javax.el.ExpressionFactory" title="javax.el.ExpressionFactory" width="640" height="423" data-original-src="http://web.archive.org/web/20200616173400im_/http://www.mkyong.com/wp-content/uploads/2010/10/javax.el_.ExpressionFactory.png"/></noscript>
+
 
 ![javax.el.ExpressionFactory](img/94d4e51b81626345e77847ba4a7dcea5.png "javax.el.ExpressionFactory")
 

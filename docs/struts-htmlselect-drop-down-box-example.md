@@ -4,7 +4,7 @@
 
 Download this Struts select option (drop down box) example – [Struts-Select-Option-Example.zip](http://web.archive.org/web/20190224154622/http://www.mkyong.com/wp-content/uploads/2010/04/Struts-Select-Option-Example.zip)
 
-在这个 Struts 示例中，您将学习如何用 Struts <select>和<option>标签创建一个 HTML 选择选项(下拉框)。</option></select>标签用于创建一个选择列表(下拉列表)；而 select 元素中的<option>标签定义了列表中的可用选项。</option>
+在这个 Struts 示例中，您将学习如何用 Struts `<select>`和`<option>`标签创建一个 HTML 选择选项(下拉框)。`<select>`标签用于创建一个选择列表(下拉列表)；而 select 元素中的`<option>`标签定义了列表中的可用选项。
 
 ## 1.文件夹结构
 

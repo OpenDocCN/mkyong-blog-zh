@@ -2,7 +2,7 @@
 
 > 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/mongodb/spring-data-mongodb-save-binary-file-gridfs-example/>
 
-<noscript><img src="img/de73355390cc8e8f5fc8ffbd2ae4e826.png" alt="binary-data-flow" width="380" height="253" data-original-src="http://web.archive.org/web/20200123144222im_/http://www.mkyong.com/wp-content/uploads/2013/04/binary-data-flow.jpg"/></noscript>
+
 
 ![binary-data-flow](img/2207d8035ee0b6e9b5b073c026c5042b.png)
 
@@ -239,7 +239,7 @@ Download it – [SpringMongoDB-GridFs-Example.zip](http://web.archive.org/web/20
 
 
 
-<noscript><img alt="author image" src="img/f621b9d3c64c3eab2f73fc81a9b6e780.png" srcset="http://web.archive.org/web/20200123144222im_/https://secure.gravatar.com/avatar/622c70d2908e68ecc070ca6754245bb2?s=192&amp;d=mm&amp;r=g 2x" class="avatar avatar-96 photo d-flex mr-3 rounded-circle" height="96" width="96" data-original-src="http://web.archive.org/web/20200123144222im_/https://secure.gravatar.com/avatar/622c70d2908e68ecc070ca6754245bb2?s=96&amp;d=mm&amp;r=g"/></noscript>
+
 
 
 

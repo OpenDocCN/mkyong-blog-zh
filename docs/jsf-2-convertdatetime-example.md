@@ -111,7 +111,7 @@ The date format in “pattern” attribute is defined in the [java.text.SimpleDa
 
 如果提供的日期无效，则显示错误消息。
 
-<noscript><img src="img/608ad64dbacbff5f87cb1aca5e9f0f56.png" alt="jsf2-ConvertDateTime-Example" title="jsf2-ConvertDateTime-Example" width="610" height="388" data-original-src="http://web.archive.org/web/20210220021019im_/http://www.mkyong.com/wp-content/uploads/2010/10/jsf2-ConvertDateTime-Example.png"/></noscript>
+
 
 ![jsf2-ConvertDateTime-Example](img/7ef9e499477360e371f8aa4bc43dea54.png "jsf2-ConvertDateTime-Example")
 

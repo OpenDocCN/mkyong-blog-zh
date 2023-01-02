@@ -17,12 +17,12 @@
 ```java
  <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, MyAndroidAppActivity!</string>
-    <string name="app_name">MyAndroidApp</string>
-    <string name="chk_ios">IPhone</string>
-    <string name="chk_android">Android</string>
-    <string name="chk_windows">Windows Mobile</string>
-    <string name="btn_display">Display</string>
+    <string name="hello">Hello World, MyAndroidAppActivity!
+    <string name="app_name">MyAndroidApp
+    <string name="chk_ios">IPhone
+    <string name="chk_android">Android
+    <string name="chk_windows">Windows Mobile
+    <string name="btn_display">Display
 </resources> 
 ```
 

@@ -95,7 +95,7 @@ JSF XHTML 页面，展示了如何使用“ **f:validateRequired** ”标签来�
 
 如果“密码”或“确认密码”字段为空，则显示错误消息。
 
-<noscript><img src="img/4c009fffff844574c76f99930995b9fd.png" alt="jsf2-ValidateRequired-Example" title="jsf2-ValidateRequired-Example" width="640" height="262" data-original-src="http://web.archive.org/web/20210305084830im_/http://www.mkyong.com/wp-content/uploads/2010/10/jsf2-ValidateRequired-Example.png"/></noscript>
+
 
 ![jsf2-ValidateRequired-Example](img/671f691f9b93173a111d8288e0d81265.png "jsf2-ValidateRequired-Example")
 

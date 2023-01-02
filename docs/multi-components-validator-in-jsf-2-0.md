@@ -262,13 +262,13 @@ public class PasswordValidator implements Validator {
 
 没有输入，`required="true"`被触发。
 
-<noscript><img src="img/0d56952a956b4a4f36803c5cd3687bd9.png" alt="jsf2 multiple components validator" title="jsf2-validate-multiple-fiels" width="632" height="362" data-original-src="http://web.archive.org/web/20210305084946im_/http://www.mkyong.com/wp-content/uploads/2010/11/jsf2-validate-multiple-fiels.png"/></noscript>
+
 
 ![jsf2 multiple components validator](img/87d8b8be644c0e3452e1d7db08927ce6.png "jsf2-validate-multiple-fiels")
 
 验证多个组件/字段。确保密码等于确认密码。
 
-<noscript><img src="img/b6fe7bb53ae13da81f0fc8bc5d2f3f48.png" alt="jsf2 multiple components validator" title="jsf-validate-multiple-fields-2" width="631" height="362" data-original-src="http://web.archive.org/web/20210305084946im_/http://www.mkyong.com/wp-content/uploads/2010/11/jsf-validate-multiple-fields-2.png"/></noscript>
+
 
 ![jsf2 multiple components validator](img/fbb74e4acbc2f93f94b4a8fdcb226f8c.png "jsf-validate-multiple-fields-2")
 

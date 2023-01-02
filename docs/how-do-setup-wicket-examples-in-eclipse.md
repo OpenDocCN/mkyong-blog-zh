@@ -20,7 +20,7 @@
 
 提取下载的 Wicket zip 文件，检查目录结构。文件夹“ **wicket-examples** ”，它在“$WICKET_PATH/src”文件夹里面就是你所需要的。
 
-<noscript><img src="img/1541f674345321c98cbb1f37c0a732a0.png" alt="wicket example folder structure" title="wicket-example-folder" width="488" height="433" data-original-src="http://web.archive.org/web/20201109010243im_/http://www.mkyong.com/wp-content/uploads/2009/01/wicket-example-folder.png"/></noscript>
+
 
 ![wicket example folder structure](img/4c092b4886f64f22821f646c3dab8f94.png "wicket-example-folder")
 
@@ -43,13 +43,13 @@ P.S Maven 将自动配置项目并下载项目依赖项。
 
 1.右键单击项目–>属性–>“**项目方面**”。选择“**动态 Web 模块**”和“ **Java** ”。
 
-<noscript><img src="img/7908461281ace72d5e7c274d5d07eb5b.png" alt="wicket example eclipse facets" title="wicket-example-eclipse-facets" width="640" height="459" data-original-src="http://web.archive.org/web/20201109010243im_/http://www.mkyong.com/wp-content/uploads/2009/01/wicket-example-eclipse-facets.png"/></noscript>
+
 
 ![wicket example eclipse facets](img/9ff663d12ff9133814b9d9ba801faa2d.png "wicket-example-eclipse-facets")
 
 2.相同的窗口–>选择"**部署程序集**，确保库和根部署路径"/"配置正确。缺了就补上。
 
-<noscript><img src="img/f4cf57ce5d2883f51041471552302c7b.png" alt="wicket example eclipse depoyment dependency" title="wicket-example-eclipse-deployment" width="640" height="459" data-original-src="http://web.archive.org/web/20201109010243im_/http://www.mkyong.com/wp-content/uploads/2009/01/wicket-example-eclipse-deployment.png"/></noscript>
+
 
 ![wicket example eclipse depoyment dependency](img/07ed24439f299dfbb18ba04d04649d68.png "wicket-example-eclipse-deployment")
 
@@ -59,7 +59,7 @@ P.S Maven 将自动配置项目并下载项目依赖项。
 
 访问此 URL:**http://localhost:8080/wicket-examples/**
 
-<noscript><img src="img/9526895b240c3b59f41235f2734151ff.png" alt="wicket example cloned site" title="wicket-example-cloned" width="640" height="476" data-original-src="http://web.archive.org/web/20201109010243im_/http://www.mkyong.com/wp-content/uploads/2009/01/wicket-example-cloned.png"/></noscript>
+
 
 ![wicket example cloned site](img/50c5b90ac3ef41870f82a23659f99483.png "wicket-example-cloned")
 

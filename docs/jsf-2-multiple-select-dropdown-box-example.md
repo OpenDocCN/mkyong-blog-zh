@@ -26,7 +26,7 @@
 
 一个小滚动条来操作下拉框的值。
 
-<noscript><img src="img/ad64063a3e76804dcc5ebce3b2fe3404.png" alt="jsf2-selectManyMenu-IE-example" title="jsf2-selectManyMenu-IE-example" width="446" height="233" data-original-src="http://web.archive.org/web/20201226142747im_/http://www.mkyong.com/wp-content/uploads/2010/10/jsf2-selectManyMenu-IE-example.png"/></noscript>
+
 
 ![jsf2-selectManyMenu-IE-example](img/f2b5d4e90db746c5266dc949bc896dc2.png "jsf2-selectManyMenu-IE-example")
 
@@ -34,7 +34,7 @@
 
 没有滚动条，看起来像一个普通的“文本框”，但你可以点击“文本框”和“上下拖动”或“上下键”来操纵值。
 
-<noscript><img src="img/a05b581e0dfbf27f6324e4623dbf4549.png" alt="jsf2-selectManyMenu-FireFox-example" title="jsf2-selectManyMenu-FireFox-example" width="468" height="265" data-original-src="http://web.archive.org/web/20201226142747im_/http://www.mkyong.com/wp-content/uploads/2010/10/jsf2-selectManyMenu-FireFox-example.png"/></noscript>
+
 
 ![jsf2-selectManyMenu-FireFox-example](img/20f171adf8e18fb19f6fed7fcade1324.png "jsf2-selectManyMenu-FireFox-example")
 
@@ -42,7 +42,7 @@
 
 在 Google Chrome 中，无论是<< select element with "multiple" and size="1" attribute - " **h:selectManyMenu** "标签> >还是< <带有" multiple "和 size="total of records "属性的 select 元素- " **h:selectManyListbox** "标签> >都是显示精确的布局。
 
-<noscript><img src="img/5902144aab5183f29e2aa3ac5ba28f08.png" alt="jsf2-selectManyMenu-Chrome-example" title="jsf2-selectManyMenu-Chrome-example" width="438" height="271" data-original-src="http://web.archive.org/web/20201226142747im_/http://www.mkyong.com/wp-content/uploads/2010/10/jsf2-selectManyMenu-Chrome-example.png"/></noscript>
+
 
 ![jsf2-selectManyMenu-Chrome-example](img/2c8ebc83a95124d76f49531847af1ef7.png "jsf2-selectManyMenu-Chrome-example")
 

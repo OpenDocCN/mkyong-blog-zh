@@ -196,13 +196,13 @@ result.xhtml…
 
 ## 3.演示
 
-<noscript><img src="img/968e295dd75eab6ecf0f172726c8224d.png" alt="jsf2-multi-select-listbox-example-1" title="jsf2-multi-select-listbox-example-1" width="624" height="480" data-original-src="http://web.archive.org/web/20201226142700im_/http://www.mkyong.com/wp-content/uploads/2010/10/jsf2-multi-select-listbox-example-1.png"/></noscript>
+
 
 ![jsf2-multi-select-listbox-example-1](img/3a2714dd53ca2dc3f25bface56feaf4e.png "jsf2-multi-select-listbox-example-1")
 
 单击“提交”按钮时，链接到“result.xhtml”页面并显示提交的多选列表框值。
 
-<noscript><img src="img/53305f9cbc8887da41ce6b32305d94c5.png" alt="jsf2-multi-select-listbox-example-2" title="jsf2-multi-select-listbox-example-2" width="639" height="411" data-original-src="http://web.archive.org/web/20201226142700im_/http://www.mkyong.com/wp-content/uploads/2010/10/jsf2-multi-select-listbox-example-2.png"/></noscript>
+
 
 ![jsf2-multi-select-listbox-example-2](img/64e4e50d733c20a19bec0000624bfa0c.png "jsf2-multi-select-listbox-example-2")
 

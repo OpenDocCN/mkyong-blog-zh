@@ -10,7 +10,7 @@
 
 您可以输入“ **appcfg request_logs** ”来查看所有可用选项。
 
-## 1.什么是<app-dir>？</app-dir>
+## 1.什么是`<app-dir>`？
 
 这不是您的 app_id，也不是来自 GAE 的任何已部署的 web 路径，这是您的本地项目文件夹，包含文件:
 

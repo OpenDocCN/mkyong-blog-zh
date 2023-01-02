@@ -94,7 +94,7 @@ Both dispatcher tags “`REQUEST`” and “`ERROR`” are required.
 
 *图:如果没有找到 URL(404)，显示您的自定义错误页面。*
 
-<noscript><img src="img/27a9459b437f8b783d6156d4ed96c47c.png" alt="wicket 404" title="wicket-404-example" width="571" height="299" data-original-src="http://web.archive.org/web/20201109040639im_/http://www.mkyong.com/wp-content/uploads/2009/05/wicket-404-example.png"/></noscript>
+
 
 ![wicket 404](img/d44310f586a88eae816f0faae2a9144b.png "wicket-404-example")Download it – [Wicket-404-Example.zip](http://web.archive.org/web/20201109040639/http://www.mkyong.com/wp-content/uploads/2009/05/Wicket-404-Example.zip) (8KB)Tags : [404](http://web.archive.org/web/20201109040639/https://mkyong.com/tag/404/) [wicket](http://web.archive.org/web/20201109040639/https://mkyong.com/tag/wicket/)<input type="hidden" id="mkyong-current-postId" value="1429">
 

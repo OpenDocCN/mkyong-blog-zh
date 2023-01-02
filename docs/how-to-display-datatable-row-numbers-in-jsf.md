@@ -136,7 +136,7 @@ public class PersonBean implements Serializable{
 
 ## 3.演示
 
-<noscript><img src="img/bcc14871ad9fabe7f6573036d80ce94b.png" alt="jsf2-dataTable-RowNumbers-Example" title="jsf2-dataTable-RowNumbers-Example" width="639" height="478" data-original-src="http://web.archive.org/web/20210210180639im_/http://www.mkyong.com/wp-content/uploads/2010/10/jsf2-dataTable-RowNumbers-Example.png"/></noscript>
+
 
 ![jsf2-dataTable-RowNumbers-Example](img/d3a9cdb8b5587fe3eef9281ee61a1595.png "jsf2-dataTable-RowNumbers-Example")
 

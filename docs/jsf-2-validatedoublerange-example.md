@@ -92,7 +92,7 @@ JSF XHTML 页面，展示了如何使用" **f:validateDoubleRange** "标记来�
 
 最小范围验证失败。
 
-<noscript><img src="img/84e218f61e3c467337a69db3781ce45b.png" alt="jsf2-ValidateDoubleRange-Example-1" title="jsf2-ValidateDoubleRange-Example-1" width="639" height="199" data-original-src="http://web.archive.org/web/20210220021049im_/http://www.mkyong.com/wp-content/uploads/2010/10/jsf2-ValidateDoubleRange-Example-1.png"/></noscript>
+
 
 ![jsf2-ValidateDoubleRange-Example-1](img/c025eb7d3a624ac83c68dac85ec516a5.png "jsf2-ValidateDoubleRange-Example-1")
 

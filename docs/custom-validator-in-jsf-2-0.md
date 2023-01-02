@@ -17,7 +17,7 @@
 
 该项目的目录结构。
 
-<noscript><img src="img/4d767d80417152e9735cfcffef48ad9f.png" alt="jsf2-custom-validator-folder" title="jsf2-custom-validator-folder" width="302" height="363" data-original-src="http://web.archive.org/web/20210305084937im_/http://www.mkyong.com/wp-content/uploads/2010/11/jsf2-custom-validator-folder.png"/></noscript>
+
 
 ![jsf2-custom-validator-folder](img/ede62e311a7f832003e1135483108abe.png "jsf2-custom-validator-folder")freestar.config.enabled_slots.push({ placementName: "mkyong_incontent_1", slotId: "mkyong_incontent_1" });
 
@@ -214,7 +214,7 @@ result.xhtml
 
 通过自定义验证器验证电子邮件地址，如果电子邮件地址无效，返回错误消息。
 
-<noscript><img src="img/db564f89ddf9347d45af923c0687273a.png" alt="jsf2-custom-validator-example" title="jsf2-custom-validator-example" width="639" height="272" data-original-src="http://web.archive.org/web/20210305084937im_/http://www.mkyong.com/wp-content/uploads/2010/11/jsf2-custom-validator-example.png"/></noscript>
+
 
 ![jsf2-custom-validator-example](img/b58df24d269fee8dd14f2772d79d4efa.png "jsf2-custom-validator-example")
 

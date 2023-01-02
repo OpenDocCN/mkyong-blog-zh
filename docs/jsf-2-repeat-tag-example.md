@@ -113,7 +113,7 @@ You can find the “order” managed bean source code in this [h:dataTable examp
 
 *输出*
 
-<noscript><img src="img/cd7f6ef8f0466fca2bc8c35e5760527b.png" alt="jsf2-repeat-example" title="jsf2-repeat-example" width="523" height="418" data-original-src="http://web.archive.org/web/20210225180409im_/http://www.mkyong.com/wp-content/uploads/2010/10/jsf2-repeat-example.png"/></noscript>
+
 
 ![jsf2-repeat-example](img/b421d9b1010a91a16bb68d533cdf46e9.png "jsf2-repeat-example")
 

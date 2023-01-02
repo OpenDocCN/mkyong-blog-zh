@@ -22,7 +22,7 @@ Article is updated to use latest SpringData v 1.2.0.RELEASE, it was v1.0.0.M2.
 
 一个经典的 Maven 风格的 Java 项目目录结构。
 
-<noscript><img src="img/de96970a2cae705c09565ee949e84cd0.png" alt="SpringData-helloworld-example" width="520" height="376" class="alignnone size-full wp-image-12935" srcset="http://web.archive.org/web/20201112042503im_/https://mkyong.com/wp-content/uploads/2011/05/SpringData-helloworld-example.png 520w, http://web.archive.org/web/20201112042503im_/https://mkyong.com/wp-content/uploads/2011/05/SpringData-helloworld-example-300x216.png 300w" sizes="(max-width: 520px) 100vw, 520px" data-original-src="http://web.archive.org/web/20201112042503im_/http://www.mkyong.com/wp-content/uploads/2011/05/SpringData-helloworld-example.png"/></noscript>
+
 
 ![SpringData-helloworld-example](img/083cf876a194514da58dfb61bd101ec4.png)
 

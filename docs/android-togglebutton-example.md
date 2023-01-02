@@ -17,10 +17,10 @@
 ```java
  <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MyAndroidApp</string>
-    <string name="toggle_turn_on">Turn On</string>
-    <string name="toggle_turn_off">Turn Off</string>
-    <string name="btn_display">Display</string>
+    <string name="app_name">MyAndroidApp
+    <string name="toggle_turn_on">Turn On
+    <string name="toggle_turn_off">Turn Off
+    <string name="btn_display">Display
 </resources> 
 ```
 

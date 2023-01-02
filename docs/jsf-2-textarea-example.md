@@ -101,13 +101,13 @@ public class UserBean implements Serializable {
 
 显示“demo.xhtml”页面
 
-<noscript><img src="img/b7306b8491a174f3fb5c625e281e9e24.png" alt="jsf2-textarea-example-1" title="jsf2-textarea-example-1" width="640" height="390" data-original-src="http://web.archive.org/web/20201212022644im_/http://www.mkyong.com/wp-content/uploads/2010/09/jsf2-textarea-example-1.png"/></noscript>
+
 
 ![jsf2-textarea-example-1](img/58780a8a6fc6e87873af85e2f2bb382e.png "jsf2-textarea-example-1")
 
 如果单击该按钮，将显示“user.xhtml”页面，以及提交的 textarea 值。
 
-<noscript><img src="img/c24dcc56d4569137196c26571a984d59.png" alt="jsf2-textarea-example-2" title="jsf2-textarea-example-2" width="640" height="375" data-original-src="http://web.archive.org/web/20201212022644im_/http://www.mkyong.com/wp-content/uploads/2010/09/jsf2-textarea-example-2.png"/></noscript>
+
 
 ![jsf2-textarea-example-2](img/5e1d241c38ff2056fb68204e2b177aa6.png "jsf2-textarea-example-2")
 

@@ -4,7 +4,7 @@
 
 默认情况下， **Android SDK** 或 **Eclipse ADT** 插件不捆绑任何 Android 的源代码进行调试。在 Eclipse IDE 中，进入任何 Android 类都将提示没有附加源代码，请参见下面的屏幕:
 
-<noscript><img src="img/244ca0058af3a69e586b74d99fc4fb63.png" alt="android source code not found in Eclipse" title="android-source-code-to-eclipse" width="640" height="411" data-original-src="http://web.archive.org/web/20200920092334im_/http://www.mkyong.com/wp-content/uploads/2011/12/android-source-code-to-eclipse.png"/></noscript>
+
 
 ![android source code not found in Eclipse](img/d1f7d112e9473629db5aac6149d7335e.png "android-source-code-to-eclipse")
 
@@ -24,7 +24,7 @@
 
 文件夹:
 
-<noscript><img src="img/9b74104885f4043b58e3b7ec471ee9e0.png" alt="android source folders" title="android-source-code-to-eclipse-folder" width="640" height="356" data-original-src="http://web.archive.org/web/20200920092334im_/http://www.mkyong.com/wp-content/uploads/2011/12/android-source-code-to-eclipse-folder.png"/></noscript>
+
 
 ![android source folders](img/acc74f27305810250dc9b8edd3a4eae2.png "android-source-code-to-eclipse-folder")
 
@@ -41,7 +41,7 @@
 
 再次踏入 Android 类，源代码显示。
 
-<noscript><img src="img/1d7192f557b5cd7bc76fbe5a273ed082.png" alt="attach android source code to eclipse ide" title="android-source-code-to-eclipse-result" width="640" height="471" data-original-src="http://web.archive.org/web/20200920092334im_/http://www.mkyong.com/wp-content/uploads/2011/12/android-source-code-to-eclipse-result.png"/></noscript>
+
 
 ![attach android source code to eclipse ide](img/4edbdf562f11f94658caa1f248a31037.png "android-source-code-to-eclipse-result")
 

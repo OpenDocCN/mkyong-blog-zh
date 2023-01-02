@@ -17,11 +17,11 @@
 ```java
  <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, MyAndroidAppActivity!</string>
-    <string name="app_name">MyAndroidApp</string>
-    <string name="radio_male">Male</string>
-    <string name="radio_female">Female</string>
-    <string name="btn_display">Display</string>
+    <string name="hello">Hello World, MyAndroidAppActivity!
+    <string name="app_name">MyAndroidApp
+    <string name="radio_male">Male
+    <string name="radio_female">Female
+    <string name="btn_display">Display
 </resources> 
 ```
 
@@ -136,13 +136,13 @@ public class MyAndroidAppActivity extends Activity {
 
 1.结果，选择了单选选项“男性”。
 
-<noscript><img src="img/358b2bdef6bead739209328cbb0f395a.png" alt="android radio button demo1" title="android-radio-demo1" width="318" height="480" data-original-src="http://web.archive.org/web/20200615071623im_/http://www.mkyong.com/wp-content/uploads/2011/11/android-radio-demo1.png"/></noscript>
+
 
 ![android radio button demo1](img/44df68e5d7235ae081d285218f53c7d5.png "android-radio-demo1")
 
 2.选择"女性"并点击"显示"按钮，所选择的单选按钮值被显示。
 
-<noscript><img src="img/1273cc35381d6a76dbfff379f65fe0d6.png" alt="android radio button demo2" title="android-radio-demo2" width="318" height="480" data-original-src="http://web.archive.org/web/20200615071623im_/http://www.mkyong.com/wp-content/uploads/2011/11/android-radio-demo2.png"/></noscript>
+
 
 ![android radio button demo2](img/044b477d69f9ef53481f1b1cc5aa8678.png "android-radio-demo2")
 

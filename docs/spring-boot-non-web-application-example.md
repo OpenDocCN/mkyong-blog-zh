@@ -30,7 +30,7 @@ public class SpringBootConsoleApplication implements CommandLineRunner {
 
 一个标准的 Maven 项目结构。
 
-<noscript><img src="img/c53a01aea098e625d7c26b064ef59134.png" data-original-src="http://web.archive.org/web/20201209120906im_/http://www.mkyong.com/wp-content/uploads/2017/02/spring-boot-non-web-application.png"/></noscript>
+
 
 ![](img/ee72de96853bfa78f7d1cf3e5732dfdc.png)
 

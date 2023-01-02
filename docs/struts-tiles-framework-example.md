@@ -12,7 +12,7 @@ Download this example – [Struts-Tile-Framework-Example.zip](http://web.archive
 
 首先，看看这个 Struts tiles 框架关系。
 
- [<noscript><img src="img/9ac233d090a72a31833e57a74cd77a02.png" alt="" title="struts-tiles" width="640" height="480" data-original-src="http://web.archive.org/web/20210128124529im_/http://www.mkyong.com/wp-content/uploads/2010/05/struts-tiles.png"/></noscript>
+ [
 
 ![](img/09ff95211623dbef4f00d2a1dc545593.png "struts-tiles")](http://web.archive.org/web/20210128124529/http://www.mkyong.com/wp-content/uploads/2010/05/struts-tiles.png)freestar.config.enabled_slots.push({ placementName: "mkyong_incontent_1", slotId: "mkyong_incontent_1" });
 
@@ -155,7 +155,7 @@ Download this example – [Struts-Tile-Framework-Example.zip](http://web.archive
 
 *http://localhost:8080/struts example/user . do*
 
-<noscript><img src="img/e7cc0a1a4670727590aebf06d997d622.png" alt="struts-tile-framework-1" title="struts-tile-framework-1" width="540" height="480" data-original-src="http://web.archive.org/web/20210128124529im_/http://www.mkyong.com/wp-content/uploads/2010/05/struts-tile-framework-1.jpg"/></noscript>
+
 
 ![struts-tile-framework-1](img/aec648e266bd4925cf237c788a3f4900.png "struts-tile-framework-1")
 
@@ -181,7 +181,7 @@ Download this example – [Struts-Tile-Framework-Example.zip](http://web.archive
 
 *http://localhost:8080/struts example/user . do*
 
-<noscript><img src="img/2957a652ed97c4c55e7956c9290336b2.png" alt="struts-tile-framework-2" title="struts-tile-framework-2" width="540" height="480" data-original-src="http://web.archive.org/web/20210128124529im_/http://www.mkyong.com/wp-content/uploads/2010/05/struts-tile-framework-2.jpg"/></noscript>
+
 
 ![struts-tile-framework-2](img/c3c94fb8c281c7e393e482030cc5dfa4.png "struts-tile-framework-2")
 

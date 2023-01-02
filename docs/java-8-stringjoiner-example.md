@@ -37,7 +37,7 @@ StringJoiner 由 static `String.join()`内部使用。
 	String result = String.join("-", "2015", "10", "31" ); 
 ```
 
-2.2 用分隔符连接一个列表<string>。</string>
+2.2 用分隔符连接一个列表<string>。
 
 ```java
  List<String> list = Arrays.asList("java", "python", "nodejs", "ruby");

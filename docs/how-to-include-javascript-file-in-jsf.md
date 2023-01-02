@@ -22,7 +22,7 @@
 
 一个例子展示了如何使用`<h:outputScript />`来渲染一个`common.js`，见下图:
 
-<noscript><img src="img/6b03f2e448ae2ad98106ca35ae603da5.png" alt="jsf2-outputScript-example" title="jsf2-outputScript-example" width="281" height="148" data-original-src="http://web.archive.org/web/20210108082140im_/http://www.mkyong.com/wp-content/uploads/2010/10/jsf2-outputScript-example.png"/></noscript>
+
 
 ![jsf2-outputScript-example](img/00d11877ad9f8c4e7d9bdb51306c5812.png "jsf2-outputScript-example")
 

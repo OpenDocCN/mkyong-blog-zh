@@ -48,7 +48,7 @@ freestar.config.enabled_slots.push({ placementName: "mkyong_incontent_1", slotId
 
 图 1:这个例子的目录结构。
 
-<noscript><img src="img/bf5dc362754d48c36272e88535c1d8d1.png" alt="jsf2-composite-component-folder" title="jsf2-composite-component-folder" width="304" height="402" data-original-src="http://web.archive.org/web/20210305085017im_/http://www.mkyong.com/wp-content/uploads/2010/11/jsf2-composite-component-folder.png"/></noscript>
+
 
 ![jsf2-composite-component-folder](img/4385a7cb15e9d3883e476c161a5d624b.png "jsf2-composite-component-folder")
 
@@ -204,7 +204,7 @@ public class UserBean{
 
 URL:*http://localhost:8080/Java server faces/default . XHTML*
 
-<noscript><img src="img/d18a8fa9694f52e666d19850365b759d.png" alt="jsf2-composite-component-example" title="jsf2-composite-component-example" width="640" height="350" data-original-src="http://web.archive.org/web/20210305085017im_/http://www.mkyong.com/wp-content/uploads/2010/11/jsf2-composite-component-example.png"/></noscript>
+
 
 ![jsf2-composite-component-example](img/a552db042284c25ce862aa398703d12d.png "jsf2-composite-component-example")
 

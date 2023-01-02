@@ -98,13 +98,13 @@ public class UserBean implements Serializable {
 
 显示“demo.xhtml”页面
 
-<noscript><img src="img/797ff697372134a3fcbb5ce5066cab04.png" alt="jsf2-textbox-example-1" title="jsf2-textbox-example-1" width="640" height="321" data-original-src="http://web.archive.org/web/20201212022629im_/http://www.mkyong.com/wp-content/uploads/2010/09/jsf2-textbox-example-1.png"/></noscript>
+
 
 ![jsf2-textbox-example-1](img/ad9859acd32e3e7e2a59cb27a34d7666.png "jsf2-textbox-example-1")
 
 如果单击按钮，显示“user.xhtml”页面和提交的文本框值
 
-<noscript><img src="img/9e4471b5d4d5e84c630fab6f299b238d.png" alt="jsf2-textbox-example-2" title="jsf2-textbox-example-2" width="640" height="321" data-original-src="http://web.archive.org/web/20201212022629im_/http://www.mkyong.com/wp-content/uploads/2010/09/jsf2-textbox-example-2.png"/></noscript>
+
 
 ![jsf2-textbox-example-2](img/29b69882bd18f75f45c5025886c54537.png "jsf2-textbox-example-2")
 

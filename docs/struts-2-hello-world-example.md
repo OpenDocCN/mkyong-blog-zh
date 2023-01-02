@@ -14,7 +14,7 @@
 
 让我们回顾一下本教程的最终项目结构，以防您在后面的步骤中迷路。
 
-<noscript><img src="img/8e98e47c84bbc8d5ce46bf584ba6449b.png" alt="struts2 foder structure" title="struts2-hello-world-example1" width="543" height="456" data-original-src="http://web.archive.org/web/20210208000110im_/http://www.mkyong.com/wp-content/uploads/2010/06/struts2-hello-world-example1.png"/></noscript>
+
 
 ![struts2 foder structure](img/eabcf1b869a2067c1767543288fb7f08.png "struts2-hello-world-example1")freestar.config.enabled_slots.push({ placementName: "mkyong_incontent_1", slotId: "mkyong_incontent_1" });
 
@@ -273,13 +273,13 @@ Actually, the Struts2 Namespaces is equivalent to [Struts 1 multiple modules](ht
 
 *http://localhost:8080/struts 2 example/User/log in . action*
 
-<noscript><img src="img/7da701f761b1bd28c58391ebf1760021.png" alt="struts2 hello world example1" title="struts2-hello-world-example2" width="572" height="294" data-original-src="http://web.archive.org/web/20210208000110im_/http://www.mkyong.com/wp-content/uploads/2010/06/struts2-hello-world-example2.png"/></noscript>
+
 
 ![struts2 hello world example1](img/0a5ea1855766aad2a43924fa9ec5b784.png "struts2-hello-world-example2")
 
 *http://localhost:8080/struts 2 example/User/welcome . action*
 
-<noscript><img src="img/f78daa31ce59b327c142cd9078a44be4.png" alt="struts2 hello world example2" title="struts2-hello-world-example3" width="572" height="294" data-original-src="http://web.archive.org/web/20210208000110im_/http://www.mkyong.com/wp-content/uploads/2010/06/struts2-hello-world-example3.png"/></noscript>
+
 
 ![struts2 hello world example2](img/7b7acaec683e472e92ff369333877777.png "struts2-hello-world-example3")
 

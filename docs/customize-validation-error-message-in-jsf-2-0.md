@@ -15,7 +15,7 @@
 
 所有 JSF 标准转换和验证错误消息都存储在“Messages.properties”文件中，该文件可以从 **jsf-api-2.x.jar** 、*javax \ faces \ messages . properties*中找到，见下图:
 
-<noscript><img src="img/638429f33c465ba27cf8f76d483b5599.png" alt="jsf2-Custom-Validation-Error-Example-1" title="jsf2-Custom-Validation-Error-Example-1" width="549" height="480" data-original-src="http://web.archive.org/web/20210305084916im_/http://www.mkyong.com/wp-content/uploads/2010/10/jsf2-Custom-Validation-Error-Example-1.png"/></noscript>
+
 
 ![jsf2-Custom-Validation-Error-Example-1](img/a8af84b3ba063c5f85b91e2f8ce9129b.png "jsf2-Custom-Validation-Error-Example-1")
 
@@ -136,7 +136,7 @@ For the XXX_detail message key, you have to override its parent key (summary mes
 
 当验证失败时，现在显示您的自定义错误消息。
 
-<noscript><img src="img/0e856568b65e3dbecb81d56c92c880df.png" alt="jsf2-Custom-Validation-Error-Example-2" title="jsf2-Custom-Validation-Error-Example-2" width="640" height="299" data-original-src="http://web.archive.org/web/20210305084916im_/http://www.mkyong.com/wp-content/uploads/2010/10/jsf2-Custom-Validation-Error-Example-2.png"/></noscript>
+
 
 ![jsf2-Custom-Validation-Error-Example-2](img/3f5836b04916439cebd2186e8aad1cf7.png "jsf2-Custom-Validation-Error-Example-2")
 

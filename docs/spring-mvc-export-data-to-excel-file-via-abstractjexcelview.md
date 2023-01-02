@@ -70,7 +70,7 @@ public class RevenueReportController extends AbstractController{
 
 ## 3.抽象视图
 
-通过扩展 **AbstractJExcelView** 类创建一个 Excel 视图，并覆盖 **buildExcelDocument()** 方法将数据填充到 Excel 文件中。 **AbstractJExcelView** 正在使用 <string>JExcelAPI 创建 Excel 文件细节。</string>
+通过扩展 **AbstractJExcelView** 类创建一个 Excel 视图，并覆盖 **buildExcelDocument()** 方法将数据填充到 Excel 文件中。 **AbstractJExcelView** 正在使用 <string>JExcelAPI 创建 Excel 文件细节。
 
 **Note**
 For detail about how to use the JExcelAPI , please refer to the [JExcelAPI documentation](http://web.archive.org/web/20210110082325/http://jexcelapi.sourceforge.net/)
@@ -154,7 +154,7 @@ URL:**http://localhost:8080/springmvc/revenue report . htm？output=excel**
 
 它生成一个 Excel 文件供用户下载。
 
-<noscript><img src="img/73df3d6d7e0cc419707db6af893af45b.png" alt="SpringMVC-ExcelFile-Example" title="SpringMVC-ExcelFile-Example" width="640" height="374" data-original-src="http://web.archive.org/web/20210110082325im_/http://www.mkyong.com/wp-content/uploads/2010/08/SpringMVC-ExcelFile-Example.jpg"/></noscript>
+
 
 ![SpringMVC-ExcelFile-Example](img/c56f11f582ddbb7a8a49d907e8cc0833.png "SpringMVC-ExcelFile-Example")
 

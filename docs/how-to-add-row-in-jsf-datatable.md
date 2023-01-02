@@ -185,15 +185,15 @@ public class OrderBean implements Serializable{
 
 从上到下，显示正在添加的行记录。
 
-<noscript><img src="img/1dbc534d2b24adf35bc4148163999296.png" alt="jsf2-dataTable-Add-Example-1" title="jsf2-dataTable-Add-Example-1" width="640" height="474" data-original-src="http://web.archive.org/web/20210122095705im_/http://www.mkyong.com/wp-content/uploads/2010/10/jsf2-dataTable-Add-Example-1.png"/></noscript>
+
 
 ![jsf2-dataTable-Add-Example-1](img/c4e835131adb57d10ea3d809541b8200.png "jsf2-dataTable-Add-Example-1")
 
-<noscript><img src="img/8c91e83879b78cbf51a510b4a6347744.png" alt="jsf2-dataTable-Add-Example-2" title="jsf2-dataTable-Add-Example-2" width="640" height="449" data-original-src="http://web.archive.org/web/20210122095705im_/http://www.mkyong.com/wp-content/uploads/2010/10/jsf2-dataTable-Add-Example-2.png"/></noscript>
+
 
 ![jsf2-dataTable-Add-Example-2](img/a979a6d433d36fd11c0b06b49ad296a6.png "jsf2-dataTable-Add-Example-2")
 
-<noscript><img src="img/9839d1c979f6c6694aaa978cf688c89d.png" alt="jsf2-dataTable-Add-Example-3" title="jsf2-dataTable-Add-Example-3" width="640" height="449" data-original-src="http://web.archive.org/web/20210122095705im_/http://www.mkyong.com/wp-content/uploads/2010/10/jsf2-dataTable-Add-Example-3.png"/></noscript>
+
 
 ![jsf2-dataTable-Add-Example-3](img/e68aa15fe71f4fed5cb471f68281e673.png "jsf2-dataTable-Add-Example-3")
 

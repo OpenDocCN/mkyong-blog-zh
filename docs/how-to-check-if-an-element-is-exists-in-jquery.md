@@ -79,7 +79,7 @@
 
 
 
-<noscript><img alt="author image" src="img/be422061d2d4f2a3263aac267f4522b4.png" srcset="http://web.archive.org/web/20200210125142im_/https://secure.gravatar.com/avatar/622c70d2908e68ecc070ca6754245bb2?s=192&amp;d=mm&amp;r=g 2x" class="avatar avatar-96 photo d-flex mr-3 rounded-circle" height="96" width="96" data-original-src="http://web.archive.org/web/20200210125142im_/https://secure.gravatar.com/avatar/622c70d2908e68ecc070ca6754245bb2?s=96&amp;d=mm&amp;r=g"/></noscript>
+
 
 
 

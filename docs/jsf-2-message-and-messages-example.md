@@ -63,7 +63,7 @@
 
 *这是输出…*
 
-<noscript><img src="img/d3ed0c44374fa746e6f78633bfee9d37.png" alt="jsf2-message-example" title="jsf2-message-example" width="639" height="272" data-original-src="http://web.archive.org/web/20210122095614im_/http://www.mkyong.com/wp-content/uploads/2010/11/jsf2-message-example.png"/></noscript>
+
 
 ![jsf2-message-example](img/ab8417af990f0afb94ce9e13548e035f.png "jsf2-message-example")
 

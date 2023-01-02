@@ -25,7 +25,7 @@ freestar.config.enabled_slots.push({ placementName: "mkyong_incontent_1", slotId
 
 查看本教程的最终目录结构。
 
-<noscript><img src="img/3d978b16c351414f0e2aaac5518bbfe7.png" alt="spring-security-helloworld-directory" width="461" height="430" class="alignnone size-full wp-image-13231" srcset="http://web.archive.org/web/20210223165920im_/https://mkyong.com/wp-content/uploads/2011/08/spring-security-helloworld-directory.png 461w, http://web.archive.org/web/20210223165920im_/https://mkyong.com/wp-content/uploads/2011/08/spring-security-helloworld-directory-300x279.png 300w" sizes="(max-width: 461px) 100vw, 461px" data-original-src="http://web.archive.org/web/20210223165920im_/http://www.mkyong.com/wp-content/uploads/2011/08/spring-security-helloworld-directory.png"/></noscript>
+
 
 ![spring-security-helloworld-directory](img/6b8957ad861f2085a48796050c128c90.png)
 
@@ -290,25 +290,25 @@ Read this “[Spring Security form login example](http://web.archive.org/web/202
 
 1.欢迎页面-`http://localhost:8080/spring-security-helloworld-xml/welcome`
 
-<noscript><img src="img/fc2e3582694917956770a5d28f72602a.png" alt="spring-security-helloworld-welcome" width="608" height="430" class="alignnone size-full wp-image-13232" srcset="http://web.archive.org/web/20210223165920im_/https://mkyong.com/wp-content/uploads/2011/08/spring-security-helloworld-welcome.png 608w, http://web.archive.org/web/20210223165920im_/https://mkyong.com/wp-content/uploads/2011/08/spring-security-helloworld-welcome-300x212.png 300w" sizes="(max-width: 608px) 100vw, 608px" data-original-src="http://web.archive.org/web/20210223165920im_/http://www.mkyong.com/wp-content/uploads/2011/08/spring-security-helloworld-welcome.png"/></noscript>
+
 
 ![spring-security-helloworld-welcome](img/31e40c57b2774a3572b0e42900de1311.png)
 
 2.尝试访问`/admin`页面，Spring Security 会拦截请求并重定向到`/spring_security_login`，会显示一个预定义的登录表单。
 
-<noscript><img src="img/7a77c9f7a1411a64edbbd04ca9f1b5ce.png" alt="spring-security-helloworld-login" width="640" height="420" class="alignnone size-full wp-image-13233" srcset="http://web.archive.org/web/20210223165920im_/https://mkyong.com/wp-content/uploads/2011/08/spring-security-helloworld-login.png 640w, http://web.archive.org/web/20210223165920im_/https://mkyong.com/wp-content/uploads/2011/08/spring-security-helloworld-login-300x196.png 300w" sizes="(max-width: 640px) 100vw, 640px" data-original-src="http://web.archive.org/web/20210223165920im_/http://www.mkyong.com/wp-content/uploads/2011/08/spring-security-helloworld-login.png"/></noscript>
+
 
 ![spring-security-helloworld-login](img/3d0c1368fa0aacb55ca6503a30f75398.png)
 
 3.如果用户名和密码不正确，就会显示错误消息，Spring 会重定向到这个 URL `/spring_security_login?login_error`。
 
-<noscript><img src="img/b4cfecbfb5d1cebff13ffd83ba82296f.png" alt="spring-security-helloworld-login-error" width="640" height="395" class="alignnone size-full wp-image-13234" srcset="http://web.archive.org/web/20210223165920im_/https://mkyong.com/wp-content/uploads/2011/08/spring-security-helloworld-login-error.png 640w, http://web.archive.org/web/20210223165920im_/https://mkyong.com/wp-content/uploads/2011/08/spring-security-helloworld-login-error-300x185.png 300w" sizes="(max-width: 640px) 100vw, 640px" data-original-src="http://web.archive.org/web/20210223165920im_/http://www.mkyong.com/wp-content/uploads/2011/08/spring-security-helloworld-login-error.png"/></noscript>
+
 
 ![spring-security-helloworld-login-error](img/786e3704471ada6578db8bd2a900a4fb.png)
 
 4.如果用户名和密码正确，Spring 会将请求重定向到最初请求的 URL 并显示页面。
 
-<noscript><img src="img/b46b07a1c416b1b5a4abfd175d836ded.png" alt="spring-security-helloworld-admin" width="600" height="405" class="alignnone size-full wp-image-13235" srcset="http://web.archive.org/web/20210223165920im_/https://mkyong.com/wp-content/uploads/2011/08/spring-security-helloworld-admin.png 600w, http://web.archive.org/web/20210223165920im_/https://mkyong.com/wp-content/uploads/2011/08/spring-security-helloworld-admin-300x202.png 300w" sizes="(max-width: 600px) 100vw, 600px" data-original-src="http://web.archive.org/web/20210223165920im_/http://www.mkyong.com/wp-content/uploads/2011/08/spring-security-helloworld-admin.png"/></noscript>
+
 
 ![spring-security-helloworld-admin](img/c80fc1976b1cb5ba384eeaaf97776c54.png)
 

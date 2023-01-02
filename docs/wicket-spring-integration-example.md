@@ -14,7 +14,7 @@
 
 本教程的最终项目目录结构，没什么特别的，只是一个标准的 Maven 项目。
 
-<noscript><img src="img/75404e5bb31ef3843323932a66257b36.png" alt="wicket spring example" title="wicket-spring-example" width="442" height="412" data-original-src="http://web.archive.org/web/20210110024944im_/http://www.mkyong.com/wp-content/uploads/2011/06/wicket-spring-example.png"/></noscript>
+
 
 ![wicket spring example](img/fa27945bc4173afa430b696ca1ce7419.png "wicket-spring-example")
 
@@ -232,7 +232,7 @@ public class SimplePage extends WebPage {
 
 一个简单的 Wicket 页面，消息从 Spring 返回。
 
-<noscript><img src="img/8841be9295af3b7526d196989011c906.png" alt="wicket spring demo" title="wicket-spring-example-demo" width="579" height="306" data-original-src="http://web.archive.org/web/20210110024944im_/http://www.mkyong.com/wp-content/uploads/2011/06/wicket-spring-example-demo.png"/></noscript>
+
 
 ![wicket spring demo](img/122b885c5081da89a0fd1e750efdd2f3.png "wicket-spring-example-demo")Download it – [Wicket-Spring-Integration-Example.zip](http://web.archive.org/web/20210110024944/http://www.mkyong.com/wp-content/uploads/2011/06/Wicket-Spring-Integration-Example.zip) (8KB)
 

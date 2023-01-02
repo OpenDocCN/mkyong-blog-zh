@@ -18,7 +18,7 @@ This example is going to reuse this [JSF 2.0 hello world example](http://web.arc
 
 在 Eclipse 中，创建一个新的 Web 应用项目，命名为“ **JSFGoogleAppEngine** ”。
 
-<noscript><img src="img/f5088c612116c78548c2319e7497195c.png" alt="generate a new web application GAE project" title="gae-jsf2-example1" width="354" height="479" data-original-src="http://web.archive.org/web/20201112020642im_/http://www.mkyong.com/wp-content/uploads/2012/04/gae-jsf2-example1.png"/></noscript>
+
 
 ![generate a new web application GAE project](img/1dd033b35f065e6b28c01b43eb9d64c2.png "gae-jsf2-example1")
 
@@ -34,13 +34,13 @@ This example is going to reuse this [JSF 2.0 hello world example](http://web.arc
 
 复制后放入“ **war/WEB-INF/lib** ”文件夹。
 
-<noscript><img src="img/4899472e4ef0eedb55c58b80ae804ed5.png" alt="gae jsf2 dependency libraries" title="gae-jsf2-library-example2" width="478" height="540" data-original-src="http://web.archive.org/web/20201112020642im_/http://www.mkyong.com/wp-content/uploads/2012/04/gae-jsf2-library-example2.png"/></noscript>
+
 
 ![gae jsf2 dependency libraries](img/c92636925b37533a35f61807a42b5d5d.png "gae-jsf2-library-example2")
 
 右击项目文件夹，选择“**属性**”。选择“ **Java 构建路径**->-**库**”选项卡，点击“**添加 Jars** 按钮，选择上面的 Jars。
 
-<noscript><img src="img/961739c010b90015893ecfd73316690b.png" alt="gae jsf2 java build path" title="gae-jsf2-java-build-example3" width="548" height="480" data-original-src="http://web.archive.org/web/20201112020642im_/http://www.mkyong.com/wp-content/uploads/2012/04/gae-jsf2-java-build-example3.png"/></noscript>
+
 
 ![gae jsf2 java build path](img/dccb0a0a9eed363e36896b66efee0d80.png "gae-jsf2-java-build-example3")**Note**
 You need to put this `el-ri-1.0.jar`, otherwise, you will hit error message – [Unable to instantiate ExpressionFactory ‘com.sun.el.ExpressionFactoryImpl’](http://web.archive.org/web/20201112020642/http://www.mkyong.com/google-app-engine/gae-jsf-unable-to-instantiate-expressionfactory-com-sun-el-expressionfactoryimpl/).
@@ -227,7 +227,7 @@ GAE do not support server side state management, so, you need to define “`java
 
 审查最终目录结构。
 
-<noscript><img src="img/9dbd302b1d50e94df1a05c0ee5ffe8f6.png" alt="final directory structure" title="gae-jsf2-final-folder-example5" width="571" height="462" data-original-src="http://web.archive.org/web/20201112020642im_/http://www.mkyong.com/wp-content/uploads/2012/04/gae-jsf2-final-folder-example5.png"/></noscript>
+
 
 ![final directory structure](img/a211d084a3583010751eb1e7376f82bc.png "gae-jsf2-final-folder-example5")
 
@@ -237,13 +237,13 @@ GAE do not support server side state management, so, you need to define “`java
 
 *网址:http://localhost:8888/hello . JSF*
 
-<noscript><img src="img/3400dfd58721ce5edb904dba3005625f.png" alt="local output" title="gae-jsf2-local-example6" width="638" height="381" data-original-src="http://web.archive.org/web/20201112020642im_/http://www.mkyong.com/wp-content/uploads/2012/04/gae-jsf2-local-example6.png"/></noscript>
+
 
 ![local output](img/001ffdf4f3764f88ba6167e4a97a7751.png "gae-jsf2-local-example6")
 
 点击按钮。
 
-<noscript><img src="img/006301c995ddd45bb515d0c6c699c4a4.png" alt="local output" title="gae-jsf2-local-example6-1" width="638" height="381" data-original-src="http://web.archive.org/web/20201112020642im_/http://www.mkyong.com/wp-content/uploads/2012/04/gae-jsf2-local-example6-1.png"/></noscript>
+
 
 ![local output](img/6e44575fa3258bad81a6fdb4e1a0abdd.png "gae-jsf2-local-example6-1")
 
@@ -266,13 +266,13 @@ GAE do not support server side state management, so, you need to define “`java
 
 选择项目，点击谷歌图标，“**部署到应用引擎**”。
 
-<noscript><img src="img/21b5449ad3d3268935ae53b623ab0893.png" alt="deploy on GAE" title="gae-jsf2-production-example7" width="627" height="480" data-original-src="http://web.archive.org/web/20201112020642im_/http://www.mkyong.com/wp-content/uploads/2012/04/gae-jsf2-production-example7.png"/></noscript>
+
 
 ![deploy on GAE](img/0328887960b747522077b53d694a9398.png "gae-jsf2-production-example7")
 
 *网址:http://mkyong-jsf2gae.appspot.com/hello.jsf*
 
-<noscript><img src="img/e73e6ae264448cb54446b553194f3dab.png" alt="gae production output" title="gae-jsf2-production-example7-1" width="638" height="381" data-original-src="http://web.archive.org/web/20201112020642im_/http://www.mkyong.com/wp-content/uploads/2012/04/gae-jsf2-production-example7-1.png"/></noscript>
+
 
 ![gae production output](img/6e24b985b009265ab6a5d17621fc6219.png "gae-jsf2-production-example7-1")
 

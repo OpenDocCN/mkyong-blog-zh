@@ -294,13 +294,13 @@ public class KaptchaPage extends WebPage {
 
 如果输入不正确:
 
-<noscript><img src="img/66f1be86c8fd2e546536d8ea0d0408ca.png" alt="wicket kaptcha" title="wicket-kaptcha-example-error" width="640" height="345" data-original-src="http://web.archive.org/web/20201109020338im_/http://www.mkyong.com/wp-content/uploads/2009/05/wicket-kaptcha-example-error.png"/></noscript>
+
 
 ![wicket kaptcha](img/aff77b44c4693d44bf552e6db15c3ab5.png "wicket-kaptcha-example-error")
 
 如果输入正确:
 
-<noscript><img src="img/e322d0c1a4aaf5fe04d1288275085d38.png" alt="wicket kaptcha" title="wicket-kaptcha-example-correct" width="640" height="345" data-original-src="http://web.archive.org/web/20201109020338im_/http://www.mkyong.com/wp-content/uploads/2009/05/wicket-kaptcha-example-correct.png"/></noscript>
+
 
 ![wicket kaptcha](img/eda7f8210836198d1fce0b30effd14c8.png "wicket-kaptcha-example-correct")Download it – [Wicket-Kaptcha-Integration-Example.zip](http://web.archive.org/web/20201109020338/http://www.mkyong.com/wp-content/uploads/2009/05/Wicket-Kaptcha-Integration-Example.zip) (10 KB)
 

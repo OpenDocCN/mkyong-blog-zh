@@ -104,21 +104,21 @@ If you don’t like the default `/data/db` folder, just specify an alternate pat
 <plist version="1.0">
 <dict>
   <key>Label</key>
-  <string>mongodb</string>
+  <string>mongodb
   <key>ProgramArguments</key>
   <array>
-    <string>/usr/local/mongodb/bin/mongod</string>
+    <string>/usr/local/mongodb/bin/mongod
   </array>
   <key>RunAtLoad</key>
   <true/>
   <key>KeepAlive</key>
   <true/>
   <key>WorkingDirectory</key>
-  <string>/usr/local/mongodb</string>
+  <string>/usr/local/mongodb
   <key>StandardErrorPath</key>
-  <string>/var/log/mongodb/error.log</string>
+  <string>/var/log/mongodb/error.log
   <key>StandardOutPath</key>
-  <string>/var/log/mongodb/output.log</string>
+  <string>/var/log/mongodb/output.log
 </dict>
 </plist> 
 ```

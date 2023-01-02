@@ -2,7 +2,7 @@
 
 > 原文：<http://web.archive.org/web/20230101150211/https://mkyong.com/spring/spring-propertysources-example/>
 
-<noscript><img src="img/68d4fa7a24362fdc08eda2dbeb74d298.png" alt="spring-properties-example" width="431" height="223" class="alignnone size-full wp-image-13617" srcset="http://web.archive.org/web/20210205064800im_/https://mkyong.com/wp-content/uploads/2015/02/spring-properties-example.png 431w, http://web.archive.org/web/20210205064800im_/https://mkyong.com/wp-content/uploads/2015/02/spring-properties-example-300x155.png 300w" sizes="(max-width: 431px) 100vw, 431px" data-original-src="http://web.archive.org/web/20210205064800im_/http://www.mkyong.com/wp-content/uploads/2015/02/spring-properties-example.png"/></noscript>
+
 
 ![spring-properties-example](img/7898c19ff05e1f2ceccf4be9f1886b72.png)
 

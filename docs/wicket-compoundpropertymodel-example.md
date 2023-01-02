@@ -79,8 +79,8 @@ public class UserPage extends WebPage {
 
 在这种情况下，
 
-1.  **新的 TextField <string>【名称】</string>** 将绑定到用户对象，**名称属性**
-2.  **新建 TextField <integer>(【年龄】)</integer>** 绑定到用户对象，**年龄属性**
+1.  `new TextField<String>("name")`将绑定到用户对象，**名称属性**
+2.  `new TextField<Integer>("age")`绑定到用户对象，**年龄属性**
 
 Download It – [Wicket-CompoundPropertyModel-Examples.zip](http://web.archive.org/web/20190114230013/http://www.mkyong.com/wp-content/uploads/2011/05/Wicket-CompoundPropertyModel-Examples.zip) (8KB) ## 参考
 

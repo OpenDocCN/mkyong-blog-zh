@@ -99,13 +99,13 @@ public class UserBean implements Serializable {
 
 显示“demo.xhtml”页面
 
-<noscript><img src="img/3b498ad224c663b2d89850bd89140d2d.png" alt="jsf2-password-example-1" title="jsf2-password-example-1" width="640" height="321" data-original-src="http://web.archive.org/web/20201212022634im_/http://www.mkyong.com/wp-content/uploads/2010/09/jsf2-password-example-1.png"/></noscript>
+
 
 ![jsf2-password-example-1](img/6ee0339cee5519e8a97737b9f164f21a.png "jsf2-password-example-1")
 
 如果单击该按钮，将显示“user.xhtml”页面，以及提交的密码值。
 
-<noscript><img src="img/c59e14b21d588358e560bd31eb58fb39.png" alt="jsf2-password-example-2" title="jsf2-password-example-2" width="640" height="321" data-original-src="http://web.archive.org/web/20201212022634im_/http://www.mkyong.com/wp-content/uploads/2010/09/jsf2-password-example-2.png"/></noscript>
+
 
 ![jsf2-password-example-2](img/ca31ceeb46431fab9c46684c716e3f46.png "jsf2-password-example-2")
 

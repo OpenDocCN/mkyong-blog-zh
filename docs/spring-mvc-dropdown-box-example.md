@@ -2,7 +2,7 @@
 
 > 原文：<http://web.archive.org/web/20230101150211/http://www.mkyong.com/spring-mvc/spring-mvc-dropdown-box-example/>
 
-在 Spring MVC 中，form 标签-**<form:select/>**， **< form:option / >** 或 **< form:options / >** ，用于呈现 HTML 下拉框。请参见以下示例:
+在 Spring MVC 中，form 标签-`<form:select/>`， `<form:option/>`或`<form:options/>`，用于呈现 HTML 下拉框。请参见以下示例:
 
 ```java
  //SimpleFormController

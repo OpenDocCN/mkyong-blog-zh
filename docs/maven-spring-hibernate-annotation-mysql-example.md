@@ -16,7 +16,7 @@ The **javaee.jar** library is required as well, you can get it from j2ee SDK, an
 
 您的最终项目文件结构应该看起来完全像下面这样，如果您在创建文件夹结构时迷失了方向，请在这里查看这个文件夹结构。
 
-<noscript><img src="img/33df893e458d4ae119298350597d0842.png" alt="" title="mavan-spring-hibernate-annotation-mysql" data-original-src="http://web.archive.org/web/20200617010932im_/http://www.mkyong.com/wp-content/uploads/2010/03/mavan-spring-hibernate-annotation-mysql.gif"/></noscript>
+
 
 ![](img/bda381a31e04fa18c5151297cba0909a.png "mavan-spring-hibernate-annotation-mysql")
 

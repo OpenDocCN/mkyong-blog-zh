@@ -181,11 +181,11 @@ JSF 页面显示带有 dataTable 标记的数据，并创建一个“删除”�
 
 从上到下，显示被删除的行记录。
 
-<noscript><img src="img/759a5b503541f9c8cff4c639843c66dd.png" alt="jsf2-dataTable-Delete-Example-1" title="jsf2-dataTable-Delete-Example-1" width="640" height="417" data-original-src="http://web.archive.org/web/20210210194311im_/http://www.mkyong.com/wp-content/uploads/2010/10/jsf2-dataTable-Delete-Example-1.png"/></noscript>
+
 
 ![jsf2-dataTable-Delete-Example-1](img/b8853260bdb3345c916fed0862c65e9d.png "jsf2-dataTable-Delete-Example-1")
 
-<noscript><img src="img/5804478c5071cb31d196c7914c8f07e5.png" alt="jsf2-dataTable-Delete-Example-2" title="jsf2-dataTable-Delete-Example-2" width="640" height="417" data-original-src="http://web.archive.org/web/20210210194311im_/http://www.mkyong.com/wp-content/uploads/2010/10/jsf2-dataTable-Delete-Example-2.png"/></noscript>
+
 
 ![jsf2-dataTable-Delete-Example-2](img/0a31aacd5b95338c1df4f7e8a002552a.png "jsf2-dataTable-Delete-Example-2")
 

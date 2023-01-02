@@ -97,7 +97,7 @@ See complete list of sensitive HTML and XML markup here…
 
 *URL:http://localhost:8080/Java server faces/*
 
-<noscript><img src="img/58a0ce55de3afb38fd2134761b913d5a.png" alt="jsf2-outputtext-example" title="jsf2-outputtext-example" width="640" height="308" data-original-src="http://web.archive.org/web/20201226142726im_/http://www.mkyong.com/wp-content/uploads/2010/09/jsf2-outputtext-example.png"/></noscript>
+
 
 ![jsf2-outputtext-example](img/413d8b6707570bd730af84dbf6c7ea11.png "jsf2-outputtext-example")
 

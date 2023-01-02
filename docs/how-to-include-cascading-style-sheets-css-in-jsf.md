@@ -21,7 +21,7 @@
 
 一个例子展示了使用 JSF 2 `<h:outputStylesheet />`渲染一个“style.css”文件，定位到“`resources/css`文件夹，见下图:
 
-<noscript><img src="img/a22fb0ea32d6cfd40c7146802691cf3a.png" alt="jsf2-outputStylesheet-example" title="jsf2-outputStylesheet-example" width="255" height="149" data-original-src="http://web.archive.org/web/20210108083156im_/http://www.mkyong.com/wp-content/uploads/2010/10/jsf2-outputStylesheet-example.png"/></noscript>
+
 
 ![jsf2-outputStylesheet-example](img/73a032b8085a363cf9b68247cb85f2bd.png "jsf2-outputStylesheet-example")
 

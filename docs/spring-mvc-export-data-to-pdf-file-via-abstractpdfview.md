@@ -70,7 +70,7 @@ public class RevenueReportController extends AbstractController{
 
 ## 3.PdfRevenueReportView
 
-通过扩展 **AbstractPdfView** 类创建 pdf 视图，覆盖 **buildExcelDocument()** 方法将数据填充到 pdf 文件中。 **AbstractPdfView** 正在使用 <string>iText API 生成 pdf 文件。</string>
+通过扩展 **AbstractPdfView** 类创建 pdf 视图，覆盖 **buildExcelDocument()** 方法将数据填充到 pdf 文件中。 **AbstractPdfView** 正在使用 <string>iText API 生成 pdf 文件。
 
 *档案:PdfRevenueReportView.java*
 
@@ -147,7 +147,7 @@ URL:**http://localhost:8080/springmvc/revenue report . htm？output=pdf**
 
 它生成一个 pdf 文件供用户下载。
 
-<noscript><img src="img/0294fef5c8fc83026d9223406e64d09e.png" alt="SpringMVC-PDF-Example" title="SpringMVC-PDF-Example" width="640" height="327" data-original-src="http://web.archive.org/web/20210110105618im_/http://www.mkyong.com/wp-content/uploads/2010/08/SpringMVC-PDF-Example.jpg"/></noscript>
+
 
 ![SpringMVC-PDF-Example](img/80c6da6cc93d7cbb396b07a4f9caacc7.png "SpringMVC-PDF-Example")
 

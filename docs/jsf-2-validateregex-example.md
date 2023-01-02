@@ -90,7 +90,7 @@ JSF XHTML 页面，展示了如何使用“ **f:validateRegex** ”标签来确�
 
 如果“密码”与 regex 模式不匹配，则显示错误消息。
 
-<noscript><img src="img/f37c98d9c11196d4106f8eb7cb3e4ce6.png" alt="jsf2-ValidateRegex-Example" title="jsf2-ValidateRegex-Example" width="639" height="248" data-original-src="http://web.archive.org/web/20210305084839im_/http://www.mkyong.com/wp-content/uploads/2010/10/jsf2-ValidateRegex-Example.png"/></noscript>
+
 
 ![jsf2-ValidateRegex-Example](img/7e6fdc98a0e154debe919631966f8a77.png "jsf2-ValidateRegex-Example")
 

@@ -17,9 +17,9 @@
 ```java
  <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MyAndroidApp</string>
-    <string name="lblPassword">Enter Your Password :</string>
-    <string name="btn_submit">Submit</string>
+    <string name="app_name">MyAndroidApp
+    <string name="lblPassword">Enter Your Password :
+    <string name="btn_submit">Submit
 </resources> 
 ```
 

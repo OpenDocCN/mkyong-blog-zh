@@ -16,7 +16,7 @@
 
 首先，查看最终的项目结构，以防您对以后应该在哪里创建相应的文件或文件夹感到困惑。
 
-<noscript><img src="img/408a984d707cf9a4eede708558ef5947.png" alt="jsf2-hello-world-example" title="jsf2-hello-world-example" width="273" height="367" data-original-src="http://web.archive.org/web/20201113070916im_/http://www.mkyong.com/wp-content/uploads/2010/09/jsf2-hello-world-example.png"/></noscript>
+
 
 ![jsf2-hello-world-example](img/a43d00cc827d877352279323eb0317ba.png "jsf2-hello-world-example")
 
@@ -307,13 +307,13 @@ In JSF 1.x, you had to declare the “**navigation rule**” in “**faces-confi
 
 *URL:http://localhost:8080/Java server faces/hello . JSF*
 
-<noscript><img src="img/4cab4d16f0ff11a0cc7dcc456448789d.png" alt="jsf2-hello-world-example-1" title="jsf2-hello-world-example-1" width="639" height="309" data-original-src="http://web.archive.org/web/20201113070916im_/http://www.mkyong.com/wp-content/uploads/2010/09/jsf2-hello-world-example-1.png"/></noscript>
+
 
 ![jsf2-hello-world-example-1](img/3ebf8f711221fbf1a02d6c1a026f88c8.png "jsf2-hello-world-example-1")
 
 一个简单的 JSF 页面，有一个文本框和一个按钮。
 
-<noscript><img src="img/8d2862bc0cc5d1f7ea8632902cfc1aa9.png" alt="jsf2-hello-world-example-2" title="jsf2-hello-world-example-2" width="640" height="293" data-original-src="http://web.archive.org/web/20201113070916im_/http://www.mkyong.com/wp-content/uploads/2010/09/jsf2-hello-world-example-2.png"/></noscript>
+
 
 ![jsf2-hello-world-example-2](img/4d05b9d1ab6b489ba5d8aa2553f9dd94.png "jsf2-hello-world-example-2")
 

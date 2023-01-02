@@ -83,7 +83,7 @@ public class UserBean implements Serializable {
 
 *URL:http://localhost:8080/Java server faces/*
 
-<noscript><img src="img/6b393584a05bbf5ff80b00d4cfd6b14a.png" alt="jsf2-hidden-value--example-1" title="jsf2-hidden-value--example-1" width="640" height="346" data-original-src="http://web.archive.org/web/20201212022659im_/http://www.mkyong.com/wp-content/uploads/2010/09/jsf2-hidden-value-example-1.png"/></noscript>
+
 
 ![jsf2-hidden-value--example-1](img/baf0ffc56fa5fae07810be96fa1027ac.png "jsf2-hidden-value--example-1")
 
